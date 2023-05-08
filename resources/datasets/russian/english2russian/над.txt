@@ -1,0 +1,8 @@
+над
+++++++++++
+1. [`adverb`] above, over
+· Остальные дома растут `над` холмом. (The other houses are growing `above` the hill.)
+· Студенты думают `над` трудностями, встречаемыми на пути. (Students think `over` the difficulties encountered along the way.)
+2. [`preposition`] above
+· Температура `над` землей составила 6 градусов. (The temperature `above` the ground was 6 degrees.)
+· Небо `над` нами было ясным синим. (The sky `above` us was clear blue.)

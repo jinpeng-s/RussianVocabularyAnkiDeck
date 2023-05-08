@@ -1,0 +1,8 @@
+чуть
+++++++++++
+1. [`adverb`] slightly
+· Она продвинулась вперёд `чуть` побыстрее. (She advanced `slightly` faster.)
+· От холода она дрожала `чуть` больше. (She trembled `slightly` more from the cold.)
+2. [`adjective`] slight
+· Он испытал только `чутьё` боль. (He felt only a `slight` pain.)
+· Физики обнаружили `чутьё` отклонение. (Physicists discovered a `slight` deviation.)

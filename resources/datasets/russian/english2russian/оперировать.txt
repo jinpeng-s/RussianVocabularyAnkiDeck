@@ -1,0 +1,5 @@
+опер`и`ровать
+++++++++++
+1. [`verb`] operate
+· Он должен `оперировать` машиной с большой осторожностью. (He must `operate` the machine with extreme caution.)
+· Хирургу нужно `оперировать` пациента как можно быстрее. (The surgeon has to `operate` on the patient as soon as possible.)

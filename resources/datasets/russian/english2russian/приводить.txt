@@ -1,0 +1,8 @@
+привод`и`ть
+++++++++++
+1. [`verb`] bring
+· Он привёл гостей из другого города. (He `brought` guests from another city.)
+· На этот раз мама привела мне немного подарков. (This time mom `brought` me some presents.)
+2. [`verb`] lead
+· Он привёл нас к нашему новому дому. (He `led` us to our new home.)
+· Он привёл его к источнику горячей воды. (He `led` him to the source of hot water.)

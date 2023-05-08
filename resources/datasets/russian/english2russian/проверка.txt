@@ -1,0 +1,8 @@
+пров`е`рка
+++++++++++
+1. [`noun, feminine`] check, inspection
+· Они делали `проверку` экзаменационных билетов. (They made a `check` to the examination papers.)
+· Пассажиры должны пройти `проверку` безопасности. (The passengers need to go through a `security check`.)
+2. [`verb`] check, inspect
+· Инспекторы `проверяли` автомобили на проходной. (The inspectors `checked` the cars in the customs office.)
+· Чтобы проходить экзамен нужно `проверить` знания. (To pass the exam you need to `check` your knowledge.)

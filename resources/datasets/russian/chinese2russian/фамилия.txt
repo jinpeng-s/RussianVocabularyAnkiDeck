@@ -1,0 +1,11 @@
+фам`и`лия
+++++++++++
+1. [`noun, feminine`] surname
+· У неё была длинная `фамилия`, Фролова. (She had a long `surname`, Frolova.)
+· Моя `фамилия` Петров. (My `surname` is Petrov.)
+2. [`verb`] surname
+· Он `фамилирует` ребёнка от своего мужа. (He `surnames` the child from his husband.)
+· Мы поменяли `фамилировку` нашей дочери на имя моего отца. (We changed the `surnaming` of our daughter to my father's name.)
+++++++++++
+· 姓
+· 氏族, 家族, 世系

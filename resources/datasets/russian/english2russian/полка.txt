@@ -1,0 +1,8 @@
+п`о`лка
+++++++++++
+1. [`noun, feminine`] shelf
+· На `полку` было выставлено много продуктов. (There were many products displayed on the `shelf`.)
+· Мы заказали деревянную `полку` для комнаты. (We ordered a wooden `shelf` for the room.)
+2. [`verb, perfective`] put on the shelf
+· Они приняли решение `положить` этот проект на `полку`. (They decided to `put` the project on the `shelf`.)
+· Это проект был `положен` на `полку` до этого. (The project was `put on the shelf` before this.)

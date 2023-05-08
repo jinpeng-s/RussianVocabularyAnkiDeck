@@ -1,0 +1,8 @@
+предназнач`а`ть
+++++++++++
+1. [`verb, imperfective`] assign
+· У него была `предназначена` специальная роль в команде. (He was `assigned` a special role on the team.)
+· Инженеры `предназначили` этот блок компонентов для особого использования. (The engineers `designated` this block of components for a special purpose.)
+2. [`verb, perfective`] assign
+· Она `предназначила` приз для наиболее достойного ученика. (She `assigned` a prize to the most deserving student.)
+· Он `предназначил` тест для абитуриентов в начале процесса поступления. (He `designated` a test for the applicants at the beginning of the admission process.)

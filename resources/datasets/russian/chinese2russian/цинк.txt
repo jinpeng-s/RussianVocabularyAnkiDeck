@@ -1,0 +1,10 @@
+ц`и`нк
+++++++++++
+1. [`noun`] zinc
+· В нашей пище есть `цинк`. (There is `zinc` in our food.)
+· Он использует ржавчину для добавления `цинка` в питьевую воду. (He uses rust to add `zinc` to the drinking water.)
+2. [`verb`] to zinc
+· Она `поцинковала` данный металл. (She `zinced` the metal.)
+· Мы `поцинковали` радиатор. (We `zinc`ed the radiator.)
+++++++++++
+· 锌

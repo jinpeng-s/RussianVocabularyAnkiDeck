@@ -1,0 +1,8 @@
+вл`е`во
+++++++++++
+1. [`adverb`] left
+· Ты должен повернуть `влево`. (You have to turn `left`.)
+· Автобус движется `влево`. (The bus is going `left`.)
+2. [`noun, masculine`] left
+· Он был быстрым и поворачивал `влево`. (He was quick and he turned `left`.)
+· Направление поезда было `влево`. (The direction of the train was `left`.)

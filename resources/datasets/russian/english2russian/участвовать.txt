@@ -1,0 +1,8 @@
+уч`а`ствовать
+++++++++++
+1. [`verb`] participate
+· Он участвует в этом проекте. (He `participates` in this project.)
+· В испытаниях `участвовали` более 25 человек. (More than 25 people `participated` in the tests.)
+2. [`noun, neuter`] participation
+· Ваше `участие` принесёт важные преимущества для проекта. (Your `participation` will bring important benefits to the project.)
+· Его `участие` в переговорах оказалось очень важным. (His `participation` in the negotiations was very important.)

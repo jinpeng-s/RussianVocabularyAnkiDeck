@@ -1,0 +1,8 @@
+`а`втор
+++++++++++
+1. [`noun, masculine`] author
+· Он является `автором` этой книги. (He is the `author` of this book.)
+· Этот фильм написан `автором` режиссёра. (This film is written by the `author` of the director.)
+2. [`verb`] author
+· Он `авторствовал` популярных произведениях искусства. (He `authored` popular works of art.)
+· Он `авторствовал` многим инновационным идеям. (He `authored` many innovative ideas.)

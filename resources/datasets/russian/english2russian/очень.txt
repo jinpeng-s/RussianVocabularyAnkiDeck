@@ -1,0 +1,8 @@
+`о`чень
+++++++++++
+1. [`adverb`] very
+· В прошлый раз она слишком опоздала, это `очень` огорчило её учителя. (Last time she was too late, and that `very` upset her teacher.)
+· Это урок `очень` полезен. (This lesson is `very` useful.)
+2. [`adjective`] very
+· Она `очень` любит свою работу. (She `very` loves her job.)
+· В этой книге нам рассказывают `очень` интересную историю. (This book tells us a `very` interesting story.)

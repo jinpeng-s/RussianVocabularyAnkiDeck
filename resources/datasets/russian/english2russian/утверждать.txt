@@ -1,0 +1,5 @@
+утвержд`а`ть
+++++++++++
+1. [`verb, infinitive`] assert
+· Он `утверждал`, что банк не соблюдал закон. (He `asserted` that the bank was not complying with the law.)
+· Результаты теста `утверждают` предположение. (The test results `assert` the assumption.)

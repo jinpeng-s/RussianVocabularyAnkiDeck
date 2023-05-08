@@ -1,0 +1,8 @@
+ребёнок
+++++++++++
+1. [`noun, masculine`] child
+· У этого `ребёнка` есть братья. (This `child` has brothers.)
+· Мы должны следить за безопасностью `ребёнка`. (We need to watch out for the safety of the `child`.)
+2. [`adjective`] childish
+· Он показывает `ребёночью` поступки. (He shows `childish` behavior.)
+· Слишком `ребёночье` сердце не поможет тебе. (A too `childish` heart won't help you.)

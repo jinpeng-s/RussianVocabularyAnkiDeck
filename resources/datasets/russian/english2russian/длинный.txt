@@ -1,0 +1,8 @@
+дл`и`нный
+++++++++++
+1. [`adjective`] long
+· Эти дни были `длинные`. (Those days were `long`.)
+· Ты видишь `длинную` лазурную линию на горизонте? (Do you see the `long` azure line on the horizon?)
+2. [`verb, imperfective`] to prolong
+· Они `продлили` его участие в проекте. (They `prolonged` his participation in the project.)
+· Я `продлил` сроки до конца месяца. (I `prolonged` the deadlines until the end of the month.)

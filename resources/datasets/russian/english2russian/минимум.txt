@@ -1,0 +1,8 @@
+м`и`нимум
+++++++++++
+1. [`noun, neuter`] minimum
+· В авиакомпании есть `минимум` самолётов. (There is a `minimum` of airplanes in the airline.)
+· Нам было необходимо достичь `минимума` требуемых результатов. (We had to achieve the `minimum` of required results.)
+2. [`adjective`] minimum
+· Здесь проводятся испытания с `минимальными` затратами денег. (Tests are held here with `minimal` expenses.)
+· Настоящая процедура исполняется с `минимальным` количеством ошибок. (This procedure is performed with `minimal` amount of mistakes.)

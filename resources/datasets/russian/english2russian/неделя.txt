@@ -1,0 +1,8 @@
+нед`е`ля
+++++++++++
+1. [`noun, feminine`] week
+· Я иногда устаю к концу `недели`. (I sometimes get tired at the end of the `week`.)
+· Мы проводим выходные один раз в `неделю`. (We have a break one time per `week`.)
+2. [`adverb`] weekly
+· Они встречаются `еженедельно`. (They meet `weekly`.)
+· Его зарплата выплачивается `еженедельно`. (His salary is paid `weekly`.)

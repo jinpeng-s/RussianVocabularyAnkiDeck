@@ -1,0 +1,8 @@
+св`о`д
+++++++++++
+1. [`noun, masculine`] summary
+· Учёные построили `свод` нормативных документов. (The researchers built a `summary` of the official documents.)
+· Мой `свод` выполнения проекта находится здесь. (My `summary` of the project is located here.)
+2. [`verb`] summarize
+· Я пытаюсь `свести` последние события к простому анализу. (I am trying to `summarize` the recent events into a simple analysis.)
+· Инженеры `свели` результаты теста в одну таблицу. (Engineers `summarized` the test results in one table.)

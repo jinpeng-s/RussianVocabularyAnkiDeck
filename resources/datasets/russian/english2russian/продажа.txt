@@ -1,0 +1,8 @@
+прод`а`жа
+++++++++++
+1. [`noun, feminine`] sale
+· Они проводят `продажу` автомобилей со скидкой. (They are having a `sale` on cars with a discount.)
+· У нас есть `продажа` мебели. (We have a `sale` on furniture.)
+2. [`verb`] sell
+· Они `продали` свои квартиры с большой прибылью. (They `sold` their apartments with a great profit.)
+· Так как идет `продажа`, мы можем приобрести товар со скидкой. (Since there is a `sale`, we can buy products with discount.)

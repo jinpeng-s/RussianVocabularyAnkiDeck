@@ -1,0 +1,8 @@
+ин`е`рция
+++++++++++
+1. [`noun, feminine`] inertia
+· Тело будет спасено `инерцией`, если во время удара будет уменьшаться относительная скорость. (The body will be saved by `inertia` if during impact the relative velocity decreases.)
+· Гироскопическое вращение сохраняется и поддерживается собственной `инерцией`. (Gyratory rotation is preserved and maintained by its own `inertia`.)
+2. [`verb`] to inertia
+· Физически они просто `инертировали`ся и не хотели двигаться. (Physically they just `inertiated` and didn't want to move.)
+· Тоже самое касается `инертирования` членов группы. (The same applies to `inertiation` of group members.)

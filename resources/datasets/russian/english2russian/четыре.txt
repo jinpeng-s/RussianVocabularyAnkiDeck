@@ -1,0 +1,8 @@
+чет`ы`ре
+++++++++++
+1. [`numeral`] four
+· Я принес `четыре` яблока. (I brought `four` apples.)
+· `Четыре` дня в неделю я работаю. (I work `four` days a week.)
+2. [`adjective`] four
+· `Четырех` угловый крест. (A `four`-cornered cross.)
+· `Четырех` звездный отель. (A `four`-star hotel.)

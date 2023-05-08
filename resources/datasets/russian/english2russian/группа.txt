@@ -1,0 +1,8 @@
+гр`у`ппа
+++++++++++
+1. [`noun, feminine`] group
+· Эта `группа` из шести студентов. (This `group` of six students.)
+· Мы работали в двух `группах`. (We worked in two `groups`.)
+2. [`verb`] group
+· Нам пришлось `группировать` данные для дальнейшей аналитики. (We had to `group` data for further analysis.)
+· Для этой задачи лучше `группировать` информацию по темам. (It is better to `group` the information by topics for this task.)

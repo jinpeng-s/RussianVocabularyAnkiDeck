@@ -1,0 +1,10 @@
+`и`мя
+++++++++++
+1. [`noun, neuter`] name
+· Мне дали `имя` Степан. (I was given the `name` Stepan.)
+· В Интернете используется `имя` пользователя и пароль. (In the Internet a username and a password are used as a `name`.)
+2. [`verb`] name
+· Они `назвали` своего сына Александром. (They `named` their son Alexander.)
+· Он `назвал` меня по моему имени. (He `named` me by my name.)
+++++++++++
+· 名称

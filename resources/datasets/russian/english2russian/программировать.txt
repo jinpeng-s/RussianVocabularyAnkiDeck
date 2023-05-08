@@ -1,0 +1,5 @@
+программ`и`ровать
+++++++++++
+1. [`verb`] program
+· Он очень хорошо `программирует` на языке С. (He programs very well in C language.)
+· Тебе нужно `программировать` компьютер для выполнения различных задач. (You need to program the computer to do different tasks.)

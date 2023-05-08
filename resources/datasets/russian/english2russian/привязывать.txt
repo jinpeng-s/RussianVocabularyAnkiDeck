@@ -1,0 +1,8 @@
+прив`я`зывать
+++++++++++
+1. [`verb`] bind, tie
+· Он `привязывал` муху к ниточке. (He `bound` the fly to a thread.)
+· Школьники `привязывали` провода. (The schoolchildren `tied` the wires.)
+2. [`verb`] attach
+· Он `привязывал` важные надписи к документам. (He `attached` important labels to the documents.)
+· Они `привязывали` маяк к барже. (They `attached` the beacon to the barge.)

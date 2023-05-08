@@ -1,0 +1,8 @@
+ум`е`лый
+++++++++++
+1. [`adjective`] skilful
+· Он очень `умелый`, поэтому его работа всегда отличная. (He is very `skilful`, so his work is always excellent.)
+· Её `умелый` отец не оставил ей ни копейки в наследство. (Her `skilful` father left her not a penny in inheritance.)
+2. [`noun`] skill
+· Для этого ремесла требуется определенный `умение` и навык. (This craft requires a certain `skill` and technique.)
+· Потренируйся, твои `умения` помогут тебе в будущем. (Train yourself, your `skills` will help you in the future.)

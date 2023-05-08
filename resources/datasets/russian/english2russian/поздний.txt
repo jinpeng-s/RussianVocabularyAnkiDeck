@@ -1,0 +1,8 @@
+п`о`здний
+++++++++++
+1. [`adjective`] late
+· На несколько часов поезд остался `поздним`. (The train was `late` by several hours.)
+· Он как всегда опаздывает на работу `поздно`. (He is always late for work `late`.)
+2. [`adverb`] late
+· У нас `поздно` пришлось покинуть дом. (We had to leave our house `late.`)
+· Она встала `поздно` утром. (She got up `late` in the morning.)

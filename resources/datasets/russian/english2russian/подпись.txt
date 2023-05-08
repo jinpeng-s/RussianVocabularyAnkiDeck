@@ -1,0 +1,8 @@
+п`о`дпись
+++++++++++
+1. [`noun, feminine`] signature
+· В газете была редакторская `подпись` с его именем. (The newspaper had an editor's `signature` with his name.)
+· Требовали предъявлять `подпись` по установленным правилам. (It was required to present a `signature` according to the set rules.)
+2. [`verb`] sign
+· Он `подписал` этот документ. (He `signed` this document.)
+· Мы должны `подписать` эту петицию. (We need to `sign` this petition.)

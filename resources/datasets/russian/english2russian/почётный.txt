@@ -1,0 +1,8 @@
+почётный
+++++++++++
+1. [`adjective`] honorable
+· Он принимал `почётные` звания на торжественной церемонии. (He received `honorable` titles at the ceremony.)
+· Наша задача заслуживает `почётное` признание. (Our task deserves `honorable` recognition.)
+2. [`noun, neuter`] honor
+· Студенты были награждены `почётными` наградами. (The students were awarded `honor` medals.)
+· У нас есть право на `почёстное` обращение. (We have right to `honor`able treatment.)

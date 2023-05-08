@@ -1,0 +1,8 @@
+`е`сли
+++++++++++
+1. [`conjunction`] if
+· Я буду знать, `если` я прочитаю хорошо. (I will know `if` I read well.)
+· У меня нет денег, `если` ты хочешь знать. (I don't have money `if` you want to know.)
+2. [`adverb`] if
+· Я не знаю, `если` он хочет пойти. (I don't know `if` he wants to go.)
+· Я буду рада `если` ты придешь. (I will be happy `if` you come.)

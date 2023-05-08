@@ -1,0 +1,8 @@
+килов`а`тт
+++++++++++
+1. [`noun, masculine`] kilowatt
+· Здание оснащено с мощностью `киловатт`. (The building is equipped with a power of `kilowatts`.)
+· Машина имеет максимальную мощность `киловатт` 200. (The machine has a maximum power of `kilowatts` 200.)
+2. [`verb`] kilowatt
+· Этот двигатель может `киловатт` до 500. (This engine can `kilowatt` up to 500.)
+· Устройство `киловаттило` окну в течение последних пяти минут. (The device `kilowatted` the window for the last five minutes.)

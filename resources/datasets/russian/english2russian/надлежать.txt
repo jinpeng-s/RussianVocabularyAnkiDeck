@@ -1,0 +1,8 @@
+надлеж`а`ть
+++++++++++
+1. [`verb`] befit, be appropriate
+· Такая работа `надлежит` только ему. (Such work `befits` only him.)
+· Я не считаю, что такое поведение `надлежит` для нас. (I don't think such behaviour `is appropriate` for us.)
+2. [`verb`] belong, pertain
+· Эта библиотека принадлежит `государству`. (This library `belongs` to the state.)
+· Тема этого обсуждения `надлежит` другому разделу. (This discussion `pertains` to another section.)

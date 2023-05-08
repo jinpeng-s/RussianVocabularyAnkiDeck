@@ -1,0 +1,8 @@
+извещ`е`ние
+++++++++++
+1. [`noun, neuter`] notification
+· Я получил `извещение` от банка о том, что мне должны деньги. (I got a `notification` from the bank that they owe me money.)
+· У нас поступило `извещение` о том, что офис закрыли. (We received a `notification` about the office being closed.)
+2. [`verb`] to notify
+· Офис известил нас о сроках доставки. (The office `notified` us about the delivery deadlines.)
+· Правительство известило нас о новых правилах. (The government `notified` us about the new rules.)

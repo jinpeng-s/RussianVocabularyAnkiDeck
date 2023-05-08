@@ -1,0 +1,8 @@
+за
+++++++++++
+1. [`verb`] to take
+· Он `занял` свое место в самолёте. (He `took` his place in the plane.)
+· Она `заняла` дома один час. (She `took` the house for one hour.)
+2. [`noun, masculine`] acquisition
+· Это был `закуп` дорогих ингредиентов. (It was a `purchase` of expensive ingredients.)
+· Это был `закуп` продукции от одной известной фирмы. (It was a `purchase` of goods from a well-known firm.)

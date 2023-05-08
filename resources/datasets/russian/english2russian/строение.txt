@@ -1,0 +1,8 @@
+стро`е`ние
+++++++++++
+1. [`noun, neuter`] construction
+· В центре города расположено `строение` университета. (The university is `located` in the center of the city.)
+· Проект требует крупное `строение`. (The project requires a `large` construction.)
+2. [`verb`] construct
+· Они намерены `строить` в центре города. (They intend to `construct` in the center of the city.)
+· Они `строили` мост в течение двух недель. (They `constructed` the bridge in two weeks.)

@@ -1,0 +1,8 @@
+вывод`и`ть
+++++++++++
+1. [`verb`] output
+· Эта машина может `выводить` данные быстро. (This machine can `output` data quickly.)
+· Труба `выводит` топливо. (The pipe `outputs` fuel.)
+2. [`verb`] draw
+· Он может `выводить` выводы из любого спора. (He can `draw` conclusions from any debate.)
+· Он вывел несколько примеров `выводов` с этой процедуры. (He gave a few examples of `drawings` from this procedure.)

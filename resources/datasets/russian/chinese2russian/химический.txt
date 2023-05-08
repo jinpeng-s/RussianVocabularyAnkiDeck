@@ -1,0 +1,10 @@
+хим`и`ческий
+++++++++++
+1. [`adjective`] chemical
+· Горючее было `химическим` натуральным газом. (The fuel was a `chemical` natural gas.)
+· Требуется специальное оборудование для `химических` обработок. (Specialized equipment is required for `chemical` processing.)
+2. [`noun, masculine`] chemistry
+· Студенты изучали `химические` реакции на уроке. (The students were studying `chemical` reactions in the lesson.)
+· В нашей лаборатории мы исследуем `химические` реактивы. (In our laboratory, we are researching `chemical` reagents.)
+++++++++++
+· 化学的, 化学作用的, 用化学方法的

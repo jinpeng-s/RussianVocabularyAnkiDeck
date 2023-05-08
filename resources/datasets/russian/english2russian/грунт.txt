@@ -1,0 +1,8 @@
+гр`у`нт
+++++++++++
+1. [`noun, masculine`] ground
+· Он захотел установить дом на `грунте` своей дачи. (He wanted to build a house on the `ground` of his country house.)
+· На `грунте` стояло много ёлок. (There were many Christmas trees on the `ground`.)
+2. [`verb`] ground
+· Достаточно немного болтов для `загрунтовки` детали. (It takes just a few screws for `grounding` the part.)
+· Он просил меня `загрунтовать` струнку для гитары. (He asked me to `ground` the guitar string.)

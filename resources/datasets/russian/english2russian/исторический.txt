@@ -1,0 +1,8 @@
+истор`и`ческий
+++++++++++
+1. [`adjective`] historic
+· Он `исторический` город с богатой историей. (It is a `historic` city with a rich history.)
+· Это очень `исторический` документ. (This is a very `historic` document.)
+2. [`noun, masculine`] history
+· Он научился очень многому по `истории`. (He has learned a lot about `history`.)
+· Это был важный момент в `истории`. (It was an important moment in `history`.)

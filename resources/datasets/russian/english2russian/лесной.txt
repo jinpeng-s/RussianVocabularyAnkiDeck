@@ -1,0 +1,8 @@
+лесн`о`й
+++++++++++
+1. [`adjective`] forest
+· В лесной  `массив` есть много деревьев. (There are many trees in the forest `massif`.)
+· Лесной `волк` плачет у меня под окном. (The forest `wolf` is howling beneath my window.)
+2. [`noun, masculine`] forest
+· Эта земля покрыта `лесом`. (This land is covered with `forests`.)
+· Они прибыли в `лес`. (They have arrived in the `forest`.)

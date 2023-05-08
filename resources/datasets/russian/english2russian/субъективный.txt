@@ -1,0 +1,8 @@
+субъект`и`вный
+++++++++++
+1. [`adjective`] subjective
+· Эти мнения были `субъективными`, не основанными на фактах. (The opinions were `subjective`, not based on facts.)
+· Граждане имели `субъективное` представление о правительстве. (The citizens had a `subjective` view of the government.)
+2. [`noun, neuter`] subjectivity
+· Роль факторов `субъективности` в научных дискуссиях неоднозначна. (The role of `subjectivity` factors in scientific debates is ambiguous.)
+· `Субъективность` различных культур препятствует достижению соглашения. (`Subjectivity` of various cultures hinders the achievement of an agreement.)

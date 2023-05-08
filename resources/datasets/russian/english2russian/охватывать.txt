@@ -1,0 +1,8 @@
+охв`а`тывать
+++++++++++
+1. [`verb`] cover
+· Цель этой программы `охватывает` большое количество людей. (The goal of this program `covers` a large number of people.)
+· В этом проекте просмотр `охватывает` большое место. (The scope of this project `covers` a wide area.)
+2. [`noun, masculine`] coverage
+· Делайте свои работы, чтобы `охват` был как можно больше. (Do your work so that the `coverage` is as large as possible.)
+· Это должно увеличить `охват` потенциальной аудитории. (This should increase the `coverage` of the potential audience.)

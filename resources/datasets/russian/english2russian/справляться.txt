@@ -1,0 +1,8 @@
+справл`я`ться
+++++++++++
+1. [`verb`] cope
+· Я думаю, что он справится `с задачей`. (I think he will `cope` with the task.)
+· Он не справляется `с этими проблемами`. (He can't `cope` with those problems.)
+2. [`verb, reflexive`] deal with
+· Она должна `справляться` со сложным заданием. (She has to `deal with` a difficult task.)
+· Она не может помочь ему `справляться` с проблемами. (She can't help him `deal with` his problems.)

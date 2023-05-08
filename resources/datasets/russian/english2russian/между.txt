@@ -1,0 +1,8 @@
+между
+++++++++++
+1. [`preposition`] between
+· Она живёт `между` Лондоном и Нью-Йорком. (She lives `between` London and New York.)
+· `Между` нами говоря, я приду позже. (`Between` you and me, I'll come later.)
+2. [`adverb`] between
+· Он стоял `между` двумя деревьями. (He stood `between` two trees.)
+· Она разместила стулья `между` столами. (She placed chairs `between` tables.)

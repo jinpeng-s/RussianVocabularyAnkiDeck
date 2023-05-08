@@ -1,0 +1,8 @@
+ш`е`сть
+++++++++++
+1. [`numeral`] six
+· У меня `шесть` языков. (I have `six` languages.)
+· Мы пришли во `шесть` часов вечера. (We arrived at `six` o'clock in the evening.)
+2. [`adjective`] six
+· Он вышел из дома в `шесть` утра. (He went out of the house at `six` in the morning.)
+· В комнате в `шесте` стульях. (There were `six` chairs in the room.)

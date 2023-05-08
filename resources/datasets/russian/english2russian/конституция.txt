@@ -1,0 +1,8 @@
+констит`у`ция
+++++++++++
+1. [`noun, feminine`] constitution
+· Конституция Российской Федерации предусматривает права и свободы граждан. (The Constitution of the Russian Federation provides for the rights and freedoms of citizens.)
+· Мы должны следовать `конституции`. (We must adhere to the `constitution`.)
+2. [`verb`] to constitute
+· Я принял решение, `составляющее` основу нашей компании. (I made a decision, `constituting` the basis of our company.)
+· Группа людей `составляла` элиту компании. (The group of people `constituted` the elite of the company.)

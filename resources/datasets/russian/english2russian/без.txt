@@ -1,0 +1,8 @@
+без
+++++++++++
+1. [`adverb`] without
+· Он `без` колебаний одобрил сделку. (He `without` hesitation approved the deal.)
+· Я `без` сомнений приняла его предложение. (I `without` a doubt accepted his offer.)
+2. [`preposition`] without
+· Я живу `без` кофе почти пять лет. (I have been `without` coffee for nearly five years.)
+· Мы прожили эти годы друг с другом `без` конфликтов. (We have lived these years together `without` conflict.)

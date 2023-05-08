@@ -1,0 +1,20 @@
+отр`е`зок
+++++++++++
+1. [`noun, masculine`] segment
+· Все `отрезки` пути были нарисованы на карте. (All `segments` of the route were drawn on the map.)
+· То, что он написал, было исключительно `отрезком` книги. (What he wrote was just a `segment` of a book.)
+2. [`verb`] segment
+· Этот проект предлагает `отрезать` существующую проблему на более мелкие части. (This project proposes to `segment` the existing problem into smaller parts.)
+· Все эти данные были `отрезаны` на небольшие части. (All of this data was `segmented` into small parts.)
+++++++++++
+· (剪、切下来的) 一段, 一块
+· 程序段
+· 段
+· 间隔
+· 截距
+· 距离
+· 块
+· 扇形物
+· 截距
+· 线段
+· 一段 (指时间、空间)

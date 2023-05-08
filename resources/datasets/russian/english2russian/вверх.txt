@@ -1,0 +1,8 @@
+вверх
+++++++++++
+1. [`adverb`] up
+· Она подняла руку `вверх`. (She raised her hand `up`.)
+· Во время старта, он бросил игрушку `вверх` в воздух. (At the start, he threw the toy `up` into the air.)
+2. [`adjective`] up
+· Они достигли `вверх`-направленного результата. (They achieved an `up`ward result.)
+· Это решение было `вверх`-ориентированным. (This decision was `up`ward-oriented.)

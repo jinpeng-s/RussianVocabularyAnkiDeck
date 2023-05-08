@@ -1,0 +1,8 @@
+за`и`грывать
+++++++++++
+1. [`verb`] joke
+· Он `заигрывал` со своими друзьями. (He was `joking` with his friends.)
+· Нам не нравится, когда он `заигрывает`. (We don't like it when he `jokes`.)
+2. [`noun, masculine`] joke
+· Дебош подсказал хорошую `заигрывку`. (Debosh suggested a good `joke`.)
+· Мы все хорошо посмеялись над его `заигрывкой`. (We all laughed at his `joke`.)

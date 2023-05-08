@@ -1,0 +1,8 @@
+уч`е`бник
+++++++++++
+1. [`noun, masculine`] textbook
+· Он предоставил нам `учебник` для изучения языка. (He provided us with a `textbook` for studying the language.)
+· Она покупала `учебник` на новый семестр. (She was buying a `textbook` for the new semester.)
+2. [`verb`] to teach
+· Он `учил` Богдана истории. (He `taught` Bogdan history.)
+· Она `учила` детей искусству. (She `taught` the children art.)

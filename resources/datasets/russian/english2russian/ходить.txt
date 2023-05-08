@@ -1,0 +1,8 @@
+ход`и`ть
+++++++++++
+1. [`verb`] go, walk
+· Он всегда `ходит` в кино. (He always `goes` to the movies.)
+· Я `ходил` по магазинам, пытаясь найти хорошую сделку. (I `walked` around the shops trying to find a good deal.)
+2. [`verb, imperfective`] be going
+· Он `ходил` в школу каждый день. (He `was going` to school every day.)
+· Моя сестра `ходила` в ту же школу, что и я. (My sister `was going` to the same school as me.)

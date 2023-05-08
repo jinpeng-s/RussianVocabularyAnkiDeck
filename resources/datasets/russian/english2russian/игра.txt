@@ -1,0 +1,8 @@
+игр`а`
+++++++++++
+1. [`noun, feminine`] game
+· Мы играли в `игру` до поздна. (We played the `game` until late.)
+· Эта `игра` очень интересная. (This `game` is very interesting.)
+2. [`verb`] play
+· Они и `играли` в шахматы. (They `played` chess.)
+· Он мне очень хорошо `играл` на гитаре. (He `played` the guitar very well for me.)

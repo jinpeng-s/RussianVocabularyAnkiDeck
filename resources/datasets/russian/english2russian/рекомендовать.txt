@@ -1,0 +1,8 @@
+рекомендов`а`ть
+++++++++++
+1. [`verb`] recommend
+· Наши специалисты рекомендуют использовать этот поставщик для лучших результатов. (Our specialists `recommend` using this supplier for the best results.)
+· Я рекомендую вам связаться с ними и предложить сделку. (I `recommend` you to contact them and suggest a deal.)
+2. [`noun`] recommendation
+· Нам понадобятся еще несколько `рекомендаций`, чтобы завершить проект. (We need some more `recommendations` to finish the project.)
+· Мы должны предоставить `рекомендации` для улучшения доступа к услугам. (We should provide `recommendations` for improving access to services.)

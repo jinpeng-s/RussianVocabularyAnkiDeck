@@ -1,0 +1,8 @@
+теч`е`ние
+++++++++++
+1. [`noun, neuter`] current
+· Мы должны соблюдать направление `течения` реки. (We must follow the `current` of the river.)
+· Давно ли изменилось `течение` реки? (Has the `current` of the river changed recently?)
+2. [`verb, perfective`] to flush
+· Вы должны `течением` воды очистить вентилятор. (You should `flush` the fan with water.)
+· Он решил `течением` воды очистить трубу. (He decided to `flush` the pipe with water.)

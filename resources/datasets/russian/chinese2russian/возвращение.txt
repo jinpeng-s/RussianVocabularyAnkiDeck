@@ -1,0 +1,16 @@
+возвращ`е`ние
+++++++++++
+1. [`noun, neuter`] return
+· Вы должны ждать ответа до `возвращения` документов. (You should wait for a response until the `return` of the documents.)
+· Срок `возвращения` денег был установлен на три месяца. (The `return` period of the money was set to three months.)
+2. [`verb`] return
+· `Возвращайте` билеты во время вашей поездки. (`Return` the tickets during your journey.)
+· Я не забуду `возвращать` вам ваши долги. (I won't forget to `return` your debts.)
+++++++++++
+· 返回
+· 归还
+· 恢复, 回收, 回程
+· 递归
+· 恢复
+· 回收
+· 循环

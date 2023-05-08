@@ -1,0 +1,8 @@
+физиол`о`гия
+++++++++++
+1. [`noun, feminine`] physiology
+· Я учу `физиологию` на своём курсе. (I am taking `physiology` as one of my courses.)
+· Она планирует изучать `физиологию` в вузе. (She plans to study `physiology` in university.)
+2. [`adjective`] physiological
+· У нее отличные `физиологические` условия для занятий спортом. (She has excellent `physiological` conditions for sports.)
+· Развитие данной технологии не вступает в `физиологический` конфликт с процессом дыхания. (The development of the technology does not `physiologically` conflict with the process of breathing.)

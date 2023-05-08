@@ -1,0 +1,8 @@
+подним`а`ть
+++++++++++
+1. [`verb`] lift, raise
+· Он сильно `поднял` люк и прошёл внутрь. (He `lifted` the hatch strongly and went in.)
+· Она `подняла` ручку и начала звонить. (She `raised` the handle and started to call.)
+2. [`verb`] raise (an issue)
+· Этот вопрос был `поднят` в том году. (This issue was `raised` that year.)
+· Мы `подняли` эту тему на собрании. (We `raised` this issue in the meeting.)

@@ -1,0 +1,10 @@
+в`и`рус
+++++++++++
+1. [`noun, masculine`] virus
+· Московские врачи обнаружили новый `вирус`. (Moscow doctors have discovered a new `virus`.)
+· Исследователи ищут выход из ситуации с `вирусом` COVID-19. (Researchers are looking for a way out of the situation with the `virus` COVID-19.)
+2. [`adjective`] viral
+· Это видео пользуется `вирусной` популярностью. (This video is enjoying `viral` popularity.)
+· Имея `вирусную` информацию, они могли заразить много устройств. (With `viral` information, they could infect many devices.)
+++++++++++
+· 病毒, 病原体, 病菌, 毒素, 滤过性病原体

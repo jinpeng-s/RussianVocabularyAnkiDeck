@@ -1,0 +1,17 @@
+частот`а`
+++++++++++
+1. [`noun, feminine`] frequency
+· Волновая `частота` была достаточно высока. (The wave `frequency` was high enough.)
+· Канал протягивался в широком диапазоне `частот` от 10 до 100 Гц. (The channel spread to wide range of `frequencies` from 10 to 100 Hz.)
+2. [`verb`] frequency
+· Он `частотно` регулировал звук своей гитары. (He `frequency` adjusted the sound of his guitar.)
+· Мы `частотно` корректируем входящие сигналы. (We `frequency` adjust the incoming signals.)
+++++++++++
+· 急速
+· 密
+· 频率
+· (复数) 频率
+· 周率
+· 出现率
+· 次数
+· 频数

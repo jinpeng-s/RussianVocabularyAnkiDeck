@@ -1,0 +1,23 @@
+манипул`я`тор
+++++++++++
+1. [`noun, masculine`] manipulator
+· В нашем роботе используется `манипулятор`. (A `manipulator` is used in our robot.)
+· `Манипулятор` может выполнять различные двигательные функции. (The `manipulator` can perform various motor functions.)
+2. [`verb`] manipulate
+· Злоумышленники пытались `манипулировать` процессом. (The criminals tried to `manipulate` the process.)
+· Ее руководитель постоянно `манипулирует` ей. (Her supervisor constantly `manipulates` her.)
+++++++++++
+· 操纵者
+· 操作者
+· 操纵机
+· 操作器
+· 电键
+· (杂技团的) 魔术演员
+· 操纵器
+· 操纵装置
+· 电键
+· 控制器
+· 操舵柄
+· 操纵器, 控制器
+· 航标看管员
+· 机械手

@@ -1,0 +1,12 @@
+наименов`а`ние
+++++++++++
+1. [`noun, neuter`] name; description
+· В этом каталоге приведено `наименование` всех товаров. (The `name` of all the products is given in this catalogue.)
+· Налоговая инспекция запрашивает полное `наименование` компании. (The Tax Authorities are asking for the full `description` of the company.)
+2. [`verb`] to name; to describe
+· Теперь мне нужно `наименовать` все члены моей группы. (Now I have to `name` all the members of my group.)
+· Преподаватель `наименовал` все студенты, которые присутствовали на лекции. (The professor `described` all the students that were present at the lecture.)
+++++++++++
+· 名称
+· 品名
+· 种类

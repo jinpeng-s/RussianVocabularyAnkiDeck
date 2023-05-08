@@ -1,0 +1,8 @@
+упрощ`а`ть
+++++++++++
+1. [`verb`] simplify
+· Они пытались `упростить` этот процесс. (They tried to `simplify` this process.)
+· Нам нужно `упростить` инструкции, так что люди могли их легко понять. (We need to `simplify` the instructions so people can understand them easily.)
+2. [`noun, masculine`] simplification
+· Наши аналитики должны делать `упрощения`, прежде чем мы сделаем любое решение. (Our analysts should make `simplifications` before we make any decisions.)
+· Этот `упрощение` демонстрирует эффективные подходы кросс-культурного общения. (This `simplification` demonstrates effective approaches to cross-cultural communication.)

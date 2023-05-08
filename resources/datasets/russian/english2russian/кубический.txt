@@ -1,0 +1,8 @@
+куб`и`ческий
+++++++++++
+1. [`adjective`] cubic
+· Они строили `кубические` стены из квадратных блоков. (They built `cubic` walls using square blocks.)
+· Наша городская площадь имеет `кубическую` форму. (Our city square has a `cubic` shape.)
+2. [`noun, masculine`] cube
+· Все игральные кубики имеют `кубическую` форму. (All dice have a `cubic` shape.)
+· `Кубик` показал результат – четыре очка. (The `cube` showed the result – four points.)

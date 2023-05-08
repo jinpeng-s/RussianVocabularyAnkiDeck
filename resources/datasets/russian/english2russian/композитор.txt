@@ -1,0 +1,8 @@
+композ`и`тор
+++++++++++
+1. [`noun, masculine`] composer
+· Музыка из `композитора` Бетховена настоящая классика. (The music of `Composer` Beethoven is a true classic.)
+· Они отомрали сочинение этого `композитора`. (They stole the composition of this `composer`.)
+2. [`verb`] compose
+· Он `сочиняет` новую музыкальную пьесу. (He is `composing` a new musical piece.)
+· Она `сочинила` свою собственную пьесу. (She `composed` her own piece.)

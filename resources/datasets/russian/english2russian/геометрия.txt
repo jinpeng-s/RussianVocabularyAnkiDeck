@@ -1,0 +1,8 @@
+геом`е`трия
+++++++++++
+1. [`noun, feminine`] geometry
+· Он преподаёт `геометрию` на колледже. (He teaches `geometry` at the college.)
+· Она оценила качество работы по `геометрии`. (She evaluated the work on `geometry`.)
+2. [`adjective`] geometric
+· Ты видел `геометричные` узоры на стене? (Have you seen `geometric` patterns on the wall?)
+· Она рисует `геометричные` фигуры. (She draws `geometric` figures.)

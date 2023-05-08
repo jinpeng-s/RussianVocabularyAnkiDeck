@@ -1,0 +1,8 @@
+пересек`а`ть
+++++++++++
+1. [`verb`] cross, traverse
+· Мост пересекает реку. (The bridge `crosses` the river.)
+· Они пересекли площадь без остановки. (They `traversed` the square without stopping.)
+2. [`verb`] intersect
+· Эти два прямые пересекаются. (These two lines `intersect`.)
+· Все двери в доме пересекались. (All the doors in the house `intersected`.)

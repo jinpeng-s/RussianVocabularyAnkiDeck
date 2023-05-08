@@ -1,0 +1,8 @@
+адрес`а`т
+++++++++++
+1. [`noun, masculine`] recipient
+· Нужно определить `адресата` для доставки. (It's necessary to define the `recipient` for the delivery.)
+· Это письмо адресовано нескольким `адресатам`. (This letter is addressed to several `recipients`.)
+2. [`verb`] address
+· Она пометила этот пакет с именем `адресата`. (She labeled this package with the `recipients` name.)
+· Не такую посылку он не `адресовал` никому. (He never `addressed` such a package to anyone.)

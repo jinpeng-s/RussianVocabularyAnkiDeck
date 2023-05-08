@@ -1,0 +1,8 @@
+прип`и`сывать
+++++++++++
+1. [`verb`] attach, append
+· Они приписывали сопроводительные письма к посылкам. (They `attached` accompanying letters to the packages.)
+· Они приписывали свои личные подписи. (They `appended` their personal signatures.)
+2. [`verb`] attribute, ascribe
+· Некоторые люди пытаются `приписывать` другим людям неточности, даже когда они безупречны. (Some people try to `attribute` mistakes to others even when they are faultless.)
+· Она `приписывала` власти свои проблемы. (She `ascribed` her problems to the authorities.)

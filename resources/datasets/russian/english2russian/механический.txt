@@ -1,0 +1,8 @@
+механ`и`ческий
+++++++++++
+1. [`adjective`] mechanical
+· Он имеет `механическое` знание о работе машин. (He has `mechanical` knowledge of machines.)
+· Это авто оснащено `механическими` частями. (This car is equipped with `mechanical` parts.)
+2. [`noun, masculine`] mechanism
+· Он понимает, как работает `механизм`. (He understands how the `mechanism` works.)
+· Это просто `механизм` для автоматизации процесса. (It is just a `mechanism` for automating the process.)

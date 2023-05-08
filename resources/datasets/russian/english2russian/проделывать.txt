@@ -1,0 +1,8 @@
+прод`е`лывать
+++++++++++
+1. [`verb`] perform
+· Участники приглашены к проведению и проделыванию экспериментов. (The participants were invited to conduct and `perform` experiments.)
+· Она проделывала ряд полезных исследований. (She `performed` a number of useful studies.)
+2. [`noun, masculine`] performance
+· Проделывание этого дела усложнит нашу задачу. (The `performance` of this task will complicate our task.)
+· Мы похвалили его проделывание заметных достижений в области образования. (We praised his `performance` of notable accomplishments in the field of education.)

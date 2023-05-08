@@ -1,0 +1,8 @@
+прогн`о`з
+++++++++++
+1. [`noun, masculine`] forecast
+· Гидрометеорологическое `бюро` выдало `прогноз`. (The met service issued the `forecast`.)
+· Завтра будет плохая погода по `прогнозу`. (Tomorrow will be bad weather in the `forecast`.)
+2. [`verb`] forecast, predict
+· Он `прогнозировал`, что война будет последней в Африке. (He `forecasted` that the war would be the last one in Africa.)
+· Я `прогнозирую`, что инфляция вырастет в следующем квартале. (I `predict` that inflation will rise in the next quarter.)

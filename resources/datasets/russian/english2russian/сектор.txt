@@ -1,0 +1,8 @@
+с`е`ктор
+++++++++++
+1. [`noun, masculine`] sector
+· Это новый `сектор` экономики. (This is a new `sector` of the economy.)
+· Они осваивают `сектор` авиационного производства. (They are mastering a `sector` of aviation production.)
+2. [`verb`] sector
+· Эта программа `секторизует` данную сферу деятельности. (This program is `sectorizing` this area of activity.)
+· Они `секторизуют` промышленность на несколько отдельных дивизионов. (They are `sectorizing` industry into several separate divisions.)

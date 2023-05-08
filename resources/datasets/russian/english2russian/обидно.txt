@@ -1,0 +1,8 @@
+об`и`дно
+++++++++++
+1. [`adverb`] unfortunately
+· Он `обидно` пропустил экзамен. (He `unfortunately` missed the exam.)
+· Он `обидно` признался, что ошибся. (He `unfortunately` admitted that he was wrong.)
+2. [`adjective`] unfortunate
+· Мое будущее `обидно` оказалось таким коротким. (My future was `unfortunate`ly so short.)
+· Он был `обидно` недооценен. (He was `unfortunate`ly undervalued.)

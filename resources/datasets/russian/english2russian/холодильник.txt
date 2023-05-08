@@ -1,0 +1,8 @@
+холод`и`льник
+++++++++++
+1. [`noun, masculine`] refrigerator
+· У меня есть `холодильник` с двумя дверцами. (I have a `refrigerator` with two doors.)
+· Посмотрите то, что у нас есть в `холодильнике`. (Check out what we have in the `refrigerator`.)
+2. [`verb`] refrigerate
+· Они должны `холодильничить` продукты для сохранения свежести. (They need to `refrigerate` the products to keep them fresh.)
+· Она `холодильничила` ещё до того, как они приготовили еду. (She `refrigerated` it before they prepared the food.)

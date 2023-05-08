@@ -1,0 +1,5 @@
+восстан`а`вливать
+++++++++++
+1. [`verb, transitive`] restore
+· Он `восстанавливал` старую машину. (He `restored` an old car.)
+· Они разработали программу для `восстановления` потерянных файлов. (They developed a software for `restoring` lost files.)

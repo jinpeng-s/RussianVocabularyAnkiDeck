@@ -1,0 +1,8 @@
+объ`е`кт
+++++++++++
+1. [`noun, masculine`] object
+· Этот `объект` является обязательным для выполнения задания. (This `object` is required to fulfil the task.)
+· Он изучал `объект` в микроскопе. (He studied the `object` under the microscope.)
+2. [`verb`] object
+· Он не `объектировал` предлагаемые условия. (He didn't `object` to the proposed conditions.)
+· Никто не `объектирует`, что задача трудная. (Nobody `objects` that the task is hard.)

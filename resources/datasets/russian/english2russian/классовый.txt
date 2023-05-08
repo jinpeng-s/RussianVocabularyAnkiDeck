@@ -1,0 +1,8 @@
+кл`а`ссовый
+++++++++++
+1. [`adjective`] of the class, class-based
+· На заводе требуется реализовать `классовую` структуру. (The factory requires the implementation of a `class-based` structure.)
+· Образовательные средства должны быть `классовыми`. (The educational tools must be `of the class`.)
+2. [`adverb`] class-wise
+· Задания были распределены `классово`. (The tasks were distributed `class-wise`.)
+· Задания должны быть обсуждены `классово`. (The tasks must be discussed `class-wise`.)

@@ -1,0 +1,10 @@
+радиоприёмник
+++++++++++
+1. [`noun, masculine`] radio receiver
+· Он приобрёл` радиоприёмник` для своей машины. (He purchased a `radio receiver` for his car.)
+· `Радиоприёмник` работает на динамик. (The `radio receiver` works on a loudspeaker.)
+2. [`verb`] receive radio (signals)
+· Мы можем `радиопринимать` сигнал из-за границы. (We can `receive radio` signals from across the border.)
+· Данный антенный может `радиопринимать` сигналы на дальние расстояния. (This antenna can `receive radio` signals over long distances.)
+++++++++++
+· 无线电接收机, 收音机

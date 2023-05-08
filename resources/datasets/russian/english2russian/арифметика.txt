@@ -1,0 +1,8 @@
+арифм`е`тика
+++++++++++
+1. [`noun, feminine`] arithmetic
+· У детей всё время на лекции по `арифметике` был очень большой интерес. (The children were always very interested in the lectures of `arithmetic`.)
+· Он совершенно не знает `арифметики`. (He totally doesn't know `arithmetic`.)
+2. [`verb`] to do arithmetic
+· Мы должны учить `арифметику`, чтобы решать сложные задачи. (We have to learn `to do arithmetic` to solve complex problems.)
+· Она очень хорошо знает, как `делать арифметику`. (She knows very well how `to do arithmetic`.)

@@ -1,0 +1,8 @@
+свод`и`ть
+++++++++++
+1. [`verb`] bring together, unite
+· Решение должно `сводить` два конфликтующих сторони. (The solution should `bring together` two conflicting sides.)
+· Цель совещания была `сведение` к консенсусу. (The goal of the meeting was to `unite` the participants to a consensus.)
+2. [`verb, reflexive`] reduce, bring down
+· Следует `свести` расходы до минимума. (It is necessary to `reduce` expenses to a minimum.)
+· Они успешно `свели` цены на свой товар. (They successfully `brought down` the prices of their product.)

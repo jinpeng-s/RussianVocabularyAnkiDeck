@@ -1,0 +1,8 @@
+Азия
+++++++++++
+1. [`noun, feminine`] Asia
+· Азия- это крупнейший континент на Земле. (`Asia` is the largest continent on Earth.)
+· Половина населения мира живёт на `Азии`. (Half of the world's population lives in `Asia`.)
+2. [`adjective`] Asian
+· Он из Азиатской страны. (He is from an `Asian` country.)
+· `Азиатские` блюда вкусные. (`Asian` dishes are tasty.)

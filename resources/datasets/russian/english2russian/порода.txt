@@ -1,0 +1,8 @@
+пор`о`да
+++++++++++
+1. [`noun, feminine`] breed
+· Этот `порода` птиц сложно выращивать. (This `breed` of birds is difficult to breed.)
+· Эта `порода` собак любит людей. (This `breed` of dogs loves people.)
+2. [`verb`] breed
+· Я занимаюсь `разведением` этой птицы. (I'm `breeding` this bird.)
+· На данном селе занимаются `разведением` верблюдов. (At this farm, they are `breeding` camels.)

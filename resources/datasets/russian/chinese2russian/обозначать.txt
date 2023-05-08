@@ -1,0 +1,16 @@
+обознач`а`ть
+++++++++++
+1. [`verb`] denote
+· 'Обозначать' представляет собой то же самое, что и значить. (`Denote` means the same as mean.)
+· Знак является названием, которое 'обозначает' какое-либо понятие. (A sign is a name which `denotes` a certain concept.)
+2. [`noun, masculine`] denotation
+· Некоторые иконографические символы имеют глубокий, скрытый 'обозначение'. (Some iconographic symbols have a deep, hidden `denotation`.)
+· Налог на недвижимость имеет собственное `обозначение` в бухгалтерском учёте. (Property tax has its own `denotation` in accounting records.)
+++++++++++
+· 标出
+· 打上记号
+· 说出
+· 写出
+· 指出
+· 表明
+· 意味着

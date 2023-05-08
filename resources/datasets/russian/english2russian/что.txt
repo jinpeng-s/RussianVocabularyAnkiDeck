@@ -1,0 +1,8 @@
+чт`о`
+++++++++++
+1. [`pronoun`] what
+· Я не знаю, `что` делать. (I don't know `what` to do.)
+· Ты знаешь `что`? (Do you know `what`?)
+2. [`conjunction`] that
+· Я знаю, `что` ты говоришь. (I know `that` you are saying.)
+· Он говорил `что` хочет помочь. (He said `that` he wanted to help.)

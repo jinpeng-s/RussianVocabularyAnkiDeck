@@ -1,0 +1,8 @@
+приёмник
+++++++++++
+1. [`noun, masculine`] receiver
+· Он приобрёл `приёмник` для телевизора. (He bought a `receiver` for the television set.)
+· В магазине был хороший `приёмник` на продажу. (There was a nice `receiver` for sale in the shop.)
+2. [`verb`] receive
+· Он `принял` мою посылку и проверил прежде чем положить на прилавок. (He `received` my package and checked it before putting it on the counter.)
+· Мама `приняла` меня домой на ночь. (Mother `received` me home for the night.)

@@ -1,0 +1,8 @@
+ком`а`нда
+++++++++++
+1. [`noun, feminine`] command, order
+· Вчера он получил `команду` двигаться вперед. (He received an `order` to move forward yesterday.)
+· Для выполнения `команды` нужен специальный ключ. (A special key is needed to execute the `command`.)
+2. [`verb`] command, order
+· Она  `командовала` эту операцию осторожно. (She `commanded` that operation cautiously.)
+· Войска было `командовано` другими офицерами. (The army was `ordered` by the other officers.)

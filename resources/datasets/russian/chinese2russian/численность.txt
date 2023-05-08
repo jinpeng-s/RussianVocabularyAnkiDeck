@@ -1,0 +1,17 @@
+ч`и`сленность
+++++++++++
+1. [`noun, feminine`] population
+· Я исследовал `численность` людей, живущих здесь. (I studied the `population` of people living here.)
+· `Численность` постоянно стремится к нулю. (The `population` is constantly dwindling.)
+2. [`verb`] quantify
+· Нам нужно точно `численно` оценить размеры рынка. (We need to `quantify` the size of the market precisely.)
+· Сложно `численно` измерить чувства людей. (It's hard to `quantify` people's feelings.)
+++++++++++
+· 人数
+· 数目
+· 人数
+· 数量
+· 数值
+· 位数
+· &lt;数&gt;位数
+· 人数

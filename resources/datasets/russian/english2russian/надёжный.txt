@@ -1,0 +1,8 @@
+надёжный
+++++++++++
+1. [`adjective`] reliable
+· Он должен быть `надёжным` до последнего этапа работы. (He should be `reliable` up to the last stage of work.)
+· Мы ищем `надёжный` способ перевода денег. (We are looking for a `reliable` way of money transfer.)
+2. [`verb`] to secure
+· Он `надёжно обеспечил` этот дом согласно нормам безопасности. (He `secured` this house according to safety standards.)
+· Мы `надёжно обеспечим` ваши обязательства по контракту. (We will `secure` your obligations under the contract.)

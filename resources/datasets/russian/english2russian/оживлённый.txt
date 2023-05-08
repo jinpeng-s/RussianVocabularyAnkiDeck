@@ -1,0 +1,8 @@
+оживлённый
+++++++++++
+1. [`adjective`] lively
+· На улице был `очень оживленный` движение. (There was a `very lively` traffic on the street.)
+· В этой комнате происходит `очень оживленный` общение. (There is a `very lively` conversation going on in the room.)
+2. [`verb`] enliven
+· Игра помогает `оживить` вечеринку. (The game helped to `enliven` the party.)
+· Эта музыка `оживляет` сцену. (This music `enlivens` the stage.)

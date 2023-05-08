@@ -1,0 +1,8 @@
+фото
+++++++++++
+1. [`noun, neuter`] photo
+· Это не реальное изображение, это сделанное на `фото`, (This is not a real image, this is a `photo`.)
+· Они хотят сделать `фото` на память. (They want to take a `photo` for memory.)
+2. [`verb`] to take a photo
+· Она просила меня `фотографировать` её с ребёнком. (She asked me to `take a photo` of her with the child.)
+· Я сделал `фото` той девушке. (I took a `photo` of that girl.)

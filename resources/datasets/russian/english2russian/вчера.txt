@@ -1,0 +1,8 @@
+вчер`а`
+++++++++++
+1. [`adverb`] yesterday
+· Завтра я поеду `вчера` поздно. (I'll go `yesterday` late tomorrow.)
+· Я спросил его `вчера`. (I asked him `yesterday`.)
+2. [`noun, neuter`] yesterday	
+· Завтра, в `вчера`, у него не получилось. (Tomorrow, on `yesterday`, it didn't work out for him.)
+· Вчера, в `вчера`, было прекрасное время. (Yesterday, on `yesterday`, it was a beautiful time.)

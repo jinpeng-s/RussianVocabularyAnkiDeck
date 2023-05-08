@@ -1,0 +1,8 @@
+кол`и`чество
+++++++++++
+1. [`noun, neuter`] quantity
+· У `количества` инвентаря должно быть правильно записано. (The `quantity` of inventory must be correctly recorded.)
+· Мы должны уменьшить `количество` отброшенных материалов. (We need to reduce the `quantity` of discarded materials.)
+2. [`verb, infinitive`] quantify
+· Мы должны `количественно оценить` производительность системы. (We need to `quantify` the performance of the system.)
+· Важно `количественно измерить` влияние окружающей среды на экосистему. (It is important to `quantify` the impact of the environment on the ecosystem.)

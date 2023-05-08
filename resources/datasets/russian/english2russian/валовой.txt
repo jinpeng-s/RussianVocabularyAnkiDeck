@@ -1,0 +1,8 @@
+валов`о`й
+++++++++++
+1. [`adjective`] gross
+· Продажи по всему миру достигли `валовой` суммы в 10 миллиардов долларов. (Sales worldwide reached a `gross` amount of 10 billion dollars.)
+· Марка достигла `валового` дохода в миллион долларов в прошлом квартале. (The brand achieved a `gross` income of a million dollars in the previous quarter.)
+2. [`noun, masculine`] gross
+· Товарооборот компании по итогам года составил `валовой` доход в миллиард долларов. (The company's turnover for the year amounted to a `gross` income of a billion dollars.)
+· Я рассчитываю `валовую` прибыль для этой продукции на 5%. (I calculate a `gross` profit for this product at 5%. )

@@ -1,0 +1,8 @@
+шёлковый
+++++++++++
+1. [`adjective`] silky
+· Этот платье сделано из шёлкового `материала`. (This dress is made of silky `fabric`.)
+· Я подарил ей платок из шёлковой `ткани`. (I gave her a scarf made of silky `textile`.)
+2. [`noun, masculine`] silk
+· Он носил шёлковые `рубашки`. (He was wearing silk `shirts`.)
+· Она носила шёлковое `платье`. (She was wearing a silk `dress`.)

@@ -1,0 +1,13 @@
+верн`у`ть
+++++++++++
+1. [`verb`] return
+· Она вернула мне деньги. (She `returned` me the money.)
+· Она вернула книги в библиотеку. (She `returned` the books to the library.)
+2. [`noun, masculine`] return
+· Для поезда мы получили `возврат` денег. (We got a `return` of money for the train.)
+· Его последнее `возвращение` было вчера. (His last `return` was yesterday.)
+++++++++++
+· 归还, 收回, 交回, 恢复
+· 叫回
+· 让…回来
+· 召…回来

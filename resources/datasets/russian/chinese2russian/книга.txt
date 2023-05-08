@@ -1,0 +1,14 @@
+кн`и`га
+++++++++++
+1. [`noun, feminine`] book
+· Она купила новую `книгу`. (She bought a new `book`.)
+· Никакая `книга` не может быть написана за один день. (No `book` can be written in one day.)
+2. [`verb, transitive`] to book
+· Он зарезервировал билеты на самолёт `заказав` через Интернет. (He `booked` tickets for the plane by ordering over the Internet.)
+· Они уже `забронировали` концерт на следующий месяц. (They have already `booked` a concert for next month.)
+++++++++++
+· 书, 书籍
+· 簿, 本子
+· 部
+· 册
+· 卷

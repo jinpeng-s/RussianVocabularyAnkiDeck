@@ -1,0 +1,8 @@
+монт`а`жник
+++++++++++
+1. [`noun, masculine`] mechanic
+· В машиностроении он был `монтажником`. (In engineering, he was a `mechanic`.)
+· Завод нанял ещё одного `монтажника`. (The factory hired another `mechanic`.)
+2. [`verb`] assemble
+· Они `монтировали` машину в течение двух часов. (They `assembled` the machine in two hours.)
+· Он `монтирует` детали для электронных приборов. (He is `assembling` parts for electronic devices.)

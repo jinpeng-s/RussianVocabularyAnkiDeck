@@ -1,0 +1,5 @@
+масс`и`в
+++++++++++
+1. [`noun, masculine`] array
+· Все элементы `массива` должны быть одного типа. (All elements of the `array` should be of the same type.)
+· Найти максимальный элемент в `массиве` можно с помощью сортировки. (The maximum element in an `array` can be found by sorting.)

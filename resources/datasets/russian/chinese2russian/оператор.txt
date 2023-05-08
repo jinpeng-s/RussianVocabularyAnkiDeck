@@ -1,0 +1,15 @@
+опер`а`тор
+++++++++++
+1. [`noun, masculine`] operator
+· В отеле есть `оператор`, который поможет соединиться с Интернетом. (The hotel has an `operator` who can help you connect to the internet.)
+· Он указал `оператору` интернет-провайдера свой адрес. (He gave the `operator` of the internet provider his address.)
+2. [`verb`] operate
+· Он обращался к `оператору` банка для получения информации. (He contacted the `operator` of the bank for more information.)
+· Компьютер самостоятельно `оперирует` стройными данными. (The computer `operates` with precise data autonomously.)
+++++++++++
+· 作手术的医师, 外科医师
+· 操作员
+· 摄影师
+· 操作者
+· (数学) 算子
+· (计算技术) 语句

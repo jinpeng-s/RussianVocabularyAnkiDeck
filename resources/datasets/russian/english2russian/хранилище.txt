@@ -1,0 +1,8 @@
+хран`и`лище
+++++++++++
+1. [`noun, neuter`] storage
+· Это `хранилище` нужно для хранения опасных материалов. (This `storage` is necessary for the storage of hazardous materials.)
+· В нашем `хранилище` всегда достаточно запасов. (There is always plenty of stock in our `storage`.)
+2. [`verb`] to store
+· Мы `храним` все данные в базе данных. (We `store` all the data in the database.)
+· Я `храню` торт в холодильнике. (I `store` the cake in the fridge.)

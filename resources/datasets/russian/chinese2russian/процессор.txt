@@ -1,0 +1,13 @@
+проц`е`ссор
+++++++++++
+1. [`noun, masculine`] processor
+· Мой компьютер имеет высокое качество `процессора`. (My computer has a high-quality `processor`.)
+· Я купил новый `процессор` для моего компьютера. (I bought a new `processor` for my computer.)
+2. [`verb`] process
+· Этот процесс займет несколько минут `процессирования`. (This process will take a few minutes of `processing`.)
+· Они готовятся к `процессированию` данных. (They are preparing for `processing` the data.)
+++++++++++
+· 中央处理器
+· 信息处理机
+· 处理机
+· 处理系统

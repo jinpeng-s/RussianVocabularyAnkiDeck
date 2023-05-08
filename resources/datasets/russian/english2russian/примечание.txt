@@ -1,0 +1,8 @@
+примеч`а`ние
+++++++++++
+1. [`noun, neuter`] note
+· В договоре должно быть `примечание` о переоформлении владельца автомобиля. (The contract must include a `note` regarding the re-registration of the car's owner.)
+· На счёте можно было увидеть `примечание` о необходимости оплатить обработку заказа. (The invoice had a `note` about the necessity to pay for the order processing.)
+2. [`verb`] note
+· Ещё до заседания он уже `примечал` некоторые важные вещи. (Before the meeting he had already `noted` some important things.)
+· В руководстве рекомендации для пользователя он `примечал` все важные моменты. (He `noted` all the important points in the user manual instructions.)

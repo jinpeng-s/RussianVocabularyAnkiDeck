@@ -1,0 +1,8 @@
+з`а`мок
+++++++++++
+1. [`noun, masculine`] Lock
+· Она потеряла ключ от `замка`. (She lost the key to the `lock`.)
+· Он поставил `замок` на дверь. (He put a `lock` on the door.)
+2. [`verb`] Lock
+· Они заставили меня `замкнуть` дверь. (They forced me to `lock` the door.)
+· Он `замкнул` свой кабинет. (He `locked` his office.)

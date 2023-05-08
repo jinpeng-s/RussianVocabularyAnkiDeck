@@ -1,0 +1,8 @@
+объявл`е`ние
+++++++++++
+1. [`noun, neuter`] announcement
+· `Объявление` о перемещении было опубликовано в рассылке вчера. (The `announcement` of the relocation was published in the mailing list yesterday.)
+· Ежедневное `объявление` о погоде было прочитано утром в радио. (The daily `announcement` of the weather was read in the morning on the radio.)
+2. [`verb`] announce
+· Мы `объявили` новую политику на совещании. (We `announced` a new policy at the meeting.)
+· Он `объявил`, что летние каникулы будут проходить в этом году. (He `announced` that the summer holidays will take place this year.)

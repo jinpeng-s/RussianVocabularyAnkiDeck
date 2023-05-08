@@ -1,0 +1,8 @@
+эн`е`ргия
+++++++++++
+1. [`noun, feminine`] energy
+· Это необходимо для обеспечения `энергии` электроэнергетических систем. (This is necessary for ensuring `energy` of electrical systems.)
+· Теплая `энергия` передается от тела к телу. (The heat `energy` is transferred from a body to a body.)
+2. [`verb`] energize
+· Разработанный им системный пакет позволяет `энергизировать` транспортные системы. (The developed system package allows to `energize` transport systems.)
+· Отключённое устройство требует `энергизации`. (The disconnected device requires `energizing`.)

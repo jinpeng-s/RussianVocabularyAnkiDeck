@@ -1,0 +1,8 @@
+определ`я`ть
+++++++++++
+1. [`verb`] determine
+· Это зависимо от того, `определяется` ли исход задачи. (It depends on whether the outcome of the task is `determined`.)
+· “Комитет `определяет` правила и процедуры.” (The committee `determines` the rules and procedures.)
+2. [`verb`] define
+· Тебе нужно `определить`, какая цель представляет собой самую важную. (You need to `define` what goal is the most important.)
+· “На работе мы `определяем` границы допустимого и недопустимого.” (At work we `define` the boundaries of what is acceptable and unacceptable.)

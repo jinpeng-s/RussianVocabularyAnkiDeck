@@ -1,0 +1,8 @@
+ед`и`нственный
+++++++++++
+1. [`adjective`] unique
+· У него есть `единственный` сын. (He has a `unique` son.)
+· Это единственный способ сделать это. (It's the `unique` way to do it.)
+2. [`adverb`] uniquely
+· Его идея была `единственно` способ исправить эту ситуацию. (His idea is the `uniquely` way to fix this situation.)
+· Он `единственно` достиг успеха. (He `uniquely` achieved success.)

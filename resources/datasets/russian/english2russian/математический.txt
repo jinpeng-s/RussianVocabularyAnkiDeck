@@ -1,0 +1,8 @@
+математ`и`ческий
+++++++++++
+1. [`adjective`] mathematical
+· Нам нужно больше `математических` вычислений. (We need more `mathematical` calculations.)
+· Это потребует значительной `математической` мощности. (This will require considerable `mathematical` power.)
+2. [`noun, masculine`] mathematics
+· Я достиг небольшого успеха в `математике`. (I achieved a certain degree of success in `mathematics`.)
+· Я поступал на факультет `математики`. (I applied for a place at the `mathematics` faculty.)

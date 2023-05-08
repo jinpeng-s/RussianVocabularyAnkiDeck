@@ -1,0 +1,5 @@
+трин`а`дцать
+++++++++++
+1. [`numeral`] thirteen
+· `Тринадцать` человек было на партии. (`Thirteen` people were at the party.)
+· `Тринадцать` рядов для сидячих было в зале. (`Thirteen` rows for seating were in the hall.)

@@ -1,0 +1,8 @@
+угрож`а`ть
+++++++++++
+1. [`verb`] threaten
+· Враги угрожали напасть на эту деревню. (The enemies `threatened` to attack the village.)
+· Он `угрожал` мне и моей семье. (He `threatened` me and my family.)
+2. [`noun, masculine`] threat
+· Это было последнее `угрожание`, которое он нам ещё подавил. (That was the last `threat` he still made against us.)
+· Твоё `угрожание` пугает меня. (Your `threat` is scaring me.)

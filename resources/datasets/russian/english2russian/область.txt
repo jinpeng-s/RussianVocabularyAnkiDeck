@@ -1,0 +1,8 @@
+`о`бласть
+++++++++++
+1. [`noun, feminine`] region
+· Европейская `область` очень привлекательна, даже для туристов. (The European `region` is very attractive, even for tourists.)
+· В этой `области` есть много прекрасных мест. (There are many beautiful places in this `region`.)
+2. [`verb`] region
+· Наше меню будет `областроено` по дням недели. (Our menu will be `regionally` set according to the days of the week.)
+· Областные правительства должны `областроить` рынок рабочей силы. (Regional governments must `regionally` set up the labor market.)

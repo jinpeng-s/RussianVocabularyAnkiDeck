@@ -1,0 +1,8 @@
+отправл`я`ть
+++++++++++
+1. [`verb, imperfective`] send
+· Ты должен `отправлять` письма ежедневно. (You should `send` letters every day.)
+· Почтальон каждую неделю `отправляет` новые письма. (The postman `sends` new letters every week.)
+2. [`verb, perfective`] send off
+· Они `отправили` телеграмму сообщающую о их прибытии. (They `sent off` a telegram announcing their arrival.)
+· Она `отправила` свои учебники домой. (She `sent off` her textbooks home.)

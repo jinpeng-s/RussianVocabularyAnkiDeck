@@ -1,0 +1,11 @@
+лётчик
+++++++++++
+1. [`noun, masculine`] pilot
+· Он является высококвалифицированным `лётчиком`. (He is a highly qualified `pilot`.)
+· Он работал как `лётчик` в авиационной фирме. (He worked as a `pilot` for an aviation firm.)
+2. [`verb`] fly
+· Лётчики `летали` до Лондона в выходные дни. (The pilots `flew` to London on weekends.)
+· Они будут `летать` в Париж завтра. (They will `fly` to Paris tomorrow.)
+++++++++++
+· 飞行员
+· 航空员

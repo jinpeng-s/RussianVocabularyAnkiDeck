@@ -1,0 +1,10 @@
+специализ`и`ровать
+++++++++++
+1. [`verb`] specialize
+· Они решили `специализироваться` на производстве химических продуктов. (They decided to `specialize` in the production of chemical products.)
+· Он делает все, чтобы `специализироваться` в веб-разработке. (He is doing everything he can to `specialize` in web development.)
+2. [`noun, masculine`] specialization
+· Наша компания имеет высокий уровень `специализации`. (Our company has a high level of `specialization`.)
+· Он проработал много часов настраивать систему `специализации` своего проекта. (He spent many hours setting up the `specialization` system of his project.)
+++++++++++
+· 使专业化

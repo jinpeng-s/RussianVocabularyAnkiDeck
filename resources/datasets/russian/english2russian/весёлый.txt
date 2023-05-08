@@ -1,0 +1,8 @@
+весёлый
+++++++++++
+1. [`adjective`] cheerful
+· Он делает всё с `весёлым` настроением. (He does everything with a `cheerful` mood.)
+· Она была всегда `весёлая` и жизнерадостная. (She was always `cheerful` and full of life.)
+2. [`noun, masculine`] fun
+· Это был `весёлый` праздник. (It was a `fun` party.)
+· Он хочет заняться чем-то `весёлым`. (He wants to do something `fun`.)

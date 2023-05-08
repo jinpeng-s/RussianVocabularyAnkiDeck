@@ -1,0 +1,8 @@
+диск`е`та
+++++++++++
+1. [`noun, feminine`] diskette
+· Он записал информацию на `дискету`. (He recorded the information on a `diskette`.)
+· Я скачал программу с `дискеты`. (I downloaded the program from a `diskette`.)
+2. [`verb`] diskette
+· У меня есть `дискетированные` файлы. (I have `disketted` files.)
+· Я `дискетировал` данные самостоятельно. (I `disketted` the data independently.)

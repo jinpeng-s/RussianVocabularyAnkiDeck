@@ -1,0 +1,8 @@
+печ`а`тать
+++++++++++
+1. [`verb`] print
+· Надо `печатать` полученный документ. (The document received needs to be `printed`.)
+· Ему пришлось `печатать` своё резюме. (He had to `print` his resume.)
+2. [`noun, neuter`] print
+· Мы договорились о сроках и поставках в `печати`. (We agreed on deadlines and deliveries in `print`.)
+· `Печать` была слишком низкая для доставки. (The `print` was too low for delivery.)

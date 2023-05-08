@@ -1,0 +1,14 @@
+регул`я`тор
+++++++++++
+1. [`noun, masculine`] regulator
+· Эта машина включает в себя `регулятор` температуры. (This machine includes a `regulator` of temperature.)
+· Я использую `регулятор` громкости, чтобы уменьшить звук. (I use a `regulator` of volume to reduce the sound.)
+2. [`verb`] regulate
+· Правительство намерено `регулировать` рынок товаров и услуг. (The government intends to `regulate` the market of goods and services.)
+· Отчет рынка `регулирует`ся по научным принципам. (The market report is `regulated` according to scientific principles.)
+++++++++++
+· 控制器
+· 调节器
+· 调节者 (指事物)
+· 控制装置
+· 调节剂

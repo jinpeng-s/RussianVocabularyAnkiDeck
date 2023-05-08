@@ -1,0 +1,8 @@
+вып`и`сывать
+++++++++++
+1. [`verb`] issue out
+· Они не разрешили `выписывать` билету на самолёт. (They didn't allow to `issue out` the ticket for the plane.)
+· Когда бронировали отель, им пришлось `выписывать` чек. (When they were booking a hotel, they had to `issue out` a check.)
+2. [`verb`] write down
+· Учительница решила `выписывать` аудиторные задания на доске. (The teacher decided to `write down` the assignments for the audience on the board.)
+· Они `выписывали` остатки со склада. (They were `writing down` the remains from the storehouse.)

@@ -1,0 +1,8 @@
+зал`о`г
+++++++++++
+1. [`noun, masculine`] pledge, collateral
+· Мне нужен `залог` для обеспечения сделки. (I need a `pledge` for securing the deal.)
+· Для получения кредита я дал `залог`. (I gave a `collateral` for getting the loan.)
+2. [`verb`] pledge, collateralize
+· Он обязался `залоговать` своё имущество. (He promised to `pledge` his property.)
+· Он `залоговал` свои деньги для получения кредита. (He `collateralized` his money to get a loan.)

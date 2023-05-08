@@ -1,0 +1,10 @@
+миллим`е`тр
+++++++++++
+1. [`noun`] millimeter
+· Тонкая резка должна быть точна до `миллиметра`. (The cut has to be precise up to a `millimeter`.)
+· Самые точные измерения требуют использования `миллиметра`. (The most accurate measurements require the use of a `millimeter`.)
+2. [`verb`] millimeter
+· Он `миллиметрировал` параметры чтобы определить точную ширину. (He `millimetrided` the parameters to determine the exact width.)
+· Учёные `миллиметрировали` специальный образец для измерений. (The scientists `millimetrided` a special sample for the measurements.)
+++++++++++
+· 毫米

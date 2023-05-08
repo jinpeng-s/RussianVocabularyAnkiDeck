@@ -1,0 +1,9 @@
+простуж`а`ть
+++++++++++
+1. [`verb`] contract
+· Я имел температуру и в конце недели `простудился`. (I had a temperature and at the end of the week I `contracted` a cold.)
+· Он столкнулся с негодными погодными условиями и `простудился`. (He was exposed to bad weather and `contracted` a cold.)
+2. [`noun, feminine`] cold
+· Она каждый год за`простудилась`. (She `caught` a cold every year.)
+· Они получили `простуду` и были вынуждены отправиться в больницу. (They `contracted` a cold and had to be hospitalized.)
+++++++++++

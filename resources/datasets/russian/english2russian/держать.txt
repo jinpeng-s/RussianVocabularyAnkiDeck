@@ -1,0 +1,8 @@
+держ`а`ть
+++++++++++
+1. [`verb`] hold
+· Она `держала` ноутбук в руках. (She `held` a laptop in her hands.)
+· Он `держал` лук в высоко поднятой руке. (He `held` a bow in his raised hand.)
+2. [`verb, reflexive`] keep
+· Они `держались` друг к другу близко. (They `kept` close to each other.)
+· Он `держался` от алкоголя в это время. (He `kept` away from alcohol at that time.)

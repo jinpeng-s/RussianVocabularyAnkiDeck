@@ -1,0 +1,8 @@
+не
+++++++++++
+1. [`adverb`] not
+· Он `не` думает об этом. (He `does not` think about it.)
+· Я `не` согласен с тобой. (I `do not` agree with you.)
+2. [`particle, conjunction`] not, no
+· Он `не` работает здесь. (He `does not` work here.)
+· `Не` понимаю, что он хочет сказать. (I `don't` understand what he wants to say.)

@@ -1,0 +1,8 @@
+завоёвывать
+++++++++++
+1. [`verb`] conquer
+· Он хочет `завоёвывать` весь мир. (He wants to `conquer` the world.)
+· Военные побеждали на поле боя и `завоёвывали` новые земли. (The military won on the battlefield and `conquered` new lands.)
+2. [`verb`] gain
+· Она продолжала `завоёвывать` нашу респект. (She continued to `gain` our respect.)
+· Она `завоёвывала` новюю цель каждый день. (She `gained` a new goal every day.)

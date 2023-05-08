@@ -1,0 +1,8 @@
+пулемёт
+++++++++++
+1. [`noun, masculine`] machine gun
+· Бойцы использовали `пулемёт` для защиты базы. (The soldiers used a `machine gun` to protect the base.)
+· Войска имели огромные количества `пулемётов`. (The army had enormous amounts of `machine guns`.)
+2. [`verb`] fire a machine gun
+· Враг мог `пулять` долгое время и не потерять цель. (The enemy could `fire a machine gun` for a long time and not lose aim.)
+· Танки `пуляли` на сторону противника. (The tanks `fired a machine gun` on the side of the enemy.)

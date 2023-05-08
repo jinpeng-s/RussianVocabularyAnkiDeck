@@ -1,0 +1,8 @@
+далёкий
+++++++++++
+1. [`adjective`] distant
+· Они живут в `далёком` от нас городе. (They live in a `distant` city from us.)
+· Она пришла из `далёкой` страны. (She came from a `distant` country.)
+2. [`adverb`] distantly
+· Их дом `далёко` отсюда. (Their house is `distantly` from here.)
+· Дома она живёт `далёко` от моего. (At home, she lives `distantly` from mine.)

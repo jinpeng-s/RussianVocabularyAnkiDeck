@@ -1,0 +1,8 @@
+ремонт`и`ровать
+++++++++++
+1. [`verb`] repair
+· Они пришли `ремонтировать` диван. (They came to `repair` the sofa.)
+· Он постоянно `ремонтирует` свою машину. (He is constantly `repairing` his car.)
+2. [`noun, masculine`] repair
+· Это изделие требует `ремонта`. (This item requires a `repair`.)
+· Мы предложили ему `ремонт` в нашем центре ремонтов. (We offered him a `repair` in our repair center.)

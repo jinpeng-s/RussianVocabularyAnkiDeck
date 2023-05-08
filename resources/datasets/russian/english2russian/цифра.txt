@@ -1,0 +1,8 @@
+ц`и`фра
+++++++++++
+1. [`noun, feminine`] number
+· Не указывать `цифру`, телефон. (Do not disclose the `number`, phone.)
+· Мы работаем по `цифрам` и не ждём больше отчётов. (We are working on the `numbers` and don't expect further reports.)
+2. [`verb`] count
+· Он пришёл домой и `зацифровал` свои доходы. (He came home and `counted` his income.)
+· Я уже `зацифровал` тортики и теперь расчитываю массу. (I already `counted` the cakes and now I'm calculating their mass.)

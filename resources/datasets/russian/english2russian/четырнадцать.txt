@@ -1,0 +1,5 @@
+чет`ы`рнадцать
+++++++++++
+1. [`numeral`] fourteen
+· Эти дети сегодня `четырнадцать` лет. (These kids are `fourteen` years old today.)
+· К тому времени `четырнадцать` часов будет поздно. (By then, it will be `fourteen` o'clock.)

@@ -1,0 +1,8 @@
+призыв`а`ть
+++++++++++
+1. [`verb`] summon
+· Она призывала друзей. (She `summoned` her friends.)
+· Он призывал их присоединиться к нему. (He `summoned` them to join him.)
+2. [`noun, masculine`] summons
+· В письме было `призывание` посетить заседание. (The letter included a `summons` to attend the meeting.)
+· Он пришёл в ответ на `призывание`. (He came in answer to the `summons`.)

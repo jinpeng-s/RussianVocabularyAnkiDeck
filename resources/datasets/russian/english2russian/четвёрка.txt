@@ -1,0 +1,8 @@
+четвёрка
+++++++++++
+1. [`noun, feminine`] quarter
+· К концу `четверки` мы должны были решить все задачи. (By the end of the `quarter` we should have solved all the tasks.)
+· `Четверка` является первым числом нашего учебного маршрута. (The `quarter` is the first number of our academic route.)
+2. [`verb`] quarter
+· Они `четвергают` время между двумя местами. (They `quarter their` time between two places.)
+· Время становится все более и более `четвергнутым` для нас. (The time becomes increasingly `quartered for` us.)

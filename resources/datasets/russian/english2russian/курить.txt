@@ -1,0 +1,8 @@
+кур`и`ть
+++++++++++
+1. [`verb`] smoke
+· Он постоянно `курит` сигареты. (He constantly `smokes` cigarettes.)
+· Мы не можем допустить, чтобы кто-то в здании `курил`. (We cannot allow anyone to `smoke` in the building.)
+2. [`noun, masculine`] smoking
+· Курение - вредная привычка, которая вошла в `курение` многих людей. (Smoking is a harmful habit that many people have taken up `smoking`.)
+· Запрещено `курение` на всех общественных местах. (`Smoking` is prohibited in all public places.)

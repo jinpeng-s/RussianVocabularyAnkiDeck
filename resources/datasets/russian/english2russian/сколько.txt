@@ -1,0 +1,8 @@
+ск`о`лько
+++++++++++
+1. [`numeral`] how much/many
+· `Сколько` дней осталось до поездки? (`How many` days are left until the trip?)
+· `Какое` у тебя быстрое блюдо на завтрак? (What's your `go-to` breakfast?)
+2. [`adverb`] how
+· `Сколько` нам понадобится времени для подготовки? (`How much` time will we need to prepare?)
+· `Как` далеко ты доедешь сегодня вечером? (`How far` will you go tonight?)

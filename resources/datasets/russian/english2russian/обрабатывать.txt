@@ -1,0 +1,8 @@
+обраб`а`тывать
+++++++++++
+1. [`verb`] process
+· Я помогаю моей маме `обрабатывать` данные. (I help my mom to `process` data.)
+· Компания должна `обрабатывать` входящие заказы. (The company should `process` incoming orders.)
+2. [`verb`] deal with
+· Правительство начало `обрабатывать` проблему экологии. (The government started to `deal with` the problem of ecology.)
+· Я `обрабатывал` данные, полученные из экспериментов. (I `dealt with` the data obtained from the experiments.)

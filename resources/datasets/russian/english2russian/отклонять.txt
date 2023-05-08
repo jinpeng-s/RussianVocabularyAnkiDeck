@@ -1,0 +1,8 @@
+отклон`я`ть
+++++++++++
+1. [`verb`] reject
+· Они `отклонили` моё предложение. (They `rejected` my offer.)
+· Она не хотела `отклонять` мои желания. (She didn't want to `reject` my wishes.)
+2. [`verb`] decline
+· Я решил `отклонить` предложение из-за низкой зарплаты. (I decided to `decline` the offer due to low salary.)
+· Она согласилась на предложение, но потом `отклонила` его. (She agreed to the offer but then `declined` it.)

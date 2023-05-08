@@ -1,0 +1,8 @@
+вел`е`ть
+++++++++++
+1. [`verb`] command, order
+· Он `велел` мне идти домой. (He `commanded` me to go home.)
+· Она `велела` мне не задерживаться дольше. (She `ordered` me not to stay any longer.)
+2. [`verb`] assume; assume to have
+· Она предположила, что они `велят` ей продолжать работать. (She assumed that they `assume` her to continue to work.)
+· Он думал, что ему велят работать с этим проектом. (He thought that they `assume` him to work on this project.)

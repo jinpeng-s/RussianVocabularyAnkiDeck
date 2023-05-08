@@ -1,0 +1,7 @@
+шифров`а`ть
+++++++++++
+1. [`verb`] encipher/encrypt
+· Система должна `шифровать` всю передаваемую информацию. (The system should `encipher`/`encrypt` all transmitted information.)
+· Он `шифровал` свою бухгалтерскую книгу для повышения безопасности. (He `enciphered`/`encrypted` his accounting book for increased security.)
+++++++++++
+· 译成密码

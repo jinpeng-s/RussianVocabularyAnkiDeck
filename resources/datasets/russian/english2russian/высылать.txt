@@ -1,0 +1,8 @@
+высыл`а`ть
+++++++++++
+1. [`verb`] dispatch
+· служба доставки `высылала` письма по всей стране. (The dispatch service `dispatched` letters across the country.)
+· Они `высылали` нам продукты регулярно. (They `dispatched` products to us regularly.)
+2. [`noun, masculine`] dispatch
+· Комиссия приняла `высылку` документов. (The commission accepted the `dispatch` of documents.)
+· В апреле мы получили последнюю `высылку` продуктов. (In April we received the last `dispatch` of products.)

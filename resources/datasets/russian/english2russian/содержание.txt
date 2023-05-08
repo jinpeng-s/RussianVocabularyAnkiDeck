@@ -1,0 +1,8 @@
+содерж`а`ние
+++++++++++
+1. [`noun, neuter`] content
+· Книга имеет `содержание` о психологической помощи. (The book has `content` about psychological help.)
+· В данной презентации рассматривалось `содержание` доклада. (The `content` of the report was discussed in this presentation.)
+2. [`verb`] contain
+· Данная книга `содержит` очень подробную информацию. (This book `contains` very detailed information.)
+· Этот монитор `содержит` особую защиту глаз. (This monitor `contains` special protection for the eyes.)

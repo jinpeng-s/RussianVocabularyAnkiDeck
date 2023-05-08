@@ -1,0 +1,12 @@
+дешёвый
+++++++++++
+1. [`adjective`] cheap
+· Это очень `дешёвый` товар. (This is a very `cheap` product.)
+· Он купил `дешёвые` импортные детали. (He bought `cheap` imported parts.)
+2. [`verb`] to cheapen
+· Цены на некоторые товары `дешевели`, когда тарифы опустились. (The prices of some goods `cheapened` when the tariffs were lowered.)
+· Компания `дешевела`, чтобы достичь большей конкурентоспособности. (The company `cheapened` in order to achieve more competitiveness.)
+++++++++++
+· 便宜的
+· 廉价的
+· 微不足道的

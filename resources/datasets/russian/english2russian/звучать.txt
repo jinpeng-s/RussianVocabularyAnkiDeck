@@ -1,0 +1,8 @@
+звуч`а`ть
+++++++++++
+1. [`verb`] sound
+· Это звучало как великое тайное. (It `sounded` like a great secret.)
+· Что ты `звучал` так давно? (What `sounded` so long?)
+2. [`noun, masculine`] sound
+· Этот музыкальный инструмент имеет приятный `звук`. (This musical instrument has a pleasant `sound`.)
+· Фильм закончился счастливым `звуком`. (The film ended with a happy `sound`.)

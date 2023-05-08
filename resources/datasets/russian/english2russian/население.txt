@@ -1,0 +1,8 @@
+насел`е`ние
+++++++++++
+1. [`noun, neuter`] population:
+· В этом городе большое `население`. (This city has a large `population`.)
+· Туристы оценили эту страну из-за большого `населения`. (Tourists appreciated this country for its large `population`.)
+2. [`verb`] populate:
+· Эта земля постепенно `населялась` поселенцами. (This land has been `populated` gradually by settlers.)
+· Эта долина давно `населена` тысячами охотников. (This valley has been `populated` by thousands of hunters for a long time.)

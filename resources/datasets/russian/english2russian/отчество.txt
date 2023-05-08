@@ -1,0 +1,8 @@
+`о`тчество
+++++++++++
+1. [`noun, neuter`] patronymic
+· Он дал своё `отчество` для заполнения формы. (He gave his `patronymic` to fill out the form.)
+· Студент предоставил своё `отчество` при регистрации. (The student provided his `patronymic` when registering.)
+2. [`verb`] give a patronymic
+· Нужно `отчество`, чтобы пройти регистрацию. (You need to `give a patronymic` in order to pass registration.)
+· Чтобы войти в систему, нам нужно было `отчество` студента. (To enter the system, we had to `give the patronymic` of the student.)

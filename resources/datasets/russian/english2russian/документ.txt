@@ -1,0 +1,8 @@
+докум`е`нт
+++++++++++
+1. [`noun, masculine`] document
+· Он заполнил все необходимые `документы`. (He filled out all the necessary `documents`.)
+· Он предъявил все соответствующие `документы`. (He presented all the corresponding `documents`.)
+2. [`verb`] document
+· Они письменно `документировали` историю своей компании. (They `documented` the history of their company in writing.)
+· Он потратил много времени на `документирование` своей исследовательской работы. (He spent much time `documenting` his research work.)

@@ -1,0 +1,8 @@
+указ`а`тель
+++++++++++
+1. [`noun, masculine`] pointer
+· Его ручка точно служила как `указатель` для правильной позиции на карте. (His finger was an accurate `pointer` for the right position on the map.)
+· Рука столика была высоченным `указателем`, показывающим центр площади. (The plinth of the table was a tall `pointer` indicating the center of the square.)
+2. [`verb`] point
+· Он `указал` на место происшествия. (He `pointed` to the place of the incident.)
+· Он `указал` ему путь домой. (He `pointed` the way home to him.)

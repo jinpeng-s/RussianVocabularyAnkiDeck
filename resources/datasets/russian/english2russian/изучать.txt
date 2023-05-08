@@ -1,0 +1,8 @@
+изуч`а`ть
+++++++++++
+1. [`verb`] study
+· Я начал `изучать` русский язык. (I started `studying` Russian.)
+· Он планирует `изучать` математику. (He plans to `study` math.)
+2. [`Verb`, transitive] learn
+· Ученики общаются друг с другом, пытаясь `изучать` новые темы. (Students talk with each other, trying to `learn` new topics.)
+· Он усердно `изучал` новые языки. (He was hardworking in `learning` new languages.)

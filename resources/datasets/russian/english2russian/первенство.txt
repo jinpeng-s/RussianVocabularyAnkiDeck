@@ -1,0 +1,8 @@
+п`е`рвенство
+++++++++++
+1. [`noun, neuter`] championship, competition
+· Он выиграл `первенство` в соревнованиях по плаванию. (He won the `championship` in the swimming competitions.)
+· Вчера мы участвовали в `первенстве` по шахматам. (Yesterday we took part in the `competition` of chess.)
+2. [`verb`] compete
+· Они `претендовали` на первенство. (They `competed` for the championship.)
+· Они `избирали` лучших спортсменов для первенства. (They `selected` the best athletes for the championship.)

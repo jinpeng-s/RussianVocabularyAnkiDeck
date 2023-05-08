@@ -1,0 +1,8 @@
+преподав`а`ть
+++++++++++
+1. [`verb`] teach
+· У меня есть `преподаватель`, который помогает мне изучать русский язык. (I have a `teacher` who helps me study Russian.)
+· Он планирует `преподавать` математику в Университете. (He plans to `teach` math at the University.)
+2. [`noun, masculine`] teacher
+· Мой лучший `преподаватель` изучать английский. (My best `teacher` to learn English.)
+· Это моя новая `преподаватель` музыки. (This is my new `teacher` of music.)

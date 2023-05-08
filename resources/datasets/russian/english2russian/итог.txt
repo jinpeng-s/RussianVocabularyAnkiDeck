@@ -1,0 +1,8 @@
+ит`о`г
+++++++++++
+1. [`noun, masculine`] result
+· Итог `итога` прочитал президент. (The `result` was read out by the president.)
+· Он проанализировал итог `итогов` экзамена. (He analyzed the `results` of the exam.)
+2. [`verb`] summarize
+· Он `итогировал` сообщение на конференции. (He `summarized` the message at the conference.)
+· Она `итогировала` основные точки презентации. (She `summarized` the main points of the presentation.)

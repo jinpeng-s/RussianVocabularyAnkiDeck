@@ -1,0 +1,5 @@
+реализов`а`ть
+++++++++++
+1. [`verb`] realize
+· У нас `реализовался` план два раза быстрее, чем ожидалось. (Our plan was `realized` two times faster than expected.)
+· Нам нужно самостоятельно `реализовать` этот план. (We need to `realize` this plan by ourselves.)

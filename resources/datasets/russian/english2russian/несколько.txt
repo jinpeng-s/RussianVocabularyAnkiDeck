@@ -1,0 +1,8 @@
+н`е`сколько
+++++++++++
+1. [`numeral`] several
+· За три дня они посетили `несколько` стран. (They visited `several` countries in three days.)
+· Там было `несколько` ходящих машин. (There were `several` running cars there.)
+2. [`adverb`] several
+· Он где-то и заработал `несколько` денег. (He earned `several` money somewhere.)
+· Ученые работали до `несколько` часов. (The scientists worked up to `several` hours.)

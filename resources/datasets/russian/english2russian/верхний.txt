@@ -1,0 +1,8 @@
+в`е`рхний
+++++++++++
+1. [`adjective`] upper
+· Билет даёт доступ к верхней части здания. (The ticket grants access to the `upper` part of the building.)
+· Верхнее поле экрана было заблокировано. (The `upper` part of the screen was locked.)
+2. [`noun, neuter`] upper
+· Верхнее поле было немного светлее. (The `upper` part was a little brighter.)
+· Тропа вела верхним участком горы. (The path led up the `upper` section of the mountain.)

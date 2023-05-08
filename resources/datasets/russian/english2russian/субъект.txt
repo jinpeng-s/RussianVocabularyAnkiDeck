@@ -1,0 +1,8 @@
+субъ`е`кт
+++++++++++
+1. [`noun, masculine`] subject
+· Каждый общественный `субъект` имеет свои права и обязанности. (Each social `subject` has its rights and obligations.)
+· Явление в природе без постороннего `субъекта` действия называется автохтониий. (An event in nature without an external `subject` of action is called autopheny.)
+2. [`verb`] subject
+· Данное требование `подлежит` дальнейшему обсуждению. (This requirement `is subject` to further discussion.)
+· Фотографии прошлого `подлежат` восстановлению. (Photos of the past `are subject` to restoration.)

@@ -1,0 +1,8 @@
+меропри`я`тие
+++++++++++
+1. [`noun, neuter`] event
+· Он `мероприятие` должно проходить на открытом воздухе. (The `event` should take place outdoors.)
+· На нем будет `мероприятие`, в которое приглашены известные люди. (There will be an `event` in which famous people are invited to.)
+2. [`verb`] arrange
+· Организаторы `мероприятия` пригласили популярного диджея. (The organizers of the `event` invited a popular DJ.)
+· Он участвовал в организации `мероприятия`. (He participated in the `arrangement` of the event.)

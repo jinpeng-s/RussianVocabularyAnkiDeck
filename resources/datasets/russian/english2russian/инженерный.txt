@@ -1,0 +1,8 @@
+инжен`е`рный
+++++++++++
+1. [`adjective`] engineering
+· Это построено `инженерными` принципами. (It is built on `engineering` principles.)
+· `Инженерная` команда делает очень много работы. (The `engineering` team is doing a lot of work.)
+2. [`noun, masculine`] engineer
+· Он работает в `инженерной` компании. (He works at an `engineering` company.)
+· Я познакомилась с `инженером`, который спроектировал мост. (I met an `engineer` who designed the bridge.)

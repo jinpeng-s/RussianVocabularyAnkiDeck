@@ -1,0 +1,8 @@
+нагрев`а`тель
+++++++++++
+1. [`noun, masculine`] heater
+· Мы установили новое `нагреватель`. (We installed a new `heater`.)
+· Дети сидели рядом с `нагревателем` в зале. (The children were sitting near the `heater` in the hall.)
+2. [`verb`] heat
+· Она `нагревала` их пока они не получили нужную температуру. (She `heated` them until they reached the desired temperature.)
+· Он `нагревал` алкоголь до нормального температурного режима. (He `heated` the alcohol to the normal temperature regime.)

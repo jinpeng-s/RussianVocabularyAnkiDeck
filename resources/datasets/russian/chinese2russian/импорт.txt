@@ -1,0 +1,14 @@
+`и`мпорт
+++++++++++
+1. [`noun, masculine`] import
+· Они импортируют товары из других стран. (They `import` goods from other countries.)
+· Промышленное производство основывается на импорте всех необходимых материалов. (Industrial production is based on the `import` of all necessary materials.)
+2. [`verb`] import
+· Они избрали эту страну, чтобы `импортировать` товары. (They chose this country to `import` goods.)
+· Они `импортировали` более сто товаров за последний год. (They `imported` more than a hundred goods in the past year.)
+++++++++++
+· 进口
+· 输入
+· 进口额
+· 输入额
+· 进口商品

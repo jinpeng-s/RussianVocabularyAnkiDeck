@@ -1,0 +1,8 @@
+м`о`й
+++++++++++
+1. [`pronoun`] mine
+· Всё что находится в комнате - `мое`. (Everything in the room is `mine`.)
+· Это `моя` книга. (This is `mine` book.)
+2. [`adjective`] mine
+· Для меня оба предложения `моё`. (Both propositions are `mine` for me.)
+· Я буду следовать `моим` принципам. (I will follow `mine` principles.)

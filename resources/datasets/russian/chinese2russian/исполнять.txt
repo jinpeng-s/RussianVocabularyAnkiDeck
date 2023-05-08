@@ -1,0 +1,14 @@
+исполн`я`ть
+++++++++++
+1. [`verb`] execute
+· Он имеет право `исполнять` эту процедуру. (He has the right to `execute` this procedure.)
+· Работники должны `исполнять` поставленные цели. (Employees should `execute` the specified goals.)
+2. [`verb, reflexive`] perform
+· Они `исполняли` свои обязанности хорошо. (They `performed` their duties well.)
+· Она хотела `исполнить` свой долг. (She wanted to `perform` her duty.)
+++++++++++
+· 实现
+· 完成
+· 执行
+· 扮演
+· 表演

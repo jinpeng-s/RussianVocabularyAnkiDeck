@@ -1,0 +1,8 @@
+при`е`млемый
+++++++++++
+1. [`adjective`] acceptable
+· Для них `приемлемым` считается только идеальный результат. (For them, only the perfect result is `acceptable`.)
+· В таком климате нельзя требовать `приемлемого` качества урожая. (In such a climate, you can't demand an `acceptable` quality of the harvest.)
+2. [`noun`] acceptance
+· Руководство дало `приемлемое` решение по этому проекту. (The management made an `acceptance` decision about this project.)
+· Для меня это было `приемлемым` исходом. (For me it was an `acceptance` outcome.)

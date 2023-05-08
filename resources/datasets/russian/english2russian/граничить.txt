@@ -1,0 +1,8 @@
+гран`и`чить
+++++++++++
+1. [`verb`] border
+· Россия `граничит` с многими странами. (Russia `borders` many countries.)
+· У нас есть возможность пересечь `границу`, чтобы добраться до соседней страны. (We have the opportunity to cross the `border` to get to the neighboring country.)
+2. [`noun, feminine`] border
+· Эта `граница` до сих пор не была улажена. (This `border` was not settled yet.)
+· Школьные друзья иногда разделяют `границы` между собой. (School friends sometimes divide `borders` between them.)

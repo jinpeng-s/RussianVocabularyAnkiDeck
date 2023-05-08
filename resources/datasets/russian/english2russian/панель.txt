@@ -1,0 +1,8 @@
+пан`е`ль
+++++++++++
+1. [`noun, feminine`] panel
+· В комнате были размещены три `панели` с досками. (Three `panels` with boards were placed in the room.)
+· На экране была показана `панель` настроек. (A `panel` of settings was displayed on the screen.)
+2. [`verb, transitive`] panel
+· На этой встрече будут `панелировать` различные темы. (Different topics will be `panelled` at this meeting.)
+· Эксперты `панелировали` различные технологические проекты. (Experts `panelled` various technological projects.)

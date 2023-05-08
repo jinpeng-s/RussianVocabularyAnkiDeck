@@ -1,0 +1,8 @@
+замеч`а`ние
+++++++++++
+1. [`noun, neuter`] remark
+· Он делал `замечание` о нашем плане действий. (He made a `remark` about our plan of action.)
+· На это `замечание` мы должны потратить максимум два дня. (We should spend a maximum of two days on this `remark`.)
+2. [`verb`] remark
+· Он `заметил`, что погода быстро изменяется. (He `remarked` that the weather changes quickly.)
+· Он `заметил`, что мы должны ускорить работу. (He `remarked` that we should accelerate the work.)

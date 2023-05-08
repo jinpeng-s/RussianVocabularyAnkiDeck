@@ -1,0 +1,11 @@
+программ`и`ст
+++++++++++
+1. [`noun, masculine`] programmer
+· Я ищу хорошего `программиста`, который может помочь мне с моими проектами. (I am looking for a good `programmer` who can help me with my projects.)
+· Это проект разработан `программистом`, который был нанят для этой работы. (This project was developed by a `programmer` who was hired for this job.)
+2. [`verb`] program
+· Она сильно `программировала` свои работы, чтобы успеть всё вовремя. (She heavily `programmed` her tasks in order to finish everything on time.)
+· Это приложение было `программировано` с помощью Python. (This application was `programmed` using Python.)
+++++++++++
+· 程序设计员
+· 程序控制机构

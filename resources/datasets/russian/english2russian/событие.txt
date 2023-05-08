@@ -1,0 +1,8 @@
+соб`ы`тие
+++++++++++
+1. [`noun, neuter`] event
+· Она встретила тот `событие`, на которое она так долго ждала. (She met the `event` she had been waiting for so long.)
+· Война является печальным `событием`. (War is a sad `event`.)
+2. [`verb`] happen
+· Он надеялся, что это `случится`, но этого не произошло. (He hoped that it would `happen`, but it didn't.)
+· Никто не предвидел, что это `случится`. (Nobody foresaw that it would `happen`.)

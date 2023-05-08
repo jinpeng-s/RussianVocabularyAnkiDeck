@@ -1,0 +1,8 @@
+состо`я`ние
+++++++++++
+1. [`noun, neuter`] state
+· В его `состоянии` было очень плохо. (His `state` was very bad.)
+· Некоторые страны испытывают экономическое `состояние`, и это делает их достаточно нестабильными. (Some countries are experiencing economic `state`, which makes them quite unstable.)
+2. [`verb`] state
+· Он `составил` удивительный отчёт о рыночной ситуации. (He `stated` an amazing report about the market situation.)
+· Он `составил` для меня список работ для выполнения. (He `stated` a list of tasks for me to do.)

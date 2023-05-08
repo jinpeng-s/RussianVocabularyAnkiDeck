@@ -1,0 +1,8 @@
+`и`ли
+++++++++++
+1. [`conjunction`] or
+· Я могу поехать или остаться дома. (I can go `or` stay home.)
+· Ты можешь делать это в бумаге или на компьютере. (You can do it on paper `or` on a computer.)
+2. [`adverb`] either
+· Я не могу делать это или `тоже`. (I can't do this `either`.)
+· Он не может читать или `тоже` писать. (He can't read `either` write.)

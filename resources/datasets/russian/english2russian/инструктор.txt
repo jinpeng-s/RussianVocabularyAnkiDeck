@@ -1,0 +1,8 @@
+инстр`у`ктор
+++++++++++
+1. [`noun, masculine`] instructor
+· Он работает в аэропорту в качестве `инструктора`. (He works at the airport as an `instructor`.)
+· В школе есть специальный `инструктор` по истории. (At the school there is a special `instructor` of history.)
+2. [`verb`] instruct
+· Ты должен `инструктировать` свою команду на задание. (You have to `instruct` your team on the task.)
+· Он обычно `инструктирует` своих студентов по дисциплине. (He usually `instructs` his students on the discipline.)

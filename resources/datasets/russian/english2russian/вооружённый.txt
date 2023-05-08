@@ -1,0 +1,5 @@
+вооружённый
+++++++++++
+1. [`adjective`] armed
+· Он был `вооружённым` ходить в войну. (He was `armed` to go to war.)
+· Он купил `вооружённый` патрон. (He bought an `armed` cartridge.)

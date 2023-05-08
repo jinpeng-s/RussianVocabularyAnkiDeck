@@ -1,0 +1,8 @@
+подсчёт
+++++++++++
+1. [`noun, masculine`] count
+· Все делается вручную. Даже `подсчёт` товара. (Everything is done by hand. Even product `counting`.)
+· Есть неверность во `подсчёте` дохода. (There is an inaccuracy in income `counting`.)
+2. [`verb`] count
+· Ей пришлось `подсчитать` простые проблемы самой. (She had to `count` simple problems by herself.)
+· Я постарался `подсчитать`, сколько денег тратит моя семья в месяц. (I tried to `count` how much money my family spends in a month.)

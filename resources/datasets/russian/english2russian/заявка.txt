@@ -1,0 +1,8 @@
+за`я`вка
+++++++++++
+1. [`noun, feminine`] application
+· Она делала `заявку` на место в университете. (She made an `application` to the university.)
+· Наше агентство принимает `заявки` на квартиры. (Our agency is taking `applications` for apartments.)
+2. [`verb`] apply
+· Я `заявил` на эту работу. (I `applied` for this job.)
+· Он `заявил`, что он не готов к тесту. (He `applied` that he was not ready for the test.)

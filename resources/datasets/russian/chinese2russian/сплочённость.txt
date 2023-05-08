@@ -1,0 +1,10 @@
+сплочённость
+++++++++++
+1. [`noun, feminine`] cohesion
+· Организация не имеет `сплочённости` в своих решениях. (The organization doesn't have `cohesion` in its decisions.)
+· Для достижения максимального результата необходима высокая `сплочённость` команды. (High `cohesion` of the team is needed for achieving maximum results.)
+2. [`verb`] coalesce
+· Они успешно `сплотились`, чтобы достичь единой цели. (They successfully `coalesced` to reach a common goal.)
+· Эти два наброска идей `сплотились` в великую стратегию. (These two ideas `coalesced` into a great strategy.)
+++++++++++
+· 团结 (性)

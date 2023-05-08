@@ -1,0 +1,8 @@
+хран`и`ть
+++++++++++
+1. [`verb`] keep
+· Он продолжал `хранить` документы дома, чтобы никто не видел их. (He kept the documents at home, so nobody could see them.)
+· Она просила меня `хранить` секрет в тайне. (She asked me to keep the secret in secret.)
+2. [`noun, masculine`] keeping
+· Он нашёл работу, связанную со `хранением` данных. (He found a job related to `keeping` data.)
+· Разрешение подразумевает `хранение` данных. (The permission implies `keeping` data.)

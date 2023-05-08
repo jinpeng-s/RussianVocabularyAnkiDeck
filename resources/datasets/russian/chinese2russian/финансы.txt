@@ -1,0 +1,14 @@
+фин`а`нсы
+++++++++++
+1. [`noun, neuter`] finances
+· Бюджет Правительства на этот год предусматривает дальнейшее улучшение `финансов`. (The Government budget for this year envisages further improvement of the `finances`.)
+· Оказание помощи нуждающимся требует достаточно денег и грамотного управления `финансами`. (Providing help to the needy requires enough money and prudent management of the `finances`.)
+2. [`verb, perfective`] finance
+· Комитет по бюджету `финансировал` новую программу по борьбе с безработицей. (The budget committee `financed` a new program in the fight against unemployment.)
+· Они `финансировали` новый проект, используя средства из крауд-фандинга. (They `financed` the new project using the funds from crowdfunding.)
+++++++++++
+· 财力
+· 财务
+· 财政
+· 金融
+· 钱财

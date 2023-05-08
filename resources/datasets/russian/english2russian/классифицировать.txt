@@ -1,0 +1,8 @@
+классифиц`и`ровать
+++++++++++
+1. [`verb`] classify
+· Ученые `классифицировали` виды рыб по их сходствам. (Scientists `classified` fish species according to their similarities.)
+· Этот предмет `классифицируется` в категорию духовной литературы. (This subject is `classified` in the category of spiritual literature.)
+2. [`noun, masculine`] classification
+· Ученые выделили разные `классификации` живых существ на нашей планете. (Scientists identified different `classifications` of living creatures on our planet.)
+· Некоторые системы `классификации` дают довольно простой способ структурирования категорий. (Some systems of `classification` provide a fairly simple way of structuring categories.)

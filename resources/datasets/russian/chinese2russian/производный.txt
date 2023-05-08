@@ -1,0 +1,14 @@
+произв`о`дный
+++++++++++
+1. [`adjective`] derivative
+· Тегория является `производным` словом. (The category is a `derivative` word.)
+· Эта теория основана на `производных` принципах. (This theory is based on `derivative` principles.)
+2. [`verb`] derive
+· Теория `производится` из данных принципов. (The theory is `derived` from the given principles.)
+· Я исследовал, как этот результат `производится` из данных. (I studied how this result is `derived` from the data.)
+++++++++++
+· 导出的
+· 派生的
+· 导数, 微商
+· 微商
+· 派生的, 转成的

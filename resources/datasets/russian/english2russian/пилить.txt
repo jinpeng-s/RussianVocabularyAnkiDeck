@@ -1,0 +1,8 @@
+пил`и`ть
+++++++++++
+1. [`verb`] cut
+· Эта аккуратная работа требует, чтобы ее было `пилить` под лучшим углом. (This neat job requires it to be `cut` at the best angle.)
+· Его родители много денег потратили, `пиля` ему красивое платье. (His parents spent a lot of money `cutting` him a beautiful dress.)
+2. [`noun, masculine`] saw
+· Это дерево требует большой мощности `пилы`. (This tree requires a powerful `saw`.)
+· Мой брат имеет маленькую `пилу` для обрезки деревьев. (My brother has a small `saw` for trimming trees.)

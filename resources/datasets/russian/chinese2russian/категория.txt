@@ -1,0 +1,14 @@
+катег`о`рия
+++++++++++
+1. [`noun, feminine`] category
+· Каждая `категория` должна быть представлена в этом списке. (Each `category` should be represented in this list.)
+· В `категории` ремесла этот мастер был беспрецедентен. (In the `category` of crafts this master was unrivalled.)
+2. [`verb`] categorize
+· Данные могут быть `категоризованы` исходя из определённых условий. (The data can be `categorized` depending on certain conditions.)
+· После глубокого анализа эти данные были `категоризованы`. (After a thorough analysis, these data were `categorized`.)
+++++++++++
+· 等级, 种类, 范畴, 类型
+· 等级
+· 范畴
+· &lt;数&gt;范畴
+· 等级

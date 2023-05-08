@@ -1,0 +1,8 @@
+прож`е`ктор
+++++++++++
+1. [`noun, masculine`] projector
+· Он подключил `прожектор` к компьютеру. (He connected the `projector` to the computer.)
+· С помощью `прожектора` он показал нам интересную презентацию. (He showed us an interesting presentation with the `projector`.)
+2. [`verb`] project
+· Он `проектировал` мое путешествие. (He `projected` my journey.)
+· Он `проектирует` будущее технологические новинки. (He `projects` future technological novelties.)

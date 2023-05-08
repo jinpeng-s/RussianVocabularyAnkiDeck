@@ -1,0 +1,8 @@
+щётка
+++++++++++
+1. [`noun, feminine`] brush
+· Она не использует никакой `щётки` для мытья машины. (She doesn't use any `brush` to wash the car.)
+· Он приобрел `щётку` для мытья посуды. (He bought a `brush` to wash the dishes.)
+2. [`verb`] brush
+· Она `щеткой` спрятала последние лишние крошки. (She `brushed` away the last crumbs.)
+· Он `щеткой` протер пыль с полки. (He `brushed` the dust off the shelf.)

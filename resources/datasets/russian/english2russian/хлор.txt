@@ -1,0 +1,8 @@
+хл`о`р
+++++++++++
+1. [`noun, masculine`] chlorine
+· Бассейн содержал достаточное количество `хлора`. (The pool contained a sufficient amount of `chlorine`.)
+· В моей корзине было добавлено средство для обеззараживания содержащее `хлор`. (My basket had been added with a disinfecting agent containing `chlorine`.)
+2. [`verb, intransitive`] chlorinate
+· Используя `хлорирование` обеззараживают воду. (Using `chlorination` they purify the water.)
+· Водопровод регулярно `хлорируется`, чтобы уберечь от заражения. (The water supply is regularly `chlorinated` to protect from contamination.)

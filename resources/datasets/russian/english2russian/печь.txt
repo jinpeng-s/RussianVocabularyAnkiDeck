@@ -1,0 +1,8 @@
+п`е`чь
+++++++++++
+1. [`noun, feminine`] stove
+· У нас есть электрическая `печь`. (We have an electric `stove`.)
+· Она приготовила ужин на `печи`. (She cooked dinner on the `stove`.)
+2. [`verb`] to bake
+· Она часто `пекла` пироги. (She often `baked` pies.)
+· Мы решили `печь` хлеб дома. (We decided to `bake` bread at home.)

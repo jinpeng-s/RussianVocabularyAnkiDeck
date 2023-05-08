@@ -1,0 +1,11 @@
+ассигнов`а`ть
+++++++++++
+1. [`verb`] assign
+· Он попросил меня `ассигновать` мне эту задачу. (He asked me to `assign` this task to me.)
+· Он `ассигновал` мне средства для путешествия. (He `assigned` me funds for the trip.)
+2. [`verb`] allocate
+· Они `ассигновали` бюджет для данного проекта. (They `allocated` a budget for the project.)
+· Она `ассигновала` моим коллегам различные задачи. (She `allocated` various tasks to my colleagues.)
+++++++++++
+· 拨款
+· 花费

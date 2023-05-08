@@ -1,0 +1,8 @@
+случ`а`йный
+++++++++++
+1. [`adjective`] random
+· Это был `случайный` запрос. (It was a `random` request.)
+· У нас были некоторые `случайные` аргументы. (We had some `random` arguments.)
+2. [`noun, masculine`] random
+· Они уже знали `случайный` исход этой истории. (They already knew the `random` outcome of this story.)
+· `Случайный` просмотр дал некоторые ошибки. (The `random` review gave some errors.)

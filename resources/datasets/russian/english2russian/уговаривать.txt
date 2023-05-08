@@ -1,0 +1,8 @@
+угов`а`ривать
+++++++++++
+1. [`verb`] Persuade
+· Они уговорили меня пойти с ними. (They `persuaded` me to go with them.)
+· Она уговорила руководителя подписать этот договор. (She `persuaded` the manager to sign the contract.)
+2. [`verb`] Coerce
+· Они уговорили меня делать это путём насилия. (They `coerced` me to do it by violence.)
+· Мы не могли уговорить ее делать это разумными доводами. (We couldn't `coerce` her to do it by reasonable arguments.)

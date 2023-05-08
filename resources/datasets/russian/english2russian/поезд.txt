@@ -1,0 +1,8 @@
+п`о`езд
+++++++++++
+1. [`noun, masculine`] train
+· Они ехали на `поезде` в Париж. (They took a `train` to Paris.)
+· Я успел до `поезда`. (I made it to the `train`.)
+2. [`verb`] train
+· Они `тренируют` своего собаку для соревнований. (They `train` their dog for competitions.)
+· Они периодически `тренируют` своиго питомца. (They `train` their pet regularly.)

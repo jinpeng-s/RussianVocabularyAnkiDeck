@@ -1,0 +1,8 @@
+п`о`мнить
+++++++++++
+1. [`verb`] remember
+· Он `помнит` это событие. (He `remembers` this event.)
+· Нам нужно `помнить`, что он хочет сделать. (We need to `remember` what he wants to do.)
+2. [`noun`] memory
+· Это доставило ему `помнить` о днях былой молодости. (It brought him `memory` of the days of the past youth.)
+· Он имеет хорошую `помнить`. (He has a good `memory`.)

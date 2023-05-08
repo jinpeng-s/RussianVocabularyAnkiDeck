@@ -1,0 +1,8 @@
+т`е`кст
+++++++++++
+1. [`noun, masculine`] text
+· Я прочитал его `текст` дважды. (I read his `text` twice.)
+· Он написал короткий `текст` для моей презентации. (He wrote a short `text` for my presentation.)
+2. [Verb] text
+· Он послал мне `текст`. (He texted me.)
+· Она постоянно `текстила` его. (She was constantly texting him.)

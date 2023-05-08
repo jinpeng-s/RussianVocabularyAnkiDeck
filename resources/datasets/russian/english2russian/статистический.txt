@@ -1,0 +1,8 @@
+статист`и`ческий
+++++++++++
+1. [`adjective`] statistical
+· Таблица представляет `статистические` данные за прошлый месяц. (The table presents `statistical` data for the last month. )
+· Результаты исследования были систематически собраны в `статистической` таблице. (The results of the research were systematically collected in a `statistical` table.)
+2. [`noun, masculine`] statistic
+· Проект потребовал `статистических` данных из базы данных. (The project required `statistical` data from the database.)
+· Эксперты использовали `статистику` для прогнозирования трендов развития. (Experts used `statistics` to predict trends of development.)

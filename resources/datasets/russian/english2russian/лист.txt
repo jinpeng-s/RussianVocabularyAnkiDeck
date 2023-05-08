@@ -1,0 +1,8 @@
+л`и`ст
+++++++++++
+1. [`noun, masculine`] list
+· Он составил `лист` необходимых приобретений. (He made a `list` of necessary purchases.)
+· Она просила меня предоставить ей полный `лист` приобретаемой продукции. (She asked me to provide her with a full `list` of purchased products.)
+2. [`verb`] list
+· Я `листала` каталог, ища подходящую вещь. (I was `listing` through catalogs, looking for the appropriate item.)
+· Он `листал` страницы со всеми акциями. (He was `listing` the pages with all the sales.)

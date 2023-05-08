@@ -1,0 +1,8 @@
+полим`е`р
+++++++++++
+1. [`noun, masculine`] polymer
+· Эти материалы включают `полимеры` для улучшения характеристик деталей. (These materials include `polymers` to improve the characteristics of the parts.)
+· Он исследует модификации `полимера` с целью улучшения характеристик. (He is researching modifications of the `polymer` in order to improve its characteristics.)
+2. [`verb`] polymerize
+· Это реактив способен `полимеризовать` при низкой температуре и обладает более высокой прочностью. (This reagent is capable of `polymerizing` at low temperatures, and has a higher strength.)
+· Она моделирует `полимеризацию` реакций, чтобы предсказать начальные продукты. (She is modeling `polymerization` reactions to predict the initial products.)

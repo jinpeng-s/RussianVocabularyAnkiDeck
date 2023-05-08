@@ -1,0 +1,8 @@
+отключ`а`ть
+++++++++++
+1. [`verb`] disconnect
+· Он `отключил` принтер и покинул комнату. (He `disconnected` the printer and left the room.)
+· Он `отключил` компьютер от этого сервера. (He `disconnected` the computer from that server.)
+2. [`verb`] turn off
+· Он `отключил` свет и закрыл дверь. (He `turned off` the lights and closed the door.)
+· Он `отключил` мобильный телефон и положил на стол. (He `turned off` his mobile phone and put it on the table.)

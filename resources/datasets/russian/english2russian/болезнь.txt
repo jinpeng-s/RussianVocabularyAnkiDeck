@@ -1,0 +1,8 @@
+бол`е`знь
+++++++++++
+1. [`noun, feminine`] illness, disease
+· У моей матери он диагностировал тяжелую `болезнь`. (The doctor diagnosed a severe `illness` in my mother.)
+· Для лечения этой `болезни` необходимо следовать медицинским рекомендациям. (To treat this `disease` it is necessary to follow the medical recommendations.)
+2. [`verb`] to get sick
+· Она была плохо, потому что она `заболела`. (She was feeling bad because she `got sick`.)
+· Он `заболел` во время долгой дороги. (He `got sick` while on a long journey.)

@@ -1,0 +1,8 @@
+паралл`е`льный
+++++++++++
+1. [`adjective`] parallel
+· Хороший математик, он создал два `параллельных` плана проекта. (He is a good mathematician and came up with two `parallel` plans for the project.)
+· Эти две линии `параллельны`. (These two lines are `parallel`.)
+2. [`verb`] parallel
+· Учёные `параллелируют` исторические события друг с другом. (Scientists `parallel` historical events with each other.)
+· Он сравнивал `параллелируемые` действия глазами. (He compared `paralleled` actions with his eyes.)

@@ -1,0 +1,8 @@
+вари`а`нт
+++++++++++
+1. [`noun, masculine`] variant
+· У нас было несколько `вариантов`. (We had several `variants`.)
+· Ты должен выбрать один `вариант`. (You have to choose a single `variant`.)
+2. [`verb`] vary
+· Количество символов `варьируется` в зависимости от языка. (The number of characters `varies` depending on the language.)
+· Дизайн бутылки `варьировался` в зависимости от ее вида. (The bottle design `varied` depending on its type.)

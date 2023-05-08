@@ -1,0 +1,8 @@
+фикс`и`ровать
+++++++++++
+1. [`verb`] fix
+· Он просил меня `фиксировать` позицию сторон. (He asked me to `fix` the sides' positions.)
+· Я попросил программистов `фиксировать` результаты работы. (I asked the programmers to `fix` the results of their work.)
+2. [`noun`] fix
+· Вы должны `фиксировать` детали договора перед подписанием. (You need to `fix` the details of the contract before signing.)
+· Я получил `фиксированную` плату за работу. (I got a `fixed` salary for my work.)

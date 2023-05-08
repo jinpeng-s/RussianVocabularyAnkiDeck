@@ -1,0 +1,11 @@
+встр`а`ивать
+++++++++++
+1. [`verb`] embed, incorporate
+· Он умеет `встраивать` таблицы и графики в свои документы. (He can `embed` tables and graphs into his documents.)
+· Они планируют `встроить` новую технологию в свои процессы производства. (They plan to `incorporate` the new technology into their production processes.)
+2. [`verb`] insert
+· Программисты могут `встраивать` код в страницу HTML. (Programmers can `insert` code into an HTML page.)
+· Они хотят `встроить` дополнительные опции в это приложение. (They want to `insert` additional options into the application.)
+++++++++++
+· 敷设
+· 兴建

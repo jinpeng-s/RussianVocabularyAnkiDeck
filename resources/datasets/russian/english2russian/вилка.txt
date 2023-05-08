@@ -1,0 +1,8 @@
+в`и`лка
+++++++++++
+1. [`noun, feminine`] fork
+· У нас нет `вилки`. (We don't have a `fork`.)
+· За обед мы ели с `вилкой` и ножем. (For dinner we ate with a `fork` and a knife.)
+2. [`verb`] fork
+· Лес дорога `вилкалась` в разных направлениях. (The forest path `forked` in different directions.)
+· Дорога `вилкалась`, но мы выбрали правую сторону. (The road `forked`, but we chose the right side.)

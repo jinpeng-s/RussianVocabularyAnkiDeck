@@ -1,0 +1,8 @@
+перевоз`и`ть
+++++++++++
+1. [`verb`] transport
+· Эта компания занимается `перевозкой` грузов. (This company is engaged in the `transportation` of goods.)
+· Поезд приехал, чтобы `перевести` пассажиров до их назначенного пункта назначения. (The train arrived to `transport` passengers to their destination point.)
+2. [`noun, neuter`] transport
+· Они поставили `перевозку` из Польши. (They organized a `transport` from Poland.)
+· Поезда обеспечивают `перевозку` пассажиров по всей стране. (Trains provide `transport` of passengers across the whole country.)

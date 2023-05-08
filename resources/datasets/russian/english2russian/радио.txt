@@ -1,0 +1,8 @@
+радио
+++++++++++
+1. [`noun, neuter`] radio
+· В доме стояла круглая `радио`-приёмная антенна. (In the house stood a round `radio` receiving antenna.)
+· В магазине продают новое `радио`. (At the store they sell a new `radio`.)
+2. [`verb`] radio
+· Мы планировали `радиовещание` программу. (We planned to `radio` a program.)
+· Все были в зажигательном настроении и под `радио` танцевали. (Everyone was in a buoyant mood and dancing to the `radio`.)

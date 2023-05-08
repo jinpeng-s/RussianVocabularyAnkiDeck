@@ -1,0 +1,8 @@
+тверд`и`ть
+++++++++++
+1. [`verb`] assert
+· Они сторожу `твердили` свои права. (They `asserted` their rights.)
+· Он `твердил`, что никто не знает ответ. (He `asserted` that nobody knows the answer.)
+2. [`verb`] affirm
+· Она `твердила` своё уважение к этому делу. (She `affirmed` her respect to this matter.)
+· Он `твердил` необходимость предпринять действия. (He `affirmed` the need to take action.)

@@ -1,0 +1,10 @@
+микропроц`е`ссор
+++++++++++
+1. [`noun, masculine`] microprocessor
+· Современные мобильные телефоны имеют `микропроцессоры`, которые позволяют работать быстро. (Modern smartphones have `microprocessors` that allow them to operate quickly.)
+· `Микропроцессор` регулирует функции многих электрических устройств. (A `microprocessor` regulates the functions of many electrical devices.)
+2. [`verb`] microprocess
+· Они `микропроцессировали` большую базу данных для анализа. (They `microprocessed` a large database for analysis.)
+· Используя современное оборудование, она `микропроцессировала` большое количество данных. (Using modern equipment, she `microprocessed` a large amount of data.)
+++++++++++
+· 微处理器

@@ -1,0 +1,8 @@
+вн`у`тренний
+++++++++++
+1. [`adjective`] internal
+· Работа по `внутренним` процессам была закончена. (The work on `internal` processes was completed.)
+· Это будет происходить по `внутренним` правилам компании. (It will be done according to the `internal` rules of the company.)
+2. [`noun, neuter`] internals
+· `Внутренние` предки работало безукоризненно. (The `internals` worked perfectly.)
+· Он эксперт в разработке `внутренних` структур. (He is an expert in developing `internals` structures.)

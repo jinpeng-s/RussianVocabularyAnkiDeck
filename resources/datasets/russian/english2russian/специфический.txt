@@ -1,0 +1,8 @@
+специф`и`ческий
+++++++++++
+1. [`adjective`] specific
+· `Специфические` условия должны быть точно определены. (`Specific` conditions should be precisely defined.)
+· Его судьба зависела от `специфических` обстоятельств. (His fate depended on `specific` circumstances.)
+2. [`noun, neuter`] specificity
+· У данного документа нет `специфичности`. (This document lacks `specificity`.)
+· В планах должна быть прописана `специфичность` каждого этапа. (The plans should specify the `specificity` of each stage.)

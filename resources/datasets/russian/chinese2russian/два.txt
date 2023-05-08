@@ -1,0 +1,10 @@
+два
+++++++++++
+1. [`numeral`] two
+· У меня есть `два` брата. (I have `two` brothers.)
+· Я вижу `два` кота. (I see `two` cats.)
+2. [`adjective, adverb`] twice
+· Она хочет `дважды` проверить результат. (She wants to `twice` check the result.)
+· Он говорит `дважды` медленнее. (He speaks `twice` slowly.)
+++++++++++
+· 远东军队

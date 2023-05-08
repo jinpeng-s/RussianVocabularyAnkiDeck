@@ -1,0 +1,8 @@
+род`и`тели
+++++++++++
+1. [`noun, plural`] parents
+· Они согласились на совместное общание `родителей` и детей. (They agreed on a joint meeting of `parents` and children.)
+· Семья пригласила `родителей`. (The family invited the `parents`.)
+2. [`verb, reflexive`] parent
+· Дети `родились` в марте этого года. (The children `were born` in March this year.)
+· Они `родились` из той же семьи, в которой и росли. (They `were parented` from the same family where they grew up.)

@@ -1,0 +1,8 @@
+полов`и`на
+++++++++++
+1. [`noun, feminine`] half
+· В аукционе было продано `половину` товаров. (Half of the goods were sold at the auction.)
+· Он `половина` своего времени работает и другая часть отдыхает. (He spends `half` of his time working and the other half relaxing.)
+2. [`verb, transitive`] to halve
+· Он `поделил` пирог пополам. (He `halved` the pie.)
+· Нас здесь `поделили` на две группы. (We were `halved` into two groups here.)

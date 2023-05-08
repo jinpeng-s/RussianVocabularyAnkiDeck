@@ -1,0 +1,8 @@
+пропорцион`а`льный
+++++++++++
+1. [`adjective`] proportional
+· Результаты были `пропорциональны` к труду. (The results were `proportional` to the effort.)
+· Ўчёт `пропорциональный` распределению времени. (A `proportional` allocation of time.)
+2. [`verb`] proportionalise
+· Ты должен применять метод `пропорциональности` для решения проблемы. (You should apply the method of `proportionalisation` to solve the problem.)
+· Во избежание обмана нужно `пропорциональное` взвешивание ответов. (A `proportional` weighing of answers is needed to avoid cheating.)

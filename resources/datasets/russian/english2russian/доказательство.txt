@@ -1,0 +1,8 @@
+доказ`а`тельство
+++++++++++
+1. [`noun, neuter`] evidence
+· Он предоставил `доказательство`, что он не виноват. (He provided `evidence` that he was not guilty.)
+· Прокурор предоставил `доказательства`, что он был прав. (The prosecutor presented `evidence` that he was right.)
+2. [`verb`] prove
+· Он доказал, что теория была верна. (He `proved` that the theory was correct.)
+· Она не может `доказать`, что он говорил правду. (She can't `prove` that he was telling the truth.)

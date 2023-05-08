@@ -1,0 +1,8 @@
+проект`и`рование
+++++++++++
+1. [`noun, neuter`] design
+· Марк работает над `проектированием` нового продукта. (Mark is working on the `design` of a new product.)
+· Он прошел курс по `проектированию`. (He took a course on `design`.)
+2. [`verb`] design
+· Она `проектирует` современные дизайны для салонов. (She `designs` modern designs for salons.)
+· Он `проектировал` музей, который был построен в последнее время. (He `designed` a museum that was built recently.)

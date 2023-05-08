@@ -1,0 +1,8 @@
+од`и`н
+++++++++++
+1. [`numeral`] one
+· На столе всего два бокала и одна `один` скатерть. (There are only two glasses on the table and one `one` tablecloth.)
+· `Один` ученик вошел в класс. (`One` student entered the classroom.)
+2. [`adjective`] single
+· `Один` лотерейный билет на 2020 год. (`One` lottery ticket for 2020.)
+· Они были `одной` семьей. (They were a `single` family.)

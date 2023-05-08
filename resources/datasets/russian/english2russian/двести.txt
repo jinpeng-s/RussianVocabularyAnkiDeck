@@ -1,0 +1,8 @@
+дв`е`сти
+++++++++++
+1. [`adjective`] two hundred
+· Стоимость билета `двести` рублей. (The ticket costs `two hundred` rubles.)
+· Работа длилась `двести` часов. (The work lasted `two hundred` hours.)
+2. [`numeral`] two hundred
+· Он потратил `двести` рублей на данную покупку. (He spent `two hundred` rubles on this purchase.)
+· Он написал `двести` страниц своей работы. (He wrote `two hundred` pages of his work.)

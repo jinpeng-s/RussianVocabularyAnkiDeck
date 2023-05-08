@@ -1,0 +1,10 @@
+вычисл`и`тельный
+++++++++++
+1. [`noun, masculine`] computational
+· Это вычислительное `устройство` может совершать довольно сложные операции. (This `computational` device can perform quite complex operations.)
+· Эти исследователи использовали вычислительные `методы` для анализа их данных. (These researchers used `computational` methods for analyzing their data.)
+2. [`adjective`] computational
+· Исследователи разработали новую вычислительную `технологию`, которая была бы более эффективной. (The researchers developed a new `computational` technology, which would be more efficient.)
+· То, что он нашёл, представляло собой вычислительное `решение` для данной проблемы. (What he found was a `computational` solution for this problem.)
+++++++++++
+· 计算的, 用于计算的

@@ -1,0 +1,8 @@
+с`е`мь
+++++++++++
+1. [`numeral`] seven
+· У него  `семь` дочерей. (He has seven daughters.)
+· Он имеет `семь` сестёр. (He has seven sisters.)
+2. [`adjective`] seventh
+· Я посетил `седьмую` палату. (I visited the seventh room.)
+· Она стала `седьмой` по счёту в очереди. (She became the seventh in line.)

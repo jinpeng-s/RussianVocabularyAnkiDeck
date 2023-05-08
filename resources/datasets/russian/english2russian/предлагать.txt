@@ -1,0 +1,8 @@
+предлаг`а`ть
+++++++++++
+1. [`verb`] offer
+· Они `предлагают` скидку на все товары. (They `offer` a discount on all products.)
+· Он любезно `предложил` мне свою помощь. (He kindly `offered` me his help.)
+2. [`verb`] suggest
+· Они `предложили` нам новый способ решения проблемы. (They `suggested` a new way of problem-solving to us.)
+· Он `предлагал` мне посетить экскурсию. (He `suggested` I visit the tour.)

@@ -1,0 +1,9 @@
+д`а`нные
+++++++++++
+1. [`noun, plural`] data
+· На основе этих `данных`, мы можем предполагать, что цена будет падать. (Based on these `data`, we can anticipate that the price will fall.)
+· Учёные рано приняли достоверность `данных`. (Scientists early accepted the credibility of the `data`.)
+2. [`verb`] give
+· Этот процесс `даёт` нам новые математические решения. (This process `gives` us new mathematical solutions.)
+· Она экономически `дала` поручение для подготовки отчёта. (She financially `gave` the order to prepare a report.)
+++++++++++

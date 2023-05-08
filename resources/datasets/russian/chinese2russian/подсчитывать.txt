@@ -1,0 +1,12 @@
+подсч`и`тывать
+++++++++++
+1. [`verb`] count
+· Я `подсчитываю` очки в игре. (I'm `counting` the points in the game.)
+· Он просил меня `подсчитывать` число людей в комнате. (He asked me to `count` the number of people in the room.)
+2. [`verb`] tally
+· Она `подсчитывала` деньги, принесённые на праздник. (She was `tallying` the money brought to the party.)
+· Он `подсчитывал` голоса во время голосования. (He was `tallying` the votes during the voting process.)
+++++++++++
+· 计算
+· 结算
+· 统计

@@ -1,0 +1,8 @@
+кли`е`нт
+++++++++++
+1. [`noun, masculine`] client
+· Он был `клиентом` банка более 10 лет. (He was a `client` of the bank for more than 10 years.)
+· Этот `клиент` из Австралии. (This is a `client` from Australia.)
+2. [`verb`] client
+· Каждый день он `клиентовли` новых клиентов. (He was `clientsing` new clients every day.)
+· Наша компания попыталась `клиентовлить` клиентов из других стран. (Our company tried to `clients` clients from other countries.)

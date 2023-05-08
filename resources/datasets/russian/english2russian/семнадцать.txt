@@ -1,0 +1,8 @@
+семн`а`дцать
+++++++++++
+1. [`numeral`] seventeen
+· У нас было `семнадцать` студентов в классе. (We had `seventeen` students in the class.)
+· У нас `семнадцать` принтеров. (We had `seventeen` printers.)
+2. [`adjective`] seventeenth
+· Вчера был `семнадцатый` день ноября. (Yesterday was the `seventeenth` day of November.)
+· Он слушал `семнадцатую` серию радиопередачи. (He was listening to the `seventeenth` episode of the radio broadcast.)

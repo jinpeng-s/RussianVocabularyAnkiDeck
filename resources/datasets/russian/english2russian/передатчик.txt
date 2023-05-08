@@ -1,0 +1,8 @@
+перед`а`тчик
+++++++++++
+1. [`noun, masculine`] transmitter
+· Телевизор подключён к приёмнику и `передатчику` сигналов. (The television is connected to the receiver and `transmitter` of signals.)
+· Наш радиостанция построили при помощи `передатчика` высокой мощности. (Our radio station was built with a high-powered `transmitter`.)
+2. [`verb`] transmit
+· Рации используются для `передачи` различных видов информации на большое расстояние. (Radios are used to `transmit` different types of information over long distances.)
+· Нужно `передать` эту информацию трансляцией. (We need to `transmit` this information by broadcast.)

@@ -1,0 +1,8 @@
+говор`и`ть
+++++++++++
+1. [`verb`] to speak
+· Сколько языков он `говорит`? (How many languages does he `speak`?)
+· Я не `говорю` по-английски хорошо. (I don't `speak` English well.)
+2. [`verb`] to say
+· Мама `говорила`, что мы должны быть честны. (Mom `said` that we should be honest.)
+· Я ему `говорю`, что нам нужно учиться. (I `tell` him that we need to study.)

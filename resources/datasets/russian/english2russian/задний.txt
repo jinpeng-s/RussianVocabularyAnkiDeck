@@ -1,0 +1,8 @@
+з`а`дний
+++++++++++
+1. [`adjective`] rear
+· Он поставил авто в `заднем` ряду. (He put the car in the `rear` row.)
+· Говорят, что здесь есть `задняя` дверь. (They say that there is a `rear` door here.)
+2. [`noun, masculine`] rear
+· На самолете произошла пожар в `заднем` отсеке. (There was a fire in the `rear` compartment of the plane.)
+· `Задний` проем установлен на отсек диспетчера. (The `rear` aperture is installed on the dispatcher compartment.)

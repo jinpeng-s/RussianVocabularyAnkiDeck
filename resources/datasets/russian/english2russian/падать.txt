@@ -1,0 +1,8 @@
+п`а`дать
+++++++++++
+1. [`verb`] fall
+· На дереве `падали` кроны. (The crowns were `falling` off the tree.)
+· Дождь и `падал` уже несколько часов. (It had been `falling` for several hours.)
+2. [`verb, reflexive`] fall
+· Дерево `падало` несколькими частями. (The tree was `falling` in several parts.)
+· Игроки с `падали` друг на друга. (The players were `falling` on each other.)

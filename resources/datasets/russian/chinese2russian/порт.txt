@@ -1,0 +1,12 @@
+п`о`рт
+++++++++++
+1. [`noun, masculine`] port
+· Мы были работать на `порту`. (We were working at the `port`.)
+· Это городской `порт`. (This is a city `port`.)
+2. [`verb`] port
+· Они `портировали` программу на другую платформу. (They `ported` the program to another platform.)
+· Нам пришлось `портировать` проект с iOS на Android. (We had to `port` the project from iOS to Android.)
+++++++++++
+· 港埠
+· 港口, 口岸, 码头
+· 舷门, 装货口

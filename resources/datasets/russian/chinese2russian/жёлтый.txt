@@ -1,0 +1,10 @@
+жёлтый
+++++++++++
+1. [`adjective`] yellow
+· Эти дома `жёлтого` цвета. (These houses are `yellow`.)
+· У меня есть `жёлтые` рукавицы. (I have `yellow` arm warmers.)
+2. [`noun, masculine`] yellow
+· На рамке нарисован круг `жёлтого` цвета. (A circle of `yellow` color is drawn on the frame.)
+· Я делаю `жёлтые` банты. (I'm making `yellow` ribbons.)
+++++++++++
+· 黄色的

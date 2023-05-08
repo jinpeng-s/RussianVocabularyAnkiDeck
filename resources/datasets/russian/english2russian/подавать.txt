@@ -1,0 +1,8 @@
+подав`а`ть
+++++++++++
+1. [`verb, imperfective`] to submit
+· Он просил ее `подавать` заявку в банк. (He asked her to `submit` an application to the bank.)
+· Мы просили их `подавать` документы до конца месяца. (We asked them to `submit` the documents by the end of the month.)
+2. [`verb, perfective`] to present
+· Мы `подали` проект организации на конкурс. (We `presented` the organization's project for the contest.)
+· Она решила `подать` жалобу в суд. (She decided to `present` a complaint to the court.)

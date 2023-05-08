@@ -1,0 +1,8 @@
+т`о`к
+++++++++++
+1. [`noun, masculine`] current
+· Электротехнические приборы используют `ток` для измерения.  (Electrical devices use `current` to measure.)
+· Электроаппарат имеет ввод на `ток`. (The electrophoresis apparatus has an input for `current`.)
+2. [`verb`] current
+· Он `тек` по комнате. (He `currented` around the room.)
+· Я слышал, что информация была `текущей`. (I heard that the information was `current`.)

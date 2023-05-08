@@ -1,0 +1,8 @@
+перв`и`чный
+++++++++++
+1. [`adjective`] primary
+· Он `первичный` поставщик нескольких предметов. (He is the `primary` supplier of several items.)
+· Она была участницей всего `первичного` обсуждения. (She took part in the `primary` discussion.)
+2. [`noun, neuter`] primary
+· Пройдите `первичное` тестирование. (Pass the `primary` testing.)
+· Он получил `первичное` образование в своём городе. (He got his `primary` education in his hometown.)

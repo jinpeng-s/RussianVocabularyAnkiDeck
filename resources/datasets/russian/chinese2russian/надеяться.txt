@@ -1,0 +1,11 @@
+над`е`яться
+++++++++++
+1. [`verb`] hope
+· Я `надеюсь`, что он свяжется со мной скоро. (I `hope` that he will contact me soon.)
+· Они `надеялись`, что всё пойдёт хорошо. (They `hoped` that everything would go well.)
+2. [`verb, reflexive`] expect
+· Он не `надеялся` на такой хороший результат. (He did not `expect` such a good result.)
+· Мы `надеялись`, что их проект станет очень популярным. (We `expected` their project to become very popular.)
+++++++++++
+· 盼望, 指望
+· 信赖

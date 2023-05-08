@@ -1,0 +1,8 @@
+нед`а`вно
+++++++++++
+1. [`adverb`] recently
+· Он только `недавно` уехал из Москвы. (He `recently` left Moscow.)
+· Она тоже `недавно` получила премию. (She `recently` received the award, too.)
+2. [`adjective`] recent
+· Это только `недавние` события. (These are just `recent` events.)
+· В его резюме были указаны только `недавние` достижения. (His resume only mentioned `recent` achievements.)

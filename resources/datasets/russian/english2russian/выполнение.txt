@@ -1,0 +1,8 @@
+выполн`е`ние
+++++++++++
+1. [`noun, neuter`] completion
+· Урок `выполнения` задания занял много времени. (The task `completion` took a lot of time.)
+· Работа была надлежащим образом `выполнена`. (The work was duly `completed`.)
+2. [`verb`] complete
+· У меня есть день на `выполнение` этой работы. (I have one day to `complete` this work.)
+· Он пытается как можно скорее `выполнить` это задание. (He is trying to `complete` the task as soon as possible.)

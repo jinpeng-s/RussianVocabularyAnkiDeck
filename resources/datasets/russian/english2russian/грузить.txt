@@ -1,0 +1,8 @@
+груз`и`ть
+++++++++++
+1. [`verb`] load
+· Он грузит свои вещи на борт корабля. (He is `loading` his things onto the ship.)
+· Вторая бригада грузит бензин. (The second squad is `loading` gasoline.)
+2. [`noun, neuter`] load
+· Груз был доставлен вовремя. (The `load` was delivered in time.)
+· Рассчитайте стоимость груза. (Calculate the `cost` of the load.)

@@ -1,0 +1,8 @@
+недопуст`и`мый
+++++++++++
+1. [`adjective`] Inadmissible
+· Такое поведение не `недопустимо` в нашем рабочем окружении. (Such behavior is `inadmissible` in our working environment.)
+· Вы давали `недопустимое` оправдание для пропуска. (You gave an `inadmissible` excuse for missing.)
+2. [`verb`] Invalidate
+· Это `недопустимо` уничтожить памятник истории. (It is `invalidated` to destroy a historical monument.)
+· Несогласие между двумя сторонами  `недопустимо`. (Disagreement between two sides is `invalidated`.)

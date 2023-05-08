@@ -1,0 +1,8 @@
+изд`а`тельство
+++++++++++
+1. [`noun, neuter`] publication
+· `Издательство` выпустило новую книгу. (The `publication` released a new book.)
+· Автор ищет `издательство` для своей книги. (The author is looking for a `publication` for her book.)
+2. [`verb`] publish
+· `Издательство` печатает десятки книг в год. (The`publishes` dozens of books per year.)
+· `Издать` книгу требует лет подготовки. (It takes years to `publish` a book.)

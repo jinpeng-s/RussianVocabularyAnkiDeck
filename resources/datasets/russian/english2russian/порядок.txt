@@ -1,0 +1,8 @@
+пор`я`док
+++++++++++
+1. [`noun, masculine`] order, arrangement, sequence
+· Нам нужно следовать строгому `порядку`. (We need to follow strict `order`.)
+· Войска держались в два строю по `порядку` строгого очерёдности. (The army stood in two rows in a strict `sequence`.)
+2. [`verb`] to arrange, to put in order
+· Она `порядковала` свою комнату. (She `arranged` her room.)
+· Мы `порядковали` задачи по приоритету. (We `arranged` the tasks according to their priority.)

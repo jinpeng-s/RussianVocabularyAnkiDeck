@@ -1,0 +1,8 @@
+тожд`е`ственный
+++++++++++
+1. [`adjective`] identical
+· Это `тождественные` бренды. (These are `identical` brands.)
+· Эти два паспорта `тождественны`. (These two passports are `identical`.)
+2. [`noun, neuter`] identity
+· Он нашёл `тождественность` в разговоре. (He found an `identity` in the conversation.)
+· Он подтвердил `тождественность` открытого ключа. (He confirmed the `identity` of the public key.)

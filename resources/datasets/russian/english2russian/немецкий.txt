@@ -1,0 +1,8 @@
+нем`е`цкий
+++++++++++
+1. [`adjective`] German
+· У нас есть `немецкий` учитель французского языка. (We have a `German` teacher for French.)
+· Он изучал `немецкий` язык в течение двух лет. (He studied `German` for two years.)
+2. [`noun, masculine`] German
+· Он владеет несколькими `немецкими` языками. (He is proficient in several `German` languages.)
+· Многие туристы изучают `немецкий` язык. (Many tourists are learning `German`.)

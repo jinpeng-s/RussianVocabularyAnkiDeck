@@ -1,0 +1,8 @@
+в`и`на
+++++++++++
+1. [`noun, feminine`] guilt
+· Она признала `вину`, совершивших эту ошибку. (She acknowledged the `guilt` of those who made this mistake.)
+· Он отказался признать `вину`. (He refused to admit `guilt`.)
+2. [`verb`] blame
+· Нет смысла `винить` другого человека за твои ошибки. (There is no point `blaming` another person for your mistakes.)
+· Возможно, тебе не стоит `винить` себя за ее решения. (Maybe you should not `blame` yourself for her decisions.)

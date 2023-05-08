@@ -1,0 +1,8 @@
+физ`и`ческий
+++++++++++
+1. [`adjective`] physical
+· Он отсутствовал из-за `физических` проблем. (He was absent due to `physical` problems.)
+· Необходимо пройти `физическое` обследование. (It is necessary to pass a `physical` examination.)
+2. [`noun, masculine`] physics
+· Преподаватель рассказывает об `физике`. (The teacher is talking about `physics`.)
+· `Физический` эксперимент позволяет понять законы природы. (A `physical` experiment allows us to understand the laws of nature.)

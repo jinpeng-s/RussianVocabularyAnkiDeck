@@ -1,0 +1,8 @@
+директ`и`ва
+++++++++++
+1. [`noun, feminine`] directive
+· Он принял `директиву`. (He adopted the `directive`.)
+· Данная `директива` охватывает весь регион. (This `directive` covers the entire region.)
+2. [`verb`] direct
+· Правительство `директировало` модернизацию садовников. (The government `directed` modernization of gardeners.)
+· Изменения `директируются` из Лондона. (The changes are `directed` from London.)

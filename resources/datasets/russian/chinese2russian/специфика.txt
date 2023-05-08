@@ -1,0 +1,12 @@
+спец`и`фика
+++++++++++
+1. [`noun, feminine`] specification
+· На этих товарах есть `специфика` безопасности. (There is a safety `specification` on these goods.)
+· Эта `специфика` обязательна к исполнению. (This `specification` is compulsory.)
+2. [`verb`] specify
+· Она не `специфицировала` время прибытия. (She did not `specify` the time of arrival.)
+· Я должен `специфицировать` требования. (I need to `specify` the requirements.)
+++++++++++
+· 特点
+· 特性
+· 特征

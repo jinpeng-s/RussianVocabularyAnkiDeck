@@ -1,0 +1,8 @@
+перемещ`а`ть
+++++++++++
+1. [`verb`] move
+· Они планируют `перемещать` всё в следующей неделе. (They are planning to `move` everything next week.)
+· Он `переместил` мебель в другую комнату. (He `moved` the furniture to another room.)
+2. [`verb, reflexive`] move oneself
+· Он не смог `переместиться` из-за холода. (He couldn't `move himself` because of the cold.)
+· Я никак не могу `переместиться` - мои ноги устали. (I can't `move myself` - my legs are tired.)

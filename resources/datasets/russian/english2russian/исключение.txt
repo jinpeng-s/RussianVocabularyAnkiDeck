@@ -1,0 +1,8 @@
+исключ`е`ние
+++++++++++
+1. [`noun, neuter`] exception
+· В данном случае, нет никаких `исключений`. (In this case, there are no `exceptions`.)
+· Мы должны делать исключения для тех, кто вышел на пенсию. (We must make `exceptions` for those who have retired.)
+2. [`verb`] exception
+· Они `исключили` его из списка. (They `exceptioned` him from the list.)
+· Она `исключила` все мои опасения. (She `exceptioned` all my fears.)

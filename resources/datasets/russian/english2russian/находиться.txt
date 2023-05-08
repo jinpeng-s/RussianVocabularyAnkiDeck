@@ -1,0 +1,8 @@
+наход`и`ться
+++++++++++
+1. [`verb, imperfective`] to be located
+· Библиотека `находится` здесь же. (The library is `located` right here.)
+· Завтрашнее мероприятие `находится` в этом здании. (The tomorrow's event is `located` in this building.)
+2. [`verb, perfective`] to be found, to find
+· В библиотеке `находился` группа учеников. (A group of students was `found` in the library.)
+· Они `находили` книги, которые им нужны. (They `found` the books they needed.)

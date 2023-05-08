@@ -1,0 +1,8 @@
+свед`е`ние
+++++++++++
+1. [`noun, neuter`] information
+· У меня есть некоторые `сведения` о той стране. (I have some `information` about that country.)
+· Мне было необходимо больше `сведений` о нём. (I needed more `information` about him.)
+2. [`verb`] inform
+· Он должен сообщить мне все `сведения` о происходящем. (He should `inform` me of all the details of what is happening.)
+· Эта программа призывает детей `сведению` в школе о том, как противостоять детскому насилию. (This programme exhorts children to `inform` the school about how to stand against child abuse.)

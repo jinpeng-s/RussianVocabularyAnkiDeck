@@ -1,0 +1,8 @@
+числ`о`
+++++++++++
+1. [`noun, neuter`] number
+· На письме был написан `число` 67. (The number 67 was written on the letter.)
+· Это `число` будет увеличиваться каждый год. (This number will increase every year.)
+2. [`verb`] number
+· Они `прочислили` всех работников. (They `numbered` all the employees.)
+· На билете были `прочислены` две цифры. (Two figures were `numbered` on the ticket.)

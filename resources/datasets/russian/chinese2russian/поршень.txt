@@ -1,0 +1,13 @@
+п`о`ршень
+++++++++++
+1. [`noun, masculine`] piston
+· В моторе используется несколько `поршней`. (Several `pistons` are used in the engine.)
+· Трудности при открытии `поршня` были неожиданными. (The difficulties while opening the `piston` were unexpected.)
+2. [`verb`] piston
+· Двигатель был дизельный, `поршавший` бойлер. (The engine was a diesel, `pistoning` the boiler.)
+· Жидкость высокого давления набирается и при каждом импульсе `поршает` цилиндры. (The high-pressure liquid is accumulated and at each impulse it `pistons` the cylinders.)
+++++++++++
+· 活塞
+· (复数) 凉鞋
+· 闩体
+· 柱塞

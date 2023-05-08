@@ -1,0 +1,8 @@
+уменьш`а`ть
+++++++++++
+1. [`verb`] reduce
+· Цена на товар должна `уменьшаться` каждый месяц. (The price of the product should be `reducing` every month.)
+· Они отказались `уменьшать` свою производственную линию. (They refused to `reduce` their production line.)
+2. [`verb`] decrease
+· Число потребителей `уменьшалось` от месяца к месяцу. (The number of consumers was `decreasing` month after month.)
+· Бюджет должен `уменьшаться` при низком уровне экономической активности. (The budget must be `decreasing` when the economy is slow.)

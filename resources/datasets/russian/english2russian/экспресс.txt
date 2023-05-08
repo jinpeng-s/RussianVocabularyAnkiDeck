@@ -1,0 +1,8 @@
+экспр`е`сс
+++++++++++
+1. [`noun, masculine`] express
+· Он пришёл на вокзал вовремя для `экспресс-поезда`. (He arrived at the station in time for the `express-train`.)
+· Там был дорогой `экспресс-курс`. (There was an expensive `express-course` there.)
+2. [`adjective`] express
+· `Экспресс-доставка` предоставляет более быструю доставку. (`Express-delivery` provides a faster delivery.)
+· Мы используем `экспресс-форму`, чтобы заполнить данные. (We use an `express-form` to fill in the data.)

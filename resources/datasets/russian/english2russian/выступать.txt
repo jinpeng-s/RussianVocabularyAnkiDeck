@@ -1,0 +1,8 @@
+выступ`а`ть
+++++++++++
+1. [`verb, infinitive`] to perform
+· Он будет `выступать` на концерте. (He will be `performing` at the concert.)
+· Она всегда `выступает` хорошо. (She always `performs` well.)
+2. [`verb, perfective`] to give a speech
+· Он `выступил` с докладом на конференции. (He `gave a speech` at the conference.)
+· Я `выступила` в поддержку данного проекта. (I `gave a speech` in support of the project.)

@@ -1,0 +1,8 @@
+транспорт`и`ровать
+++++++++++
+1. [`verb`] transport
+· Они `транспортировали` груз из одной страны в другую. (They `transported` the cargo from one country to another.)
+· Правительство собирается `транспортировать` туристов на самолетах. (The government plans to `transport` tourists by planes.)
+2. [`noun, masculine`] transport
+· Он предоставил нам `транспортировку` в аэропорт. (He provided us with `transport` to the airport.)
+· Он планирует развитие `транспортировки` для дальних районов. (He plans to develop `transport` for remote areas.)

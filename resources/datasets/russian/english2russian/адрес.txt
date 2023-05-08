@@ -1,0 +1,8 @@
+`а`дрес
+++++++++++
+1. [`noun`] adress
+· Я не помню точный `адрес` этого места. (I don't remember the exact `adress` of this place.)
+· У меня есть `адрес` его нового места нахождения. (I have his new `adress`.)
+2. [`verb`] address
+· Я просил его `адресовать` свои слова ко мне. (I asked him to `address` his words to me.)
+· Президент `адресовал` открытое письмо народу. (The president `addressed` an open letter to the people.)

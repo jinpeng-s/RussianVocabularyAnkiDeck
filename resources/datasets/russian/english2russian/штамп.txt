@@ -1,0 +1,8 @@
+шт`а`мп
+++++++++++
+1. [`noun`] stamp
+· Он покупал `штамп`, чтобы печатать буклеты. (He bought a `stamp` to print leaflets.)
+· Они нанесли `штамп` на бумажную карту. (They put a `stamp` on a paper card.)
+2. [`verb`] stamp
+· Они `штамповали` почтовое отправление для отправки. (They `stamped` the mail for sending.)
+· Он `штамповал` это письмо штампом своего отдела. (He `stamped` the letter with the stamp of his department.)

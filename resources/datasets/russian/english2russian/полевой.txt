@@ -1,0 +1,8 @@
+полев`о`й
+++++++++++
+1. [`adjective`] field
+· Он походил в `полевой` службе. (He served in `field` service.)
+· Ты знаком с `полевой` археологией? (Are you familiar with `field` archaeology?)
+2. [`noun, masculine`] field
+· Разведчики проходили `полевое` обучение. (The scouts underwent `field` training.)
+· Он делает `полевое` исследование о растениях. (He is doing `field` research on plants.)

@@ -1,0 +1,8 @@
+зам`е`тка
+++++++++++
+1. [`noun, feminine`] note
+· В каждой `заметке` написаны важные сведения. (Important information is written in each `note`.)
+· Они изучали краткое `заметки` обо всех городах. (They studied brief `notes` about all cities.)
+2. [`verb`] take note of
+· Она запомнила и правильно использовала `заметку`. (She remembered and correctly applied the `note`.)
+· Они должны внимательно `заметить` все изменения. (They have to `take note of` all the changes.)

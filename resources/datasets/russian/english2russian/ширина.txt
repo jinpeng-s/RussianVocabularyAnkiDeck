@@ -1,0 +1,8 @@
+ширин`а`
+++++++++++
+1. [`noun, feminine`] width
+· Этот туннель имеет `ширину` более 10 метров. (This tunnel has a `width` of more than 10 meters.)
+· `Ширина` дорожки составляет 2 метра. (The `width` of the track is 2 meters.)
+2. [`verb, imperfective`] widen
+· Автомобильная дорога была `расширена`. (The car road was `widened`.)
+· Здесь постоянно `расширяют` шоссе. (Here they are constantly `widening` the highway.)

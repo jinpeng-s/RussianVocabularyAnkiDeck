@@ -1,0 +1,12 @@
+перечисл`я`ть
+++++++++++
+1. [`verb, infinitive`] list
+· Здесь перечислены все компоненты проекта. (All components of the project are `listed` here.)
+· Перед началом проекта нам нужно `перечислять` все необходимые средства. (Before starting the project, we need to `list` all the necessary resources.)
+++++++++++
+· 列举
+· 改编入
+· 调往
+· 划拨
+· 转汇
+· 转帐

@@ -1,0 +1,8 @@
+привед`е`ние
+++++++++++
+1. [`noun, neuter`] introduction
+· Это `приведение` к книге о русском языке. (This is an `introduction` to a book about Russian language.)
+· Это `приведение` содержит подробное описание каждого главы. (This `introduction` contains a detailed description of each chapter.)
+2. [`verb`] to introduce
+· Я хочу представить вас десяти человекам, которые здесь сегодня. (I want to `introduce` you to the ten people who are here today.)
+· Она `привела` нас в этот важный момент жизни. (She `introduced` us to this important moment of life.)

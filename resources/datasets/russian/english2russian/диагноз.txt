@@ -1,0 +1,8 @@
+ди`а`гноз
+++++++++++
+1. [`noun, masculine`] diagnosis
+· Врач поставил правильный `диагноз`. (The doctor made a correct `diagnosis`.)
+· Она не могла знать, что именно содержится в `диагнозе`. (She couldn't know what was exactly in the `diagnosis`.)
+2. [`verb`] diagnose
+· Врачи провели долгое исследование, чтобы `диагностировать` проблему. (The doctors conducted a long research to `diagnose` the problem.)
+· Доктор `диагностировал` тип болезни следующим образом. (The doctor `diagnosed` the type of illness in the following way.)

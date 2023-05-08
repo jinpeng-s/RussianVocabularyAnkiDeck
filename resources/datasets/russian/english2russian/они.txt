@@ -1,0 +1,8 @@
+он`и`
+++++++++++
+1. [`pronoun`] they
+· Они сделали много работы летом. (They did a lot of work this summer.)
+· Они решили пойти в кино. (They decided to go to the movies.)
+2. [`adverb`] then
+· Тогда я решил поработать больше. (`Then` I decided to work harder.)
+· Они думали, что затем всё будет хорошо. (They thought `then` everything would be alright.)

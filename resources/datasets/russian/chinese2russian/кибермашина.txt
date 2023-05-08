@@ -1,0 +1,10 @@
+кибермашина
+++++++++++
+1. [`noun, feminine`] cybermachine
+· И наконец я сделал новый `кибермашину` с тем, чтобы уйти из этого места. (And finally I made a new `cybermachine` in order to leave this place.)
+· Во многих фантастических историях встречаются `кибермашины` и искусственные интеллекты. (In many futuristic stories, `cybermachines` and artificial intelligences are encountered.)
+2. [`verb`] cybermachine
+· Многие разработчики начинали `кибермашинить` свои идеи. (Many developers began to `cybermachine` their ideas.)
+· Она `кибермашинила` свое исследование, чтобы ускорить процесс. (She `cybermachined` her research in order to accelerate the process.)
+++++++++++
+· 数控机床, 用计算机控制的机器

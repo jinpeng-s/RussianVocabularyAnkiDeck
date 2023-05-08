@@ -1,0 +1,8 @@
+обр`ы`в
+++++++++++
+1. [`noun, masculine`] interruption
+· В передаче произошёл `обрыв`. (There was an `interruption` during the broadcast.)
+· Вследствие технических проблем поездка была прервана `обрывом`. (The journey was interrupted by a `breakdown` due to technical problems.)
+2. [`verb`] interrupt, throw
+· Он `прервал` разговор. (He `interrupted` the conversation.)
+· Он `бросил` пистолет и побежал. (He `threw` the gun and ran away.)

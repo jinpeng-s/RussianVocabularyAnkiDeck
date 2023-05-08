@@ -1,0 +1,8 @@
+аукци`о`н
+++++++++++
+1. [`noun, masculine`] auction
+· Он решил докупить предмет на `аукционе` в Москве. (He decided to purchase an item at an `auction` in Moscow.)
+· Все представленные товары продаются на `аукционе`. (All presented items are sold at an `auction`.)
+2. [`verb`] auction
+· Государство планирует `аукционировать` добычу нефти. (The state is planning to `auction` off the oil extraction.)
+· Они `аукционировали` антикварные старинные картины. (They `auctioned` off antique vintage paintings.)

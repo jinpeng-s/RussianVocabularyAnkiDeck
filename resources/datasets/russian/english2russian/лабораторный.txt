@@ -1,0 +1,8 @@
+лаборат`о`рный
+++++++++++
+1. [`adjective`] laboratory
+· У нас был `лабораторный` эксперимент. (We had a `laboratory` experiment.)
+· Это важная `лабораторная` процедура. (This is an important `laboratory` procedure.)
+2. [`noun, masculine`] laboratory
+· Чтобы изучать эти числа, мы были в большом `лабораторном` комплексе. (We were in a large `laboratory` complex to study these numbers.)
+· Тест был проведен в полностью оснащённом `лабораторном`. (The test was conducted in a fully equipped `laboratory`.)

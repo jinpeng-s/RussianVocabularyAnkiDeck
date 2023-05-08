@@ -1,0 +1,8 @@
+част`и`чный
+++++++++++
+1. [`adjective`] partial
+· Результат был `частичным`. (The result was `partial`.)
+· Эта программа имеет `частичную` автоматизацию. (This program has `partial` automation.)
+2. [`verb`] partially
+· Она `частично` понимает этот процесс. (She `partially` understands this process.)
+· Так как данные были `частично` потеряны, процесс был приостановлен. (Since the data was `partially` lost, the process was suspended.)

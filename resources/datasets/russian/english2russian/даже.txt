@@ -1,0 +1,8 @@
+д`а`же
+++++++++++
+1. [`adverb`] even
+· Улыбка не прекращалась, `даже` когда он говорил. (The smile didn't stop, `even` when he spoke.)
+· `Даже` простые задачи для него становились сложными. (`Even` simple tasks became difficult for him.)
+2. [`conjunction`] even
+· `Даже` если он прав, мы должны рассматривать другие варианты. (`Even` if he's right we should consider other options.)
+· `Даже` без его помощи мы смогли успешно завершить этот проект. (`Even` without his help we were able to successfully finish this project.)

@@ -1,0 +1,8 @@
+стен`а`
+++++++++++
+1. [`noun, feminine`] wall
+· Они построили `стену` из камня. (They built a `wall` of stones.)
+· `Стена` разделяет наши дома. (A `wall` divides our houses.)
+2. [`verb`] wall
+· Трудно представить, но они `застенили` весь двор. (It's hard to imagine, but they `walled` the whole yard.)
+· Они `застенили` старый сарай. (They `walled` the old barn.)

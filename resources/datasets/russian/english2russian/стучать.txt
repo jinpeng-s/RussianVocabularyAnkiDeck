@@ -1,0 +1,8 @@
+стуч`а`ть
+++++++++++
+1. [`verb`] knock
+· Он постучал в дверь. (He `knocked` on the door.)
+· Поезд `стучал` и мы закончили разговор. (The train `knocked` and we ended the conversation.)
+2. [`noun`] knocking
+· Нас пробудило `стук` на двери. (We woke up to the `knocking` on the door.)
+· Мы слышали `стук` по поезду. (We heard the `knocking` of the train.)

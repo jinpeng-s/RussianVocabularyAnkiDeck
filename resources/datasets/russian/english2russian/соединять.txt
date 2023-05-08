@@ -1,0 +1,5 @@
+соедин`я`ть
+++++++++++
+1. [`verb`] connect
+· Они `соединили` два компьютера с помощью кабеля. (They `connected` two computers with a cable.)
+· Ты должна пытаться `соединять` то, что ты узнал по урокам и практиковать. (You should try to `connect` what you learn in the lessons and practice it.)

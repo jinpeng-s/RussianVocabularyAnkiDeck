@@ -1,0 +1,8 @@
+почталь`о`н
+++++++++++
+1. [`noun, masculine`] postman
+· А вот пришел `почтальон`. (And here comes the `postman`)
+· `Почтальон` доставил посылку. (The `postman` delivered the package.)
+2. [`verb`] to post
+· Он договорился `послать` билеты почтой. (He agreed `to post` his tickets.)
+· Для него нужно `послать` посылку. (It is necessary `to post` him a package.)

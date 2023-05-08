@@ -1,0 +1,8 @@
+компон`е`нт
+++++++++++
+1. [`noun, masculine`] component
+· Этот `компонент` очень важен для нашей аппаратуры. (This `component` is very important for our equipment.)
+· Для этой установки мы используем два `компонента`. (We use two `components` for this setup.)
+2. [`verb`] component
+· Она `компонентировала` своё устройство бьюти. (She `componented` her beauty device.)
+· Они `компонентировали` эту систему из наиболее эффективных модулей. (They `componented` the system from the most efficient modules.)

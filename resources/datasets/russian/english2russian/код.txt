@@ -1,0 +1,8 @@
+к`о`д
+++++++++++
+1. [`noun, masculine`] code
+· Приложение генерирует `код` для авторизации. (The application generates a `code` for authorization.)
+· Я получил `код` для подтверждения регистрации. (I received a `code` for confirming the registration.)
+2. [`verb`] code
+· Для безопасности нам пришлось `кодировать` данные. (For security, we had to `code` the data.)
+· Программисты `кодируют` сайт с помощью языка HTML. (Programmers `code` the site using the HTML language.)

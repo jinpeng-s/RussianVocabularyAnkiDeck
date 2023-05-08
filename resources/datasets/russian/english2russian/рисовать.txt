@@ -1,0 +1,5 @@
+рисов`а`ть
+++++++++++
+1. [`verb`] draw
+· Он умеет `рисовать` картины. (He can `draw` pictures.)
+· Она `рисует` свои эмоции на бумаге. (She `draws` her emotions on the paper.)

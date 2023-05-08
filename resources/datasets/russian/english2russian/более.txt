@@ -1,0 +1,8 @@
+б`о`лее
+++++++++++
+1. [`adverb`] more
+· Он знает о проблеме `более` подробно, чем мы. (He knows about the problem `more` in detail than we do.)
+· Команда достигла `более` хороших результатов в этом году. (The team achieved `more` better results this year.)
+2. [`preposition`] more than
+· Это в `более`, чем два раза больше, чем исходное значение. (This is `more` than two times bigger than the initial value.)
+· Он читает `более`, чем 10 книг в месяц. (He reads `more` than 10 books a month.)

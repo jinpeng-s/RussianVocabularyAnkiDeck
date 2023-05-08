@@ -1,0 +1,8 @@
+осн`о`вной
+++++++++++
+1. [`adjective`] primary
+· Он занял `основное` место на концерте. (He took up the `primary` spot at the concert.)
+· Он является в `основном` писателем. (He is primarily a `writer`.)
+2. [`noun, masculine`] basis
+· Связь между ними основана на `основе` доверия. (The connection between them is based on `trust`.)
+· Исследование было проведено на `основе` данных из опроса. (The research was conducted on the `basis` of data from the survey.)

@@ -1,0 +1,16 @@
+тёплый
+++++++++++
+1. [`adjective`] warm
+· За окном было `тёпло`. (It was `warm` outside.)
+· В этой комнате тепло и `уютно`. (It's `warm` and cozy in this room.)
+2. [`verb`] warm up
+· Ему нужно перед походом `прогреться`. (He needs to `warm up` before the hike.)
+· На зиму надо `прогревать` дом. (You need to `warm up` the house for winter.)
+++++++++++
+· 暖和的
+· 温暖的
+· 保暖的
+· 防寒的
+· 和蔼的
+· 亲切的
+· 热诚的

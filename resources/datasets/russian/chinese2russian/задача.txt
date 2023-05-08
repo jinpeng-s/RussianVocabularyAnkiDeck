@@ -1,0 +1,19 @@
+зад`а`ча
+++++++++++
+1. [`noun, feminine`] task
+· Он был назначен `задачей` построить эту машину. (He was assigned the `task` of building the machine.)
+· Она была поручена выполнить `задачу` написания сочинения. (She was given the `task` of writing an essay.)
+2. [`verb`] task
+· Он поручил мне `задачу` анализировать данные. (He tasked me with the `task` of analyzing the data.)
+· На него ложилось `задача` подготовить проект. (He was tasked with the `task` of preparing the project.)
+++++++++++
+· 任务, 使命
+· 习题, 算题, 问题, 课目, 课题
+· 宗旨, 目标, 目的
+· 使命
+· 算题
+· 问题
+· 习题
+· 科目
+· 任务
+· 问题

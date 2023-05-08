@@ -1,0 +1,15 @@
+вдоль
+++++++++++
+1. [`adverb`] along;
+· Он ехал `вдоль` дороги. (He was driving `along` the road.)
+· Мы прошли `вдоль` строения. (We walked `along` the building.)
+2. [`preposition`] along;
+· Мы бежали `вдоль` дороги. (We were running `along` the road.)
+· Она ложилась `вдоль` реки. (She was lying `along` the river.)
+++++++++++
+· (接二格) 沿着
+· 顺着
+· 竖着地
+· 直着地
+· 详尽地
+· 详细地

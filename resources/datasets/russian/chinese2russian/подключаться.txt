@@ -1,0 +1,12 @@
+подключ`а`ться
+++++++++++
+1. [`verb, intransitive`] to connect
+· Устройства `подключаются` по Wi-Fi. (Devices `connect` via Wi-Fi.)
+· Домашний интернет будет `подключаться` по Wi-Fi сигналу. (The home internet will `connect` to a Wi-Fi signal.)
+2. [`verb, transitive`] to connect (to)
+· Он помог `подключиться` к интернету. (He helped `connect` to the Internet.)
+· Помоги мне `подключиться` к интернет-сервису. (Help me `connect` to the Internet service.)
+++++++++++
+· 参加
+· 加入
+· 接上

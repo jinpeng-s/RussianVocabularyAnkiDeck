@@ -1,0 +1,8 @@
+т`е`хника
+++++++++++
+1. [`noun, feminine`] technique
+· Он `техника` обработки данных очень хорошо разбирается. (He understands the `technique` of data processing very well.)
+· Библиотекарь показал нашей группе новую `технику` чтения. (The librarian showed our group a new `technique` of reading.)
+2. [`verb`] technique
+· Он использовал известную `технику` анализа данных. (He used a well-known `technique` of data analysis.)
+· Для получения хорошего результата важно уметь `технику` прослушивания. (It is important to know the `technique` of listening for good results.)

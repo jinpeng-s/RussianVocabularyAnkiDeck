@@ -1,0 +1,13 @@
+координ`а`та
+++++++++++
+1. [`noun, feminine`] coordinate
+· В базе данных хранятся `координаты` для всех городов. (The database stores `coordinates` for all the cities.)
+· `Координаты` местонахождения противника были известны. (The `coordinates` of the enemy's location were known.)
+2. [`verb, imperfective`] coordinate
+· Два боевика состояли в прямой `координации` действий. (The two combatants were in direct `coordination` of their actions.)
+· Люди в башне `координировали` действия своих союзников. (The people in the tower `coordinated` the actions of their allies.)
+++++++++++
+· 坐标
+· (复数) 地址
+· 居住地点
+· 配位, 配价

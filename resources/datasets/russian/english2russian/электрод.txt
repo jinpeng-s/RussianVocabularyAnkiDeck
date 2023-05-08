@@ -1,0 +1,8 @@
+электр`о`д
+++++++++++
+1. [`noun`] electrode
+· В конце каждого `электрода` были подсоединены к батарейке. (The ends of each `electrode` were connected to the battery.)
+· `Электроды` были выставлены по периметру комнаты. (The `electrodes` were placed around the perimeter of the room.)
+2. [`verb`] electroplate
+· Они `электроплавили` этот предмет для улучшения его внешнего вида. (They `electroplated` the object in order to improve its appearance.)
+· Это устройство было `электроплавлено` для предотвращения коррозии. (The device was `electroplated` to prevent corrosion.)

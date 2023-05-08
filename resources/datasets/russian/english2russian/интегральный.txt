@@ -1,0 +1,8 @@
+интегр`а`льный
+++++++++++
+1. [`adjective`] integral
+· Наша работа представляет `интегральный` подход к решению этой проблемы. (Our work represents an `integral` approach to solving this problem.)
+· В этой книге рассматривается `интегральный` подход к образованию. (This book discusses an `integral` approach to education.)
+2. [`noun, masculine`] integer
+· Мы работаем с `интегральными` числами. (We work with `integers`.)
+· Это условие ограничивается `интегральными` значениями. (This condition is limited to `integral` values.)

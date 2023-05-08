@@ -1,0 +1,8 @@
+п`е`ть
+++++++++++
+1. [`verb`] sing
+· Я `пою` любимую песню каждый день. (I `sing` my favorite song every day.)
+· Дети до сих пор `поют` эту песню. (The children still `sing` this song.)
+2. [`noun, masculine`] singer
+· Он профессиональный `певец`. (He is a professional `singer`.)
+· Нашему городу не хватает популярного `певца`. (Our city lacks a popular `singer`.)

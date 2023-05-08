@@ -1,0 +1,8 @@
+прозр`а`чный
+++++++++++
+1. [`adjective`] transparent
+· Их политика была `прозрачна`. (Their policy was `transparent`.)
+· Окна были `прозрачные`. (The windows were `transparent`.)
+2. [`verb, reflexive`] to make (something) transparent
+· Они `прозрачили` свою позицию на эту проблему. (They `made their position transparent` on this issue.)
+· Они `прозрачили` свои процедуры получения разрешения на въезд. (They `made their procedures for getting a visa transparent`.)

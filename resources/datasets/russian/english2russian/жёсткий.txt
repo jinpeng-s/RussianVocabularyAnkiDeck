@@ -1,0 +1,8 @@
+жёсткий
+++++++++++
+1. [`adjective`] stiff
+· Она должна быть `жёсткой` и бескомпромиссной. (She must be `stiff` and uncompromising.)
+· Уисклварт испытывал `жёсткую` проблему со своим автомобилем. (Wiskart was experiencing a `stiff` problem with his car.)
+2. [`verb`] stiffen
+· Его спина `жёстко` натугалась под давлением сложностей. (His back `stiffened` under the pressure of complexities.)
+· От холода мои ноги `жёстко` застыли. (My legs `stiffened` from the cold.)

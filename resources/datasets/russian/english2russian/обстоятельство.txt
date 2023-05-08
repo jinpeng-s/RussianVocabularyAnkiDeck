@@ -1,0 +1,8 @@
+обсто`я`тельство
+++++++++++
+1. [`noun, neuter`] circumstance
+· Это дело усложняется сложными `обстоятельствами`. (This case is complicated by complex `circumstances`.)
+· Она не учитывала особые `обстоятельства`. (She didn't consider the special `circumstances`.)
+2. [`verb`] circumstantiate
+· Этот случай `обстоятельствуется` дополнительными фактами. (This case is `circumstantiates` by additional facts.)
+· Это дело `обстоятельствуется` некоторыми подробностями. (The case is `circumstantiates` with some details.)

@@ -1,0 +1,8 @@
+пр`а`вило
+++++++++++
+1. [`noun, neuter`] rule
+· Это `правило` должно быть соблюдено. (This `rule` must be observed.)
+· У нас есть `правило`, что все должны быть в школе в 9:00. (We have a `rule` that everyone should be in school at 9:00.)
+2. [`verb`] rule
+· Он `правил` этим королевством в течение пяти лет. (He `ruled` this kingdom for five years.)
+· Королева `правила` этой страной со дня ее коронации. (The queen `ruled` this country from the day of her coronation.)

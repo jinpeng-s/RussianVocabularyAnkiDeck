@@ -1,0 +1,8 @@
+показ`а`ние
+++++++++++
+1. [`noun, neuter`] indication
+· В первом `показании` врач прописал мне антибиотики. (In the first `indication`, a doctor prescribed me antibiotics.)
+· `Показания` о погоде оказались неточными. (The `indications` about the weather were inaccurate.)
+2. [`verb`] indicate
+· Осциллограф `показал` резкую сепсисную паузу. (The oscillograph `indicated` a sharp seizure pause.)
+· Электроды `показали` нормальное воздействие. (The electrodes `indicated` a normal response.)

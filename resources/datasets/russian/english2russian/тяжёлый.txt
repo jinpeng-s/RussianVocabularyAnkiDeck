@@ -1,0 +1,8 @@
+тяжёлый
+++++++++++
+1. [`adjective`] heavy
+· Этот велосипед `тяжёлый`, но качественный. (This bike is `heavy`, but of good make.)
+· Она понимала, что имеет дело с `тяжёлым` решением. (She understood that she has to deal with a `heavy` decision.)
+2. [`verb`] weigh
+· Она `взвешивала` продукты перед продажей. (She `weighed` the products before selling them.)
+· Я `взвесил` его для того, чтобы удостовериться, что он не летает. (I `weighed` him in order to make sure he doesn't fly away.)

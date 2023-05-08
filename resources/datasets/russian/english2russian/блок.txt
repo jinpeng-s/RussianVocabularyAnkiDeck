@@ -1,0 +1,8 @@
+бл`о`к
+++++++++++
+1. [`noun, masculine`] block
+· На улице находится `блок` домов. (There is a `block` of houses on the street.)
+· `Блок` бетона нужно расставить в определенном порядке. (The `block` of concrete needs to be arranged in a certain order.)
+2. [`verb`] block
+· Он поставил `блокировку` на доступ к системе. (He put a `block` on access to the system.)
+· Манера движения `блокирует` дорогу. (The manner of movement `blocks` the path.)

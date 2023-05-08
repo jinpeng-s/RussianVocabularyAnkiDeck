@@ -1,0 +1,8 @@
+насч`и`тывать
+++++++++++
+1. [`verb`] count
+· Я `насчитывал` до ста. (I `counted` up to one hundred.)
+· Тебе нужно `насчитывать` до десяти. (You need to `count` up to ten.)
+2. [`verb`] enumerate
+· Нужно `насчитывать` все товары. (It's necessary to `enumerate` all the goods.)
+· Он просил меня `насчитывать` участников группы. (He asked me to `enumerate` the group participants.)

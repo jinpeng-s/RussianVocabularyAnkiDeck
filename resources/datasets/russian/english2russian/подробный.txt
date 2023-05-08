@@ -1,0 +1,8 @@
+подр`о`бный
+++++++++++
+1. [`adjective`] detailed
+· Он дал мне подробное `описание` работы. (He gave me a `detailed` description of the job.)
+· Она рассказала подробно о произошедшем событии. (She told a `detailed` account of the event.)
+2. [`noun, masculine`] detail
+· Там `подробная` информация по данному проекту. (There is `detailed` information about this project.)
+· Он смотрел детали схемы. (He looked at the `details` of the diagram.)

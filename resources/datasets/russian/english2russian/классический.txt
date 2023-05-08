@@ -1,0 +1,8 @@
+класс`и`ческий
+++++++++++
+1. [`adjective`] classical
+· `Классический` музыкальный стиль проявляется в джазе, опере и оратории. (The `classical` musical style is found in jazz, opera and oratorios.)
+· `Классический` роман почти всегда содержит трагедию. (A `classical` novel nearly always has a tragedy in it.)
+2. [`noun, masculine`] classic
+· `Классиком` литературы считаются романы Чехова и Толстого. (The novels of Chekhov and Tolstoy are considered `classics` of literature.)
+· `Классики` жанра детектив включают авторов, например, Артура Конана Дойла. (The `classics` of the detective genre include authors such as Arthur Conan Doyle.)

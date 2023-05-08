@@ -1,0 +1,8 @@
+Греция
+++++++++++
+1. [`noun`] Greece
+· Древняя `Греция` была одной из пионеров исследования космоса. (Ancient `Greece` was one of the pioneers of space exploration.)
+· Отпуск в `Греции` является одним из самых популярных среди европейцев. (A holiday in `Greece` is one of the most popular among Europeans.)
+2. [`adjective`] Greek
+· Я знаю `греческий` алфавит. (I know the `Greek` alphabet.)
+· Многие растения и животные были изображены в `греческой` мифологии. (Many plants and animals were depicted in `Greek` mythology.)

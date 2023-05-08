@@ -1,0 +1,22 @@
+инстр`у`кция
+++++++++++
+1. [`noun, feminine`] instruction
+· У нас есть `инструкция` по использованию этого устройства. (We have an `instruction` for using this device.)
+· Мне нужна `инструкция`, что делать дальше. (I need an `instruction` of what to do next.)
+2. [`verb, infinitive`] instruct
+· Они `инструктировали` нас по использованию данного устройства. (They `instructed` us on how to use the device.)
+· Он `инструктирует` своих студентов по правильным методам. (He `instructs` his students on proper methods.)
+++++++++++
+· 指令, 指示
+· 规程
+· 细则
+· 指南
+· 说明书
+· 条例
+· 须知
+· 守则
+· 说明书
+· 须知
+· &lt;计&gt;指令
+· 技术条令, 规程, 说明书
+· 指南

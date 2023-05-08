@@ -1,0 +1,5 @@
+реакт`и`вный
+++++++++++
+1. [`adjective`] reactive
+· В Этот конденсатор используется `реактивный` материал. (This capacitor uses a `reactive` material.)
+· Торпеда настроена на `реактивный` радар. (The torpedo is set to a `reactive` radar.)

@@ -1,0 +1,8 @@
+поврежд`а`ть
+++++++++++
+1. [`verb`] damage
+· Вода слишком старая и может повредить пивную арматуру. (The water is too old and can `damage` the beer taps.)
+· Некоторые лекарства могут повредить печень. (Some medicines can `damage` the liver.)
+2. [`noun, masculine`] damage
+· Возмещение по повреждению автомобиля было недостаточным. (The compensation for `damage` to the car was insufficient.)
+· Потемкины пришли к владельцу и претенжировали своё `повреждение` имущества. (The Potemkins came to the owner and claimed their `damage` to the property.)

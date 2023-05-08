@@ -1,0 +1,8 @@
+днём
+++++++++++
+1. [`adverb`] by day
+· Завтракать няня добавляла овощи `днём`. (The nanny added vegetables `by day` to the breakfast.)
+· Жильцы `днём` избавлялись от пыльцы. (The tenants got rid of the dust `by day`.)
+2. [`noun, neuter`] day
+· Я понимаю, что `днём` времени нет. (I understand that there is no `day` time.)
+· Я работаю `днём`. (I am working `by day`.)

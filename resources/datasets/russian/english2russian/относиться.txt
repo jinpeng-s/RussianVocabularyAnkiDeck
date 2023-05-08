@@ -1,0 +1,8 @@
+относ`и`ться
+++++++++++
+1. [`verb`] relate
+· Некоторые люди `относятся` друг к другу с добротой. (Some people `relate` to each other with kindness.)
+· Ты должен `относиться` к ним так же, как они относятся к тебе. (You should `relate` to them the same way they `relate` to you.)
+2. [`noun, masculine`] relation
+· Отношения `относительно` этого вопроса не ясны. (The `relations` `relating` to this question are unclear.)
+· Они живут в близких `отношениях`. (They live in close `relations`.)

@@ -1,0 +1,8 @@
+выдел`е`ние
+++++++++++
+1. [`noun, neuter`] allocation
+· Чтобы построить школу было необходимо `выделение` бюджетных средств. (It was necessary to allocate budget funds to build the school.)
+· После повышения зарплаты было `выделение` средств на оплату коммунальных услуг. (After the salary increase, funds were allocated to pay for utilities.)
+2. [`verb`] allocate
+· Они `выделили` больше средств для детских каникул. (They `allocated` more funds for childhood holidays.)
+· Правительство решило `выделить` деньги для реконструкции вокзала. (The government decided to `allocate` money for railway station reconstruction.)

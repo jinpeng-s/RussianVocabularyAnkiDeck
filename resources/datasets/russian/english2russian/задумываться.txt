@@ -1,0 +1,8 @@
+зад`у`мываться
+++++++++++
+1. [`verb, imperfective`] contemplate
+· Он задумывался над жизнью. (He was `contemplating` life.)
+· Она `задумывалась` о своём будущем. (She was `contemplating` her future.)
+2. [`verb, perfective`] ponder
+· Он задумался `над` проблемой. (He `pondered` over the problem.)
+· Она `задумалась` о видеоклипе, который она сегодня должна снять. (She `pondered` about the music video she had to shoot today.)

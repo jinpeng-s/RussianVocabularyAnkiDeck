@@ -1,0 +1,8 @@
+грем`е`ть
+++++++++++
+1. [`verb`] rumble
+· Я мог `греметь` несколько часов и растёрять  при этом все работы. (I could `rumble` for hours, disrupting all works.)
+· Столкновение вызвало гром `гремения`. (The collision caused a thunderous `rumbling`.)
+2. [`noun, masculine`] sound of rumbling
+· Автомобиль на улице давал `гремение`. (The car on the street emitted a `rumbling`.)
+· Вдали я слышал `гремение` моторов. (Distantly, I heard the `rumbling` of motors.)

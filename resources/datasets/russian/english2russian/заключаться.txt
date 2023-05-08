@@ -1,0 +1,8 @@
+заключ`а`ться
+++++++++++
+1. [`verb, imperfective`] conclude
+· Встреча `заключалась` в небольшой обед. (The meeting `concluded` with a small lunch.)
+· Он `заключился` на три месяца в тюрьму. (He was `concluded` in prison for three months.)
+2. [`verb, perfective`] conclude
+· Они `заключили` сделку по приобретению дома. (They `concluded` a deal for buying a house.)
+· Торги были `заключены` успешно. (The negotiations were `concluded` successfully.)

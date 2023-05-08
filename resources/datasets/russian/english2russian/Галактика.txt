@@ -1,0 +1,8 @@
+гал`а`ктика
+++++++++++
+1. [`noun`] galaxy
+· Центральная `Галактика` находится в нашем Вселенной. (The central `galaxy` is in our Universe.)
+· Насколько мы знаем, в нашей `Галактике` находится более миллиарда звёзд. (As we know, there are more than a billion stars in our `galaxy`.)
+2. [`verb`] galaxy
+· Некоторые учёные `галактифицировали` нашу галактику. (Some scientists `galactified` our galaxy.)
+· Инопланетные цивилизации `галактифицировали` свой собственный созвездие. (Extraterrestrial civilizations have `galactified` their own constellation.)

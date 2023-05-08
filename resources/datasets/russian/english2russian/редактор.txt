@@ -1,0 +1,8 @@
+ред`а`ктор
+++++++++++
+1. [`noun, masculine`] editor
+· В книге присутствует `редактор` и авторы. (The book has an `editor` and authors.)
+· Там был хороший `редактор`, и мы приняли его предложения. (There was a good `editor`, and we accepted his suggestions.)
+2. [`verb`] edit
+· Он занимается редактированием статей. (He is `editing` articles.)
+· Она `редактировала` научную статью. (She `edited` a scientific article.)

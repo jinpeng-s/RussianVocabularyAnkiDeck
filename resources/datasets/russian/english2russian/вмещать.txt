@@ -1,0 +1,8 @@
+вмещ`а`ть
+++++++++++
+1. [`verb, intransitive`] contain
+· Вода `вмещает` различные вещества. (The water `contains` various substances.)
+· Комната `вмещает` много людей. (The room `contains` many people.)
+2. [`verb, transitive`] accommodate
+· Уложить всё в рюкзак было невозможно, ибо он просто не `вмещал` всё. (It was impossible to fit everything into the backpack, because it just `accommodated` everything.)
+· Парк должен `вместить` 30 человек. (The park has to `accommodate` 30 people.)

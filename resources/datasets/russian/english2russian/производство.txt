@@ -1,0 +1,8 @@
+произв`о`дство
+++++++++++
+1. [`noun, neuter`] production
+· Это `производство` занимается переработкой пластмасс. (This `production` deals with the recycling of plastics.)
+· На этом `производстве` есть три смены. (This `production` has three shifts.)
+2. [`verb`] produce
+· С помощью этого оборудования мы `производим` много автомобильных запчастей. (We `produce` a lot of car parts with this equipment.)
+· Эта фабрика `производит` светодиодные лампы. (This factory `produces` LED lamps.)

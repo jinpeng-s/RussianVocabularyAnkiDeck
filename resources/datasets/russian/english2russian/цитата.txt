@@ -1,0 +1,8 @@
+цит`а`та
+++++++++++
+1. [`noun, feminine`] citation
+· Я нашёл `цитату` в книге. (I found a `citation` in the book.)
+· Учёные привели доказательства в виде `цитат` из источника. (Scientists brought proofs in the form of `citations` from the source.)
+2. [`verb`] cite
+· В статье он отметил исходное сочинение и `цитировал` его предложения. (In the article he mentioned the original composition and `cited` its statements.)
+· Все источники, которые он использовал, были `цитированы` и помечены авторами. (All sources, which he used, were `cited` and marked by the authors.)

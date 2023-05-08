@@ -1,0 +1,8 @@
+мериди`а`н
+++++++++++
+1. [`noun, masculine`] meridian
+· Все меридианы проходят через Полюс. (All `meridians` pass through the pole.)
+· Точки, лежащие на том же меридиане имеют одинаковую долготу. (Points lying on the same `meridian` have the same longitude.)
+2. [`verb`] meridian
+· Наша страна меридианизирована по протяженности 6000 км. (Our country is `meridianized` for a length of 6000 km.)
+· Трасса должна быть меридианизирована. (The route should be `meridianized`.)

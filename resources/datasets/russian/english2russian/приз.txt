@@ -1,0 +1,8 @@
+пр`и`з
+++++++++++
+1. [`noun, masculine`] prize
+· Она получила достоинственный `приз` за свои достижения. (She was awarded a prestigious `prize` for her accomplishments.)
+· Эта соревнование предоставляет большой `приз` победителю. (This competition offers a large `prize` to the winner.)
+2. [`verb`] award
+· Она была `признана` лучшим учеником класса. (She was `awarded` the best student in the class.)
+· Он был `признан` заслуженным членом организации. (He was `awarded` an honorary membership in the organization.)

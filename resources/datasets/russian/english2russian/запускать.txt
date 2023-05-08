@@ -1,0 +1,8 @@
+запуск`а`ть
+++++++++++
+1. [`verb`] launch
+· Он запускает `запускать` свой новый проект. (He is launching his new project.)
+· Она `запускала` сайт первой. (She was the first one to `launch` the website.)
+2. [`noun, masculine`] launch
+· Этот проект имеет большой `запуск`. (This project has a big `launch`.)
+· Для успеха проекта важен хороший `запуск`. (A successful `launch` is important for the project.)

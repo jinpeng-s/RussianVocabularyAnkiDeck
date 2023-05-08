@@ -1,0 +1,8 @@
+приход`и`ть
+++++++++++
+1. [`verb, imperfective`] come
+· Она не `приходила` на работу уже несколько дней. (She hadn't `come` to work for a few days.)
+· В прошлый месяц они `приходили` в гости каждую неделю. (They used to `come` visiting every week last month.)
+2. [`verb, perfective`] arrive
+· Она `пришла` рано в аэропорт. (She `arrived` at the airport early.)
+· Они `пришли` в гости к нам в пятницу. (They `arrived` to visit us on Friday.)

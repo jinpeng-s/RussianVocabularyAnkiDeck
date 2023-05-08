@@ -1,0 +1,8 @@
+н`о`рма
+++++++++++
+1. [`noun, feminine`] norm
+· В этой стране существуют определённые `нормы` поведения. (There are certain `norms` of behavior in this country.)
+· Работники должны следовать деловой `норме`. (The employees should follow the business `norm`.)
+2. [`verb`] norm
+· Эта компания не `нормирует` сотрудников. (This company does not `norm` its employees.)
+· Требуется `нормировать` время работы сотрудников. (It is required to `norm` the working hours of the employees.)

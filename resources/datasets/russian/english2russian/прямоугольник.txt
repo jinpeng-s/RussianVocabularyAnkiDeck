@@ -1,0 +1,8 @@
+прямоуг`о`льник
+++++++++++
+1. [`noun, masculine`] rectangle
+· Этот элемент состоит из `прямоугольника` и двух окружностей. (This component consists of a `rectangle` and two circles.)
+· Он красил `прямоугольник` оранжевым цветом. (He painted the `rectangle` orange.)
+2. [`adjective`] rectangular
+· У этой комнаты есть длинный `прямоугольный` стол. (This room has a long `rectangular` table.)
+· Она расставила `прямоугольные` деревянные блоки по всему полю. (She placed `rectangular` wooden blocks across the field.)

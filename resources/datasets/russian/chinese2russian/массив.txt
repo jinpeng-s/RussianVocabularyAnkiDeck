@@ -1,0 +1,17 @@
+масс`и`в
+++++++++++
+1. [`noun, masculine`] array
+· Все элементы `массива` должны быть одного типа. (All elements of the `array` should be of the same type.)
+· Найти максимальный элемент в `массиве` можно с помощью сортировки. (The maximum element in an `array` can be found by sorting.)
+++++++++++
+· 平顶的高山
+· 地带
+· 一大片
+· 大块
+· 块体
+· 块
+· 区
+· 数据集
+· 数组
+· 阵列
+· 数组

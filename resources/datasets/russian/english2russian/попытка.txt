@@ -1,0 +1,8 @@
+поп`ы`тка
+++++++++++
+1. [`noun, feminine`] attempt
+· На этой `попытке` он смог добиться успеха. (He managed to succeed on this `attempt`.)
+· Мы предприняли очередную `попытку` чтобы найти его. (We made another `attempt` to find him.)
+2. [`verb`] attempt
+· Они `попытались` добраться до города. (They `attempted` to reach the city.)
+· Он `попытался` доказать, что я неправ. (He `attempted` to prove that I was wrong.)

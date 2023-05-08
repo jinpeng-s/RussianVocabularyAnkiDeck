@@ -1,0 +1,8 @@
+удав`а`ться
+++++++++++
+1. [`verb`] succeed
+· Всё получилось, значит план `удался`! (If it all worked out then the plan `succeeded`!)
+· Александру `удалось` устроиться на новую работу. (Alexander `succeeded` in getting a new job.)
+2. [`verb, reflexive`] succeed oneself
+· Задача `удалась` сама собой. (The task `succeeded itself`.)
+· Я оптимистично `удаюсь` несмотря ни на что. (I'm optimistically `succeeding` myself no matter what.)

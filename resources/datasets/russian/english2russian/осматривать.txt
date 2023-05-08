@@ -1,0 +1,8 @@
+осм`а`тривать
+++++++++++
+1. [`verb`] inspect
+· Объект был `осмотрен` инженером. (The object was `inspected` by an engineer.)
+· Полиция обязана `осматривать` любые больницы. (Police are obliged to `inspect` any hospitals.)
+2. [`verb`] examine
+· Я должна `осматривать` каждую часть, чтобы обнаружить проблему. (I have to `examine` each part to detect the problem.)
+· Больница `осматривала` больного перед тем, как он ушел. (The hospital `examined` the patient before he left.)

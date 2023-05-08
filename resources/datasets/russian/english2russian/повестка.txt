@@ -1,0 +1,8 @@
+пов`е`стка
+++++++++++
+1. [`noun, feminine`] agenda
+· Утренняя `повестка` собрания включала пункты о проекте. (The morning `agenda` of the meeting included items about the project.)
+· Следующая `повестка` совещания будет посвящена этой проблеме. (The next `agenda` of the meeting will be dedicated to this problem.)
+2. [`verb`] to schedule
+· Она `повестила` свободное время. (She `scheduled` free time.)
+· Мы `повестили` совещание на два часа позже. (We `scheduled` the meeting two hours later.)

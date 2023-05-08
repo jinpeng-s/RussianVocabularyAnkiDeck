@@ -1,0 +1,8 @@
+сер`и`йный
+++++++++++
+1. [`adjective`] serial
+· У него был `серийный` номер на кассете. (He had a `serial` number on the cassette.)
+· Он потратил много денег на `серийную` разработку. (He spent a lot of money on `serial` development.)
+2. [`noun, masculine`] serial
+· Он показывал исключительно `серийные` фильмы. (He was showing only `serial` films.)
+· Он сделал прибыль от `серийных` продаж. (He made a profit from `serial` sales.)

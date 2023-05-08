@@ -1,0 +1,8 @@
+ц`е`нность
+++++++++++
+1. [`noun, feminine`] value
+· Он понял `ценность` семьи. (He understood the `value` of family.)
+· Ее `ценность` оценивается в несколько тысяч. (Its `value` is estimated at several thousand.)
+2. [`verb`] value
+· Люди должны ценить друг друга. (People should `value` each other.)
+· Они `поценили` нас за нашу работу. (They `valued` us for our work.)

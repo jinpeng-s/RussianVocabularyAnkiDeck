@@ -1,0 +1,8 @@
+н`о`мер
+++++++++++
+1. [`noun, masculine`] number
+· Я забронировал `номер` в отеле. (I booked a `number` in the hotel.)
+· Нам дали `номер` для связи. (We got a `number` to contact.)
+2. [`verb, imperfective`] number
+· Дороги нужно `нумеровать`. (The roads need to be `numbered`.)
+· Они `нумеровали` дома по улице. (They `numbered` the houses along the street.)

@@ -1,0 +1,14 @@
+аргум`е`нт
+++++++++++
+1. [`noun`] argument
+· Они были в глубоком споре, но он ответил гибко на все `аргументы` оппонента. (They were in a deep quarrel, but he answered all of his opponent's `arguments` flexibly.)
+· Никто не мог справиться с его `аргументами`, и он получил желаемый ответ. (Nobody could cope with his `arguments`, and he got the answer he desired.)
+2. [`verb`] argue
+· Они `аргументировали` друг с другом до тех пор, пока не пришли к единогласному выводу. (They `argued` with each other until they reached a unanimous conclusion.)
+· Она `аргументировала` против их проекта, и получила поддержку своих коллег. (She `argued` against the project, and got the support from her colleagues.)
+++++++++++
+· 理由, 根据, 论据, 论点
+· 自变量, 宗量, 宗数, 自变数, 幅角
+· 幅角
+· 论据, 论证
+· 引数

@@ -1,0 +1,8 @@
+раб`о`тник
+++++++++++
+1. [`noun, masculine`] worker
+· У нас есть много `работников`, которые свои обязанности выполняют очень хорошо. (We have many `workers` who do their duties very well.)
+· Он намерен стать `работником` этой компании. (He intends to become a `worker` of this company.)
+2. [`verb`] to work
+· Терминалы `работали` без проблем. (The terminals `worked` without any problems.)
+· Завтра он `работает` в зоопарке. (He `works` at the zoo tomorrow.)

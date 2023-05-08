@@ -1,0 +1,8 @@
+опис`а`ние
+++++++++++
+1. [`noun, neuter`] description
+· Это `описание` проекта довольно короткое. (This `description` of the project is quite short.)
+· В письме было приведено подробное `описание` проблемы. (The letter included an detailed `description` of the problem.)
+2. [`verb`] describe
+· Он  `описал` то, что произошло в комнате. (He `described` what happened in the room.)
+· Чтобы `описать` эти ощущения, мне понадобились много слов. (To `describe` these feelings, many words were needed.)

@@ -1,0 +1,8 @@
+л`и`фт
+++++++++++
+1. [`noun, masculine`] elevator
+· В этом здании `лифт` не работает. (The `elevator` in this building does not work.)
+· `Лифт` перестал работать несколько минут назад. (The `elevator` stopped working a few minutes ago.)
+2. [`verb`] lift
+· Он поднял палку до того, как произошло падение. (He `lifted` the bar before the fall happened.)
+· Она подняла свои руки и помахала флагом. (She `lifted` her hands and waved the flag.)

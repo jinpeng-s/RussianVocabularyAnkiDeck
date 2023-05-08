@@ -1,0 +1,10 @@
+ист`е`кший
+++++++++++
+1. [`adjective`] expired, lapsed
+· Его виза истекла, поэтому он не может вернуться. (His visa `expired`, so he can't go back.)
+· Именно сегодня прошла срок действия `истекшей` накладной. (Today is the day that the invoice `lapsed`.)
+2. [`verb`] expire
+· Его доверенность `истекла` через год. (His authorization `expired` after a year.)
+· Эта страховка `истекла` месяц назад. (This insurance `expired` a month ago.)
+++++++++++
+· 过去的, 以往的

@@ -1,0 +1,8 @@
+дог`а`дываться
+++++++++++
+1. [`verb`] guess
+· Он не мог `догадываться`, что случилось. (He couldn't `guess` what happened.)
+· Она угадала, что он `догадывался`. (She guessed what he was `guessing`.)
+2. [`verb`] figure out
+· Я долго `догадывался`, что он хочет мне сказать. (I took a long time to `figure out` what he wanted to tell me.)
+· Я не смог `догадаться`, как закончить эту задачу. (I couldn't `figure out` how to finish this task.)

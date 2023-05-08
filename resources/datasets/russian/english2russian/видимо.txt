@@ -1,0 +1,8 @@
+в`и`димо
+++++++++++
+1. [`adverb`] evidently
+· Во всяком случае, `видимо`, какие-то изменения были сделаны в дизайне. (Anyway, `evidently`, some changes were made to the design.)
+· Уже `видимо` далеко не все понимают это. (`Evidently`, not everyone understands it yet.)
+2. [`verb, imperfective`], to see
+· `Видимо`, она не понимает последствий. (`It seems` she doesn't understand the consequences.)
+· `Видимо`, люди давно осознали потребность в сотрудничестве. (`It appears` people have long understood the need for cooperation.)

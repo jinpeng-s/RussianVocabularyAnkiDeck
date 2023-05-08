@@ -1,0 +1,8 @@
+состо`я`ть
+++++++++++
+1. [`verb`] consist
+· Этот проект `состоит` из десяти этапов. (This project `consists` of ten stages.)
+· Большинство основных составляющих пищи `состоят` из воды. (Most of the major components of food `consist` of water.)
+2. [`verb`] comprise
+· Эта страна `состоит` из десяти штатов. (This country `comprises` of ten states.)
+· Этот блюдо `состоит` из трех компонентов. (This dish `comprises` of three components.)

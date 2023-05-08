@@ -1,0 +1,8 @@
+л`е`ктор
+++++++++++
+1. [`noun, masculine`] lecturer
+· К `лектору` необходимо было выучить превью по теме. (The `lecturer` had to study the preview on the topic.)
+· `Лектор` дал студентам домашнее задание. (The `lecturer` gave the students homework.)
+2. [`verb`] lecture
+· Он занимался написанием скрипта для `лекции`. (He worked on writing a script for a `lecture`.)
+· Она `лекционировала` на тему истории Франции. (She `lectured` on the history of France.)

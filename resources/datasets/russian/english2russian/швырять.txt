@@ -1,0 +1,8 @@
+швыр`я`ть
+++++++++++
+1. [`verb`] throw
+· Они решили `швырять` футбольный мяч. (They decided to `throw` the football.)
+· Дети стояли в кругу и `швыряли` мяч друг другу. (The kids were standing in a circle and `throwing` the ball to each other.)
+2. [`verb, reflexive`] throw oneself
+· Он видел, как девушка `швырнулась` в бассейн. (He saw the girl `throwing herself` into the pool.)
+· Я `швырнулся` на кровать, потому что мне было слишком устало. (I `threw myself` into the bed because I was too tired.)

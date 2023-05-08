@@ -1,0 +1,12 @@
+пар`а`граф
+++++++++++
+1. [`noun, masculine`] paragraph
+· Этот `параграф` состоит из пяти предложений. (This `paragraph` consists of five sentences.)
+· В первом `параграфе` документа описывается суть договора. (The first `paragraph` of the document describes the essence of the contract.)
+2. [`verb`] paragraph
+· Текст был подробно `параграфирован`. (The text was `paragraphed` in detail.)
+· Они `параграфировали` каждое предложение. (They `paragraphed` each sentence.)
+++++++++++
+· 段
+· 节
+· 条

@@ -1,0 +1,8 @@
+поставщ`и`к
+++++++++++
+1. [`noun, masculine`] supplier
+· Он стал `поставщиком` нашей компании. (He became a `supplier` of our company.)
+· Они являются `поставщиками` ключевых компонентов. (They are `suppliers` of key components.)
+2. [`verb`] supply
+· Он сможет `поставить` всё необходимое оборудование. (He can `supply` all the necessary equipment.)
+· Они `поставили` все материалы в срок. (They `supplied` all the materials on time.)

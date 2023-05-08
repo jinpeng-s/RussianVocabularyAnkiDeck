@@ -1,0 +1,8 @@
+покуп`а`ть
+++++++++++
+1. [`verb, imperfective`] buy
+· Она всегда `покупала` своим детям книги и игрушки. (She always `bought` her children books and toys.)
+· Он `покупал` большое количество различных товаров на рынке. (He `bought` a large number of different goods at the market.)
+2. [`noun, neuter`] purchase
+· Наличие денег не гарантирует `покупки`. (The availability of money does not `guarantee` the purchase.)
+· Он для совершения `покупки` выставил чек. (He issued a check for the `purchase`.)

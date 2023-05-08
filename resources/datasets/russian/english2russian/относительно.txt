@@ -1,0 +1,8 @@
+относ`и`тельно
+++++++++++
+1. [`adverb`] relatively
+· Температура возросла `относительно` быстро. (The temperature rose `relatively` quickly.)
+· Вещи были `относительно` дешевы. (The things were `relatively` cheap.)
+2. [`adjective`] relative
+· Она состоит в `относительном` близком родстве с ней. (She is in a `relative` close relationship with her.)
+· Разница в цене была `относительно` небольшая. (The difference in the price was `relative` small.)

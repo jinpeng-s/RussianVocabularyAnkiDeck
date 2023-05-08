@@ -1,0 +1,8 @@
+пятёрка
+++++++++++
+1. [`noun, feminine`] five
+· Он получил `пятёрку` по математике. (He got a `five` for maths.)
+· Двое из нас решили получить `пятёрку` по экзамену. (Two of us decided to get a `five` on the exam.)
+2. [`adjective`] five, fifth
+· Он бросил третью `пятёрку` в эту неделю. (He threw his third `five` this week.)
+· Она получила свою `пятёрку` за три дня. (She got her `fifth` in three days.)

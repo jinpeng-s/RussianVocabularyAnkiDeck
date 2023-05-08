@@ -1,0 +1,8 @@
+образов`а`ние
+++++++++++
+1. [`noun, neuter`] education
+· У нас должно быть превосходное `образование`. (We should have excellent `education`.)
+· Он получил это `образование` на дорогую школу. (He got his `education` at an expensive school.)
+2. [`verb`] educate
+· Все родители должны `образовывать` своих детей с любовью. (All parents should `educate` their children with love.)
+· Это приложение помогает `образовывать` детей в различных областях. (This app helps `educate` children in various fields.)

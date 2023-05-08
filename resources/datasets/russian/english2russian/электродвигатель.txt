@@ -1,0 +1,8 @@
+эл`е`ктродв`и`гатель
+++++++++++
+1. [`noun, masculine`] electric motor
+· Эта станция оборудована `электродвигателем`. (The station is equipped with an `electric motor`.)
+· Вы должны использовать `электродвигатель` для запуска мотора. (You should use an `electric motor` to start the engine.)
+2. [`verb`] motor
+· Он может `электродвигать` автомобиль. (He can `motor` the car.)
+· Они подключают `электродвигатель` к двигателю. (They are connecting an `electric motor` to the engine.)

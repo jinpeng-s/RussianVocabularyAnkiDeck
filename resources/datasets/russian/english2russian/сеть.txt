@@ -1,0 +1,7 @@
+с`е`ть
+++++++++++
+1. [`noun, feminine`] network
+· Вы должны подсоединить устройство к локальной `сети`. (You should connect the device to the local `network`.)
+· Интернет-`сеть` предоставляет пользователям безграничные возможности. (The Internet `network` provides users with unlimited opportunities.)
+2. [`verb`] network
+· Для достижения больших успехов, люди должны `сетеваться`. (In order to achieve greater success, people need to `network`.)

@@ -1,0 +1,6 @@
+пис`а`ть
+++++++++++
+1. [`verb`] write
+· Она пишет `письмо` к празднику. (She is writing a `letter` for the holiday)
+· Он собирался `писать` реферат по истории. (He was going to `write` a report on history.)
+· Она просила меня `писать` письмо для неё. (She asked me to `write` a letter for her.)

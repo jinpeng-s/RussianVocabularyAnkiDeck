@@ -1,0 +1,8 @@
+пл`а`новый
+++++++++++
+1. [`adjective`] scheduled
+· У него был `плановый` распорядок дня. (He had a `scheduled` schedule of the day.)
+· Это было `плановое` решение правительства. (It was a `scheduled` decision of the government.)
+2. [`adverb`] scheduled
+· Мы решили прийти `планово` следующим числом. (We decided to arrive `scheduled` the next date.)
+· Мы планируем прибыть `планово` в этот город. (We plan to arrive `scheduled` to this town.)

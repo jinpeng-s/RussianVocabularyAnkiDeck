@@ -1,0 +1,8 @@
+проц`е`нт
+++++++++++
+1. [`noun, masculine`] percent, percentage
+· В текущем году они получили `процент` выше среднего. (They got a `percent` higher than average this year.)
+· Он сделал залог в `процент` от своей годовой прибыли. (He put up a pledge of `percent` of his yearly income.)
+2. [`verb`] to calculate (in percent)
+· Некоторые прибыли просто нельзя `процентовать`. (Some income cannot be `calculated` in percent.)
+· Она умеет `процентовать` инвестиционные риски. (She can `calculate` the investment risks in percent.)

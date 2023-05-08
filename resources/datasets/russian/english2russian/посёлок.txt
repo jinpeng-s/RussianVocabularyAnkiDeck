@@ -1,0 +1,8 @@
+посёлок
+++++++++++
+1. [`noun, masculine`] settlement, hamlet
+· Недалеко отсюда был маленький `посёлок`. (There was a small `settlement` not far from here.)
+· На окраине есть маленький `посёлок`. (There is a small `hamlet` on the outskirts.)
+2. [`verb`] settle
+· Они `посёлились` здесь три года назад. (They `settled` here three years ago.)
+· Родители Романа  `поселились` на ферме два года назад. (Roman's parents `settled` on a farm two years ago.)

@@ -1,0 +1,8 @@
+ф`у`нкция
+++++++++++
+1. [`noun, feminine`] function
+· Каждое множество имеет свою `функцию`. (Every set has its `function`.)
+· Эта `функция` должна быть известна до вычисления. (This `function` should be known before calculation.)
+2. [`verb`] function
+· Эта машина `функционирует` на двух принципах. (This machine `functions` on two principles.)
+· Эти сосуды `функционируют` на основе клеточных механизмов. (These vessels `function` on the basis of cellular mechanisms.)

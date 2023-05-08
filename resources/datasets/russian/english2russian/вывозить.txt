@@ -1,0 +1,8 @@
+вывоз`и`ть
+++++++++++
+1. [`verb`] export
+· Они `вывозили` товары в разные страны. (They `exported` goods to different countries.)
+· Он `вывозил` исключительно лучшие виды товара. (He `exported` only the best brands of goods.)
+2. [`verb`] take out
+· Она `вывозила` дом свое имущество из страны. (She `took out` her property from the country.)
+· Я просил `вывезти` эту вещь из страны. (I asked to `take out` this thing from the country.)

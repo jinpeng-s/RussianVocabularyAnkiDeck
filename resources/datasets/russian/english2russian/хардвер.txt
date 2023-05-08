@@ -1,0 +1,8 @@
+хардвер
+++++++++++
+1. [`noun, masculine`] hardware
+· Ты должен купить для компьютера некоторое `хардвер`. (You need to buy some `hardware` for the computer.)
+· Он имеет много опыта в обслуживании компьютерного `хардвера`. (He has a lot of experience in servicing computer `hardware`.)
+2. [`verb`] hardware
+· Программисты `хардверили` много вещей, чтобы сделать систему безопасной. (The programmers `hardecided` a lot of things to make the system secure.)
+· Работодатель настоятельно рекомендует нам `хардверить` нашу сеть. (The employer `hardecided` us to `hardware` our network.)

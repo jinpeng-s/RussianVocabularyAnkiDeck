@@ -1,0 +1,11 @@
+страхов`а`ние
+++++++++++
+1. [`noun`] insurance
+· Он участвует в `страховании` его дома. (He is participating in the `insurance` of his house.)
+· Он купил `страхование` для поездки. (He bought `insurance` for the trip.)
+2. [`verb`] insure
+· Она `страхует` свои проперти на случай пожара. (She `insures` her property in case of a fire.)
+· Он выбрал врача, который поможет ему `страховать` данное объект. (He chose a doctor who will help him `insure` the object.)
+++++++++++
+· 保护
+· 保险

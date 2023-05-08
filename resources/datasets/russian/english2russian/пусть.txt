@@ -1,0 +1,8 @@
+пусть
+++++++++++
+1. [`noun, neuter`] permission
+· Мать дала ей `пусть` на вечеринку. (The mother gave her `permission` to go to the party.)
+· Студенты попросили у профессора `пусть` остаться дома. (The students asked the professor for `permission` to stay at home.)
+2. [`verb`] let
+· Она `пустила` меня пойти домой. (She `let` me go home.)
+· Они `пустили` воду в бассейн. (They `let` the water into the pool.)

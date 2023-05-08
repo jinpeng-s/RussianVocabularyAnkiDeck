@@ -1,0 +1,8 @@
+приём
+++++++++++
+1. [`noun, masculine`] reception
+· Для оформления документа нужно пройти `приём` в министерстве. (To finalize the document you have to go through the `reception` at the ministry.)
+· Эта конференция приняла важное `приём` у общественности. (This conference has been given an important `reception` by the public.)
+2. [`verb`] receive
+· На почте он удостоверился, что `принял` посылку. (At the post office he ensured that he `received` the parcel.)
+· Она быстро `приняла` решение. (She quickly `received` the decision.)

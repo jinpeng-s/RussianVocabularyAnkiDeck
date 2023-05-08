@@ -1,0 +1,8 @@
+элем`е`нт
+++++++++++
+1. [`noun, masculine`] element
+· Обозначение химический `элемент` представлено на периодической таблице Д. И. Менделеева. (The chemical `element` is represented in D. I. Mendeleev's periodic table.)
+· Среди этих элементов можно выделить редкоземельные. (Among these elements, rare earths can be distinguished.)
+2. [`verb`] element
+· Задача в некоторых ступенях `элементируется`. (The problem is `elemented` in some stages.)
+· Учёные `элементировали` набор параметров. (The scientists `elemented` the set of parameters.)

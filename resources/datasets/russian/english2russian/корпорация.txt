@@ -1,0 +1,8 @@
+корпор`а`ция
+++++++++++
+1. [`noun, feminine`] corporation
+· Фирма приобрела одну большую `корпорацию` по производству химикатов. (The firm bought one large `corporation` for the production of chemicals.)
+· В этой `корпорации` наняты только лучшие специалисты. (Only the best specialists are hired in this `corporation`.)
+2. [`verb, transitive`] incorporate
+· Они планируют `корпоративно` организовать свою компанию. (They plan to `incorporate` their company.)
+· Они проект был `корпоративно` успешно завершен. (The project was `incorporated` successfully.)

@@ -1,0 +1,8 @@
+корм`и`ть
+++++++++++
+1. [`verb`] feed
+· Она каждый день корми `лошадь`. (She feeds the `horse` every day.)
+· Они направились к озеру, чтобы кормить `птиц`. (They went to the lake to `feed` the birds.)
+2. [`noun, masculine`] feed
+· Он делал своему питомцу `корм`. (He made `feed` for his pet.)
+· Мне нужно купить `корм` для куриц. (I need to buy `feed` for the chickens.)

@@ -1,0 +1,8 @@
+приглаш`а`ть
+++++++++++
+1. [`verb`] invite
+· Она `пригласила` меня на ужин. (She `invited` me to dinner.)
+· Отец `пригласил` друзей домой на Новый год. (The father `invited` friends home for New Year.)
+2. [`verb, reflexive`] invite oneself
+· Она `пригласила` себя на вечеринку. (She `invited` herself to a party.)
+· Он `пригласил` себя в гости к своей сестре. (He `invited` himself to visit his sister.)

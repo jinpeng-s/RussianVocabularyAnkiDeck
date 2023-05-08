@@ -1,0 +1,8 @@
+чл`е`н
+++++++++++
+1. [`noun, masculine`] member
+· Он является `членом` организации. (He is a `member` of the organization.)
+· Имея только одного `члена`, это не может быть клуб. (Having only one `member`, this can't be a club.)
+2. [`noun, masculine`] part, component
+· Эта система построена из трёх `членов`. (This system is constructed of three `parts`.)
+· Эти три `члена` соединены друг с другом. (These three `components` are connected with each other.)

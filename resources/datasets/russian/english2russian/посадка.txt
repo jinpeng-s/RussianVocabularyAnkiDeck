@@ -1,0 +1,8 @@
+пос`а`дка
+++++++++++
+1. [`noun, feminine`] landing
+· Рейс выполнил свою `посадку` в аэропорт в срок. (The flight carried out its `landing` at the airport on time.)
+· Она подготовилась к `посадке` на скоростной поезд. (She prepared for the `landing` on the high-speed train.)
+2. [`verb`] land
+· Самолёт успешно `посадился`. (The plane `landed` successfully.)
+· Бригада до того, как `посадилась`, преодолела довольно большую дистанцию. (The crew `landed` after overcoming quite a large distance.)

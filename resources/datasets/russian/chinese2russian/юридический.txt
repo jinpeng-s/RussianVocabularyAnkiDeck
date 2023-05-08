@@ -1,0 +1,12 @@
+юрид`и`ческий
+++++++++++
+1. [`adjective`] legal
+· Они создали `юридический` документ. (They created a `legal` document.)
+· Это `юридическое` соглашение должно быть подписано. (This `legal` agreement needs to be signed.)
+2. [`noun, masculine`] lawyer
+· Нам необходимо нанять `юриста`. (We need to hire a `lawyer`.)
+· Кто-нибудь может посоветовать нам `юриста`? (Can anyone recommend us a `lawyer`?)
+++++++++++
+· 法律 (上) 的
+· 法学的
+· 司法的

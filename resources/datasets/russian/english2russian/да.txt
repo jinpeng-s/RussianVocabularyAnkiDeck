@@ -1,0 +1,8 @@
+да
+++++++++++
+1. [`verb`] to give
+· Вопросы задавали нам, а мы отвечали `да`. (Questions were asked to us and we responded `yes`.)
+· Она предложила мне выпить чашку кофе, и я сказала `да.` (She offered me a cup of coffee and I said `yes.`)
+2. [`adverb`] yes
+· Он всегда сказал `да` при любом просьбе. (He always said `yes` upon any request.)
+· Все ответили `да`, когда предложили им начать проект. (Everyone responded `yes` when the project was proposed to them.)

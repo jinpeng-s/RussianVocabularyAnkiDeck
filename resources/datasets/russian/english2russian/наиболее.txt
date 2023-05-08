@@ -1,0 +1,8 @@
+наиболее
+++++++++++
+1. [`adverb`] most
+· Для него наилучшим было бы начать проект прямо сейчас. (For him, it would be `most` best to start the project right now.)
+· `Наиболее` важное для него – это сделать все правильно. (`Most` important for him is to do everything right.)
+2. [`adjective`] most
+· Он принял `наиболее` разумное решение. (He took the `most` reasonable decision.)
+· Для этого бизнеса `наиболее` важное – это держать высокое качество. (For this business, `most` important is to maintain a high quality.)

@@ -1,0 +1,8 @@
+поруч`а`ть
+++++++++++
+1. [`verb`] to commission, to entrust
+· Он `поручил` мне выполнить эту работу. (He `commissioned` me to do this work.)
+· Я поручаю вам эту задачу. (I `entrust` you with this task.)
+2. [`noun, masculine`] commission
+· Он получил `поручение` по доставке груза. (He received a `commission` to deliver the cargo.)
+· Они получили право выполнять `поручения` от правительства. (They got the right to execute `commissions` from the government.)

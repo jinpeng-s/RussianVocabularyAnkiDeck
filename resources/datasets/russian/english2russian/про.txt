@@ -1,0 +1,8 @@
+про
+++++++++++
+1. [`adjective`] about, concerning
+· Думал `про` другое.（I was thinking `about` something else.）
+· Работа `про` этот проект не завершена.（The work `concerning` this project is not completed.）
+2. [`adverb`] about, roughly
+· Мне потребуется `примерно` 10 минут чтобы дойти до туда.（It will take me `roughly` 10 minutes to get there.）
+· Он живёт в городе `примерно` с 10 лет.（He has been living in the city `for about` 10 years.）

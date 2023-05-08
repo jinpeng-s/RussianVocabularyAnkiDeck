@@ -1,0 +1,8 @@
+разраб`о`тка
+++++++++++
+1. [Noun, feminine] development
+· На проекте участвовали постоянные эксперты по `разработке` продуктов. (Permanent experts in product `development` participated in the project.)
+· Маркетинговая команда занимается `разработкой` новых рекламных кампаний. (The marketing team focuses on `developing` new advertising campaigns.)
+2. [Verb] develop
+· Он `разрабатывает` новое программное обеспечение. (He is `developing` new software.)
+· Этот проект требует `разработки` нового маркетингового плана. (This project requires `developing` a new marketing plan.)

@@ -1,0 +1,8 @@
+пь`е`са
+++++++++++
+1. [`noun, feminine`] play
+· Его новая `пьеса` доставила ему успех. (His new `play` brought him success.)
+· В театре сегодня идёт `пьеса` Шекспира. (Today there is a `play` byShakespeare in the theater. )
+2. [`verb`] play
+· Дети играют в `пьесу` на улице. (The children are playing a `play` in the street.)
+· Он решил `поиграть` на фортепиано. (He decided to `play` the piano.)

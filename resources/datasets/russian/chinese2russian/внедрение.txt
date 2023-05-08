@@ -1,0 +1,12 @@
+внедр`е`ние
+++++++++++
+1. [`noun, neuter`] implementation
+· На основе этих мер планируется `внедрение` новой политики. (The implementation of a new policy is planned based on these measures.)
+· `Внедрение` этого нового приложения предусматривает изменение существующей структуры данных. (The implementation of this new application involves the modification of an existing data structure.)
+2. [`verb`] implement
+· Наша компания планирует `внедрять` эту программу пошагово. (Our company plans to `implement` this program step by step.)
+· Они собираются `внедрить` новое программное обеспечение на этой неделе. (They are planning to `implement` the new software this week.)
+++++++++++
+· 采用
+· 推广
+· 实行, 贯彻

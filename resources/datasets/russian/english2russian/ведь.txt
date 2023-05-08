@@ -1,0 +1,8 @@
+ведь
+++++++++++
+1. [`adverb`] after all
+· Не `ведь` ли это неправильно? (Is this wrong `after all`?)
+· Хотя не было ясно, `ведь` там всё готово. (Although it wasn't clear, `after all` everything was ready there.)
+2. [`conjunction`] although
+· Ты удивился его словам, `ведь` прежде он говорил по-другому. (You were surprised by his words, `although` he previously spoke differently.)
+· Он мог узнать, `ведь` он так много знал. (He could have known, `although` he knew so much.)

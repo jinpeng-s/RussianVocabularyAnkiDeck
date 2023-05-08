@@ -1,0 +1,5 @@
+`е`жели
+++++++++++
+1. [`conjunction`] if
+· Ежели это не так, то решение не будет принято. (If this is not the case, the decision will not be accepted.)
+· Ежели они расхотят поехать, я иду с ними. (If they wish to go, I will go with them.)

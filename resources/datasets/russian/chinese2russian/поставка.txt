@@ -1,0 +1,14 @@
+пост`а`вка
+++++++++++
+1. [`noun, feminine`] delivery
+· Нам нужна `поставка` продуктов каждую неделю. (We need a `delivery` of groceries every week.)
+· Они обеспечили `поставку` нескольких машин еженедельно. (They provided a `delivery` of several vehicles on a weekly basis.)
+2. [`verb`] deliver
+· Доставка нашего товара должна быть сделана вовремя. (Our goods should be `delivered` on time.)
+· Транспортная компания должна `доставить` этот пакет по адресу указанному в трек-номере. (The shipping company should `deliver` this package to the address indicated in the tracking number.)
+++++++++++
+· 供应
+· 提供
+· 承订
+· 供货
+· 交货

@@ -1,0 +1,11 @@
+регистрат`у`ра
+++++++++++
+1. [`noun, feminine`] registration (desk/office)
+· Я посетил `регистратуру` больницы. (I visited the `registration` desk of the hospital.)
+· В университете была `регистратура`, где я зарегистрировался. (There was a `registration` office at the university, where I registered.)
+2. [`verb`] register
+· Она `регистрировала` своё имя в системе. (She `registered` her name in the system.)
+· Все студенты должны `регистрироваться` в начале семестра. (All students have to `register` at the start of the semester.)
+++++++++++
+· 登记室
+· 收发室, 挂号处

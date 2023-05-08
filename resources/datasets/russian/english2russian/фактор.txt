@@ -1,0 +1,8 @@
+ф`а`ктор
+++++++++++
+1. [`noun, masculine`] factor
+· Он `фактор` из нашего проекта достиг очень хороших результатов. (The `factor` from our project achieved very good results.)
+· Один из `факторов` их успеха является постоянным исследованием. (One of the `factors` of their success is constant research.)
+2. [Verb, transitive] factor
+· Мы должны `факторизировать` все переменные прежде, чем делать анализ. (We must `factor` all variables before making analysis.)
+·Это требует для нас `факторизировать` расходы на материалы. (It requires us to `factor` the material costs.)

@@ -1,0 +1,8 @@
+турб`и`на
+++++++++++
+1. [`noun, feminine`] turbine
+· В этой паровой `турбине` используется много деталей. (Many parts are used in this steam `turbine`.)
+· Технология для производства `турбин` была сильно передовая. (The technology used to manufacture `turbines` was indeed advanced.)
+2. [`verb`] turbine
+· Вы можете `турбировать` ваш двигатель для повышения производительности. (You can `turbine` your engine for higher performance.)
+· Турбина `турбировала` до скорости до целых три тысячи оборотов в минуту. (The turbine `turbined` up to three thousand revolutions per minute.)

@@ -1,0 +1,8 @@
+соверш`а`ть
+++++++++++
+1. [`verb`] commit
+· Он `совершил` жульничество. (He `committed` a fraud.)
+· Она `совершила` тяжёлую ошибку. (She `committed` a serious mistake.)
+2. [`verb`] perform
+· Он `совершил` акт героизма. (He `performed` an act of heroism.)
+· Она должна `совершать` задачу каждый день. (She has to `perform` the task every day.)

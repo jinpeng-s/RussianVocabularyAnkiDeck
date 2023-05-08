@@ -1,0 +1,8 @@
+изготовл`е`ние
+++++++++++
+1. [`noun`] manufacture
+· Какой материал требуется для `изготовления` продукта? (What material is required for the `manufacture` of the product?)
+· Эта компания специализируется на изготовлении макулатуры. (This company specializes in `manufacture` of paper pulp.)
+2. [`verb`] make, manufacture
+· Они `изготовляют` автомобили по заказам своих клиентов. (They `make` cars to order from their customers.)
+· Они `изготовили` множество новых продуктов в течение года. (They `manufactured` a large number of new products during the year.)

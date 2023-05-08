@@ -1,0 +1,8 @@
+`а`кция
+++++++++++
+1. [`noun, feminine`] stock
+· У нас есть `акции` по низким ценам. (We have `stock` at low prices.)
+· Студенты провели акцию против разногласий между странами. (The students organized a `stock` against disagreements between countries.)
+2. [`verb, infinitive`] stock
+· Мальчик `акционирует` на рынке. (The boy is `stocking` at the market.)
+· Я буду `акционировать` в магазине летних товаров. (I will be `stocking` in the summer goods shop.)

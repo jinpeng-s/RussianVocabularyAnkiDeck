@@ -1,0 +1,8 @@
+в`и`за
+++++++++++
+1. [`noun, feminine`] visa
+· Он подал документы для получения `визы`. (He submitted the documents to get a `visa`.)
+· У него не было нужной `визы`, поэтому он не смог попасть в страну. (He didn't have the necessary `visa`, so he couldn't enter the country.)
+2. [`verb`] visa
+· Они `визировали` документы для подачи на получение визы. (They `visaed` the documents for visa application.)
+· Они отказали ему в `визировании` документов. (They denied him the `visaing` of the documents.)

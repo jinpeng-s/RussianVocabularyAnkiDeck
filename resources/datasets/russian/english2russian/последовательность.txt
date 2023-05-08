@@ -1,0 +1,8 @@
+посл`е`довательность
+++++++++++
+1. [`noun, feminine`] sequence
+· Необходимо произвести действия в `последовательности` определенной схемы. (It is necessary to carry out operations in a `sequence` of a definite scheme.)
+· Он всегда проследил за `последовательностью` событий. (He always followed the `sequence` of events.)
+2. [`verb`] sequence
+· Сначала нам необходимо `последовательно` решить эти задачи. (We need to `sequence` these tasks first.)
+· Она `последовательно` прошла во всех комнатах. (She `sequenced` through all the rooms.)

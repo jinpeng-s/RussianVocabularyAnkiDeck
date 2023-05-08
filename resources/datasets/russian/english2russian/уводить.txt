@@ -1,0 +1,8 @@
+увод`и`ть
+++++++++++
+1. [`verb`] withdraw
+· Они  `уведу` деньги из банкомата. (They will `withdraw` money from the ATM.)
+· Он решил `уводить` свои деньги из банка. (He decided to `withdraw` his money from the bank.)
+2. [`verb, reflexive`] withdraw
+· Некоторые страны решили `уведуться` из ЕС. (Some countries decided to `withdraw` from the EU.)
+· Он решил `уводиться` из школы после выпуска. (He decided to `withdraw` from school after graduation.)

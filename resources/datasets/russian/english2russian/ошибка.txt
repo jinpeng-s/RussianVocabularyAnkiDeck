@@ -1,0 +1,8 @@
+ош`и`бка
+++++++++++
+1. [`noun, feminine`] mistake
+· Он допустил `ошибку` в расчётах. (He made a `mistake` in calculations.)
+· Это была непредвиденная `ошибка`, мы уже исправили её. (It was an unexpected `mistake`, we have already fixed it.)
+2. [`verb`] mistake
+· Он перепутал все наши имена и `ошибся` при рассказе истории. (He mixed up all of our names and `mistook` something in the story.)
+· Он ошибся, когда посчитал результат. (He `mistook` something when he calculated the result.)

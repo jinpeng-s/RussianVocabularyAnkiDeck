@@ -1,0 +1,8 @@
+при`я`тный
+++++++++++
+1. [`adjective`] pleasant
+· Он всегда поддерживает `приятный` настрой. (He always maintains a `pleasant` mood.)
+· Сегодня в городе очень `приятно` прогуляться. (It's really `pleasant` to take a walk in the city today.)
+2. [`noun, masculine`] pleasantness
+· Этот ресторан знаменит своим `приятным` интерьером. (This restaurant is famous for its `pleasantness` of interior.)
+· Ее `приятность` успокаивает нас. (Her `pleasantness` calms us down.)

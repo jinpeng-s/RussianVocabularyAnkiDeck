@@ -1,0 +1,8 @@
+теор`е`ма
+++++++++++
+1. [`noun, feminine`] theorem
+· Эта `теорема` имеет ключевое значение для математики. (This `theorem` has a key been significance in mathematics.)
+· Эта `теорема` подтверждает правило, которое было известно с XVI века. (This `theorem` confirms a rule which has known since the 16th century).
+2. [`verb`] prove
+· Ученые смогли `теорему`. (The scholars managed to `prove` the theorem.)
+· Он пытался `теорему` с помощью математических доказательств. (He tried to `prove` the theorem with mathematical proofs.)

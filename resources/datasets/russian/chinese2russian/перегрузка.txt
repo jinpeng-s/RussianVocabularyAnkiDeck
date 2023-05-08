@@ -1,0 +1,16 @@
+перегр`у`зка
+++++++++++
+1. [`noun, feminine`] overload
+· Произошла машинальная `перегрузка`. (An electronic `overload` occurred.)
+· Электрическая `перегрузка` может привести к короткому замыканию. (Electrical `overload` can lead to a short circuit.)
+2. [`verb`] overload
+· Они `перегружали` машину, чтобы повысить производительность. (They `overloaded` the machine to boost performance.)
+· Он предостерег от пере`гружания` машины. (He cautioned against `overloading` the machine.)
+++++++++++
+· 负担过重
+· 过载
+· 超载
+· 超重
+· 加速度
+· 载荷因数
+· 超载, 过载, 超负荷

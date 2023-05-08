@@ -1,0 +1,5 @@
+отчётливый
+++++++++++
+1. [`adjective`] distinct
+· Я не могу различить эти два товара, они очень `отчётливы`. (I cannot distinguish between these two products; they are very `distinct`.)
+· Эта картина имеет `отчётливы` контуры. (The painting has `distinct` outlines.)

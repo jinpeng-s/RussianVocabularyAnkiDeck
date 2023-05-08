@@ -1,0 +1,20 @@
+шкал`а`
+++++++++++
+1. [`noun, feminine`] scale
+· В данной `шкале` представлено пять уровней. (There are five levels in this `scale`.)
+· Для оценки  используется `шкала` от 0 до 10. (A `scale` of 0-10 is used for grading.)
+2. [`verb, infinitive`] scale
+· Мы `шкалируем` сложность для каждого задания. (We `scale` the difficulty of each task.)
+· Вы можете `шкалировать` размеры файлов в произвольных единицах. (You can `scale` the file sizes in arbitrary units.)
+++++++++++
+· 标尺
+· 刻度
+· 比率
+· 等级表
+· 比例尺
+· 等级
+· 刻度盘
+· 比例尺
+· 比率
+· 等级表
+· 刻度盘, 刻度尺

@@ -1,0 +1,8 @@
+сх`е`ма
+++++++++++
+1. [`noun, feminine`] scheme
+· Он использовал `схему` для создания бюджета. (He used a `scheme` for creating a budget.)
+· Политики обсуждали `схему` для максимизации прибыли. (The politicians discussed a `scheme` for maximizing profits.)
+2. [`verb`] scheme
+· Правительство `схемирует` все макроэкономические политики. (The government `schemes` all macroeconomic policies.)
+· Они пытались `схемировать` план для создания нанотехнологических устройств. (They tried to `scheme` a plan for creating nanotechnological devices.)

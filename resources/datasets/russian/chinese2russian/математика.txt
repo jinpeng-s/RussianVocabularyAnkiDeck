@@ -1,0 +1,10 @@
+матем`а`тика
+++++++++++
+1. [`noun, feminine`] mathematics
+· У неё `математика` была лучшей предметом в школе. (Her `mathematics` was the best subject in school.)
+· Многие студенты не любят `математику`. (Many students don't like `mathematics`.)
+2. [`verb`] calculate
+· Он умеет `математически` решать проблемы. (He is able to `calculate` problems mathematically.)
+· Помните, что вы должны `математически` проверять свои ответы. (Remember that you should `calculate` your answers mathematically.)
+++++++++++
+· 数学

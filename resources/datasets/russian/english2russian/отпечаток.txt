@@ -1,0 +1,8 @@
+отпеч`а`ток
+++++++++++
+1. [`noun, masculine`] fingerprint
+· Его `отпечаток` был записан в базу данных. (His `fingerprint` was recorded in the database.)
+· Он предъявил `отпечаток` пальца судебным приставам. (He presented his `fingerprint` to the court officers.)
+2. [`verb`] imprint
+· Карточка `отпечатывалась` автоматически. (The card was `imprinted` automatically.)
+· Он пытался `отпечатать` свой шрифт на бумаге. (He attempted to `imprint` his font on paper.)

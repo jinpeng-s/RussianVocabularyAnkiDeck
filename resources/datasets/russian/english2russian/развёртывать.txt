@@ -1,0 +1,8 @@
+развёртывать
+++++++++++
+1. [`verb`] deploy
+· Войска  `развёртывалась` по полям. (The troops `deployed` across the fields.)
+· Они `развёртывали` длинный ленточный противополитический барьер. (They `deployed` a long ribbon of anti-political barricades.)
+2. [`verb`] unfurl
+· Он `развёртывал` флаг и звучали гимны. (He `unfurled` the flag and anthems were played.)
+· Ветер `развёртывал` знамя. (The wind `unfurled` the banner.)

@@ -1,0 +1,8 @@
+св`о`дка
+++++++++++
+1. [`noun, feminine`] summary
+· Он предоставил `сводку` своих исследований. (He provided a `summary` of his research.)
+· На собрании была выступлена `сводка` за прошлый год. (At the meeting, a `summary` of the previous year was presented.)
+2. [`verb`] summarize
+· Я пытаюсь `сводить` материал до нескольких простых правил. (I try to `summarize` the material into a few simple rules.)
+· Он постарался `свести` длинные аргументы к краткой формулировке. (He tried to `summarize` long arguments into a brief statement.)

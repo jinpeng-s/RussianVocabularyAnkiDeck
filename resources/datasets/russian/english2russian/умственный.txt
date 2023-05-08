@@ -1,0 +1,8 @@
+`у`мственный
+++++++++++
+1. [`adjective`] intellectual
+· В школе мы проходили уроки `умственной` гимнастики. (We had lessons of `intellectual` gymnastics at school.)
+· У этого ребенка есть `умственная` задача. (This child has an `intellectual` challenge.)
+2. [`verb, infinitive`] intellectualize
+· Этот процесс нельзя `умственнизировать`. (This process cannot be `intellectualized`.)
+· Для этого мы должны пытаться `умственнизировать` происходящее. (We have to try to `intellectualize` what is happening.)

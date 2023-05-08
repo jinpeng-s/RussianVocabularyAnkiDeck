@@ -1,0 +1,8 @@
+`я`ркий
+++++++++++
+1. [`adjective`] bright
+· Яркий свет осветил комнату. (The `bright` light illuminated the room.)
+· Он был одет в яркие цвета. (He was dressed in `bright` colors.)
+2. [`noun, masculine`] brightness
+· Сияние яркой звезды было прекрасно. (The `brightness` of the bright star was beautiful.)
+· Яркое затмение только начиналось. (The `brightness` of the eclipse was just beginning.)

@@ -1,0 +1,8 @@
+кино
+++++++++++
+1. [`noun, neuter`] movie, cinema
+· Я предпочитаю `кино` с реальными актёрами. (I prefer `movies` with real actors.)
+· Дети любят идти в `кино`. (The children love to go to the `cinema`.)
+2. [`verb`] to shoot (a movie)
+· Они `киносъёмки` эту пьесу уже третий год. (They've been `shooting` this play for the third year.)
+· Сегодня они будут `киносъёмки ` в парке. (Today they will be `shooting` in the park.)

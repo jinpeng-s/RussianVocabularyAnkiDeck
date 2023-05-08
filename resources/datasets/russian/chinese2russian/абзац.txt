@@ -1,0 +1,11 @@
+абз`а`ц
+++++++++++
+1. [`noun, masculine`] paragraph
+· Каждый `абзац` начинается с новой строки. (Each `paragraph` starts on a new line.)
+· Я прочитал `абзац` из книги. (I read a `paragraph` from a book.)
+2. [`verb`] paragraph
+· Это может быть долго, но я `абзацую` мысль. (It may be long but I `paragraph` the thought.)
+· Затем я `абзацую` свои идеи. (Then I `paragraph` my ideas.)
+++++++++++
+· (印刷或书写中的行首) 空格
+· (文章的) 自然段

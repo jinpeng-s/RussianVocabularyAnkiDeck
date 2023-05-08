@@ -1,0 +1,8 @@
+вруч`а`ть
+++++++++++
+1. [`verb`] give, hand over
+· Они `вручили` ему множество подарков. (They `gave` him a lot of presents.)
+· Он `вручил` мне послание. (He `handed over` a message to me.)
+2. [`noun, masculine`] presentation
+· Это представляет `вручать` подарки для друзей. (It is a presentation to `give` gifts to friends.)
+· Руководство должно `вручать` достоинства работникам за их успех. (The management should `present` awards to its employees for their success.)

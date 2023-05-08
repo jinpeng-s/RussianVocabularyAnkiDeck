@@ -1,0 +1,8 @@
+вопр`о`с
+++++++++++
+1. [`noun, masculine`] question
+· Я не знаю ответ на этот `вопрос`. (I don't know the answer to this `question`.)
+· Ответьте на этот `вопрос`, пожалуйста. (Answer this `question`, please.)
+2. [`verb`] ask
+· Она `спросила` меня о плане на выходные. (She `asked` me about the plan for the weekend.)
+· Он `спросил` у администратора про последние изменения. (He `asked` the administrator about the latest changes.)

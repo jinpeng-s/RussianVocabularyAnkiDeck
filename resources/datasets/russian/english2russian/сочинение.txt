@@ -1,0 +1,8 @@
+сочин`е`ние
+++++++++++
+1. [`noun, neuter`] composition
+· Это `сочинение` дало мне много эмоционального удовольствия. (This `composition` gave me a lot of emotional pleasure.)
+· Мне сказали написать `сочинение` на данную тему. (I was told to write a `composition` on this topic.)
+2. [`verb`] compose
+· Он написал `сочинение` на аналитические темы. (He composed a `composition` on analytical topics.)
+· Ты можешь `составить` сочинение, а я проверю правильность твоих грамматических структур. (You can `compose` a composition and I'll check the correctness of your grammar structures.)

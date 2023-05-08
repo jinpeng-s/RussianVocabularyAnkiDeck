@@ -1,0 +1,15 @@
+`э`кспорт
+++++++++++
+1. [`noun, masculine`] export
+· Россия имеет высокие показатели `экспорта` нефти. (Russia has high `export` figures for oil.)
+· Земля находится в туннельном `экспорте`. (The land is in a `export` tunnel.)
+2. [`verb`] export
+· Они `экспортируют` свою продукцию в другие страны. (They `export` their production to other countries.)
+· Фирма `экспортирует` металлы во всех основных рынках. (The company `exports` metals to all major markets.)
+++++++++++
+· 出口
+· 输出
+· 出口额
+· 输出额
+· 出口货
+· 出口

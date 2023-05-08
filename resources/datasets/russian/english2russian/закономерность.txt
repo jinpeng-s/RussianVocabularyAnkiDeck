@@ -1,0 +1,8 @@
+законом`е`рность
+++++++++++
+1. [`noun, feminine`] regularity
+· Есть `закономерность` в распределении данных. (There is a `regularity` in the distribution of data.)
+· Архитектор построил постройку в соответствии с `закономерностью` окружающей среды. (The architect constructed the building in accordance with the `regularity` of the surrounding environment.)
+2. [`adjective`] regular
+· Существует `закономерный` интервал между двумя событиями. (There is a `regular` interval between two events.)
+· Он хочет `закономерного` состояния на борту. (He wants a `regular` state on board.)

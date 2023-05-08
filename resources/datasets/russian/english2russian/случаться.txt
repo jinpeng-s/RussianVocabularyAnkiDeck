@@ -1,0 +1,8 @@
+случ`а`ться
+++++++++++
+1. [`verb`] happen
+· Сегодня что-то неожиданное случилось. (Something unexpected `happened` today.)
+· Я не надеялась, что это никогда случится. (I never hoped this will `happen`.)
+2. [`verb, reflexive`] occur
+· В их городе всегда много непредсказуемых ситуаций. (Many unpredictable situations `occur` in their town all the time.)
+· Дожди иногда случаются в Аризоне. (Rain `occurs` sometimes in Arizona.)

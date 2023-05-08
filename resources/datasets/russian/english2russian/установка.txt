@@ -1,0 +1,8 @@
+устан`о`вка
+++++++++++
+1. [`noun, feminine`] installation
+· Он делал `установку` дополнительного программного обеспечения. (He was doing an `installation` of additional software.)
+· Эта компания предлагает право `установки` домашней системы безопасности. (This company offers a right of `installation` of a home security system.)
+2. [`verb`] install
+· Они `установили` новое оборудование на заводе. (They `installed` the new equipment in the factory.)
+· Мы `установили` программу для синхронизации данных. (We `installed` a program for data synchronization.)

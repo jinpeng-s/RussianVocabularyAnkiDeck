@@ -1,0 +1,8 @@
+двадц`а`тый
+++++++++++
+1. [`adjective`] twentieth
+· В этом году `двадцатый` сентябрь. (This year is `twentieth` of September.)
+· В прошлом году он учился в `двадцатом` классе. (Last year he studied in the `twentieth` class.)
+2. [`ordinal numeral`] twentieth
+· Она стала `двадцатым` министром. (She became the `twentieth` minister.)
+· Он занял `двадцатое` место в гонке. (He took the `twentieth` place in the race.)

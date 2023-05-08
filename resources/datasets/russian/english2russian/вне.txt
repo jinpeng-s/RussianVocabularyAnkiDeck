@@ -1,0 +1,8 @@
+вне
+++++++++++
+1. [`adverb`] outside
+· Я предпочитаю читать `вне` дома. (I prefer to read `outside` home.)
+· Вы также можете рисовать и отдыхать `вне`. (You can also draw and have a rest `outside`.)
+2. [`preposition`] without
+· Он живёт `вне` социума. (He lives `without` society.)
+· Я не могу жить `вне` этого города. (I can't live `without` this city.)

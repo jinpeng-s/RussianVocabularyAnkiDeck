@@ -1,0 +1,10 @@
+полупроводн`и`к
+++++++++++
+1. [`noun, masculine`] semiconductor
+· Никель используется для производства `полупроводников`. (Nickel is used to make `semiconductors`.)
+· Компания была основана в 1980 году и изготовляет `полупроводники`. (The company was founded in 1980 and manufactures `semiconductors`.)
+2. [`adjective`] semiconductor
+· `Полупроводниковые` устройства используются во многих различных дисплеях. (`Semiconductor` devices are used in many kinds of displays.)
+· `Полупроводниковые` технологии значительно улучшают производительность ЭВМ. (`Semiconductor` technologies significantly improve the performance of computers.)
+++++++++++
+· 半导体

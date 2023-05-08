@@ -1,0 +1,8 @@
+зн`а`ть
+++++++++++
+1. [`verb, imperfective`] know
+· Он `знал` всё о нём. (He `knew` everything about him.)
+· Они `знали` о том, что я делаю. (They `knew` what I was doing.)
+2. [`verb, perfective`] know
+· Он `узнал` всё о том, что произошло. (He `learnt` everything about what happened.)
+· Она `узнала`, что я о нём думаю. (She `learnt` what I think about him.)

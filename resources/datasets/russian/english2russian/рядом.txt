@@ -1,0 +1,8 @@
+р`я`дом
+++++++++++
+1. [`adverb`] nearby
+· Он живёт `рядом` со мной. (He lives `nearby` me.)
+· Я знаю магазин `рядом`. (I know a shop `nearby`.)
+2. [`adjective`] nearby
+· Он захотел купить `рядом` лежащий дом. (He wanted to buy the house `lying nearby`.)
+· Мы видим `рядом` стоящую деревню. (We see the village `standing nearby`.)

@@ -1,0 +1,8 @@
+на`у`чный
+++++++++++
+1. [`adjective`] scientific
+· Он имеет `научный` диплом. (He has a `scientific` diploma.)
+· У нас был `научный` проект. (We had a `scientific` project.)
+2. [`noun, masculine`] scientist
+· Он учёный-`научный` работник. (He is the `scientific` staff member.)
+· Он стал `научным` директором. (He became the `scientific` director.)

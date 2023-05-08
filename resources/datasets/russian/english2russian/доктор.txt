@@ -1,0 +1,8 @@
+д`о`ктор
+++++++++++
+1. [`noun, masculine`] doctor
+· У меня есть `доктор` на нескольких языках. (I have a `doctor` in several languages.)
+· Нам понадобится найти `доктора`, который может обследоать детей. (We need to find a `doctor` who can examine children.)
+2. [`verb`] doctor
+· Он сумел `докторировать` свой компьютер. (He was able to `doctor` his computer.)
+· Они успели `докторировать` файлы, прежде чем вышли из системы. (They managed to `doctor` the files before logging out.)

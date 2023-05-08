@@ -1,0 +1,10 @@
+софтвер
+++++++++++
+1. [`noun, masculine`] software
+· У нас есть наиболее новые `софтвер` программы. (We have the most up-to-date `software` programs.)
+· Мой компьютер поддерживает последние версии `софтвер` от Microsoft. (My computer supports the latest version of Microsoft `software`.)
+2. [`verb`] software
+· Он создал программу, `софтверизирующую` систему. (He created a program `software-izing` the system.)
+· Мои родители потратили несколько лет на `софтверизацию` их бизнеса. (My parents spent several years `software-izing` their business.)
+++++++++++
+· 软件

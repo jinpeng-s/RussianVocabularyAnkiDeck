@@ -1,0 +1,8 @@
+реш`а`ть
+++++++++++
+1. [`verb`] solve, resolve
+· Ты должен `решать` собственные проблемы. (You should `solve` your own problems.)
+· Нам придётся `решать` эту загадку. (We will have to `solve` this puzzle.)
+2. [`noun, neuter`] solution
+· Результатом будет `решение` этой проблемы. (The result will be a `solution` to this problem.)
+· Это не лучшее `решение`. (This is not the best `solution`.)

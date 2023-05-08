@@ -1,0 +1,5 @@
+б`е`гать
+++++++++++
+1. [`verb`] run
+· Они `бегали` по пляжу. (They `ran` along the beach.)
+· Он должен `бежать`, чтобы доехать вовремя. (He has to `run` to make it on time.)

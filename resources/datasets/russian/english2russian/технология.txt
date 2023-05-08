@@ -1,0 +1,8 @@
+технол`о`гия
+++++++++++
+1. [`noun, feminine`] technology
+· `Технология` играет важную роль в нашей современной жизни. (`Technology` plays an important role in our modern life.)
+· Наша компания стремится оставаться на переднем фронте в применении `технологии`. (Our company strives to stay at the forefront of `technology` usage.)
+2. [`verb`] to technologize
+· Они решили `технологизировать` их производство потому что это поможет им увеличить доходы. (They decided to `technologize` their production because it would help them increase their income.)
+· Для точной регрессионной анализы необходимо `технологизировать` набор данных. (In order to perform precision regression analysis, it is necessary to `technologize` the data set.)

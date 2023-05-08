@@ -1,0 +1,14 @@
+предпос`ы`лка
+++++++++++
+1. [`noun, feminine`] premise
+· Речь была идти про `предпосылки` для дальнейшего развития. (The speech was about `premises` for the further development.)
+· Она начала говорить о `предпосылках` проекта. (She started to talk about the `premises` of the project.)
+2. [`verb`] presuppose
+· Разговор предполагает участие двух сторон. (The conversation `presupposes` the participation of two parties.)
+· Она предположила, что он будет помнить о ней. (She `presupposed` that he would remember about her.)
+++++++++++
+· 前提, 出发点
+· 先决条件
+· 前提
+· 潜在原因
+· 先决条件

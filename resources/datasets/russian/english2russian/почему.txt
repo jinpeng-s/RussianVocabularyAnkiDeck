@@ -1,0 +1,8 @@
+почем`у`
+++++++++++
+1. [`adverb`] why
+· Почему ты не знаешь `почему` это случилось? (Why don't you know `why` it happened?)
+· Я Не могу понять `почему` я должен это делать. (I cannot understand `why` I am supposed to do this.)
+2. [`conjunction`] why
+· Ты можешь понять `почему`, я так решил? (Can you understand `why` I made this decision?)
+· Они не поняли `почему` так произошло. (They didn't understand `why` it happened like that.)

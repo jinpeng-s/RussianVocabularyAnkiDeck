@@ -1,0 +1,5 @@
+внедр`я`ть
+++++++++++
+1. [`verb`] implement, introduce
+· В последние годы банки `внедряют` всё больше технологий для обеспечения безопасности. (Banks have `implemented` more and more technologies for safety in recent years.)
+· Мы планируем `внедрить` новые технологии для повышения производительности. (We are planning to `introduce` new technologies to increase productivity.)

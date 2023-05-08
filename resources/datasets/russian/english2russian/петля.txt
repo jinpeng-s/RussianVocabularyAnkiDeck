@@ -1,0 +1,8 @@
+петл`я`
+++++++++++
+1. [`noun, feminine`] loop
+· Он сделал `петлю` из троса. (He made a `loop` out of a rope.)
+· Девочка прицепила `петлю` к другой стороне ремня. (The girl attached a `loop` to the other side of the belt.)
+2. [`verb`] loop
+· Он `петлял` лестницу из двух лестниц. (He `looped` the stairs from two staircases.)
+· Я придётся `петлять` шнуры, чтобы подключить это устройство. (I will have to `loop` the wires in order to connect this device.)

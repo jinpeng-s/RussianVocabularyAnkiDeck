@@ -1,0 +1,8 @@
+нал`и`чие
+++++++++++
+1. [`noun, neuter`] presence
+· В `наличие` есть два типа шаблонов. (Two types of templates are in `presence`.)
+· Наше представительство подтвердило его `наличие`. (Our representative confirmed his `presence`.)
+2. [`verb`] have got
+· В магазине нет данной модели в `наличии`. (This model is not `had` in the store.)
+· У него есть карта в `наличии`. (He's got a card `had`.)

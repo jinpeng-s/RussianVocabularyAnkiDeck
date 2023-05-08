@@ -1,0 +1,8 @@
+веществ`о`
+++++++++++
+1. [`noun, neuter`] substance
+· Данное `вещество` обладает лечебными свойствами. (This `substance` has healing properties.)
+· Только большие дозы `вещества` могут вызвать такой результат. (Only high doses of the `substance` can lead to such result.)
+2. [`verb`] substance
+· Они `веществовали` в билетах на местное мероприятие. (They `substantiated` their tickets to the local event.)
+· Источник `веществовал` эти сведения являясь уверенным о их точности. (The source `substantiated` these information being sure of their accuracy.)

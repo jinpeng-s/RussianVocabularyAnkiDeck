@@ -1,0 +1,8 @@
+стр`е`лка
+++++++++++
+1. [`noun, feminine`] arrow
+· Он поднял `стрелку` стрелкового ружья. (He raised the `arrow` of the rifle.)
+· На доске была нарисована  `стрелка` указывающая на дверь. (There was a `arrow` drawn on the board pointing towards the door.)
+2. [`verb`] aim
+· Он точно `стрелял` по мишени. (He was `aiming` precisely at the target.)
+· Она стреляла без `стрелки` на руки. (She was `aiming` at her arm without any arrow.)

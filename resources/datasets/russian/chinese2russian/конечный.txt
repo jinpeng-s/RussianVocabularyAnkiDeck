@@ -1,0 +1,13 @@
+кон`е`чный
+++++++++++
+1. [`adjective`] final
+· Я сделал `конечный` выбор. (I made a `final` choice.)
+· Это `конечный` результат исследования. (This is the `final` result of the research.)
+2. [`noun, masculine`] endpoint
+· Виндовс использует `конечный` пункт для передачи данных. (Windows uses an `endpoint` to transfer data.)
+· Это `конечный` пункт пути. (This is the `endpoint` of the journey.)
+++++++++++
+· 位于一端的
+· 最后的, 最终的, 终极的
+· 末端的
+· &lt;数&gt;有限的, 有穷的

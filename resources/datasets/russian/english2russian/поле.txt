@@ -1,0 +1,8 @@
+п`о`ле
+++++++++++
+1. [`noun, neuter`] field
+· В горах `поле` покрыто снегом. (The `field` in the mountains is covered with snow.)
+· Молодые люди играли в футбол на `поле`. (The young people were playing football in the `field`.)
+2. [`verb`] field
+· На экзамене он отвечал на множество вопросов. Среди них `поля`сь и легкие. (At the exam he was answering many questions. Among them were both the easy and the more `difficult` ones.)
+· Он `полясь` от реальности и понимал, что должен делать. (He was `looking away` from reality and understanding what he should do.)

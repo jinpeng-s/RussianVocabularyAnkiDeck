@@ -1,0 +1,15 @@
+`я`щик
+++++++++++
+1. [`noun, masculine`] box
+· Я положил свои вещи в `ящик`. (I put my things in a `box`.)
+· В этом `ящике` были много интересных предметов. (There were a lot of interesting things in this `box`.)
+2. [`verb`] pack, box
+· Он прислал мне посылку, я ее `заплачивал` (He sent me a package, I `packed` it.)
+· Она `закладывала` игрушки в ящик. (She `boxed` the toys.)
+++++++++++
+· 抽屉
+· 箱, 匣, 盒
+· 车厢
+· 箱形设备
+· &lt;计&gt;单元
+· 舱

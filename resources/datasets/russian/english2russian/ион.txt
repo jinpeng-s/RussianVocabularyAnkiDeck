@@ -1,0 +1,8 @@
+и`о`н
+++++++++++
+1. [`noun, masculine`] ion
+· Образование `ионов` происходит при химической реакции. (The formation of `ions` occurs during a chemical reaction.)
+· Они мониторят количество барометрических `ионов` в воздушном потоке. (They monitor the number of barometric `ions` in an air flow.)
+2. [`verb, infinitive`] ionize
+· В газовых и плазмореакторах `ионизируется` газ. (Gas is `ionized` in gas and plasma reactors.)
+· Фотоионизация - это процесс, когда `ионизируются` молекулы при воздействии атомов другого газа. (Photodissociation is the process when molecules are `ionized` when subjected to atoms of another gas.)

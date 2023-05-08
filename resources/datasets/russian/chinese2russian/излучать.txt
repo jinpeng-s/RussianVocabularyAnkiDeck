@@ -1,0 +1,11 @@
+излуч`а`ть
+++++++++++
+1. [`verb`] emit
+· Объект `излучал` огромное количество света. (The object `emitted` a huge amount of light.)
+· Из-за горелки испарялось `излучение`. (The burner `emitted` radiation.)
+2. [`noun, neuter`] emission
+· Правительство вводит ограничения для `излучения` загрязняющих веществ в атмосферу. (The government is introducing restrictions on `emissions` of polluting matter into the atmosphere.)
+· В производственном комплексе было принято много мер, цель которых заключалась в снижении `излучения` неприятных запахов. (The industrial complex has taken a lot of measures aimed at reducing the `emission` of unpleasant odors.)
+++++++++++
+· 发出, 放出 (光线等)
+· 辐射

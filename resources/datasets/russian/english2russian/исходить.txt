@@ -1,0 +1,8 @@
+исход`и`ть
+++++++++++
+1. [`verb`] proceed
+· Они продолжают `исходить` из той же самой ложки. (They keep proceeding from the same spoon.)
+· Всё, что нам предстоит, это `исходить` из того, что у нас есть. (All we have to do is to proceed from what we have.)
+2. [`verb, transitive`] originate
+· Они `исходят` из одной и той же семьи. (They originate from the same family.)
+· Этот ракетный двигатель `исходит` от старой технологии. (This rocket engine originates from an old technology.)

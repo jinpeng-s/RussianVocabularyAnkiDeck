@@ -1,0 +1,8 @@
+запир`а`ть
+++++++++++
+1. [`verb`] lock
+· Он запирал `дверь`, после чего влез в свою комнату. (He `locked` the door and went into his room.)
+· Он запирал дверь `ключом`, чтобы все знали, что он дома. (He `locked` the door with a key so everybody would know he's home.)
+2. [`noun, masculine`] lock
+· У него была красивая `запирающая` замочая. (He had a beautiful `locking` latch.)
+· Он разработал уникальную `запирающую` систему. (He designed a unique `locking` system.)

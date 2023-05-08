@@ -1,0 +1,8 @@
+стат`и`стка
+++++++++++
+1. [`noun, feminine`] statistician
+· Она работает в качестве `статистики`. (She works as a `statistician`.)
+· Вы наняли `статистику`, чтобы составить отчет? (Did you hire a `statistician` to make the report?)
+2. [`verb`] statisticize
+· Нам нужно `статистизировать` всю информацию перед презентацией. (We need to `statisticize` all the data before the presentation.)
+· Графики используются для `статистизации` данных. (Graphs are used to `statisticize` the data.)

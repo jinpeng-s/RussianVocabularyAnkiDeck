@@ -1,0 +1,8 @@
+контрол`и`ровать
+++++++++++
+1. [`verb`] to control, to monitor
+· Правительство `контролирует` все въездные/выездные путевки. (The government `controls` all entry/exit visas.)
+· Они `контролируют` экономическое развитие страны. (They `monitor` the economic development of the country.)
+2. [`noun, masculine`] control, monitoring
+· Правительство ввело `контролирование` рынка труда. (The government introduced `control` of the labor market.)
+· Оценка состояния безопасности чрез `контролирование` трафика. (Assessment of security via `monitoring` of traffic.)

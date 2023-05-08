@@ -1,0 +1,8 @@
+там`о`жня
+++++++++++
+1. [`noun, feminine`] customs
+· В аэропорту нужно пройти `таможню`, чтобы войти в страну. (You must pass through `customs` to enter the country in the airport.)
+· В Литве таможня `разрешала` приносить только одну бутылку алкоголя. (In Lithuania, `customs` allow to bring only one bottle of alcohol.)
+2. [`verb, perfective`] to customs
+· Мы `таможней` проходили несколько часов. (We `passed` through customs for a few hours.)
+· Я вещи `таможней` не объявлял. (I `did not declare` my things to the customs.)

@@ -1,0 +1,8 @@
+теплопров`о`дность
+++++++++++
+1. [`noun, feminine`] thermal conductivity
+· Теплопроводность стекла почти вдвое меньше, чем у других материалов. (The `thermal conductivity` of glass is almost half that of other materials.)
+· Уровень теплопроводности может быть измерен достаточно точно. (The level of `thermal conductivity` can be measured accurately.)
+2. [`verb`] conduct
+· Такие материалы лучше всего передают и проводят `тепло`. (Such materials are best for transmitting and `conducting` heat.)
+· В металле более высокая `теплопроводность`, чем в других материалах. (Metals have higher `thermal conductivity` than other materials.)

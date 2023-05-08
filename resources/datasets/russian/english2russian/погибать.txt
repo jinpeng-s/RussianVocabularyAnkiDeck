@@ -1,0 +1,8 @@
+погиб`а`ть
+++++++++++
+1. [`verb`] to die, to be killed
+· Население `погибло` в восстании. (The population `died` in the uprising.)
+· На войне `погибли` многие. (Many people `were killed` in the war.)
+2. [`verb, reflexive`] to perish
+· В этой битве `погибли` два генерала. (Two generals `perished` in this battle.)
+· Эта цивилизация `погибла` за неимением ресурсов. (This civilization `perished` due to lack of resources.)

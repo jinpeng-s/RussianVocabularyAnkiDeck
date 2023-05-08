@@ -1,0 +1,8 @@
+им`е`ть
+++++++++++
+1. [`verb`] to have, to possess
+· Она имеет `достаточно` денег для путешествия. (She has `sufficient` money for the trip.)
+· Тебе нужно иметь `удостоверение` для посещения сайта. (You need to have a `certificate` to access the site.)
+2. [`noun, neuter`] have, possession
+· Компания имеет `богатство` информации и технологий. (The company has `wealth` of information and technology.)
+· На том корабле имеется `оснащение` по зачистке морской воды. (The ship has `equipment` for cleaning the sea water.)

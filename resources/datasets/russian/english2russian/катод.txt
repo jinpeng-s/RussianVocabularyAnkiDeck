@@ -1,0 +1,8 @@
+кат`о`д
+++++++++++
+1. [`noun, masculine`] cathode
+· В полупроводниковых радиоэлементах роль `катода` играет элекрод. (In semiconductor devices, the role of the `cathode` is played by the electrode.)
+· Радиоэлектронным элементам необходим `катод`, чтобы работали. (Radioelectronic elements need a `cathode` in order to work.)
+2. [`verb`] to cathodize
+· На респираторы применяется метод `катодизации` для полировки. (The method of `cathodization` is used to polish the respirators.)
+· Тонкие детали `катодизуются`, чтобы увеличить их прочность. (Thin details are `cathodized` to increase their strength.)

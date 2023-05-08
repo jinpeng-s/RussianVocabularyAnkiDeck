@@ -1,0 +1,10 @@
+перекрёсток
+++++++++++
+1. [`noun, masculine`] intersection
+· Две улицы стали образовывать `перекрёсток`. (Two streets became an `intersection`.)
+· У нас есть приоритет при проезде через `перекрёсток`. (We have the right of way at the `intersection`.)
+2. [`verb, imperfective`] intersection
+· Машины `перекрывали` друг друга на перекрестке. (Cars were `intersecting` each other at the intersection.)
+· Дороги `перекрывают` друг друга перед домом. (The roads `intersect` each other in front of the house.)
+++++++++++
+· 十字路口

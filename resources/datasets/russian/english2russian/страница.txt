@@ -1,0 +1,8 @@
+стран`и`ца
+++++++++++
+1. [`noun, feminine`] page
+· Ты должен зайти на первую `страницу` сайта. (You should access the first `page` of the website.)
+· На этой `странице` находится важная информация. (Important information can be found on this `page`.)
+2. [`verb, infinitive`] page
+· Мы должны `страничить` учебник для контроля понимания. (We should `page` through the textbook to check understanding.)
+· Она `страничит` по сайту и просматривает интересующие ее материалы. (She `pages` through the site and looks through the materials of interest to her.)
