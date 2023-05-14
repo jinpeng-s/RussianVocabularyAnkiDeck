@@ -1,8 +1,0 @@
-голосов`а`ть
-++++++++++
-1. [`verb`] to vote
-· Все граждане имеют право `голосовать`. (All citizens have a right `to vote`.)
-· Собрание решило `голосовать`, чтобы определить правильную последовательность. (The assembly decided `to vote` to determine the correct sequence.)
-2. [`noun, neuter`] vote
-· Рассматриваемое предложение получило `голосование`. (The motion under consideration received a `vote`.)
-· Все `голосования` были одобрены. (All the `votes` were approved.)

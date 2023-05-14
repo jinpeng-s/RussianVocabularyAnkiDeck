@@ -1,8 +1,0 @@
-р`а`зный
-++++++++++
-1. [`adjective`] different
-· Я увидел `разные` типы самолётов. (I saw `different` types of airplanes.)
-· У каждого человека есть `разные` интересы. (Each person has `different` interests.)
-2. [`verb`] differ
-· Это два вида `разнятся` между собой. (These two kinds `differ` from each other.)
-· Я считаю, что мнения `разнятся` в этом вопросе. (I think opinions `differ` on this question.)

@@ -1,0 +1,21 @@
+баг
+++++++++++
+баг
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 40,000)
+++++++++++
+Б
+++++++++++
+None
+++++++++++
+Программи́сты не могли́ вы́явить причи́ну ба́га. | The programmers could not find the cause of the bug.
+Э́то не баг, э́то недокументированная фича. | This isn't a bug, its an undocumented enhancement.
+Э́то не баг. | It's not a bug.
+Э́то не баг, а фича. | It's a feature, not a bug.
+Большинство́ разрабо́тчиков ненави́дят ста́дию отла́дки; куда интере́снее ба́ги писать, чем исправля́ть. | Most developers hate debugging; it's more fun to create bugs than to correct them.
+В ка́ждой нетривиальной програ́мме есть по кра́йней ме́ре один баг. | Every non-trivial program has at least one bug.
+Программи́ст пофиксил баг. | The programmer fixed the bug.
+Разрабо́тчики быстро пофиксили баг. | The developers quickly fixed the bug.
+Э́то не баг, э́то незадокументированная фича. | It’s not a bug, it’s an undocumented feature.
+Баг был исправлен. | The bug has been corrected.

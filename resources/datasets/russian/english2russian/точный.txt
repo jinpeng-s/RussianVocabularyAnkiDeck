@@ -1,8 +1,0 @@
-т`о`чный
-++++++++++
-1. [`adjective`] exact
-· Он дал `точное` ответ. (He gave an `exact` answer.)
-· Мы работаем по `точным` графикам. (We work according to `exact` schedules.)
-2. [`verb`] specify
-· Он задал ему одно `точное` условие. (He provided him with one `specific` condition.)
-· Ты должен `точно` указать адрес. (You have to `specify` the address exactly.)

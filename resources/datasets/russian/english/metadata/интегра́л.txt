@@ -1,0 +1,14 @@
+интеграл
+++++++++++
+интегра́л
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 30,000)
+++++++++++
+И
+++++++++++
+integral
+++++++++++
+Я могу́ взять интегра́л и произво́дную. А ты? | I can take the integral and the derivative. And you?
+Флюенс - э́то интегра́л по вре́мени от пото́ка. | Fluence is the time integral of flux.
+Мно́гие сло́жные на вид интегра́лы можно реши́ть с по́мощью ме́тодов комплексного ана́лиза. | Many complicated-looking real integrals can be solved using methods from complex analysis.

@@ -1,8 +1,0 @@
-обуч`е`ние
-++++++++++
-1. [`noun, neuter`] training
-· Он посещал занятия `обучения`. (He attended `training` sessions.)
-· Компания организовала `обучение` для своих сотрудников. (The company organized `training` for its employees.)
-2. [`verb`] train
-· Я регулярно `обучаю`сь иностранным языкам. (I regularly `train` in foreign languages.)
-· Нам надо `обучить` детей правильно вести себя. (We need to `train` the children to behave properly.)

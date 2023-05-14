@@ -1,8 +1,0 @@
-перев`о`дчик
-++++++++++
-1. [`noun, masculine`] translator
-· Он работает в крупной компании в качестве `переводчика`. (He works in a big company as a `translator`.)
-· Я нашел профессионального `переводчика` для своей конференции. (I found a professional `translator` for my conference.)
-2. [`verb`] to translate
-· Он пригласил эксперта `переводить` документы с русского на английский язык. (He invited an expert to `translate` documents from Russian to English.)
-· Она поможет нам `перевести` эту книгу? (Will she help us `translate` this book?)

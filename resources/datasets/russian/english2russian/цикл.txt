@@ -1,8 +1,0 @@
-ц`и`кл
-++++++++++
-1. [`noun, masculine`] cycle
-· Инструкция основана на принципе `цикла`. (The instructions are based on the principle of a `cycle`.)
-· Вся жизнь является неким `циклом`, вечной цепью. (Life is a `cycle`, an eternal chain.)
-2. [`verb, infinitive`] cycle
-· В данный момент он обучается `циклировать`. (He is currently learning to `cycle`.)
-· Я новичок в `циклировании`, но изучу. (I'm new to `cycling`, but I'm learning.)

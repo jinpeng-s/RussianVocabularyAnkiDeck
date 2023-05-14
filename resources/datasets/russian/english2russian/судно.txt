@@ -1,8 +1,0 @@
-с`у`дно
-++++++++++
-1. [`noun, neuter`] ship, vessel
-· В порту были два `судна`. (There were two `ships` in the port.)
-· На реке плавал торговый `судно`. (A trading `vessel` was sailing the river.)
-2. [`adjective`] naval
-· В этом городе находится `судный` завод. (There is a `naval` factory in this town.)
-· Всё военное `судно` активно используется. (All the `naval` vessels are in active service.)

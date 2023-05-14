@@ -1,8 +1,0 @@
-ли
-++++++++++
-1. [`noun, neuter`] series
-· В `ли` поэта произведения были переведены на другие языки. (The poet's `series` of works were translated into other languages.)
-· Издательство выпустило новую `ли` книг.  (The publishing house released a new `series` of books.)
-2. [`verb`] run
-· Он пробежал `ли` и пришел первым. (He `ran` a series and came first.)
-· Это приложение было запущено в последовательность `ли`. (The application was `run` in a series.)

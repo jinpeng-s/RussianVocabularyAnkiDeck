@@ -1,8 +1,0 @@
-образ`е`ц
-++++++++++
-1. [`noun, masculine`] example
-· Я показал ему `образец` работы. (I showed him an `example` of the work.)
-· `Образец` не является правилом. (An `example` is not the rule.)
-2. [`verb`] to exemplify
-· Это дело `образцово` продемонстрировало идею. (The case `exemplified` the idea.)
-· Это `образцовым` образом показало, как надо работать. (This `exemplified` how the work should be done.)

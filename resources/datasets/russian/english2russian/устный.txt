@@ -1,8 +1,0 @@
-`у`стный
-++++++++++
-1. [`adjective`] oral
-· Это `устный` экзамен. (This is an `oral` exam.)
-· Он проходил `устное` собеседование. (He was having an `oral` interview.)
-2. [`noun, masculine`] speech
-· Том дал `устное` отчетсвие. (Tom gave an `oral` speech.)
-· Она подготовила `устный` презентацию. (She prepared an `oral` presentation.)

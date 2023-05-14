@@ -1,8 +1,0 @@
-карт`и`на
-++++++++++
-1. [`noun, feminine`] painting, picture
-· Она видела в музее `картину` Пикассо. (She saw a `painting` of Picasso in the museum.)
-· На стене висела `картина` поэта. (The `painting` of the poet hung on the wall.)
-2. [`verb`] paint, depict
-· Он приказал `картину` в помещении. (He ordered to `paint` the room.)
-· Она искусно `картинировала` эту жизнь. (She brilliantly `depicted` this life.)

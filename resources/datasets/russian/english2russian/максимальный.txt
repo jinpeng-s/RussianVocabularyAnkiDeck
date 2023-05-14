@@ -1,8 +1,0 @@
-максим`а`льный
-++++++++++
-1. [`adjective`] maximum
-· Вы должны достичь `максимального` уровня качества работы. (You must achieve the `maximum` level of quality work.)
-· `Максимальная` скорость автомобиля составляла 60 миль в час. (The `maximum` speed of the car was 60 miles per hour.)
-2. [`noun, feminine`] maximum
-· Была установлена `максимальная` граница цен. (A `maximum` limit of prices was set.)
-· В этой системе будет установлен `максимальная` длительность поездки. (In this system, a `maximum` duration of the trip will be established.)

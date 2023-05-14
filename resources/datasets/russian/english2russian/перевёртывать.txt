@@ -1,8 +1,0 @@
-перевёртывать
-++++++++++
-1. [`verb`] flip
-· Он пытался `перевёртывать` яйцо без сбоя. (He tried to `flip` the egg without a mistake.)
-· Они `перевёртывали` прокладку на другую сторону. (They `flipped` the pad to the other side.)
-2. [`verb, reflexive`] flip over
-· Я испытал тяжелое `перевертывание` в животе. (I felt a strong `flip over` in my stomach.)
-· Транспорт потерял равновесие и `перевёртывался`. (The transport lost balance and `flipped over`.)

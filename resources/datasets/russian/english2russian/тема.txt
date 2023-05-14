@@ -1,8 +1,0 @@
-т`е`ма
-++++++++++
-1. [`noun, feminine`] topic
-· Он должен был готовиться к лекции по этой `теме`. (He had to prepare the lecture on this `topic`.)
-· На сегодняшнем заседании мы обсудим `тему` политического стабильности. (At today's meeting we will discuss the `topic` of political stability.)
-2. [`verb`] topic
-· Она `тематизировала` свою работу на несколько разделов. (She `topicked` her work into several sections.)
-· В школе преподаватель `тематизировал` всё что нужно было изучить по этой теме. (At school, the teacher `topicked` all the material that needed to be studied on this topic.)

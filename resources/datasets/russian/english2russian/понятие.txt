@@ -1,8 +1,0 @@
-пон`я`тие
-++++++++++
-1. [`noun, neuter`] concept
-· Все `понятия` должны быть объяснены. (All `concepts` need to be explained.)
-· Общее `понятие` этого закона крайне важно. (The general `concept` of this law is crucial.)
-2. [`verb, imperfective`] to understand, comprehend
-· Он стремился `понять` сложные математические концепции. (He was striving to `understand` complex mathematical concepts.)
-· Она успела `понять` идею, прежде чем кто-либо успел объяснить её. (She managed to `comprehend` the idea before anyone had time to explain it.)

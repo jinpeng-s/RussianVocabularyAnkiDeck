@@ -1,8 +1,0 @@
-вычисл`я`ть
-++++++++++
-1. [`verb`] calculate
-· Телефон помогает вычислять длинные математические уравнения. (The phone helps `calculate` long mathematical equations.)
-· Давай вычислим, сколько мы заработаем. (Let's `calculate` how much money we will earn.)
-2. [`verb`] compute
-· Я использую компьютер для вычисления сложных формул. (I use computer to `compute` difficult formulas.)
-· Аудиторы вычислили риски вложения. (Auditors `computed` the risks of investment.)

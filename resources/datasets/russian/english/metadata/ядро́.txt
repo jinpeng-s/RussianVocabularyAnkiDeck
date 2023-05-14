@@ -1,0 +1,19 @@
+ядро
+++++++++++
+ядро́
+++++++++++
+noun, neuter, inanimate
+Rarely used word (top 7,000)
+++++++++++
+Я
+++++++++++
+coreAlso: nucleus, main body, shot, ball
+++++++++++
+Положи́тельные а́томные ядра притя́гивают отрица́тельные электро́ны. | Positive atomic nuclei attract negative electrons.
+Электро́ны враща́ются вокруг ядра а́тома. | Electrons orbit around the nucleus of the atom.
+В отли́чие от ДНК, находящейся только в ядре́, РНК также прису́тствует в цитоплазме. | In contrast to DNA, which only occurs in the nucleus, RNA is also found in the cytoplasm.
+Виртуа́льная па́мять - э́то метод управле́ния па́мятью, разработанный для многозадачных я́дер. | Virtual memory is a memory management technique developed for multitasking kernels.
+День-два назад у меня случи́лся серьёзный сбой ядра. | I got a great kernel panic a day or two ago.
+Ядро́ а́тома водоро́да состои́т из еди́нственного прото́на. Вокруг э́того прото́на враща́ется еди́нственный электро́н. | The nucleus of a hydrogen atom consists of a single proton. Around this proton orbits a single electron.
+Ядро́ Земли состои́т из расплавленного железа и ни́келя. | Earth has a core of molten iron-nickel.
+У ОС Linux моноли́тное ядро́. | The Linux kernel is monolithic.

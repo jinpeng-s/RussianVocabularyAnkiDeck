@@ -1,8 +1,0 @@
-с`е`вер
-++++++++++
-1. [`noun, masculine`] north
-· По морю следовало северное направление. (The course followed was a `north` direction.)
-· Север — это один из четырёх основных направлений. (`North` is one of the four main directions.)
-2. [`adverb`] north
-· Любой обьект находится севернее, чем другой. (Any object is `north`er than another.)
-· Ты уверен в положении этой стороны северного полюса? (Are you sure about the position of the `north` pole's side?)

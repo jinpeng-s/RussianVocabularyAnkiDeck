@@ -1,8 +1,0 @@
-период`и`ческий
-++++++++++
-1. [`adjective`] periodic
-· В этом магазине нужно сделать платежи `периодически`. (You need to make payments periodically in this store.)
-· Они установили `периодическое` обновление данных. (They set up a periodic data update.)
-2. [`noun`] period
-· Они договорились о `периодических` встречах. (They agreed on periodic meetings.)
-· Мы имеем некоторые `периодические` проекты для наших клиентов. (We have some periodic projects for our customers.)

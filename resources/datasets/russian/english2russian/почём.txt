@@ -1,8 +1,0 @@
-почём
-++++++++++
-1. [`noun, masculine`] price
-· Я задал себе вопрос, каков `почём` этот телефон. (I asked myself what is the `price` of this phone.)
-· Он продал эту картину по `почём`. (He sold the painting for a `price`.)
-2. [`verb`] price
-· На рынке всё `починало` по слишком высоким ценам. (Everything in the market started to be `priced` too high.)
-· Он `починил` цену на его товары в два раза дешевле. (He `priced` his goods twice as cheap.)

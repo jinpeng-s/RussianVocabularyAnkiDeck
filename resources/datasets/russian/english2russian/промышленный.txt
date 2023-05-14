@@ -1,8 +1,0 @@
-пром`ы`шленный
-++++++++++
-1. [`adjective`] industrial
-· Этот `промышленный` город был основан в 18-ом веке. (This `industrial`  city was founded in the 18th century.)
-· Россия ежегодно реализует много `промышленных` продуктов. (Russia exports a large amount of its `industrial` products every year.)
-2. [`noun, masculine`] industry
-· `Промышленный` сектор является одной из основных ветвей индустрии. (The `industrial` sector is one of the main branches of industry.)
-· Россия является одним из лидеров мировой `промышленности`. (Russia is one of the leading countries in the world of `industry`.)

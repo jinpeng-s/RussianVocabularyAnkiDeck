@@ -1,8 +1,0 @@
-п`а`ра
-++++++++++
-1. [`noun, feminine`] pair
-· Они приобрели `пару` красивых шляп. (They bought a `pair` of beautiful hats.)
-· Я увидел `пару` собак гуляющих в саду. (I saw a `pair` of dogs walking in the garden.)
-2. [`verb`] pair
-· Они договорились `спарить` своих питомцев. (They agreed to `pair` their pets.)
-· Наша команда должна `спарить` друг с другом в турнире. (Our team has to `pair` with each other in the tournament.)

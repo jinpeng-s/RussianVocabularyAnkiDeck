@@ -1,8 +1,0 @@
-в`ы`работка
-++++++++++
-1. [`noun, feminine`] working time
-· У меня `выработка` этим месяцем составит 40 часов. (I will have a `working time` of 40 hours this month.)
-· В пятницу он `выработал` 10 часов. (He worked 10 hours on Friday.)
-2. [`verb`] to work, to work out
-· Она `выработала` план на день. (She `worked out` a plan for the day.)
-· Он `выработал` это решение после недели работы. (He `worked out` this solution after a week's work.)

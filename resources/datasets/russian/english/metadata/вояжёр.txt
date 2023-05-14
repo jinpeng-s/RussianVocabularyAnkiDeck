@@ -1,0 +1,12 @@
+вояжёр
+++++++++++
+вояжёр
+++++++++++
+noun, masculine, animate
+++++++++++
+В
+++++++++++
+travellerAlso: traveler
+salesman
+++++++++++
+None

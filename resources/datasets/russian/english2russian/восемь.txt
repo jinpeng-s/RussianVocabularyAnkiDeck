@@ -1,8 +1,0 @@
-в`о`семь
-++++++++++
-1. [`numeral`] eight
-· В этой комнате `восемь` стульев. (There are `eight` chairs in this room.)
-· Всего `восемь` рублей за этот продукт. (It's `eight` rubles for this product.)
-2. [`adjective`] eighth
-· Я живу в `восьмом` доме. (I live in the `eighth` house)
-· Это `восьмой` экран в этой системе. (This is the `eighth` screen in this system.)

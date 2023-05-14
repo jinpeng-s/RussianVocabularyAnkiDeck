@@ -1,8 +1,0 @@
-сейч`а`с
-++++++++++
-1. [`adverb`] now
-· Он `сейчас` здесь. (He is `now` here.)
-· Если у тебя `сейчас` нет денег, держи мое предложение в виду. (If you don't have money `right now`, keep my offer in mind.)
-2. [`conjunction`] now
-· Я начинаю видеть, почему ты был на это так готов, `сейчас` же я понимаю. (I'm starting to see why you were so ready for this, `now` I understand it.)
-· Появилась странная идея, `сейчас` её нужно реализовать. (A strange idea came up, `now` it must be implemented.)

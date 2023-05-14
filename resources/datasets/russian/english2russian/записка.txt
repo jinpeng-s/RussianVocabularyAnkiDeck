@@ -1,8 +1,0 @@
-зап`и`ска
-++++++++++
-1. [`noun, feminine`] note, memorandum, letter
-· Она пришла в офис с `запиской`. (She came to the office with a `note`.)
-· Я получил `записку`, просящую меня придти на собрание. (I got a `memorandum` asking me to come to the meeting.)
-2. [`verb`] note, record
-· Он `записал` его имя в книгу. (He `noted` his name in the book.)
-· Она `записала` своё выступление на аудио кассете. (She `recorded` her performance on an audio cassette.)

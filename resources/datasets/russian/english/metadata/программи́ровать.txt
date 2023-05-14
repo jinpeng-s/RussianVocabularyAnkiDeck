@@ -1,0 +1,20 @@
+программировать
+++++++++++
+программи́ровать
+++++++++++
+verb, imperfective
+программи́ровать / запрограмми́ровать
+Very rarely used word (top 30,000)
+++++++++++
+П
+++++++++++
+to program
+++++++++++
+Я программи́рую на языке́ PHP. | I program in PHP.
+Том ду́мал, что Мэри уме́ет программи́ровать на Python, JavaScript и Perl. | Tom thought Mary knew how to program in Python, JavaScript and Perl.
+Вы уме́ете программи́ровать? | Can you program?
+Я научу́ тебя программи́ровать, но не сего́дня. | I will teach you to program, but not today.
+Том научи́лся хорошо программи́ровать на JavaScript. | Tom got good at programming in JavaScript.
+Я посмотрю́, уме́ет ли Том программи́ровать на языке́ JavaScript. | I'll see if Tom knows how to program in JavaScript.
+Я начал программи́ровать под Android. | I've started Android programming.
+Ты уме́ешь программи́ровать? | Can you program?

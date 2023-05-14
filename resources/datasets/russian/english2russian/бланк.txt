@@ -1,8 +1,0 @@
-бл`а`нк
-++++++++++
-1. [`noun, masculine`] blank
-· Он заполнил пустой `бланк` заявления. (He filled in the `blank` of the application form.)
-· В билете были пропуски для `бланков`. (The ticket had blanks for `blanks`.)
-2. [`verb`] blank
-· Я не могла заполнить `бланк`, потому что не знала ответ. (I couldn't fill in the `blank` because I didn't know the answer.)
-· Он заполнил последний `бланк` и подал заявление. (He filled in the last `blank` and submitted the application.)

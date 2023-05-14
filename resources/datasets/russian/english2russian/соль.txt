@@ -1,8 +1,0 @@
-с`о`ль
-++++++++++
-1. [`noun, feminine`] salt
-· `Соль` хранится долгое время. (`Salt` can be stored for a long time.)
-· Младшие должны давать `соль`. (Younger ones should give `salt`.)
-2. [`verb`] salt
-· Некоторые плоды надо `посолить`, чтобы их вкус был сочным. (Some fruits need to be `salted` to make them taste juicy.)
-· Лучше всего `посолить` пищу прямо на столе. (It's best to `salt` food right at the table.)

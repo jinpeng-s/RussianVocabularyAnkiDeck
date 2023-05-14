@@ -1,8 +1,0 @@
-дес`я`ток
-++++++++++
-1. [`noun, masculine`] dozen
-· Я принес `десяток` яблок в класс. (I brought a `dozen` of apples to class.)
-· В магазине было больше `десятка` клиентов. (There were more than a `dozen` customers at the store.)
-2. [`verb`] doze
-· Он все еще `дремал` на диване. (He was still `dozing` on the couch.)
-· Он постоянно `дремал` во время лекции. (He was constantly `dozing` during the lecture.)

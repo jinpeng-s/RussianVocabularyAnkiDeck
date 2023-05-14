@@ -1,0 +1,31 @@
+за
+++++++++++
+за
+++++++++++
+Daily used word (top 100)
+++++++++++
+B1
+З
+++++++++++
+behindExample: Гара́ж нахо́дится за домо́м. - The garage is behind the house.Info: за + location in instrumental case
+at (location)Example: Го́сти сиде́ли за столо́м и у́жинали. - The guests were sitting at the table and having dinner.Info: за + location in instrumental case
+at (direction)Example: Го́сти сня́ли пальто́ и  се́ли за стол. - The guests took off their coats and sat at the table.Info: за + location in accusative case
+for (in support of)Example: Он голосова́л за Тра́мпа. - He voted for Trump.Info: за + object in accusative case
+for (mistake for)Example: Его́ при́няли за её́ му́жа. - He was mistaken for her husband.Info: за + object in accusative case
+for (reason)Example: Он отсиде́л 5 лет за ограбле́ние. - He did 5 years in prison for robbery.Info: за + object in accusative case
+for (duration)Example: Он работал там два месяца. - He worked there for two months.
+following afterAlso: chasing afterExample: Почему́ он бежи́т за на́ми? Что он хо́чет от нас? - Why is he running after us? Does he need something?Info: за + object in instrumental case
+over (a certain age)Example: Я ду́маю, ему́ уже за 50. - I think he's over 50.Info: за + number in accusative case
+beyondAlso: on the far side ofExample: Что лежи́т за преде́лами наблюда́емой Вселе́нной? - What lies beyond the edge of the observable universe?Info: за + object in instrumental case
+out of (location)Example: Я был вчера́ за́ городом. - I was out of town yesterday.Info: за + object in instrumental case
+++++++++++
+Моя́ сестра́ в ию́не вы́шла замуж за учителя ста́ршей шко́лы. | for nothing at all
+Мне очень нра́вится э́та кварти́ра, положе́ние хоро́шее, и, кроме того́, пла́та за аре́нду небольша́я. | never (not at any price); for nothing
+Он извини́лся за опозда́ние. | you're welcome
+Соба́ка гнала́сь за ко́шкой. | uproad
+Мно́гие бы ухвати́лись за возмо́жность жить в Нью-Йорке. | My sister married a high school teacher last June.
+Моя́ золо́вка за пять лет родила́ четверых дете́й. | I like this flat. The location is good, and besides, rent is not very high.
+Он пришёл, когда мы сиде́ли за столо́м. | He excused himself for being late.
+Не волну́йся за меня. | The dog ran after the cat.
+Спасибо за то, что наконец объясни́ли, почему лю́ди принима́ют меня за идио́та. | Many would jump at the chance to live in New York.
+Наша шко́ла нахо́дится за реко́й. | My sister-in-law had four children in five years.

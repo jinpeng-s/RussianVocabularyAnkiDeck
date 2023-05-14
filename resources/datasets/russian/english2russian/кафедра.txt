@@ -1,8 +1,0 @@
-к`а`федра
-++++++++++
-1. [`noun, feminine`] department
-· Он преподает на `кафедре` математики и компьютерных наук. (He teaches at the `department` of mathematics and computer science.)
-· Я увлекалась музыкой с самого начала своего обучения на `кафедре`. (I have been interested in music since I started studying in the `department`.)
-2. [`verb`] department
-· Мы `кафедрировали` математику и иллюстрировали исторические события. (We `departmented` mathematics and illustrated historical events.)
-· ВУЗ `кафедрировал` свои дисциплины по отдельным факультетам. (The university `departmented` its disciplines into separate faculties.)

@@ -1,8 +1,0 @@
-алфав`и`т
-++++++++++
-1. [`noun, masculine`] alphabet
-· Русский `алфавит` состоит из 33 символов. (The Russian `alphabet` consists of 33 symbols.)
-· Данный алгоритм работает только с английским `алфавитом`. (This algorithm works only with the English `alphabet`.)
-2. [`verb`] to alphabetize
-· Мы `алфавитизируем` словарь перед выдачей. (We `alphabetize` the dictionary before issuing.)
-· Нужно `алфавитизировать` данные по алфавиту. (It is necessary to `alphabetize` the data by alphabet.)

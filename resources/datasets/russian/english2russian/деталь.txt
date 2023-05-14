@@ -1,8 +1,0 @@
-дет`а`ль
-++++++++++
-1. [`noun, feminine`] detail
-· Он делает все с `деталями`. (He does everything with `detail`.)
-· Мы анализируем каждую `деталь` этого исследования. (We analyze every `detail` of this research.)
-2. [`verb, reflexive`] to detail
-· Я понял его проблему `детально`. (I understood his problem `in detail`.)
-· Он объяснил `детально` процесс установки. (He explained the installation process `in detail`.)

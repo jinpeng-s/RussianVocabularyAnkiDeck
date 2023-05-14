@@ -1,8 +1,0 @@
-подв`о`дный
-++++++++++
-1. [`adjective`] submarine
-· Были обнаружены `подводные` лодки. (Submarine boats were discovered.)
-· Данный отдел военной службы занимается `подводными` операциями. (The department of the military holds submarine operations.)
-2. [`noun, masculine`] submarine
-· Мы въехали на `подводного` лодку. (We boarded a `submarine` vessel.)
-· Такие опасные объекты устанавливают на `подводные` аппараты. (Such dangerous objects are installed on `submarine` vehicles.)

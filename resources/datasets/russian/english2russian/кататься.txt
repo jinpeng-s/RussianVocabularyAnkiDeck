@@ -1,8 +1,0 @@
-кат`а`ться
-++++++++++
-1. [`verb, intransitive`] roll
-· Дети радостно `катались` во дворе. (The children happily `rolled` in the courtyard.)
-· Игрушка `каталась` по полу. (The toy `rolled` along the floor.)
-2. [`verb, transitive`] roll
-· Они `катили` мяч по комнате. (They `rolled` the ball around the room.)
-· Она `катила` мяч к нему. (She `rolled` the ball to him.)

@@ -1,8 +1,0 @@
-дожид`а`ться
-++++++++++
-1. [`verb`] await
-· Мы с `дожидались` нашего преподавателя в час лекции. (We `awaited` our teacher at the hour of the lecture.)
-· Он `дожидался` нам и послал своего сотрудника. (He `awaited` us and sent one of his employees.)
-2. [`noun, masculine`] awaiting
-· Они `дожидались` получения ответа от правительства. (They `awaited` to get a response from the government.)
-· Они испытывают `дожидание`, когда ожидают результата экзамена. (They experience `awaiting` when they expect the exam result.)

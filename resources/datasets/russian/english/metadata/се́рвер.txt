@@ -1,0 +1,21 @@
+сервер
+++++++++++
+се́рвер
+++++++++++
+noun, masculine, inanimate
+Rarely used word (top 7,000)
+++++++++++
+С
+++++++++++
+server
+++++++++++
+Мы перенесли́ прое́кт на но́вый се́рвер. | We moved the project to a new server.
+Э́тот проце́сс надо немедленно останови́ть, иначе се́рвер упадёт. | This process must be stopped immediately, otherwise the server will breakdown.
+Се́рвер снова недосту́пен. | The server is down again.
+Мы перебро́сили прое́кт на но́вый се́рвер. | We moved the project to a new server.
+Се́рвер снова упа́л. | The server is down again.
+Я не могу́ прове́рить мою электро́нную почту. Се́рвер недосту́пен. | I can't check my mail. The server is down.
+Мы доба́вили большую подде́ржку для 64-разрядных се́рверов. | We have added greater 64-bit server support.
+Я не могу́ прове́рить почту - се́рвер лежи́т. | I can't check my mail. The server is down.
+Се́рвер недосту́пен. | The server is down.
+Файл конфигура́ции твоего́ се́рвера ба́зы да́нных нахо́дится в э́том катало́ге. | The configuration file of your database server is located in this directory.

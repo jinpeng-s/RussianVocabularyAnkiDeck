@@ -1,0 +1,17 @@
+воспроизвести
+++++++++++
+воспроизвести́
+++++++++++
+verb, perfective
+воспроизводи́ть / воспроизвести́
+Very rarely used word (top 20,000)
+++++++++++
+В
+++++++++++
+reproduceAlso: recall, call to mind, repeat, render, reprint
+++++++++++
+Программи́сты пыта́ются воспроизвести́ оши́бку, чтобы её испра́вить. | Programmers are trying to reproduce the error in order to correct it.
+Большая часть школ призвана не измени́ть о́бщество, а воспроизвести́ его. | Most schools were designed not to transform society, but to reproduce it.
+Попро́буй мысленно воспроизвести́ э́ту му́зыку. | Try to reproduce the music in your mind.
+Неиспра́вность появля́ется регулярно или только эпизоди́чески? Можно ли воспроизвести́ возникнове́ние неиспра́вности? | Does the error occur regularly or sporadically? Is the error reproducible?
+Попыта́йся воспроизвести́ э́ту му́зыку в своём воображе́нии. | Try to reproduce the music in your mind.

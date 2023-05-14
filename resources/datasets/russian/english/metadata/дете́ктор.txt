@@ -1,0 +1,15 @@
+детектор
+++++++++++
+дете́ктор
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 30,000)
+++++++++++
+Д
+++++++++++
+detectorAlso: spark indicator
+++++++++++
+Вы не будете против прове́рки на дете́кторе лжи? | Would you mind taking a polygraph test?
+Са́мый ну́жный для Tatoeba скрипт - э́то дете́ктор носи́телей языка́. | The script Tatoeba needs the most is the native speaker detector.
+Ты когда-нибудь проходи́л тест на дете́кторе лжи? | Have you ever taken a lie detector test?
+Вы́ньте исто́чник пита́ния из дете́ктора ды́ма. | Remove battery from smoke detector.

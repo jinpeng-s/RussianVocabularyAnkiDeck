@@ -1,8 +1,0 @@
-св`я`зь
-++++++++++
-1. [`noun, feminine`] connection
-· Нам нужно обеспечить надёжную `связь` с другими департаментами. (We need to ensure a reliable `connection` with other departments.)
-· Нам была отключена `связь` с мировыми центрами. (We were cut off from the global `connections`.)
-2. [`verb`] connect
-· Он `связал` компьютеры в локальную сеть. (He `connected` the computers into a local network.)
-· Вы можете `связать` эти два результата. (You can `connect` these two results.)

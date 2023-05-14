@@ -1,8 +1,0 @@
-зак`а`з
-++++++++++
-1. [`noun, masculine`] order
-· Он сделал `заказ` на три пары ботинок. (He placed an `order` for three pairs of shoes.)
-· У меня есть `заказ` на пару средств для домашнего ремонта. (I have an `order` for a couple of household repair tools.)
-2. [`verb`] order
-· Я оформил `заказ` и подтвердил его. (I placed an `order` and confirmed it.)
-· Они `заказали` более пятисот бутылок пива. (They `ordered` more than five hundred bottles of beer.)

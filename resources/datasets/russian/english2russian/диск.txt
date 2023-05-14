@@ -1,8 +1,0 @@
-д`и`ск
-++++++++++
-1. [`noun, masculine`] disk
-· Он вставил `диск` в компьютер. (He inserted a `disk` into the computer.)
-· На `диске` была сохранена информация. (Information was saved on the `disk`.)
-2. [`verb`] disk
-· Он `дисканул` проблемное поле. (He `disked` the problematic field.)
-· Он `дисканул` окружение. (He `disked` the environment.)

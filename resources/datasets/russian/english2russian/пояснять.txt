@@ -1,8 +1,0 @@
-поясн`я`ть
-++++++++++
-1. [`verb`] explain
-· Он пытался `пояснять` мне эту сложную теорию. (He tried to `explain` me this difficult theory.)
-· Она `поясняла` мне о планах для будущего. (She `explained` to me about the plans for the future.)
-2. [`verb`] clarify
-· Он помог `пояснить` изложенную проблему. (He helped to `clarify` the issues raised.)
-· Она удалось `пояснить` автоматизацию конвейерной линии. (She managed to `clarify` the automation of the conveyor line.)

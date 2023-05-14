@@ -1,8 +1,0 @@
-подтвержд`а`ть
-++++++++++
-1. [`verb, imperfective`] confirm
-· Я `подтверждал` решения управления. (I `confirmed` the management's decisions.)
-· Наши планы были `подтверждены` на совещании. (Our plans were `confirmed` during the meeting.)
-2. [`verb, perfective`] confirm
-· Отель `подтвердил` наши бронирования. (The hotel `confirmed` our bookings.)
-· Она `подтвердила` нам, что они приехали без нарушений. (She `confirmed` to us that they arrived without any disturbances.)

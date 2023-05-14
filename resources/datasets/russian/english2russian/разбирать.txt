@@ -1,8 +1,0 @@
-разбир`а`ть
-++++++++++
-1. [`verb`] decipher
-· Нужно `разбирать` тонкости договора. (It is necessary to `decipher` the subtleties of the contract.)
-· Такие документы трудно `разбирать`. (Such documents are hard to `decipher`.)
-2. [`verb`] analyze
-· Для понимания проблемы необходимо `разбирать` ее компоненты. (It is necessary to `analyze` its components to understand the problem.)
-· Он начал `разбирать` причины его неудачи. (He started to `analyze` the reasons for his failure.)

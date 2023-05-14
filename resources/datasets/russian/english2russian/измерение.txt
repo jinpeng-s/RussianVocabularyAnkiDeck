@@ -1,8 +1,0 @@
-измер`е`ние
-++++++++++
-1. [`noun, neuter`] measurement
-· Они замеряют температуру при помощи специального `измерения`. (They measure the temperature with a special `measurement`.)
-· Напряжение `измеряется` в вольтах. (The voltage is `measured` in volts.)
-2. [`verb`] measure
-· `Измеряем` расстояние между точками. (`Measure` the distance between points.)
-· Нужно `измерить` глубину ямы. (It's necessary to `measure` the depth of the ditch.)

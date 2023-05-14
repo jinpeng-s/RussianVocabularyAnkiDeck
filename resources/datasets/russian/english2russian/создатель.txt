@@ -1,8 +1,0 @@
-созд`а`тель
-++++++++++
-1. [`noun, masculine`] creator
-· На проекте работает четверо `создателей`. (Four `creators` are working on the project.)
-· Все права принадлежат `создателю`. (All rights reserved to the `creator`.)
-2. [`verb`] create
-· Он `создал` свое предприятие. (He `created` his own enterprise.)
-· Они `создали` новую игру. (They `created` a new game.)

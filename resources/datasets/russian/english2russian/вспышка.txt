@@ -1,8 +1,0 @@
-всп`ы`шка
-++++++++++
-1. [`noun, feminine`] flash
-· Надо `вспышку`, что бы сделать снимок. (We need a `flash` to take the photo.)
-· На твоей камере есть `вспышка`? (Does your camera have a `flash`?)
-2. [`verb, reflexive`] flash (up)
-· Один из светил мгновенно `вспыхнул`. (One of the lights `flashed` up.)
-· Звезды `вспыхивали` на небе. (The stars `flashed` in the sky.)

@@ -1,8 +1,0 @@
-сочин`я`ть
-++++++++++
-1. [`verb`] compose
-· Он `сочинял` музыку поэтическим произведениям взамен. (He `composed` music to poetic works instead.)
-· Она `сочиняет` произведения для детских гастрольных трупп. (She `composes` works for children's touring companies.)
-2. [`verb`] make up
-· Мы должны `сочинить` этот план вместе. (We must `make up` this plan together.)
-· То, что она только что сказала, было совершенно искусственно `сочиненное`. (What she just said was completely `made up`.)

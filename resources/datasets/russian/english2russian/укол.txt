@@ -1,8 +1,0 @@
-ук`о`л
-++++++++++
-1. [`noun`] injection
-· Каждые три месяца она должна принимать `укол`. (She has to take an `injection` every three months.)
-· Доктор дал ему `укол` антибиотика. (The doctor gave him an `injection` of antibiotic.)
-2. [`verb`] inject
-· Они `уколотили` животное анестетиком. (They `injected` the animal with an anesthetic.)
-· Я `уколотил` себя витамином С. (I `injected` myself with Vitamin C.)

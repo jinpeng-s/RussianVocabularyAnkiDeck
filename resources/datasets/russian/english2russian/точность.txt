@@ -1,8 +1,0 @@
-т`о`чность
-++++++++++
-1. [`noun, feminine`] accuracy
-· Осуществить проект с `точностью` можно только до деталей. (To carry out the project with `accuracy` is only possible up to details.)
-· Нам необходимо гарантировать `точность` этих измерений. (We need to guarantee the `accuracy` of these measurements.)
-2. [`verb`] to be accurate
-· То, что я сказал, `точно`. (What I said `is accurate`.)
-· Бухгалтерское учетное дело должно `быть точным`. (The bookkeeping should `be accurate`.)

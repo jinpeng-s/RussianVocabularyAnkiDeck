@@ -1,8 +1,0 @@
-тр`и`
-++++++++++
-1. [`numeral`] three
-· У меня `три` дети. (I have `three` children.)
-· Дорога была `трех` километровой длины. (The road was `three` kilometers long.)
-2. [`noun, neuter`] a try
-· Попробуй `три` раза. (Give it a `try` three times.)
-· Он дал `три` друзьям уникальную возможность. (He gave `three` friends an unique opportunity.)

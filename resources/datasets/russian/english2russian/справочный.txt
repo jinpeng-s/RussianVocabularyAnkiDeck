@@ -1,8 +1,0 @@
-спр`а`вочный
-++++++++++
-1. [`noun, masculine`] reference
-· У нас есть большой `справочный` банк данных. (We have a big `reference` database.)
-· Ты можешь спросить своего доктора для `справочных` материалов. (You can ask your doctor for `reference` materials.)
-2. [`verb`] to refer
-· Я нашел эту информацию на `справочном` сайте. (I found this information on a `reference` website.)
-· Она `справлялась` к преподавателю за полезную информацию. (She `referred` to the professor for useful information.)

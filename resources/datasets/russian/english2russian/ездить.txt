@@ -1,8 +1,0 @@
-`е`здить
-++++++++++
-1. [`verb, imperfective`] go, drive
-· Он `ездил` на машине в деревню. (He `went` by car to the village.)
-· Они `ездили` между двумя городами. (They `drove` between two cities.)
-2. [`verb, perfective`] arrange, organize
-· Она `организовала` поездку в горы. (She `arranged` a trip to the mountains.)
-· Они `организовали` поездку по природе. (They `organized` a trip to nature.)

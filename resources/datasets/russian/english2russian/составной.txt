@@ -1,8 +1,0 @@
-составн`о`й
-++++++++++
-1. [`adjective`] composite
-· Это был `составной` проект. (It was a `composite` project.)
-· Видео было создано из `составных` фрагментов. (The video was created from `composite` fragments.)
-2. [`noun, masculine`] composition
-· Руководитель привёл карту `составной` структуры из пяти частей. (The manager presented a map of the `composite` structure of five sections.)
-· Мы демонстрировали `составной` запрос. (We demonstrated a `composition` query.)

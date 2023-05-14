@@ -1,8 +1,0 @@
-создав`а`ть
-++++++++++
-1. [`verb`] create
-· Она старается `создавать` уникальные образы. (She tries to `create` unique looks.)
-· Те которые `создают`, только разрушают. (Those who `create`, only destroy.)
-2. [`noun, masculine`] creator
-· Архитектор является `создателем` этой постройки. (The architect is the `creator` of this structure.)
-· Он был `создателем` этой идеи. (He was the `creator` of this idea.)

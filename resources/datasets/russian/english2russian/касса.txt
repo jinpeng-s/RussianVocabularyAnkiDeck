@@ -1,8 +1,0 @@
-к`а`сса
-++++++++++
-1. [`noun, feminine`] cashier's desk
-· В магазине была большая `касса`. (There was a large `cashier's desk` in the shop.)
-· Пожалуйста, оплатите в `кассе`. (Please, pay at the `cashier's desk`.)
-2. [`noun, feminine`] cashbox
-· Он положил деньги в `кассу`. (He put money in the `cashbox`.)
-· После закрытия магазина деньги из кассы убирают. (After the shop is closed, money from the cashbox is taken away.)

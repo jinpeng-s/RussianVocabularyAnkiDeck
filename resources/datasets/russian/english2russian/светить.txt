@@ -1,8 +1,0 @@
-свет`и`ть
-++++++++++
-1. [`verb`] shine, illumine
-· На улице `светит` солнце. (The sun is `shining` outside.)
-· Горы `светили` в далеком небе. (The mountains are `illumining` in the distant sky.)
-2. [`verb, reflexive`] twinkle
-· На небе `светились` звёзды. (The stars were `twinkling` in the sky.)
-· Над городом `светились` огни. (The lights were `twinkling` over the city.)

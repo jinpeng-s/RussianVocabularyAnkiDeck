@@ -1,8 +1,0 @@
-плот`и`на
-++++++++++
-1. [`noun, feminine`] dam
-· Они делали `плотину` для заглубления реки. (They build a `dam` to deepen the river.)
-· `Плотина` была использована для захоронения топлива. (The `dam` was used for burying fuel.)
-2. [`verb`] dam
-· Они `заглубили` реку при помощи плотины. (They `dammed` the river with the help of a dam.)
-· Они `заглубили` реку для поддержания постоянного давления воды. (They `dammed` the river to maintain a constant water pressure.)

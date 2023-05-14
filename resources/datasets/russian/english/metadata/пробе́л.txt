@@ -1,0 +1,16 @@
+пробел
+++++++++++
+пробе́л
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+П
+++++++++++
+blankAlso: gap, omission, flaw, deficiency, space key
+++++++++++
+После то́чек и запяты́х должен быть пробел. | There must be a space after periods and commas.
+Между э́тими двумя слова́ми не хвата́ет пробела. | A space is missing here between these two words.
+У меня много пробелов в матема́тике. | There's a lot of gaps in my knowledge of math.
+Запо́лните пробелы. | Fill in the blanks.
+Не хвата́ет пробела пе́ред двоето́чием. | A space is missing before the colon.

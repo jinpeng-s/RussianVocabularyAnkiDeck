@@ -1,8 +1,0 @@
-типогр`а`фия
-++++++++++
-1. [`noun, feminine`] printing house
-· Текст был напечатан в `типографии`. (The text was printed in a `printing house`.)
-· Он подал заказ в `типографию` для печати плаката. (He placed an order at a `printing house` to print a poster.)
-2. [`verb`] print
-· Она `типографировала` плакаты для рекламы. (She `printed` posters for advertisement.)
-· Ты мог бы `типографировать` то, что я написал. (You could `print` what I have written.)

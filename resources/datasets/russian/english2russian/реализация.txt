@@ -1,8 +1,0 @@
-реализ`а`ция
-++++++++++
-1. [`noun, feminine`] realization
-· Он продал свои имущество за `реализацию` денег. (He sold his property for the `realization` of money.)
-· Вместе мы достигли `реализации` данного проекта. (Together we achieved the `realization` of this project.)
-2. [`verb`] realize
-· Она просто смогла `реализовать` свою мечту. (She just managed to `realize` her dream.)
-· Вам необходимо `реализовать` это прежде, чем мы сможем продолжить. (You need to `realize` this before we can proceed.)

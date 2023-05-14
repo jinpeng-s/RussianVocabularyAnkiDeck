@@ -1,8 +1,0 @@
-про`е`кт
-++++++++++
-1. [`noun, masculine`] project
-· У нас есть новый `проект`. (We have a new `project`.)
-· Это очень сложный `проект`. (This is a very complex `project`.)
-2. [`verb`] project
-· Мы `проектируем` построение нового здания. (We are `projecting` the construction of a new building.)
-· Онa `проектирует` будущие интернет-сервисы. (She is `projecting` future internet services.)

@@ -1,8 +1,0 @@
-спос`о`бствовать
-++++++++++
-1. [`verb`] contribute
-· У нас есть возможность `способствовать` улучшению нашего города. (We have an opportunity to `contribute` to the improvement of our city.)
-· Они `способствуют` изучению истории этой области. (They `contribute` to the study of the history of this region.)
-2. [`noun, neuter`] contribution
-· Он делал большой `способствование` проекту. (He made a big `contribution` to the project.)
-· Мы прошли выборам с необъяснимым `способствованием`. (We passed the elections with an inexplicable `contribution`.)

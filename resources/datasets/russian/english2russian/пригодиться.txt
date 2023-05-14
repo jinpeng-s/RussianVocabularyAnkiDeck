@@ -1,8 +1,0 @@
-пригод`и`ться
-++++++++++
-1. [`verb`] "be of use/help"
-· Возможно мне пригодится этот навык. (It's possible that this skill might `be of help/use` to me.)
-· Это навык очень мне `пригодился`. (This skill `was of help/use` to me a lot.)
-2. [`verb`] "come in handy"
-· Это палка мне `пригодилась`, когда я подкралась к рабочему месту. (This stick `came in handy` when I sneaked over to the work place.)
-· Это правило мне `пригодилось` для решения данной задачи. (This rule `came in handy` to solve this task.)

@@ -1,0 +1,12 @@
+директива
+++++++++++
+директи́ва
+++++++++++
+noun, feminine, inanimate
+Rarely used word (top 9,000)
+++++++++++
+Д
+++++++++++
+instructionsAlso: directives, directions, instruction
+++++++++++
+«@implementation» — э́то директи́ва компиля́тора, говоря́щая, что вы собира́етесь предста́вить код основы кла́сса. | «@implementation» is a compiler directive that says you’re about to present the code for the guts of a class.

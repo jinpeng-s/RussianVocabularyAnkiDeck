@@ -1,8 +1,0 @@
-в`е`шать
-++++++++++
-1. [`verb`] hang
-· Он в `вешал` картину на стену. (He `hanged` a painting on the wall.)
-· На стенах висели полотна. (The walls were `hanging` with tapestries.)
-2. [`verb`] suspend
-· Правительство временно `вешает` исполнение закона. (The government is temporarily `suspending` the enforcement of the law.)
-· Они подали иск для `вешания` суда. (They filed a lawsuit to `suspend` the court.)

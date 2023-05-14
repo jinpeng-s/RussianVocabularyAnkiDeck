@@ -1,0 +1,14 @@
+проверочный
+++++++++++
+прове́рочный
+++++++++++
+adjective
+adverb прове́рочно
+Very rarely used word (top 40,000)
+++++++++++
+П
+++++++++++
+validatedAlso: checked
+testExample: проверочная работа по зоологии - A zoology test or quiz
+++++++++++
+None

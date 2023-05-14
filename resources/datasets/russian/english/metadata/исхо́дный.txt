@@ -1,0 +1,21 @@
+исходный
+++++++++++
+исхо́дный
+++++++++++
+adjective
+adverb исхо́дно
+Rarely used word (top 8,000)
+++++++++++
+И
+++++++++++
+initial
+source
+++++++++++
+Где исхо́дный код? | Where's the source code?
+Браузер не обраща́ет внима́ния на о́тступы и пусты́е строки в исхо́дном те́ксте. | A browser ignores any indentations or blank lines in the source text.
+Tatoeba - програ́ммное обеспе́чение с откры́тым исхо́дным те́кстом. | Tatoeba is open source software.
+Из экспериме́нта Паттерсона неясно, полностью ли соотве́тствуют полученные объе́кты исхо́дным моде́лям. | It is unclear in Patterson's experiment whether the output objects fully correspond to the designed models.
+Tatoeba — прое́кт с откры́тым исхо́дным ко́дом. | Tatoeba is open source.
+Нужно верну́ть э́то в исхо́дное состоя́ние. | This should be reverted back to the original.
+Покажи́ мне исхо́дный код. | Show me the source code.
+Tatoeba — прое́кт с откры́тыми исхо́дными ко́дами. | Tatoeba is open source.

@@ -1,8 +1,0 @@
-под`о`бный
-++++++++++
-1. [`adjective`] similar
-· Вещи, `подобные` этому, уже созданы. (Things `similar` to this one have already been created.)
-· Они собрали много данных по `подобным` сценариям. (They collected a lot of data on `similar` scenarios.)
-2. [`pronoun`] such
-· `Такие` маленькие проблемы не имеют большого значения. (`Such` small problems do not matter much.)
-· Нам следует изучать `такие` вопросы подробнее. (We should study `such` issues in more detail.)

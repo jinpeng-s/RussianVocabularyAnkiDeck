@@ -1,8 +1,0 @@
-знамен`и`тый
-++++++++++
-1. [`adjective`] famous, renowned
-· `Знаменитый` прозаик Николай Гоголь родился и живёт в Украине. (The `famous` prose-writer Nikolai Gogol was born and lives in Ukraine.)
-· `Знаменитый` актёр Марк Рамбо сыграл в более, чем 50 фильмах. (The `renowned` actor Mark Rambos has played in more than 50 movies.)
-2. [`noun, masculine`] celebrity
-· Он известен как `знаменитый` актёр. (He is known as a `celebrity` actor.)
-· Виктор Зинченко является одним из известнейших `знаменитых` украинских политиков. (Victor Zinchenko is one of the most `renowned` Ukrainian politicians.)

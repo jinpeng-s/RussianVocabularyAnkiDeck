@@ -1,8 +1,0 @@
-звен`о`
-++++++++++
-1. [`noun, neuter`] link
-· Ты обнаружил отсутствующее `звено` в процессе. (You discovered a missing `link` in the process.)
-· Каждое `звено` моста подверглось дополнительной проверке. (Each `link` of the bridge was subjected to an additional check.)
-2. [`verb`] link
-· Цепь событий была `звенима`. (The chain of events was `linked`.)
-· Судья `звенил` их случаи в один. (The judge `linked` their cases together.)

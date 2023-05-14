@@ -1,8 +1,0 @@
-вспомин`а`ть
-++++++++++
-1. [`verb, imperfective`] remember
-· Я `вспоминал` цветы, которые он принес мне на прошлой неделе. (I `remembered` the flowers he brought me last week.)
-· Группа детей `вспоминала` стихи своего любимого поэта. (The group of children `remembered` verses of their favorite poet.)
-2. [`verb, perfective`] recall
-· Он `вспомнил` нас a прошлой ночью. (He `recalled` us last night.)
-· Он `вспомнил` слова, которые говорил его друг. (He `recalled` the words his friend had said.)

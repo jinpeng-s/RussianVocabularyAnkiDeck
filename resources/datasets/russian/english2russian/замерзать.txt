@@ -1,8 +1,0 @@
-замерз`а`ть
-++++++++++
-1. [`verb`] freeze
-· Когда я увидел дверь открытой, я понял, что вода `замерзала`. (When I saw the door was open, I realized that the water had `frozen`.)
-· Из-за холода воздух `замерзал`. (Due to the cold, the air has `frozen`.)
-2. [`adjective`] frozen
-· я купил `замороженные` ягоды для своего десерта. (I bought `frozen` berries for my dessert.)
-· Он ел `замороженную` пиццу по понедельникам. (He ate `frozen` pizza on Mondays.)

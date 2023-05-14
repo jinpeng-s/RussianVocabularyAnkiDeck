@@ -1,8 +1,0 @@
-географ`и`ческий
-++++++++++
-1. [`adjective`] geographic
-· Учёные изучают `географические` особенности природы страны. (Scientists study the `geographic` features of the country's nature.)
-· Она исследует `географические` изменения в Европе последние 70 лет. (She studies the `geographic` changes in Europe over the past 70 years.)
-2. [`noun, masculine`] geography
-· Он обучается `географии` на университете. (He is learning `geography` at a university.)
-· Телевизионная передача о `географии`, способствовала увеличению интереса к этой области. (The television program on `geography` promoted an increase in interest in this area.)

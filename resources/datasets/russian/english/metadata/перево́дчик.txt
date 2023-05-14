@@ -1,0 +1,23 @@
+переводчик
+++++++++++
+перево́дчик
+++++++++++
+noun, masculine, animate
+Partner перево́дчица
+Somewhat often used word (top 5,000)
+++++++++++
+C2
+П
+++++++++++
+translatorAlso: interpreter, change-lever
+++++++++++
+Перево́дчики Но́вого Заве́та счита́лись еретика́ми. | The translators of the New Testament were considered heretics.
+Я испо́льзую компьютерный перево́дчик. | I'm using a machine translation.
+Он перево́дчик в междунаро́дном ба́нке. | He's an interpreter in an international bank.
+Если что-то не скла́дывается, просто свали́ на перево́дчика. | If something goes wrong, just blame it on the translator.
+Её пригласи́ли в ка́честве перево́дчика. | She was engaged as an interpreter.
+Дэн лингви́ст и перево́дчик. | Dan is a linguist and a translator.
+Почему Марика не рабо́тает перево́дчиком с япо́нского на фи́нский? | Why doesn't Marika work as a Japanese-Finnish translator?
+Перево́дчик Google недостаточно хоро́ш для перево́да Ubuntu. Также его испо́льзование идёт вразрез с поли́тикой Ubuntu. | Google Translate is not good enough for Ubuntu Translations. Also this is against Ubuntu policy.
+Ло́жные друзья́ перево́дчика - э́то па́ра слов в двух языка́х, похо́жих по написа́нию или произноше́нию, но ра́зных по значе́нию. | False friends are pairs of words in two languages that are similar in spelling or pronunciation, but differ in meaning.
+Хоро́ший перево́дчик перево́дит не слова, а предложе́ния. | A good translator translates not words, but sentences.

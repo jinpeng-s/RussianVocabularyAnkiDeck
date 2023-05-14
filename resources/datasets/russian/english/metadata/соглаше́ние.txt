@@ -1,0 +1,22 @@
+соглашение
+++++++++++
+соглаше́ние
+++++++++++
+noun, neuter, inanimate
+Somewhat often used word (top 5,000)
+++++++++++
+C2
+С
+++++++++++
+agreementAlso: understanding, covenant
+++++++++++
+Чтобы получи́ть от компа́нии техни́ческую информа́цию, нам сначала нужно подписа́ть соглаше́ние о неразглаше́нии. | To get technical information from that company, we first have to sign a non-disclosure agreement.
+Будем наде́яться прави́тельство уважа́ет наше соглаше́ние. | Let's hope the government respects our agreement.
+В конце́ концо́в мы пришли́ к соглаше́нию. | We finally struck a bargain.
+Договаривающиеся стороны не смогли́ прийти́ к соглаше́нию. | The negotiating parties failed to reach an agreement.
+Я заключу́ с вами соглаше́ние. | I will make a bargain with you.
+Я хоте́л бы посмотре́ть соглаше́ние. | I'd like to see the agreement.
+Я хоте́ла бы посмотре́ть соглаше́ние. | I'd like to see the agreement.
+Он часто де́йствует против нашего соглаше́ния. | He often offends against our agreement.
+Я рад, что мы пришли́ к соглаше́нию. | I'm glad we're in agreement.
+Если не соотве́тствовать соглаше́нию об имена́х, э́то мо́жет привести́ к оши́бкам парсинга. | Not complying with the naming conventions will result in parse errors.

@@ -1,8 +1,0 @@
-отл`и`чно
-++++++++++
-1. [`adjective`] excellent
-· Мой вкус был `отличным`. (My taste was `excellent`.)
-· Эта про-грамма существенно улучшилась и имеет `отличную` репутацию. (This program has significantly improved and has an `excellent` reputation.)
-2. [`adverb`] excellently
-· Он работал `отлично`. (He worked `excellently`.)
-· Твоя работа оценена `отлично`. (Your work has been evaluated `excellently`.)

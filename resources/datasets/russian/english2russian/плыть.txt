@@ -1,8 +1,0 @@
-пл`ы`ть
-++++++++++
-1. [`verb`] swim
-· Сейчас ребенок `плывёт` в бассейне. (The kid is `swimming` in the pool now.)
-· Я не могу `плыть`, так как у меня нет купальника. (I can't `swim` because I don't have a swimsuit.)
-2. [`noun, masculine`] swimming
-· Он любит `плавание`. (He loves `swimming`.)
-· На сегодня для Димы назначено занятие по `плаванию`. (Dima has a `swimming` lesson today.)

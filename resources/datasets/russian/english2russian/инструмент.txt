@@ -1,8 +1,0 @@
-инструм`е`нт
-++++++++++
-1. [`noun, masculine`] tool
-· Сажать деревья без `инструмента` будет очень сложно. (It will be very difficult to plant trees without a `tool`.)
-· Рыбак использовал особый `инструмент` для ловли рыбы. (The fisherman used a special `tool` for fishing.)
-2. [`verb`] to tool
-· Наши работники научились `инструментировать` машины за короткое время. (Our workers learned to `tool` the machines in a short time.)
-· Он научился `инструментировать` свои идеи с помощью компьютерного программирования. (He learned to `tool` his ideas with computer programming.)

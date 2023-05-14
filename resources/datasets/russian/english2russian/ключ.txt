@@ -1,8 +1,0 @@
-кл`ю`ч
-++++++++++
-1. [`noun, masculine`] key
-· У меня есть `ключ` от машины. (I have the `key` to the car.)
-· Он предоставил мне `ключ` к квартире. (He gave me the `key` to the apartment.)
-2. [`verb`] unlock
-· Он использовал `ключ`, чтобы `открыть` дверь. (He used the `key` to `unlock` the door.)
-· Он не может `открыть` дверь без `ключа`. (He can't `unlock` the door without the `key`.)

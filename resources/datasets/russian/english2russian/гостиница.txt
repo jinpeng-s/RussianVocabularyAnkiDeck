@@ -1,8 +1,0 @@
-гост`и`ница
-++++++++++
-1. [`noun, feminine`] hotel
-· Я буду останавливаться в этой `гостинице` на пару дней. (I will stay at this `hotel` for a few days.)
-· Мы бронировали номер в другой `гостинице`. (We booked a room at a different `hotel`.)
-2. [`verb`] to book a stay at a hotel
-· Они `забронировали гостиницу` в центре города. (They `booked a hotel` in the city center.)
-· Она `забронировала гостиницу` для друзей. (She `booked a hotel` for her friends.)

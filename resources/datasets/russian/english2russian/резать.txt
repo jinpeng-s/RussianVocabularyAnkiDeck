@@ -1,8 +1,0 @@
-р`е`зать
-++++++++++
-1. [`verb`] cut
-· Он `резал` дерево. (He was `cutting` the tree.)
-· Они `резали` лестницу. (They were `cutting` the staircase.)
-2. [`verb, reflexive`] cut oneself
-· Он сам себя `резал`. (He was `cutting` himself.)
-· Она `резала`сь парикмахерскими ножницами. (She was `cutting` herself with hair scissors.)

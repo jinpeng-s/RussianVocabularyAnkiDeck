@@ -1,8 +1,0 @@
-заявл`е`ние
-++++++++++
-1. [`noun, neuter`] statement
-· Мы должны подписать `заявление` о наших правах. (We have to sign a `statement` of our rights.)
-· Она представила `заявление` в суд. (She presented a `statement` to the court.)
-2. [`verb`] state
-· Он поспешил `заявить` правду. (He hastened to `state` the truth.)
-· Учитель `заявил`, что это нужно сделать. (The teacher `stated` that this needs to be done.)

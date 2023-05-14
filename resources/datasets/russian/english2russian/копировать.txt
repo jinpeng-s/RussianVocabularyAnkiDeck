@@ -1,8 +1,0 @@
-коп`и`ровать
-++++++++++
-1. [`verb, imperfective`] copy
-· Он любил `копировать` работы других студентов. (He liked to `copy` work from other students.)
-· Ученики не должны `копировать` друг от друга. (Pupils should not `copy` each other.)
-2. [`noun`] copy
-· Нам понадобились ещё несколько `копий` этого документа. (We needed a few more `copies` of this document.)
-· Он дал мне одну `копию`. (He gave me one `copy`.)

@@ -1,8 +1,0 @@
-пятидес`я`тый
-++++++++++
-1. [`adjective`] fifty
-· Это наш `пятидесятый` проект. (This is our `fifty`th project.)
-· Мы понимаем, что это может занять `пятидесятые` секунды. (We understand it may take `fifty` seconds.)
-2. [`noun, masculine`] fiftieth
-· Это был твой `пятидесятый` день в качестве менеджера. (It was your `fiftieth` day as a manager.)
-· `Пятидесятым` является последний шаг. (The `fiftieth` step is the last one.)

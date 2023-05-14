@@ -1,8 +1,0 @@
-доезж`а`ть
-++++++++++
-1. [`verb`] arrive
-· Мы `доедем` до нашего отеля через несколько часов. (We will `arrive` at our hotel in a few hours.)
-· Автобус скоро `доедет` к железнодорожной станиции. (The bus will soon `arrive` at the railway station.)
-2. [`verb`] reach
-· В это время мы `доедем` до запланированной точки назначения. (At this time we will `reach` the scheduled destination.)
-· Он `доехал` до ближайшей станции метро. (He `reached` the nearest metro station.)

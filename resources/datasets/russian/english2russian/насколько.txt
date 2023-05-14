@@ -1,8 +1,0 @@
-наск`о`лько
-++++++++++
-1. [`adverb`] to what extent, how much
-· Насколько `насколько` ты о этом знаешь? (To what `extent` do you know about it?)
-· Насколько `насколько` быстро они могут это сделать? (How `much` can they do it quickly?)
-2. [`conjunction`] as much as
-· Он платил `насколько` можно больше. (He was paying `as much as` possible.)
-· Их способности влияют `насколько` они уступают другим. (Their abilities affect `how much` they fall behind the others.)

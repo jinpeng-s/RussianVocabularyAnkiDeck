@@ -1,8 +1,0 @@
-лин`е`йка
-++++++++++
-1. [`noun, feminine`] ruler
-· Для измерения длины она использовала `линейку`. (For measuring the length she used a `ruler`.)
-· Он нашёл `линейку`, чтобы помочь ему нарисовать правильные линии. (He found a `ruler` to help him draw straight lines.)
-2. [`verb`] to measure
-· Она использовала `линейку`, чтобы `измерить` длину. (She used a `ruler` to `measure` the length.)
-· Он делал замеры, чтобы `линейкой` он смог посчитать размеры дома. (He took measurements in order to `ruler` out the size of the house.)

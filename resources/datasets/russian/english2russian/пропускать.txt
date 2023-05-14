@@ -1,8 +1,0 @@
-пропуск`а`ть
-++++++++++
-1. [`verb`] skip
-· Он не `пропускал` ни одного занятия. (He didn't `skip` a single lesson.)
-· Она слушала лекции, а остальные `пропускали`. (She listened to the lectures while others `skipped`.)
-2. [`noun, neuter`] skip
-· Занятие было отмечено в журнале без `пропусков`. (The class was marked down in the journal without any `skips`.)
-· Он поймал `пропуск`, поэтому ему пришлось платить штраф. (He got a `skip`, so he had to pay the fine.)

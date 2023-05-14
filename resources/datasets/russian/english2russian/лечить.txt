@@ -1,8 +1,0 @@
-леч`и`ть
-++++++++++
-1. [`verb, imperfective`] treat
-· Он всегда `лечил` людей бесплатно. (He always `treated` people for free.)
-· Врачи попытались `лечить` его от рака. (The doctors tried to `treat` him of cancer.)
-2. [`verb, perfective`] cure
-· Скорая помощь `вылечила` его от пневмонии. (Emergency services `cured` him of pneumonia.)
-· Новый лекарственный препарат `вылечил` его от заболевания. (A new medication `cured` him of the illness.)

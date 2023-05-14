@@ -1,8 +1,0 @@
-инжен`е`р
-++++++++++
-1. [`noun, masculine`] engineer
-· Он решил `инженеру` узнать про проект. (He decided to ask the `engineer` about the project.)
-· Для строительства этой дороги были наняты `инженеры`. (`Engineers` were hired for the construction of the road.)
-2. [`verb`] engineer
-· Он `инженерировал` этот проект без ошибок. (He `engineered` the project without any mistakes.)
-· Они `инженерировали` новую систему управления. (They `engineered` a new control system.)

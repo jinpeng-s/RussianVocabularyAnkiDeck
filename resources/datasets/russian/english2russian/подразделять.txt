@@ -1,8 +1,0 @@
-подраздел`я`ть
-++++++++++
-1. [`verb`] divide
-· Делать нечто надо `подразделять` на два части. (Something has to be `divided` into two parts.)
-· Мы договорились `подразделять` частную добычу поровну. (We agreed to `divide` the private haul equally.)
-2. [`noun, neuter`] division
-· В работе надо сделать `подразделение` на две части. (In the work one has to make a `division` into two parts.)
-· Они решили проблему с `подразделением` добычи поровну. (They solved the problem of the `division` of the haul equally.)

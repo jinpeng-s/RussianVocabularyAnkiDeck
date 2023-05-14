@@ -1,8 +1,0 @@
-генер`а`тор
-++++++++++
-1. [`noun, masculine`] generator
-· Этот `генератор` может создать большое количество электрической энергии. (This `generator` can create a large amount of electrical energy.)
-· В этом музее был огромный `генератор`, движущийся ручками. (In this museum there was huge `generator`, moving by hands.)
-2. [`verb`] generate
-· Используется для `генерации` электрической энергии. (It is used for the `generation` of electrical energy.)
-· Компьютеры используются для `генерации` случайных чисел. (Computers are used for the `generation` of random numbers.)

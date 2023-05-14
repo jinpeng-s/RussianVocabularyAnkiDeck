@@ -1,8 +1,0 @@
-л`е`нта
-++++++++++
-1. [`noun, feminine`] ribbon
-· Она завязала волосы синей `лентой`. (She tied her hair with a blue `ribbon`.)
-· У него была `лента` вокруг шеи. (He had a `ribbon` around his neck.)
-2. [`noun, masculine`] tape
-· Они приклеили документы `лентой`. (They taped the documents with a `tape`.)
-· Он тестирует приборы, используя `ленту`. (He tests devices using a `tape`.)

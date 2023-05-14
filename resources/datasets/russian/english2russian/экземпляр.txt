@@ -1,8 +1,0 @@
-экземпл`я`р
-++++++++++
-1. [`noun, masculine`] instance, exemplar
-· В библиотеке мы нашли `экземпляр` этой книги. (We found an `instance` of this book at the library.)
-· Они отправили нам несколько `экземпляров` договора. (They sent us several `exemplars` of the contract.)
-2. [`verb`] make a copy
-· Она сделала `экземпляр` этой песни для своего сына. (She made a `copy` of this song for her son.)
-· Нам нужно сделать `экземпляр` контракта для каждого сотрудника. (We need to make a `copy` of the contract for each employee.)

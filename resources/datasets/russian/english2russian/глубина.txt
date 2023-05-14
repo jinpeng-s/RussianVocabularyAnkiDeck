@@ -1,8 +1,0 @@
-глубин`а`
-++++++++++
-1. [`noun, feminine`] depth
-· На `глубине` моря много горячих источников. (There are many hot springs at the `depth` of the sea.)
-· Эти два озера имеют разную `глубину`. (These two lakes have different `depths`.)
-2. [Adjective] deep
-· `Глубокая` река. (A `deep` river.)
-· `Глубокий` океан. (A `deep` ocean.)

@@ -1,8 +1,0 @@
-штр`а`ф
-++++++++++
-1. [`noun, masculine`] penalty
-· Он получил `штраф` за нарушение правил. (He received a `penalty` for breaking the rules.)
-· Трамвайная компания угрожала наложить на пассажира `штраф`. (The tram company threatened to impose a `penalty` on the passenger.)
-2. [`verb`] penalize
-· Их виновность подтвердилась, и они были `штрафованы`. (Their guilt was confirmed and they were `penalized`.)
-· Они `штрафовали` поставщика за несвоевременное выполнение договора. (They `penalized` the supplier for being late with the contract.)

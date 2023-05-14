@@ -1,8 +1,0 @@
-подход`я`щий
-++++++++++
-1. [`adjective`] suitable
-· Вам необходим `подходящий` товар. (You need a `suitable` product.)
-· Этот материал не `подходящий` для этой задачи. (This material is not `suitable` for this task.)
-2. [`verb`] suit
-· Все действительно `подходят` мне. (Everything really `suits` me.)
-· Одежда, которую он купил, `подходит` ему идеально. (The clothing he bought `suits` him perfectly.)

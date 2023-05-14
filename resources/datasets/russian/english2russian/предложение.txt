@@ -1,8 +1,0 @@
-предлож`е`ние
-++++++++++
-1. [`noun, neuter`] proposition
-· Я получил `предложение` от нового агентства. (I received a `proposition` from a new agency.)
-· Он `предложил` мне дельное сотрудничество. (He made a `proposition` for a useful collaboration.)
-2. [`verb`] propose
-· Она `предлагает` новую стратегию ведения разговора. (She `proposes` a new conversation strategy.)
-· Они `предлагают` работу для иностранных студентов. (They are `proposing` jobs for international students.)

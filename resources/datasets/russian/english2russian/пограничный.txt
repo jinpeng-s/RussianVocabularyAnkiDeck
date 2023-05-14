@@ -1,8 +1,0 @@
-погран`и`чный
-++++++++++
-1. [`adjective`] border
-· Этот город лежит на `пограничном` регионе с двумя другими странами. (This city lies in a `border` region with two other countries.)
-· На пограничной контрольно-пропускной системе каждый должен быть проверен. (Every person must be inspected in a `border` control and passage system.)
-2. [`noun, masculine`] border
-· В последнее время между странами возникли жёсткие `пограничные` конфликты. (Recently, there have been fierce `border` conflicts between the countries.)
-· Они готовы согласиться на изменение `пограничных` договоров. (They are prepared to agree to changes of `border` treaties.)

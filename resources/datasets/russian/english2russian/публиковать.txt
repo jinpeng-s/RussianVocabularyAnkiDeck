@@ -1,8 +1,0 @@
-публиков`а`ть
-++++++++++
-1. [`verb`] publish
-· Он `публиковал` свои статьи в журнале. (He `published` his articles in the magazine.)
-· Она `публикует` свои книги на Amazon. (She `publishes` her books on Amazon.)
-2. [`noun, feminine`] publication
-· Его `публикация` была издана в международном журнале. (His `publication` was published in an international magazine.)
-· Она работает над выходом `публикации` в одном из популярных издательств. (She is working on the release of her `publication` in one of the popular publishers.)

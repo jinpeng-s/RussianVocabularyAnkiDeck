@@ -1,8 +1,0 @@
-прод`у`кция
-++++++++++
-1. [`noun`] product, produce
-· В магазине продаются `продукция` из всего мира. (Products from all over the world are sold in the shop.)
-· Они стремятся производить аналогичные `продукции` получше. (They strive to produce similar products better.)
-2. [`verb`] produce
-· Она занималась `продукцией` ручных изделий. (She was engaged in the production of handmade products.)
-· Фабрика продуктов первого необходимого начала `продукцию`. (The factory of essential necessities started producing.)

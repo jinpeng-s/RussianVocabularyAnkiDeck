@@ -1,8 +1,0 @@
-тр`и`ста
-++++++++++
-1. [`numeral`] three hundred
-· У него `триста` долларов. (He had `three hundred` dollars.)
-· Для меня будет `триста` рублей. (It will be `three hundred` rubles for me.)
-2. [`adjective`] three hundredth
-· Двасти десятая точка представляет `триста` сотую часть полного круга. (The two-tenths of a point represents the `three hundredth` part of a full circle.)
-· Он вернётся на `триста` процентах. (He will come back at the `three hundredth` percentage.)

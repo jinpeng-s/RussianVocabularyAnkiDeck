@@ -1,8 +1,0 @@
-посл`а`нец
-++++++++++
-1. [`noun, masculine`] envoy
-· Президент назначил нового `посланца` в Госдуму. (The President appointed a new `envoy` to the State Duma.)
-· Он является `посланцем` президента в разных кругах. (He is the `envoy` of the President in different circles.)
-2. [`verb`] to send, to dispatch
-· Президент `послал` своих представителей в несколько городов. (The President `sent` his representatives to several cities.)
-· Они `послали` посланца исследовать условия на месте. (They `dispatched` an envoy to investigate the conditions on the ground.)

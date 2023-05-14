@@ -1,8 +1,0 @@
-ручн`о`й
-++++++++++
-1. [`adjective`] manual
-· Требуется `ручная` проверка товара. (A `manual` check of the product is required.)
-· Он ранеда `ручные` операции быстро. (He performs `manual` operations quickly.)
-2. [`noun, masculine`] manual
-· Мне нужен `ручной` пульт для этого устройства. (I need a `manual` controller for this device.)
-· Проверить инструкцию в `ручном`. (Check the instruction in the `manual`.)

@@ -1,8 +1,0 @@
-стрел`а`
-++++++++++
-1. [`noun, feminine`] arrow
-· Он нацелил свою `стрелу` на цель. (He aimed his `arrow` at the target.)
-· На ее луке были две `стрелы`. (Her bow had two `arrows`.)
-2. [`verb, transitive`] shoot
-· Он противника `стрелял` из лука. (He `shot` his enemy with a bow.)
-· Стрелок `стрелял` и попадал в цель. (The archer `shot` and hit the target.)

@@ -1,8 +1,0 @@
-эпид`е`мия
-++++++++++
-1. [`noun, feminine`] epidemic
-· Эксперты ожидают `эпидемию` вирусного гепатита С. (Experts expect an `epidemic` of hepatitis C.)
-· `Эпидемией` острых респираторных инфекций заразилось более тысячи детей. (More than a thousand children were infected by an `epidemic` of acute respiratory infections.)
-2. [`verb`] to spread epidemic
-· Тукан `эпидемировал` по всей стране. (Tukan `spread epidemic` throughout the country.)
-· Эта болезнь `эпидемировала` во многих городах страны. (This disease `spread epidemic` in many cities of the country.)

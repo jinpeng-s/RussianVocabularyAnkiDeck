@@ -1,8 +1,0 @@
-фр`о`нт
-++++++++++
-1. [`noun, masculine`] front
-· Войска перешли `фронт`, двигаясь в восточном направлении. (The troops crossed the `front`, moving towards the east.)
-· Фронт боев перенесся далеко на запад. (The battle `front` moved far to the west.)
-2. [`adjective`] frontal
-· Сегодня пассажиры совершают `фронтальный` бронированный переход реки. (Today the passengers are making a `frontal` armored crossing of the river.)
-· У каждой из машин был `фронтальный` экстрактор для извлечения руды из подземелья. (Each of the machines had a `frontal` extractor for extracting ore from the underground.)

@@ -1,8 +1,0 @@
-из
-++++++++++
-1. [`preposition`] from
-· Это `из` Киева. (This is `from` Kiev.)
-· Я прочитал ее `из` газеты. (I read it `from` the newspaper.)
-2. [`verb`] out, remove
-· Он `из`влек ключи из кармана. (He `fished` out the keys from his pocket.)
-· Мы `извлекли` инормацию из источника. (We `extracted` information from the source.)

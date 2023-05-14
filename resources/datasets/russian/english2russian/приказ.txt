@@ -1,8 +1,0 @@
-прик`а`з
-++++++++++
-1. [`noun, masculine`] order
-· Вы получили его `приказ`? (Did you receive his `order`?)
-· Армия должна подчиняться `приказам` военного руководства. (The army must comply with `orders` from military leadership.)
-2. [`verb`] order
-· Вы `приказали` ему сделать это. (You `ordered` him to do it.)
-· Мне `приказали` следовать им в аэропорт. (I was `ordered` to follow them to the airport.)

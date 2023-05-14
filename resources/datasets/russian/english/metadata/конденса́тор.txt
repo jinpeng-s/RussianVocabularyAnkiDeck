@@ -1,0 +1,14 @@
+конденсатор
+++++++++++
+конденса́тор
+++++++++++
+noun, inanimate
+Very rarely used word (top 40,000)
+++++++++++
+К
+++++++++++
+condenserAlso: capacitor
+++++++++++
+Конденса́тор позволя́ет то́ку протека́ть через пустое простра́нство. | A capacitor allows current to flow through empty space.
+Полага́ю, я забы́л промы́ть конденса́тор с ацето́ном. | I think I forgot to rinse the condenser with acetone.
+Как рассчита́ть ёмкость конденса́тора? | How does one calculate the capacitance of a capacitor?

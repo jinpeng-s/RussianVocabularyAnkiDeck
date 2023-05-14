@@ -1,0 +1,14 @@
+диагональный
+++++++++++
+диагона́льный
+++++++++++
+adjective
+adverb диагона́льно
+Very rarely used word (top 40,000)
+++++++++++
+Д
+++++++++++
+diagonal
+++++++++++
+Диагона́льная ма́трица явля́ется неотрицательно определённой тогда и только тогда, когда все её элеме́нты неотрицательны. | A diagonal matrix is positive semidefinite if and only if all of its elements are nonnegative.
+Докажи́те, что ма́трица приво́дится к диагона́льному ви́ду. | Show that the matrix is diagonalisable.

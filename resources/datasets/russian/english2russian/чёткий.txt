@@ -1,8 +1,0 @@
-чёткий
-++++++++++
-1. [`adjective`] clear, distinct
-· У нас есть `чёткий` план. (We have a `clear` plan.)
-· Нам достаточно `чётких` ответов. (We have enough `distinct` answers.)
-2. [`verb`] sharpen
-· Он имеет мастерство в `чётком` заточке ножа. (He has a mastery in `sharpening` a knife.)
-· Я умею `чётко` заточить нож. (I can `sharpen` a knife well.)

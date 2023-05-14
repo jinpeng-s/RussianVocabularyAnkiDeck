@@ -1,8 +1,0 @@
-с`о`рок
-++++++++++
-1. [`numeral`] forty
-· Семь `сороков` птиц прилетели. (Forty `forty` birds arrived.)
-· Товар должен стоить `сорок` рублей. (The item should cost forty `forty` rubles.)
-2. [`adjective`] forty
-· Он предлагал `сорок` способов решить проблему. (He offered `forty` ways to solve the problem.)
-· Онлайн-глоссарий может содержать `сорок` или больше записей. (An online dictionary may contain `forty` or more entries.)

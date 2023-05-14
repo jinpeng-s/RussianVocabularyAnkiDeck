@@ -1,8 +1,0 @@
-шахтёр
-++++++++++
-1. [`noun, masculine`] miner
-· Он был `шахтёром` на этой руднике. (He was a `miner` in this mine.)
-· Без работы `шахтёр` просто не может жить. (A `miner` cannot live without work.)
-2. [`verb`] to mine
-· Он `шахтует` глину для строительства домов. (He `mines` clay for the construction of houses.)
-· В этой местности `шахтуют` железную руду. (Iron ore is `mined` in this area.)

@@ -1,8 +1,0 @@
-п`ы`льный
-++++++++++
-1. [`adjective`] dusty
-· В доме было `пыльно` и нужно было протирать полы. (The house was `dusty` and it was necessary to mop the floor.)
-· Я обнаружил, что моя кровать была `пыльная`. (I noticed that my bed was `dusty`.)
-2. [`verb`] dust
-· Мы должны `пылесосить` помещение регулярно. (We have to `dust` the room regularly.)
-· Нужно `пылесосить` стол перед уборкой. (You must `dust` the table before cleaning up.)

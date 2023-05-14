@@ -1,8 +1,0 @@
-дополн`е`ние
-++++++++++
-1. [`noun, neuter`] supplement
-· Для этой должности требуется `дополнение` опыта. (Additional `experience` is required for this position.)
-· Ты должен присылать `дополнение` к своему резюме. (You should send `supplement`s to your CV.)
-2. [`verb`] supplement
-· Я `дополнил` своё резюме дополнительными курсами. (I `supplemented` my CV with additional courses.)
-· Мы должны `дополнить` наши знания и навыки. (We must `supplement` our knowledge and skills.)

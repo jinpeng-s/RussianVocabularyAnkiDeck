@@ -1,8 +1,0 @@
-кит`а`йский
-++++++++++
-1. [`adjective`] Chinese
-· Я не знаю `китайского` языка. (I don't know Chinese language.)
-· Она привела мне подарок из `китайского` магазина. (She brought me a gift from Chinese store.)
-2. [`noun, masculine`] Chinese
-· Его `китайский` друг учится в другой стране. (His Chinese friend studies in another country.)
-· Все приборы были из `китайского` производства. (All devices were made in China.)

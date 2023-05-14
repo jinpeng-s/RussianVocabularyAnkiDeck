@@ -1,8 +1,0 @@
-водор`о`д
-++++++++++
-1. [`noun`] hydrogen
-· В воздухе находится `водород`. (There is `hydrogen` in the air.)
-· Легкие вещества включают в себя `водород`. (Light substances contain `hydrogen`.)
-2. [`verb`] hydrogen
-· Для газоразрядной лампы требуется `водородить` газ. (Gas-discharge lamps require `hydrogenation` of the gas.)
-· Научные исследования показали, что `водородируемая` вода эффективна для снижения акне. (Scientific studies show that `hydrogenated` water is effective in reducing acne.)

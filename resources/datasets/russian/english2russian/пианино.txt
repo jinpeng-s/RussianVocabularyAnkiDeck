@@ -1,8 +1,0 @@
-пиан`и`но
-++++++++++
-1. [`noun, neuter`] piano
-· Он играл на `пианино`. (He was playing the `piano`.)
-· Они посетили концерт с соло на `пианино`. (They attended a concert with a solo on the `piano`.)
-2. [`verb`] play piano
-· Он `играет на пианино`. (He `plays piano`.)
-· Дети любят `играть на пианино`. (Children love to `play piano`.)

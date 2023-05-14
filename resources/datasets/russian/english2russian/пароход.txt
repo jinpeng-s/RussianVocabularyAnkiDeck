@@ -1,8 +1,0 @@
-парох`о`д
-++++++++++
-1. [`noun, masculine`] steamship
-· На берегу лежал `пароход`, готовый к отплытию. (The `steamship` was lying on the shore, ready to sail.)
-· Трофей был доставлен из-за океана на `пароходе`. (The trophy was brought from across the ocean on a `steamship`.)
-2. [`verb`] steamship
-· Им `пароходом` надо проехать по реке. (They have to `steamship` down the river.)
-· Вчера они `пароходили` до другого города. (They `steamshipped` to another city yesterday.)

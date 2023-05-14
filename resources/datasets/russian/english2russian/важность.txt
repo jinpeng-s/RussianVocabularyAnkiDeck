@@ -1,8 +1,0 @@
-в`а`жность
-++++++++++
-1. [`noun, feminine`] importance
-· Он дал мне важное предупреждение. (He gave me an `important` warning.)
-· Наследство имеет большую `важность`. (Inheritance is of great `importance`.)
-2. [`verb`] important
-· Она считает это  `важным`. (She considers this to be `important`.)
-· Именно поэтому я считаю это  `важным`. (That's why I consider this to be `important`.)

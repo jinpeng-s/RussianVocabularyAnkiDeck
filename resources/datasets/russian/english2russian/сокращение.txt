@@ -1,8 +1,0 @@
-сокращ`е`ние
-++++++++++
-1. [`noun, neuter`] abbreviation
-· Я не знаю `сокращения` для данного слова. (I don't know the `abbreviation` for that word.)
-· Твоё `сокращение` должно состоять из двух букв. (Your `abbreviation` should consist of two letters.)
-2. [`verb`] abbreviate
-· Они `сократили` фамилию автора до трёх букв. (They `abbreviated` the author's last name to three letters.)
-· Они `сократили` длинное название до двух слов. (They `abbreviated` the long title to two words.)

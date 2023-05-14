@@ -1,8 +1,0 @@
-покор`я`ть
-++++++++++
-1. [`verb`] conquer
-· Римские войска `покорили` всю Италию. (Roman forces `conquered` all of Italy.)
-· Они `покоряли` одна крепость за другой. (They `conquered` one fortress after another.)
-2. [`verb, reflexive`] surrender
-· Тогда гвардия `покорилась` силам противника. (Then the guard `surrendered` to the enemy forces.)
-· Враг при первой же возможности `покорился`. (The enemy `surrendered` at the first opportunity.)

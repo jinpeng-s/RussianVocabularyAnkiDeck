@@ -1,8 +1,0 @@
-причём
-++++++++++
-1. [`adverb`] besides
-· Я знаю эту песню `причём` дословно. (I know this song `besides` word for word.)
-· Она говорит по-английски `причём` без акцента. (She speaks English `besides` without any accent.)
-2. [`conjunction`] moreover
-· Я выучил английский, `причём` достаточно быстро. (I learned English `moreover` quite fast.)
-· У нее достаточно денег, `причём` ещё и квартира. (She has enough money `moreover` and even an apartment.)

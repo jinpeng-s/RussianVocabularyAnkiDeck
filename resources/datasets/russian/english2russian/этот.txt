@@ -1,8 +1,0 @@
-`э`тот
-++++++++++
-1. [`pronoun, masculine`] this
-· Этот `автобус` идёт к аэропорту. (This `bus` is going to the airport.)
-· Будем ждать `этого` часа. (We will wait for `this` hour.)
-2. [`adjective`] this
-· Этот дом очень старый. (This house is very old.)
-· Это `этот` дом который мне нужен. (This is `this` house which I need.)

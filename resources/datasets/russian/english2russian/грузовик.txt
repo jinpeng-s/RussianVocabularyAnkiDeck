@@ -1,8 +1,0 @@
-грузов`и`к
-++++++++++
-1. [`noun, masculine`] truck
-· Этот `грузовик` используется для перевозки тяжелых грузов. (This `truck` is used for heavy load transportations.)
-· На этой дороге был большой `грузовик`, перевозивший углеводроды. (There was a big `truck` on the road, carrying hydrocarbons.)
-2. [`verb`] truck
-· `Грузовик` доставляет грузы до целевой области. (The `truck` delivers the goods to the destination area.)
-· Наша компания `грузовиками` перевозит все виды грузов. (Our company `trucks` all sorts of loads.)

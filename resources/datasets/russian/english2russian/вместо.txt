@@ -1,8 +1,0 @@
-вм`е`сто
-++++++++++
-1. [`preposition`] instead
-· Он пришёл заменить меня `вместо` меня. (He came to replace me `instead` of me.)
-· Он выбрал этот путь `вместо` другого. (He chose this path `instead` of the other one.)
-2. [`conjunction`] instead
-· Сказал мне, что выберет `вместо` меня. (He told me that he would choose `instead` of me.)
-· `Вместо` победы мы получили поражение. (`Instead` of victory we got a defeat.)

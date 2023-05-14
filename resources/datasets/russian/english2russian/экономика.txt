@@ -1,8 +1,0 @@
-экон`о`мика
-++++++++++
-1. [`noun, feminine`] economy
-· Россия имеет богатую `экономику` и большие ресурсы. (Russia has a rich `economy` and large resources.)
-· Экономический потенциал `экономики` России достаточно высок. (The economic potential of the Russian `economy` is quite high.)
-2. [`verb`] economize
-· Мы должны стараться `экономить` воду. (We should try to `economize` on water.)
-· Он просто `экономит` на всём, что можно. (He just `economizes` on everything he can.)

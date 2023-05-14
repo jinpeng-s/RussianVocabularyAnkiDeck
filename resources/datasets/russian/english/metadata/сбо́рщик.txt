@@ -1,0 +1,13 @@
+сборщик
+++++++++++
+сбо́рщик
+++++++++++
+noun, masculine, animate
+Very rarely used word (top 30,000)
+++++++++++
+С
+++++++++++
+collectorAlso: fitter, assembler, engine fitter
+++++++++++
+Том — сбо́рщик му́сора. | Tom is a garbage collector.
+Сбо́рщик му́сора прихо́дит три ра́за в неде́лю. | The garbage collector comes three times a week.

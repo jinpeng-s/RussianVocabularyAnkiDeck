@@ -1,0 +1,22 @@
+потеря
+++++++++++
+поте́ря
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 3,000)
+++++++++++
+C1
+П
+++++++++++
+lossAlso: waste, losses
+++++++++++
+Э́то была́ большая поте́ря. | It was a great loss.
+Кака́я поте́ря вре́мени! | What a waste of time!
+Э́то была́ абсолю́тная поте́ря вре́мени. | That was a complete waste of time.
+Э́то огро́мная поте́ря. | It's a huge loss.
+Его смерть - большая поте́ря. | His death is a great loss.
+Том ду́мает, что э́то поте́ря вре́мени. | Tom thinks it's a waste of time.
+Э́то всего лишь поте́ря вре́мени. | This is just a waste of time.
+Алгори́тмы сжа́тия да́нных можно раздели́ть на две катего́рии: с поте́рей да́нных и без поте́рь да́нных. | Data compression algorithms can be classified in two categories: those with data loss and those without data loss.
+Амнезия означа́ет "поте́ря па́мяти". | Amnesia means "loss of memory".
+Поте́ря му́жа была́ для Мэри большим уда́ром. | The loss of her husband was a great blow for Mary.

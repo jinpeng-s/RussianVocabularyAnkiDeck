@@ -1,8 +1,0 @@
-дом`а`шний
-++++++++++
-1. [`adjective`] domestic
-· У нас есть два `домашних` кота. (We have two `domestic` cats.)
-· Традиционное `домашнее` питание. (Traditional `domestic` cuisine.)
-2. [`noun, masculine`] home
-· Они работают из `домашнего` офиса. (They are working from a `home` office.)
-· Это моё `домашнее` море. (This is my `home` sea.)

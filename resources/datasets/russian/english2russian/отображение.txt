@@ -1,8 +1,0 @@
-отображ`е`ние
-++++++++++
-1. [`noun, neuter`] display
-· Это `отображение` данных представляет информацию содержательно и интерактивно. (This `display` of data presents information in an engaging and interactive way.)
-· На этом экране отображается надпись "Добро пожаловать". (On this screen is `displayed` the message "Welcome".)
-2. [`verb, perfective`] display
-· Они `отобразили` всю свою коллекцию искусств. (They `displayed` their entire art collection.)
-· Тут они `отображают` разные фотографии и картины. (Here they `display` different photos and paintings.)

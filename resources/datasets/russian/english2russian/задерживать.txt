@@ -1,8 +1,0 @@
-зад`е`рживать
-++++++++++
-1. [`verb`] delay
-· Они `задерживали` свое отправление на несколько часов. (They `delayed` their departure for several hours.)
-· Я не могу сойти со сцены, пока не `задерживаю` финал. (I can't leave the stage until I hold the `delay` of the final.)
-2. [`noun, neuter`] delay
-· Задолженность по крупному `задерживанию` денежных средств. (Delinquency due to large `delay` of funds.)
-· `Задерживание` запланированного проекта на несколько тысяч дней. (`Delay` of the scheduled project by several thousand days.)

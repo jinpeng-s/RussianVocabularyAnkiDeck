@@ -1,8 +1,0 @@
-`и`звесть
-++++++++++
-1. [`noun, neuter`] slag
-· Эти процессы завершаются с выпадением `извести` и других прочных веществ. (These processes end with the production of `slag` and other refractory substances.)
-· Именно `известь` даёт стеклу твёрдость. (It is exactly `slag` that gives glass its hardness.)
-2. [`verb`] slag
-· Они `известили` заливку, из которой были произведены формы для бетона. (They `slagged` the pour from which forms for concrete had been produced.)
-· После плавления стали отходы должны быть `известили` для извлечения драгоценных металлов. (After smelting, slag must be `slagged` to recover precious metals.)

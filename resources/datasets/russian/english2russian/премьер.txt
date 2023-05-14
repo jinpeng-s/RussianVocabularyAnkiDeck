@@ -1,8 +1,0 @@
-премь`е`р
-++++++++++
-1. [`noun, masculine`] premier
-· У нас был премьер-министр. (We had a `premier` minister.)
-· На торжестве был анонсирован новый премьер. (At the celebration a new `premier` was announced.)
-2. [`adjective`] premier
-· Фильм `премьерный` класс. (The movie is made with `premier` class.)
-· Только `премьерная` программа разработки. (Only `premier` development program.)

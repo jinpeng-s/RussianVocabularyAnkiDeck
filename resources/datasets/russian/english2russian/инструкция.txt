@@ -1,8 +1,0 @@
-инстр`у`кция
-++++++++++
-1. [`noun, feminine`] instruction
-· У нас есть `инструкция` по использованию этого устройства. (We have an `instruction` for using this device.)
-· Мне нужна `инструкция`, что делать дальше. (I need an `instruction` of what to do next.)
-2. [`verb, infinitive`] instruct
-· Они `инструктировали` нас по использованию данного устройства. (They `instructed` us on how to use the device.)
-· Он `инструктирует` своих студентов по правильным методам. (He `instructs` his students on proper methods.)

@@ -1,8 +1,0 @@
-предполаг`а`ть
-++++++++++
-1. [`verb`] assume
-· Нельзя предположить, без ясных подтверждений, что так и было. (We can’t `assume`, without clear evidence, that it was the case.)
-· Исходя из случившегося, мы можем предположить, что он продал автомобиль. (Based on what happened, we can `assume` that he sold the car.)
-2. [`noun, masculine`] assumption
-· Это основано на `предположении`, что все данные честны. (It’s based on the `assumption` that all the data is honest.)
-· Мы должны принять `предположение`, что никто не угрожает безопасности нашей страны. (We should accept the `assumption` that no one is threatening the security of our country.)

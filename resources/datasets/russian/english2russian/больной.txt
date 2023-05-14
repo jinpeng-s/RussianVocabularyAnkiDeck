@@ -1,8 +1,0 @@
-больн`о`й
-++++++++++
-1. [`noun, masculine`] patient
-· В больнице лечили `больного`. (They treated the `patient` in the hospital.)
-· У меня есть друг, который является `больным`. (I have a friend who is a `patient`.)
-2. [`adjective`] ill
-· Он посетил больного `больного` друга. (He visited his ill `ill` friend.)
-· Наши коллеги просят молитв для `больных`. (Our colleagues are asking for prayers for the `ill`.)

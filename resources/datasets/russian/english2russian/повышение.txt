@@ -1,8 +1,0 @@
-повыш`е`ние
-++++++++++
-1. [`noun, neuter`] raise
-· Он получил `повышение` по зарплате. (He got a `raise` in salary.)
-· Я ожидаю `повышение` по следующему месяцу. (I'm expecting a `raise` next month.)
-2. [`verb`] raise
-· Он постоянно `повышает` свои стандарты. (He constantly `raises` his standards.)
-· Температура `повысилась` до 34 градусов. (The temperature `raised` to 34 degrees.)

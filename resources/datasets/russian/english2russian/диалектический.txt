@@ -1,8 +1,0 @@
-диалект`и`ческий
-++++++++++
-1. [`adjective`] dialectical
-· Разные школы доктрин разными `диалектическими` путями возвращаются к первоначальному источнику религии. (Different schools of doctrine return to the original source of religion by different `dialectical` ways.)
-· Мы исследуем `диалектическую` аналитику для того, чтобы более полно понять проблему. (We are studying `dialectical` analysis to better understand the problem.)
-2. [`noun, feminine`] dialectics
-· `Диалектика` - наука о логическом построении истин. (`Dialectics` is the science of logical construction of truth.)
-· Главное правило `диалектики` - что истина состоит из разных видов мнений. (The main rule of `dialectics` is that the truth consists of different points of view.)

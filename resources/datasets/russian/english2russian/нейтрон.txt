@@ -1,8 +1,0 @@
-нейтр`о`н
-++++++++++
-1. [`noun, masculine`] neutron
-· `Нейтроны` являются одним из основных частиц атома. (`Neutrons` are one of the main particles of the atom.)
-· `Нейтрон` не имеет электрического заряда. (A `neutron` has no electric charge.)
-2. [`verb`] to neutron; neutronize
-· Он `нейтронизировал` материал и превратил его в радиоактивный. (He `neutronized` the material and transformed it into radioactive.)
-· Молекулы были `нейтронированы`, чтобы предотвратить дальнейшую активность. (Molecules were `neutronized` to prevent further activity.)

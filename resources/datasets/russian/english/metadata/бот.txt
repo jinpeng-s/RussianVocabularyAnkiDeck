@@ -1,0 +1,13 @@
+бот
+++++++++++
+бот
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+Б
+++++++++++
+bot
+++++++++++
+Иногда на Татоэбе появля́ются предложения-дубликаты. Обычно ими занима́ется Хорус, бот по удале́нию дублика́тов. | Duplicate sentences are occasionally created on Tatoeba. The deduplication bot, Horus, generally takes care of them.
+Я не бот. | I'm not a bot.

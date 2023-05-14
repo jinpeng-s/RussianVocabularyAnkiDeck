@@ -1,8 +1,0 @@
-обор`у`довать
-++++++++++
-1. [`verb, perfective`] equip
-· Я очень хочу `оборудовать` свою квартиру современной техникой. (I want to `equip` my apartment with modern technology.)
-· Технологии позволяют `оборудовать` машинное обучение точными данными. (Technologies allow `equipping` machine learning with accurate data.)
-2. [`noun, neuter`] equipment
-· Он начал искать `оборудование` для своей лаборатории. (He began searching for `equipment` for his laboratory.)
-· Требуемое `оборудование` для ремонта доставлено в срок. (The required `equipment` for repair was delivered on time.)

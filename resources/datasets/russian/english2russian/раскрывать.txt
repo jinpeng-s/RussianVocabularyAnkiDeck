@@ -1,5 +1,0 @@
-раскрыв`а`ть
-++++++++++
-1. [`verb`] disclose
-· Он предложил `раскрывать` всю информацию об уязвимостях. (He proposed to `disclose` all information about the vulnerabilities.)
-· Он отказался `раскрывать` информацию о проекте. (He refused to `disclose` information about the project.)

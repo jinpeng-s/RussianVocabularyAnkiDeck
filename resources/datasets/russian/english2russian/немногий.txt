@@ -1,8 +1,0 @@
-немн`о`гий
-++++++++++
-1. [`adjective`] few
-· В этом магазине осталось только `немногие` предметы. (In this store, only a `few` items remained.)
-· В городке живет `немного` людей. (`Few` people live in the town.)
-2. [`adverb`] fewly
-· Он делает свою работу довольно `немного`. (He does his job `fewly`.)
-· В том классе `немного` студентов. (There are `fewly` students in that class.)

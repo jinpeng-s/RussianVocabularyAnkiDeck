@@ -1,8 +1,0 @@
-прибыв`а`ть
-++++++++++
-1. [`verb`] arrive
-· Сегодня он 'прибывает' с аэропорта. (He will `arrive` at the airport today.)
-· Я еще 'прибуду' раньше, чем ты. (I will `arrive` even earlier than you.)
-2. [`verb, reflexive`] arrive (at a decision, conclusion, agreement)
-· Они не могли `прибыть` к какому-либо соглашению. (They couldn't `arrive` at any agreement.)
-· После длительных разговоров они наконец `прибыли` к этому соглашению. (After a long discussion they finally `arrived` at this agreement.)

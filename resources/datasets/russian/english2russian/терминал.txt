@@ -1,8 +1,0 @@
-термин`а`л
-++++++++++
-1. [`noun, masculine`] terminal
-· Мне необходимо зайти в `терминал` и внести платеж. (I need to get to the `terminal` and make a payment.)
-· Рядом с аэропортом находится `терминал`. (Near the airport there is a `terminal`.)
-2. [`adjective`] terminal
-· Он был болен `терминальной` формой рака. (He had `terminal` form of cancer.)
-· Это был `терминальный` поезд. (This was a `terminal` train.)

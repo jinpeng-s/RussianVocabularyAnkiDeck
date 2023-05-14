@@ -1,8 +1,0 @@
-прис`у`тствовать
-++++++++++
-1. [`verb`] attend
-· Он не `присутствовал` на встрече. (He did not `attend` the meeting.)
-· В зале не было никого, кроме меня и других участников `присутствовавших` на собрании. (There was no one in the room except me and the other participants `attending` the meeting.)
-2. [`verb`] present
-· Все `присутствовавшие` на опросе получили приз. (All those `present` at the survey got a prize.)
-· Все `присутствующие` получили специальные подарки. (All those `present` received special gifts.)

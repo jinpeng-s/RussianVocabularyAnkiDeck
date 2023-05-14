@@ -1,8 +1,0 @@
-н`е`что
-++++++++++
-1. [`pronoun`] something
-· Он выглядит как `нечто` большое и загадочное. (It looks like `something` big and mysterious.)
-· Я предложил тебе `нечто`, но ты отказался. (I offered you `something`, but you declined.)
-2. [`adverb`] somehow
-· Он смог достичь всего этого `нечто` сложным способом. (He managed to achieve all of this `somehow` in a complicated way.)
-· Нам нужно с этим `нечто` что-то сделать. (We need to do something with this `somehow`.)

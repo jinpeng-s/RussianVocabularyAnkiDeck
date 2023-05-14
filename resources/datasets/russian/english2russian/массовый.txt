@@ -1,8 +1,0 @@
-м`а`ссовый
-++++++++++
-1. [`adjective`] mass
-· Они организовали `массовое` мероприятие в зале. (They organized a `mass` event in the hall.)
-· Он организовал `массовую` акцию протеста. (He organized a `mass` protest action.)
-2. [`noun, masculine`] mass
-· Эта общественная программа предполагает `массовое` использование водоснабжения. (This public program assumes `mass` use of water supply.)
-· Он направил восторженные приветствия `массовой` аудитории. (He addressed enthusiastic greetings to the `mass` audience.)

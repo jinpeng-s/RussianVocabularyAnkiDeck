@@ -1,0 +1,13 @@
+указатель
+++++++++++
+указа́тель
+++++++++++
+noun, masculine, inanimate
+Rarely used word (top 7,000)
+++++++++++
+У
+++++++++++
+indexAlso: indicator, pointer, signpostExample: Здесь был указатель,автобусы - There was a signpost, buses
+++++++++++
+Всякий раз, как я пыта́юсь изучи́ть C++, я застрева́ю на указа́телях. | turn indicator
+Указа́тель бензи́на на нуле́. | Every time I attempt to teach myself C++, I get stuck on pointers.

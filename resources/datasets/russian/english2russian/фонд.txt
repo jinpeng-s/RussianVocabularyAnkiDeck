@@ -1,8 +1,0 @@
-ф`о`нд
-++++++++++
-1. [`noun, masculine`] fund
-· Лучшая благотворительная организация нуждается в `фонде`. (The best charity organization needs a `fund`.)
-· Наличие собственного `фонда` позволяет ускорить процесс улучшения условий жизни. (Having its own `fund` allows to speed up the process of improving living conditions.)
-2. [`verb`] fund
-· Нам нужно будет `фондировать` эту программу. (We will have to `fund` this program.)
-· Он приложил максимум усилий, чтобы `фондировать` этот проект. (He put in a maximum effort to `fund` the project.)

@@ -1,8 +1,0 @@
-специ`а`льность
-++++++++++
-1. [`noun, feminine`] specialty
-· Он изучает `специальность` биологических наук. (He studies a `specialty` in biological sciences.)
-· Она принимает участие в программе по `специальности` медицины. (She participates in the program for `specialty` in medicine.)
-2. [`verb`] specialize
-· Эти учёные особенно `специализируются` в области биотехнологий. (These scientists `specialize` especially in the field of biotechnology.)
-· Ведущие учёные данного направления предлагают `специализироваться` на основной проблеме. (Leading scientists in this field suggest `specializing` on the main problem.)

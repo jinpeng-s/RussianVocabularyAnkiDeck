@@ -1,8 +1,0 @@
-снабж`а`ть
-++++++++++
-1. [`verb`] supply
-· Большие компании `снабжают` рынки партиями запасов. (Big companies `supply` markets with batches of stock.)
-· Войскам необходимо `снабжать` боеприпасами. (The army needs to `supply` ammunition.)
-2. [`noun, masculine`] provision
-· Водитель доставил заказ `снабжения` в нужный адрес. (The driver delivered the order of `provisions` to the address.)
-· Он получил план `снабжения`, в рамках которого была согласована поставка товаров. (He received a plan of `provisions` which specified the delivery of goods.)

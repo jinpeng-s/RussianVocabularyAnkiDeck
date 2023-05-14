@@ -1,8 +1,0 @@
-акцион`е`р
-++++++++++
-1. [`noun, masculine`] shareholder
-· Основные `акционеры` были встречены на конференции. (The main `shareholders` were welcomed at the conference.)
-· Он `акционер` в этой компании. (He is a `shareholder` in this company.)
-2. [`verb`] to sharehold
-· Они планируют `акционировать` свою компанию через несколько месяцев. (They plan to `sharehold` their company in a few months.)
-· Нам нужно `акционировать` наше предприятие. (We need to `sharehold` our enterprise.)

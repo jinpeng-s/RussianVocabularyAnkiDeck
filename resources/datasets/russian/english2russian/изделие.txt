@@ -1,8 +1,0 @@
-изд`е`лие
-++++++++++
-1. [`noun, neuter`] product
-· Вы можете купить `изделие` в магазине. (You can buy the `product` in the store.)
-· Качество `изделия` намного лучше, чем мы предполагали. (The quality of the `product` is much better than we expected.)
-2. [`verb`] produce
-· Он производит технические `изделия` уже много лет. (He has been producing technical `products` for many years.)
-· Та компания производит прочные `изделия`. (The company produces sturdy `products`.)

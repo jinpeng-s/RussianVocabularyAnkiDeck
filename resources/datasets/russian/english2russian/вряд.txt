@@ -1,8 +1,0 @@
-вряд
-++++++++++
-1. [`adverb`] suddenly
-· Кто-то `вряд` вышел из дома. (Someone `suddenly` left the house.)
-· Казалось, будто он решил что-то `вряд` же. (It seemed as if he had decided something `suddenly`.)
-2. [`verb, perfective`] to chance
-· Она `вряд` угадала, что завтра пойдет дождь. (She `chanced` to guess that it would rain tomorrow.)
-· Я `вряд` узнаю, как настоящее время. (I'll `chance` to know what the present time is.)

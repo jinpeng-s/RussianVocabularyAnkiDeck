@@ -1,8 +1,0 @@
-погруж`а`ть
-++++++++++
-1. [`verb`] immerse
-· Они подготовились `погружать` в холодную воду. (They prepared to `immerse` in cold water.)
-· Она предложила ему `погружать` голову в воду. (She offered him to `immerse` his head in the water.)
-2. [`verb`] submerge
-· Они научились `погружать` часть корабля под воду. (They learned to `submerge` part of the ship under water.)
-· Она слышала, как горизонтальное судно `погружалось` на дно моря. (She heard how a horizontal vessel `submerged` to the bottom of the sea.)

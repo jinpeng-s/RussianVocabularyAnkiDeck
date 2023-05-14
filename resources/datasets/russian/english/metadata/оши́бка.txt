@@ -1,0 +1,22 @@
+ошибка
+++++++++++
+оши́бка
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 2,000)
+++++++++++
+B2
+О
+++++++++++
+mistakeAlso: error, blunderExample: - - nhầm lẫn,lỗi lầm
+++++++++++
+Если есть оши́бки, испра́вь их. | If there are mistakes, correct them.
+Как ты мог сде́лать таку́ю оши́бку? | How could you make such a mistake?
+В э́той кни́ге есть ряд оши́бок, но она интере́сная. | This book has a number of mistakes, but it's interesting.
+Только потеря́й самооблада́ние, и тебе ста́нет очень легко сде́лать оши́бку. | It's easy to err once you lose your cool.
+Он по оши́бке взял не ту шля́пу. | He picked up the wrong hat by mistake.
+В э́той кни́ге есть оши́бки, но она интере́сная. | This book has a number of mistakes, but it's interesting.
+Он нашёл пять оши́бок в стольких же строчках. | He found five mistakes in as many lines.
+Э́то интере́сная кни́га, если не счита́ть нескольких оши́бок. | This book is interesting except for a few mistakes.
+Э́то не оши́бка програ́ммы, э́то недокументированная фу́нкция. | It’s not a bug, it’s an undocumented feature.
+Будучи написанной в спе́шке, кни́га соде́ржит мно́жество оши́бок. | Having been written in haste, the book has a lot of errors.

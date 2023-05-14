@@ -1,8 +1,0 @@
-эксперим`е`нт
-++++++++++
-1. [`noun`] experiment
-· Учёные проводили `эксперимент` в течение двух месяцев. (The scientists conducted the `experiment` for two months.)
-· Он провёл `эксперимент`, чтобы убедиться в правильности своих идей. (He made an `experiment` to prove the correctness of his ideas.)
-2. [`verb`] experiment
-· Они `экспериментировали` с разными вариантами соединения. (They `experimented` with different versions of the connection.)
-· Она `экспериментировала` с разными рецептами для десерта. (She `experimented` with different recipes for the dessert.)

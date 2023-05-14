@@ -1,0 +1,11 @@
+разъём
+++++++++++
+разъём
+++++++++++
+noun, masculine, inanimate
+++++++++++
+Р
+++++++++++
+connectorAlso: socket
+++++++++++
+None

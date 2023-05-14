@@ -1,8 +1,0 @@
-иностр`а`нный
-++++++++++
-1. [`adjective`] foreign
-· Он путешествовал в `иностранные` страны. (He traveled to `foreign` countries.)
-· Для этого компании важно иметь подключение к `иностранным` поставщикам. (It is important for the company to have connection to `foreign` suppliers.)
-2. [`noun, masculine`] foreigner
-· Он встретил много `иностранцев` в своей жизни. (He met many `foreigners` in his life.)
-· `Иностранные` производители регулярно поставляют товары в Россию. (`Foreign` manufacturers regularly supply their goods to Russia.)

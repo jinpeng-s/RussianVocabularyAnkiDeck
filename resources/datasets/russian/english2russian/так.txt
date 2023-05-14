@@ -1,8 +1,0 @@
-так
-++++++++++
-1. [`adverb`] so
-· Он `так` сказал и мы поняли. (He said `so` and we understood.)
-· Ты хочешь сделать `так`? (Do you want to do it `so`?)
-2. [`conjunction`] so that
-· Я решил уснуть рано, `чтобы` подготовиться к экзамену. (I decided to sleep early `so that` I can prepare for the exam.)
-· Мы двигались медленно `чтобы` избежать аварии. (We drove slowly `so that` we can avoid an accident.)

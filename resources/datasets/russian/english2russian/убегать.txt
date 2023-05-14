@@ -1,8 +1,0 @@
-убег`а`ть
-++++++++++
-1. [`verb, reflexive`] escape / flee
-· Они `убегали` во время пожара. (They `escaped` during the fire.)
-· Нарушители пытались `убежать` от полиции. (The offenders tried to `flee` from the police.)
-2. [`noun, masculine`] escape / fleeing
-· Его `убег` от правосудия был прецедентом для других. (His `escape` from justice was a precedent for others.)
-· В результате такого `убега` он был признан виновным. (As a result of this `fleeing`, he was declared guilty.)

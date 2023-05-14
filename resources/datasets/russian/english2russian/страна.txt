@@ -1,8 +1,0 @@
-стран`а`
-++++++++++
-1. [`noun, feminine`] country
-· Моя `страна` имеет много гор. (My `country` has many mountains.)
-· Он приехал из другой `страны`. (He came from another `country`.)
-2. [`verb, infinitive`] to place
-· Я решил `ставить` ставку на этот кон. (I decided to `place` a bet on this horse.)
-· Ему пришлось `ставить` пару предложений перед главой отдела. (He had to `place` a couple of proposals before the head of the department.)

@@ -1,8 +1,0 @@
-пл`а`вать
-++++++++++
-1. [`verb`] swim
-· Я хочу отдохнуть, поэтому я планирую отправиться куда-нибудь по `плавать`. (I want to relax so I plan to go somewhere to `swim`.)
-· Он обычно `плавает` по утрам. (He usually `swims` in the mornings.)
-2. [`verb`] float
-· Наша лодка `плавает` по волнам. (Our boat is `floating` on the waves.)
-· Всё что имеет массу может `плавать` в воде. (Everything that has mass can `float` in water.)

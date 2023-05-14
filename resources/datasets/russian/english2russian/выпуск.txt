@@ -1,8 +1,0 @@
-в`ы`пуск
-++++++++++
-1. [`noun, masculine`] release
-· Все еще нет информации о дате `выпуска` этого фильма. (There is still no information about the `release` date of this movie.)
-· `Выпуск` песни был принят с гостьей одобрением. (The `release` of the song was welcomed with great acclamation.)
-2. [`verb`] release
-· Она `выпустила` новый альбом прошлой ночью. (She `released` a new album last night.)
-· В этом месяце фильм будет `выпущен`. (The movie will be `released` this month.)

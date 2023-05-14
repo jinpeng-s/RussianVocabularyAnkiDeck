@@ -1,8 +1,0 @@
-ор`у`дие
-++++++++++
-1. [`noun, neuter`] tool, instrument
-· Нам нужно выполнить это посредством подходящего `орудия`. (We need to do it by means of a suitable `tool`.)
-· Для этой работы нам нужны различные `орудия`. (For this work we need different `instruments`.)
-2. [`verb, intransitive`] manage, control
-· Он не умеет `орудовать` такими сложными вещами. (He is not able to `manage` such complex things.)
-· Она не знает того, как `орудовать` этим складным устройством. (She doesn't know how to `control` this complicated device.)

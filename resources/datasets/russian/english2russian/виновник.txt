@@ -1,8 +1,0 @@
-вин`о`вник
-++++++++++
-1. [`noun, masculine`] culprit
-· Полиция нашла `виновника` происшествия. (The police found the `culprit` of the incident.)
-· После долгих исследований был найден `виновник` хищения. (After long investigations, the `culprit` of the theft was found.)
-2. [`verb`] blame
-· Его обвиняют в трансгрессии, однако никто не может `винить` его в этом. (He is accused of transgression, but no one can `blame` him for it.)
-· Он никогда не `винил` других за свои ошибки. (He never `blamed` others for his mistakes.)

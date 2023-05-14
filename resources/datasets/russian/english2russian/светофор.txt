@@ -1,8 +1,0 @@
-светоф`о`р
-++++++++++
-1. [`noun, masculine`] traffic light
-· Я вижу `светофор` на углу. (I see a `traffic light` at the corner.)
-· Он остановился, когда увидел `светофор`. (He stopped when he saw the `traffic light`.)
-2. [`verb`] signal
-· Они приближались к заезду, и `светофор` давал им сигнал. (They were approaching the intersection and the `traffic light` was `signaling` them.)
-· Он `светофорил` автомобилистам. (He was `signaling` the drivers.)

@@ -1,8 +1,0 @@
-`я`рмарка
-++++++++++
-1. [`noun, feminine`] fair
-· Выставка состоялась на `ярмарке` на окраине города. (The exhibition was held on a `fair` on the outskirts of the city.)
-· Я давно не бывал на `ярмарке`, мне интересно пойти. (I haven't been to a `fair` in a long time, I'm interested to go.)
-2. [`verb`] fair
-· Затрудняюсь `оценить` его услуги – я ему не `ярмаркую` . (I am hesitant to `appraise` his services – I don’t `fair` him.)
-· Руководство `ярмаркует` работу сотрудников и дает для этого деньги. (The management `fairly` pays employees for their work.)

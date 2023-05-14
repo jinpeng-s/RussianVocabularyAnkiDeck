@@ -1,8 +1,0 @@
-предполаг`а`ться
-++++++++++
-1. [`verb`] be assumed
-· В этом `предполагалось` что-то другое. (Something else was `assumed` here.)
-· Они `предполагались` как последние проверенные предметы. (They were `assumed` to be the last checked items.)
-2. [`verb`] assume
-· Они `предполагают`, что решение будет принято до конца месяца. (They `assume` that the decision will be taken by the end of the month.)
-· Он не `предполагал`, что проект займёт так много времени. (He did not `assume` that the project would take so much time.)

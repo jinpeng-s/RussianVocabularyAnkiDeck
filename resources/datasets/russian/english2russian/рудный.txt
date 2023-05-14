@@ -1,8 +1,0 @@
-р`у`дный
-++++++++++
-1. [`adjective`]  ore
-· В Это место не выросли `рудные` растения. (No `ore` plants have grown in this place.)
-· `Рудная` руда должна быть добыта, прежде чем приступить к добыче металла. (`Ore` ore needs to be mined before the metal can be extracted.)
-2. [`noun, masculine`] ore
-· При `рудном` добыче в пещерах используется большое количество тяжелого оборудования. (A lot of heavy machinery is used in `ore` mining in caves.)
-· Машины для `рудной` добычи обычно работают круглосуточно. (Machines for `ore` mining usually work around the clock.)

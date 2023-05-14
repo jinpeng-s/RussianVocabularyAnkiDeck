@@ -1,0 +1,12 @@
+отступ
+++++++++++
+о́тступ
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 50,000)
+++++++++++
+О
+++++++++++
+break offAlso: indention
+++++++++++
+Браузер не обраща́ет внима́ния на о́тступы и пусты́е строки в исхо́дном те́ксте. | A browser ignores any indentations or blank lines in the source text.

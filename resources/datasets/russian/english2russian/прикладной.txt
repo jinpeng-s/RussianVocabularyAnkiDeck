@@ -1,8 +1,0 @@
-прикладн`о`й
-++++++++++
-1. [`adjective`] applied
-· Этот курс основан на прикладных навыках. (This course is based on applied skills.)
-· Такие аспекты теории должны прикладным образом применяться. (Such aspects of the theory should be applied accordingly.)
-2. [`noun, masculine`] application
-· Необходимо заполнить прикладное письмо. (It's necessary to fill in an application letter.)
-· Требуется прикладное знание информатики. (A practical knowledge of computer science is required.)

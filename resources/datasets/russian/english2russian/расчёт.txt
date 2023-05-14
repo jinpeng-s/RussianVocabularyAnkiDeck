@@ -1,8 +1,0 @@
-расчёт
-++++++++++
-1. [`noun, masculine`] calculation
-· Я делаю `расчёт` до десятой точности. (I'm making a `calculation` to the tenth decimal place.)
-· Я был изумлён, увидев `расчёт` его доходов. (I was astonished to see his `calculation` of income.)
-2. [`verb`] calculate
-· Он пытался `рассчитать` стоимость квартиры. (He tried to `calculate` the cost of the apartment.)
-· Он быстро `рассчитал` сумму денег. (He quickly `calculated` the sum of money.)

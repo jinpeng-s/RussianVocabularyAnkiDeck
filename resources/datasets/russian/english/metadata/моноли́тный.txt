@@ -1,0 +1,13 @@
+монолитный
+++++++++++
+моноли́тный
+++++++++++
+adjective
+adverb моноли́тно
+Very rarely used word (top 30,000)
+++++++++++
+М
+++++++++++
+monolithicAlso: solid, massive
+++++++++++
+У ОС Linux моноли́тное ядро́. | The Linux kernel is monolithic.

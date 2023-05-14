@@ -1,8 +1,0 @@
-реги`о`н
-++++++++++
-1. [`noun, masculine`] region
-· Они живут в `регионе`, но не в большом городе. (They live in a `region`, but not in a big city.)
-· `Регион` подразделяется на районы. (A `region` is subdivided into districts.)
-2. [`verb`] to region
-· Мы `регионализировали` своё предприятие. (We `regioned` our enterprise.)
-· Они `регионализировали` свои услуги. (They `regioned` their services.)

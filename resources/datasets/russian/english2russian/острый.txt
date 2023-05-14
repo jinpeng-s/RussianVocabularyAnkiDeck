@@ -1,8 +1,0 @@
-`о`стрый
-++++++++++
-1. [`adjective`] sharp
-· Он бросил `острый` камень в мое окно. (He threw a `sharp` stone at my window.)
-· Этот нож очень `острый`. (This knife is very `sharp`.)
-2. [`adverb`] sharply
-· Она говорила `остро`, и ее слова ударили меня. (She spoke `sharply`, and her words hit me.)
-· Дождь постепенно начал дуть `остро`. (The rain began to blow `sharply`.)

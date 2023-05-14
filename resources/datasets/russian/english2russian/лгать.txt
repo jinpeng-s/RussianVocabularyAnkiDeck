@@ -1,8 +1,0 @@
-лг`а`ть
-++++++++++
-1. [`verb`] lie
-· Он обычно `лгал` о своих успехах. (He usually `lied` about his successes.)
-· Она `лгала`, что не видела это письмо. (She `lied` that she hadn't seen the letter.)
-2. [`noun, masculine`] lie
-· Он признал свой `лож` и просил прощения. (He admitted his `lie` and asked for forgiveness.)
-· Он воспринял окружающие слова за `ложь`. (He took the surrounding words as a `lie`.)

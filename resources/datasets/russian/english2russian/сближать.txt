@@ -1,8 +1,0 @@
-сближ`а`ть
-++++++++++
-1. [`verb`] approximate
-· Оптимальное решение состоит в том, чтобы `сближать` достигаемые результаты к идеальному. (The optimum solution is to `approximate` the achieved results to the ideal.)
-· Наша цель состоит в том, чтобы `сближать` как можно больше двух подсчитанных значений. (Our goal is to `approximate` as much as possible two calculated values.)
-2. [`noun, neuter`] approximation
-· Для приближения достигнут достаточный уровень   `сближения`. (A sufficient level of `approximation` has been reached for the approximation.)
-· Обычно `сближение` бывает заметным только после определённого числа итераций. (Usually `approximation` is noticeable only after a certain number of iterations.)

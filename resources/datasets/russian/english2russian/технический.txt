@@ -1,8 +1,0 @@
-техн`и`ческий
-++++++++++
-1. [`adjective`] technical
-· Это технически `сложное` измерение. (This is a technical `challenging` measurement.)
-· Нам потребуется больше технической `помощи`. (We need more technical `support`.)
-2. [`noun, masculine`] technician
-· Он `технический` специалист. (He is a `technical` specialist.)
-· Мы потребовали техника для решения этих `технических` проблем. (We need a technician to solve these `technical` problems.)

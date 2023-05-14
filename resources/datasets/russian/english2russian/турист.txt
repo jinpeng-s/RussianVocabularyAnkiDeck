@@ -1,8 +1,0 @@
-тур`и`ст
-++++++++++
-1. [`noun, masculine`] tourist
-· Я видел `туриста` на главной улице города. (I saw a `tourist` on the main street of the city.)
-· В этом отеле ежегодно пребывают тысячи `туристов` из Испании. (Every year thousands of `tourists` from Spain stay in this hotel.)
-2. [`verb, intransitive`] to tour
-· В Париже мы `туристируем` по достопримечательностям. (We `tour` around the landmarks in Paris.)
-· Он собирается в Испанию, чтобы `туристировать` по городам. (He is planning to go to Spain to `tour` around the cities.)

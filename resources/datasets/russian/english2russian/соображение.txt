@@ -1,8 +1,0 @@
-соображ`е`ние
-++++++++++
-1. [`noun, neuter`] consideration
-· Я принял `соображение` в расчёт. (I took `consideration` into account.)
-· В этом решении весьма много `соображений` . (There are a lot of `considerations` in this decision.)
-2. [`verb`] consider
-· Мне следует `сообразить`, что дальше предпринять. (I should `consider` what to do next.)
-· Она просит аудиторию `сообразить` , прежде чем принимать решение. (She asked the audience to `consider` before making a decision.)

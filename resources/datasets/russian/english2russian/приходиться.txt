@@ -1,8 +1,0 @@
-приход`и`ться
-++++++++++
-1. [`verb`] have to, be obliged to
-· Меня `приходится` часто работать по ночам. (I `have to` work a lot at night.)
-· Нам `приходилось` сначала принимать решения. (We `were obliged to` make decisions first.)
-2. [`verb`] turn out, turn to
-· Его планы `приходились` мало кому по вкусу. (His plans `turned out` to be disliked by most people.)
-· Ему `приходилось` обращаться к власти за помощью. (He `had to turn to` the government for help.)

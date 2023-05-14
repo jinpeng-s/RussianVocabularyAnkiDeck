@@ -1,8 +1,0 @@
-филос`о`фский
-++++++++++
-1. [`adjective`] philosophical
-· Он слишком `философский` для своего возраста. (He's too `philosophical` for his age.)
-· Это постоянно задавало мне `философские` вопросы. (It was constantly asking me `philosophical` questions.)
-2. [`noun, masculine`] philosopher
-· Самыми известными `философами` Древней Греции были Сократ и Аристотель. (The most famous `philosophers` of Ancient Greece were Socrates and Aristotle.)
-· Этот `философ` создал свою собственную философию. (This `philosopher` created his own philosophy.)

@@ -1,8 +1,0 @@
-внос`и`ть
-++++++++++
-1. [`verb`] to contribute
-· Он внёс `вклад` в развитие этой вещи. (He `contributed` to the development of this thing.)
-· Она не вносила `вклад` в этот проект. (She didn't `contribute` to this project.)
-2. [`adverb`] significantly
-· Он внёс `существенный вклад`  в развитие проекта. (He `significantly` contributed to the development of the project.)
-· Наша команда внёсла `значительный вклад` в разработку этой системы. (Our team `significantly` contributed to the development of this system.)

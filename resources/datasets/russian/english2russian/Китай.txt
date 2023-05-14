@@ -1,8 +1,0 @@
-Китай
-++++++++++
-1. [`noun, masculine`] China
-· Главным поставщиком продуктов был `Китай`. (The main supplier of products was `China`.)
-· Поездка в `Китай` получилась удачной. (The trip to `China` was successful.)
-2. [`adjective`] Chinese
-· Я бы хотел попробовать `китайскую` кухню. (I would like to try `Chinese` cuisine.)
-· Он завершил `китайское` искусство. (He completed `Chinese` art.)

@@ -1,8 +1,0 @@
-пог`о`да
-++++++++++
-1. [`noun, feminine`] weather
-· Сегодня `погода` прекрасная. (Today the `weather` is beautiful.)
-· Завтра ожидается холодная `погода`. (Tomorrow the `weather` is expected to be cold.)
-2. [`verb`] weather
-· Лётчики сумели успешно `прогнать` шторм. (The pilots were able to `weather` the storm successfully.)
-· Наш дом не смог `продержать` напасть урагана. (Our house could not `weather` the onslaught of the hurricane.)

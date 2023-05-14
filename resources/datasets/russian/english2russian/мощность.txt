@@ -1,8 +1,0 @@
-м`о`щность
-++++++++++
-1. [`noun, feminine`] power, capacity
-· Эта машина имеет `мощность` двигателя 3 л.с. (This machine has a `power` of 3 hp.)
-· Объём и `мощность` этой аккумуляторной батареи достаточно высоки. (The capacity and `power` of this battery is quite high.)
-2. [`verb`] to empower, to enable
-· Эта машина `мощность` производить большое количество строительных работ. (This machine `enables` to produce a large amount of construction works.)
-· То, что делаешь, даёт тебе `мощность`, даже когда все преодолеваемые возбуждения. (What you are doing gives you `power` even when all obstacles are overcome.)

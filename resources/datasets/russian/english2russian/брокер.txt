@@ -1,8 +1,0 @@
-бр`о`кер
-++++++++++
-1. [`noun, masculine`] broker
-· Он работает как `брокер`. (He works as a `broker`.)
-· Наш `брокер` предоставил нам информацию по инвестициям. (Our `broker` provided us with information on investments.)
-2. [`verb`] broker
-· Он `брокерировал` сделки между двумя компаниями. (He `brokered` deals between two companies.)
-· Инвестор `брокерирует` ваши операции. (The investor `brokers` your transactions.)

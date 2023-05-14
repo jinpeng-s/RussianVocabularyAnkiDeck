@@ -1,8 +1,0 @@
-молодёжный
-++++++++++
-1. [`adjective`] youth
-· Она участвует в молодёжных `конкурсах` и соревнованиях. (She is taking part in `youth` contests and competitions.)
-· В нашем городе есть молодёжная `доска` для представителей молодёжи. (In our city there is a `youth` board for young people.)
-2. [`noun, masculine`] youth
-· В конце года будет молодёжный `праздник`. (At the end of the year there will be a `youth` celebration.)
-· Существует молодёжный `центр` для интересующихся творчеством и культурной деятельностью. (There is a `youth` center for those interested in creativity and cultural activities.)

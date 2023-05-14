@@ -1,8 +1,0 @@
-сопротивл`е`ние
-++++++++++
-1. [`noun, neuter`] resistance
-· Датчик `сопротивления` изменяет своё значение при изменении температуры. (The resistance sensor changes its value when the temperature changes.)
-· Электрическое `сопротивление` проводника растёт по мере его нагрева. (The electrical resistance of a conductor increases as it is heated.)
-2. [`verb`] resist
-· Законопроект подвергся ожесточённой `сопротивлению` оппозиции. (The bill was met with fierce `resistance` from the opposition.)
-· Я не `сопротивлялся` его решению. (I did not `resist` his decision.)

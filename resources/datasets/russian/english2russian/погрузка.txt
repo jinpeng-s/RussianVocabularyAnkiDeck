@@ -1,8 +1,0 @@
-погр`у`зка
-++++++++++
-1. [`noun, feminine`] loading
-· Погрузочные работы доставили до десяти долларов в час. (Loading works brought up to ten dollars an hour.)
-· Вы сможете разрешить перевозку после `погрузки` товара. (You will be able to authorize the transportation after the `loading` of the goods.)
-2. [`verb`] to load
-· Они `погружали` товары на конвейер. (They `loaded` the goods onto a conveyor belt.)
-· Они загрузили грузовик в пролёте. (They `loaded` the truck in the air.)

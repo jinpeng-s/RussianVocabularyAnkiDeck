@@ -1,8 +1,0 @@
-собир`а`ть
-++++++++++
-1. [`verb`] gather
-· Птицы `собирались` перед началом дальней поездки. (Birds were `gathering` before taking off on a long journey.)
-· Этот магазин помогал им `собирать` средства для благотворительности. (This store was helping them `gather` money for charity.)
-2. [`verb, perfective`] collect
-· Они уже `собрали` всё необходимое материальное обеспечение. (They had `collected` all the necessary supplies.)
-· Я помог ему `собрать` все предметы, которые он потерял. (I helped him `collect` all the things he had lost.)

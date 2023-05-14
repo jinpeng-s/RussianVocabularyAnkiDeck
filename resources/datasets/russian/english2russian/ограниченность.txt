@@ -1,8 +1,0 @@
-огран`и`ченность
-++++++++++
-1. [`noun, feminine`] limitation
-· `Ограниченность` моего бюджета мешает мне покупать любое вещь, которую я хочу. (The `limitation` of my budget prevents me from buying anything I want.)
-· Ты должен понимать `ограниченность` своих возможностей. (You must understand the `limitation` of your own capabilities.)
-2. [`verb`] limit
-· Я должен `ограничить` количество еды, которую я ем каждый день. (I must `limit` the amount of food I eat each day.)
-· НАТО `ограничило` наличие ракет на государственной границе. (NATO `limited` the presence of missiles at the state border.)

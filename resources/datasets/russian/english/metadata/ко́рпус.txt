@@ -1,0 +1,21 @@
+корпус
+++++++++++
+ко́рпус
+++++++++++
+noun, masculine, inanimate
+Somewhat often used word (top 2,000)
+++++++++++
+B2
+К
+++++++++++
+body (organisation)Also: trunk, torso, hull, building, corps, case, frame, long primer
+++++++++++
+Ко́рпус корабля́ разделён на водонепроницаемые отсеки. | The ship hull is divided into watertight compartments.
+Ко́рпус организо́ван не в ви́де табли́цы, а в ви́де графа. | The corpus is not structured as a table but as a graph.
+Одним из спо́собов сниже́ния коли́чества оши́бок в ко́рпусе Татоэба бы́ло бы убежде́ние люде́й переводи́ть только на свой родно́й язы́к. | One way to lower the number of errors in the Tatoeba Corpus would be to encourage people to only translate into their native languages.
+Брита́нский экспедицио́нный ко́рпус попа́л в тру́дное положе́ние под Дюнкерком. | The British Expeditionary Force was stranded at Dunkirk.
+Нет результа́тов по э́тому запро́су (пока), но вы мо́жете помочь нам, пополняя ко́рпус но́выми слова́ми! | There is no result for this search (yet) but you can help us feeding the corpus with new vocabulary!
+Ру́сский ко́рпус растёт быстро. | The Russian corpus is growing quickly.
+Они счи́стили раку́шки с ко́рпуса су́дна. | They scraped barnacles off the hull of the ship.
+Узнав о Татоэбе, Том сразу же реши́тельно наце́лился доби́ться, чтобы горноста́и бы́ли достойно представлены в ко́рпусе. | When Tom discovered Tatoeba, he was immediately determined to make sure stoats were properly represented within the corpus.
+Я бы хоте́л спи́сок италья́нских слов, кото́рых ещё нет в ко́рпусе. | I would like a list of the Italian words that don't appear in the corpus yet.

@@ -1,8 +1,0 @@
-знак`о`мство
-++++++++++
-1. [`noun, neuter`] acquaintance
-· Они были в `знакомстве` давно. (They were in `acquaintance` for a long time.)
-· Мы встретились по `знакомству`. (We met by a `chance acquaintance`.)
-2. [`verb`] get acquainted
-· Она не знает, как познакомиться с его `знакомством`. (She doesn't know how to `get acquainted` with his acquaintance.)
-· Мы познакомились по `знакомству`. (We `became acquainted` by chance.)

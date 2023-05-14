@@ -1,8 +1,0 @@
-вслух
-++++++++++
-1. [`adverb`] aloud
-· Он прочитал `вслух` номер дебетовой карты. (He read out `aloud` the number of the debit card.)
-· Она сама пела `вслух`. (She sang `aloud` by herself.)
-2. [`preposition`] out loud
-· Он повторил `вслух` свою мысль. (He repeated his thought `out loud`.)
-· Она говорила `вслух` содержимое своей послания. (She read out `out loud` the content of her message.)

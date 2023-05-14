@@ -1,8 +1,0 @@
-пил`а`
-++++++++++
-1. [`noun, feminine`] saw
-· Он купил `пилу` для деревянных работ. (He bought a `saw` for woodworking.)
-· Поломка расширяется вдоль `пилы`. (The break extends along the `saw`.)
-2. [`verb`] saw
-· Он `пилил` дерево целый день. (He `sawed` the wood all day.)
-· Они `пилили` дерево лопатой. (They `sawed` the wood with a shovel.)

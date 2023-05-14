@@ -1,8 +1,0 @@
-паров`о`з
-++++++++++
-1. [`noun, masculine`] locomotive
-· Я люблю смотреть на `паровозы` на железной дороге. (I love watching the `locomotives` on the railway.)
-· Давно используются `паровозы` для перевозки товаров. (`Locomotives` have long been used for freight transportation.)
-2. [`verb`] locomotivize
-· Эта компания `паровозизировала` свои процессы. (This company `locomotivized` its processes.)
-· На этой машине мы `паровозизировали` наше производство. (We `locomotivized` our production on this machine.)

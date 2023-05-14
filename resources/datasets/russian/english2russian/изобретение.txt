@@ -1,8 +1,0 @@
-изобрет`е`ние
-++++++++++
-1. [`noun, neuter`] invention
-· Это `изобретение` будет легко использовать. (This `invention` will be easy to use.)
-· В 19 веке было множество важных `изобретений`. (In the 19th century there were a lot of important `inventions`.)
-2. [`verb`] invent
-· Томас Эдисон  `изобрел` лампу. (Thomas Edison `invented` the lamp.)
-· Сегодня `изобретают` много новых технологий. (Today many new technologies are being `invented`.)

@@ -1,8 +1,0 @@
-заключ`а`ть
-++++++++++
-1. [`verb`] conclude
-· Он `заключил` договор с другой стороной. (He `concluded` a contract with the other party.)
-· Они практически не `заключали` никаких сделок. (They practically `concluded` no deals.)
-2. [`verb`] include
-· Соглашение `заключает` в себе много нюансов. (The agreement `includes` lots of nuances.)
-· Предложение `заключает` в себе два основных пункта. (The offer `includes` two main clauses .)

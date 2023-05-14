@@ -1,8 +1,0 @@
-наверх
-++++++++++
-1. [`adverb`] up, upstairs
-· Он приходит `наверх` каждый день работать на компьютере. (He comes `up` every day to work on the computer.)
-· У нее было место `наверху`, в комнате стояла столик. (She had a place `upstairs`, there was a table in the room.)
-2. [`adjective`] up, upper
-· Они были в `наверхнем` этаже дома. (They were on the `upper` floor of the house.)
-· Это был `наверхний` слой доски. (This was the `upper` layer of the board.)

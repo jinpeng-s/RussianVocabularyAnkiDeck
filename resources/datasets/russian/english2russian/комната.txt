@@ -1,8 +1,0 @@
-к`о`мната
-++++++++++
-1. [`noun, feminine`] room
-· В подъезде было четыре `комнаты`. (There were four `rooms` in the entrance hall.)
-· В школе нашей дочери учится в `комнате` для девочек. (Our daughter studies in the `room` for girls in the school.)
-2. [`verb, imperfective`] to rent out
-· `Они комнату` сдали в аренду. (They `rented out` the room.)
-· Я `комнату` сдам в аренду на одну неделю. (I'll `rent out` the room for one week.)

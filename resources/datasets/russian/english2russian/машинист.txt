@@ -1,8 +1,0 @@
-машин`и`ст
-++++++++++
-1. [`noun, masculine`] machinist
-· Он работает `машинистом` на железнодорожном депо. (He works as a `machinist` at the railway station.)
-· Он учился в колледже искусств и работает `машинистом` со своим отцом. (He studied in an arts college and works as a `machinist` with his dad.)
-2. [`verb`] operate
-· `Машинист` должен должным образом `оператор` свои машины. (A `machinist` must `operate` his machines properly.)
-· Его задача была `оператор` двигатель на лодке. (His task was to `operate` the engine on the boat.)

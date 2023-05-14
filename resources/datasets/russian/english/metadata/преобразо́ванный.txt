@@ -1,0 +1,11 @@
+преобразованный
+++++++++++
+преобразо́ванный
+++++++++++
+participle passive past of преобразова́ть
+++++++++++
+П
+++++++++++
+transformedExample: как могут быть преобразованы и представлены данные для последующего обучения моделей на них - how data can be transformed and presented for subsequent training of models on them
+++++++++++
+None

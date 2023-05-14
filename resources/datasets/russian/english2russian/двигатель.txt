@@ -1,8 +1,0 @@
-дв`и`гатель
-++++++++++
-1. [`noun, masculine`] engine
-· Этот самолёт оснащен `двигателем` последнего поколения. (This plane is equipped with an `engine` of the latest generation.)
-· В данном автомобиле, `двигатель` был заменен на более мощный. (In this car, the `engine` was replaced with a more powerful one.)
-2. [`verb`] engine
-· Он начал `двигать` свои идеи в жизнь. (He began to `engine` his ideas into life.)
-· Она пыталась `двигать` проект в правильном направлении. (She tried to `engine` the project in the right direction.)

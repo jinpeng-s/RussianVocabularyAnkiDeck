@@ -1,8 +1,0 @@
-посл`е`довательный
-++++++++++
-1. [`adjective`] sequential
-· Был принят `последовательный` подход к управлению проектом. (A `sequential` approach to project management was taken.)
-· Записи в этом списке расположены в `последовательном` порядке. (The entries in this list are arranged in a `sequential` order.)
-2. [`noun, masculine`] sequent
-· Хорошо организованный `последовательный` процесс является ключевой для успешного проекта. (A well-organized `sequent` process is key to a successful project.)
-· Это качественный `последовательный` процесс, который очень эффективен. (It is a quality, `sequent` process which is very efficient.)

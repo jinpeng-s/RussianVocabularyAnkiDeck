@@ -1,8 +1,0 @@
-ск`у`чный
-++++++++++
-1. [`adjective`] boring
-· Я на работе испытываю `скучные` моменты. (I experience `boring` moments at work.)
-· Она делала для нас очень `скучное` рассказание. (She made a very `boring` story for us.)
-2. [`adverb`] boringly
-· Он делал это `скучно`. (He did it `boringly`.)
-· Она сказала всё это `скучно`. (She said all that `boringly`.)

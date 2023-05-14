@@ -1,8 +1,0 @@
-ант`е`нна
-++++++++++
-1. [`noun, feminine`] Antenna
-· Он поставил на крышу новую `антенну` для передачи сигнала. (He put up a new `antenna` on the roof for signal transmission.)
-· Он подключил `антенну` к своему радиоприемнику. (He connected the `antenna` to his radio receiver.)
-2. [`verb`] Antenna
-· Она `антеннировала` сигнал так, чтобы он достигал целевой зоны. (She `antennaed` the signal so that it reached the target area.)
-· Они `антеннировали` заданную частоту так, чтобы максимизировать прием и передачу сигнала. (They `antennaed` the specified frequency in order to maximize signal receiving and transmitting.)

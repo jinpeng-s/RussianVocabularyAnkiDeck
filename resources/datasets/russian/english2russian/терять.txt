@@ -1,8 +1,0 @@
-тер`я`ть
-++++++++++
-1. [`verb`] lose
-· Я никогда не хотел `терять` своих друзей. (I never wanted to `lose` my friends.)
-· Он постарался не `терять` своего паспорта. (He tried not to `lose` his passport.)
-2. [`verb`] miss
-· Я по-прежнему `теряю` точку отсчёта. (I still `miss` the reference point.)
-· Он говорит, что так много `теряет` в этой игре. (He says he`s missing out so much in this game.)

@@ -1,0 +1,12 @@
+занято
+++++++++++
+за́нято
+++++++++++
+Adverb of за́нятый
+++++++++++
+З
+++++++++++
+busy
+occupiedExample: Здесь занято? - Is this seat occupied?
+++++++++++
+None

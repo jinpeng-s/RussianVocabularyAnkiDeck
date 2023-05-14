@@ -1,8 +1,0 @@
-перегон`я`ть
-++++++++++
-1. [`verb, transitive`] transmute
-· Маги пытались животных `перегонять` в людей. (Mages tried to `transmute` animals into humans.)
-· Наука может `перегонять` нейтроны в протоны. (Science can `transmute` neutrons into protons.)
-2. [`verb, intransitive`] commute
-· Сегодня довольно долго пришлось `перегонять` на работу. (Today I had to `commute` to work quite a long time.)
-· Она каждый день `перегоняет` три часа до школы. (She `commutes` three hours to school every day.)

@@ -1,8 +1,0 @@
-окн`о`
-++++++++++
-1. [`noun, neuter`] window
-· Он открыл окно, чтобы подобрать свежий воздух. (He opened the `window` to get some fresh air.)
-· Я вижу свет из закрытого окна. (I can see light from the closed `window`.)
-2. [`verb`] window
-· Мы окнотировали право высказать своё мнение. (We `windowed` our right to express our opinion.)
-· Он окнотировал дело, которое происходило в суде. (He `windowed` the case that was happening in court.)

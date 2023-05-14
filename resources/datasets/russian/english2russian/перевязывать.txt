@@ -1,5 +1,0 @@
-перев`я`зывать
-++++++++++
-1. [`verb`] bind (up)
-· Они `перевязывали` раны. (They were `binding` up wounds.)
-· Следует `перевязывать` бинты каждые два часа, чтобы сохранить движение. (It is important to `bind` up the bandages every two hours to maintain mobility.)

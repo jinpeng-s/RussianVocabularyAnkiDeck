@@ -1,8 +1,0 @@
-об`я`зывать
-++++++++++
-1. [`verb`] oblige
-· Она НЕ `обязывала` меня придти. (She didn't `oblige` me to come.)
-· Они пытались `обязать` его сдать тест. (They tried to `oblige` him to take the test.)
-2. [`noun, masculine`] obligation
-· Он не имел никаких `обязательств`. (He had no `obligations`.)
-· Он был `обязыван` остаться до конца этого месяца. (He was `obliged` to stay until the end of the month.)

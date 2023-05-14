@@ -1,8 +1,0 @@
-парт`и`йный
-++++++++++
-1. [`adjective`] party
-· Он был выбран в `партийном` кандидате. (He was elected on a `party` ticket.)
-· `Партийные` доктрины должны быть понятны всем членам. (`Party` doctrines should be understandable to all members.)
-2. [`noun, masculine`] party
-· Во время `партийных` встреч обсуждаются различные проблемы. (Various issues are discussed during `party` meetings.)
-· Каждый может принимать участие в `партийной` политике. (Everyone can take part in `party` politics.)

@@ -1,8 +1,0 @@
-ассист`е`нт
-++++++++++
-1. [`noun, masculine`] assistant
-· У меня есть `ассистент`, который помогает мне в каждом проекте. (I have an `assistant` who helps me with every project.)
-· Университет в нашем городе каждый год нанимает много `ассистентов`. (The university in our town hires many `assistants` every year.)
-2. [`verb`] assist
-· Он пришёл, чтобы `помочь` мне. (He came to `assist` me.)
-· Я `помогал` моему отцу со всем. (I `assisted` my father with everything.)

@@ -1,8 +1,0 @@
-т`о`пливо
-++++++++++
-1. [`noun, neuter`] fuel
-· Они использовали обычное `топливо` для лампы. (They used regular `fuel` for the lamp.)
-· В городе поставлялось достаточное количество `топлива`. (The city was supplied with enough `fuel`.)
-2. [`verb`] refuel
-· Они остановились, чтобы `заправить` самолёт. (They stopped to `refuel` the plane.)
-· Для заправки автомобиля мне нужно закупить `топливо`. (I need to buy `fuel` to refuel the car.)

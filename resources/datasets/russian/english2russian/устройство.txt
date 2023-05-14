@@ -1,8 +1,0 @@
-устр`о`йство
-++++++++++
-1. [`noun, neuter`] device
-· `Устройство` должно быть легко установлено. (The `device` should be easy to install.)
-· Необходимо выбрать подходящее `устройство`. (The suitable `device` must be chosen.)
-2. [`verb`] device
-· `Устроить` систему безопасности. (To `device` a security system.)
-· Он потратил много времени, чтобы `устроить` всё как надо. (He spent a lot of time to `device` everything as it should be.)

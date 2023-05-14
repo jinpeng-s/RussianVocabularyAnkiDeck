@@ -1,8 +1,0 @@
-назнач`е`ние
-++++++++++
-1. [`noun, neuter`] destination/purpose
-· Тот поезд отправляется в своё `назначение`. (That train is heading to its `destination`.)
-· Он написал эту песню с серьёзным `назначением`. (He wrote this song with a serious `purpose`.)
-2. [`verb`] appoint/assign
-· Он был `назначен` заведующим этого отделения. (He was `appointed` manager of this department.)
-· Учитель `назначил` двум ученикам дополнительную домашнюю работу. (The teacher `assigned` extra homework to two students.)

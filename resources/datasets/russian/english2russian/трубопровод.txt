@@ -1,8 +1,0 @@
-трубопров`о`д
-++++++++++
-1. [`noun, masculine`] pipeline
-· Проект постройки `трубопровода` в горах очень трудный. (The project of building a `pipeline` in the mountains is very difficult.)
-· Компания привлекла финансовую помощь для постройки нового `трубопровода`. (The company attracted financial assistance for the construction of a new `pipeline`.)
-2. [`verb`] pipeline
-· Они `трубопроводили` нефть из Таджикистана. (They `pipelined` oil from Tajikistan.)
-· Последние годы в Европу `трубопроводили` газ из России. (In recent years gas was `pipelined`to Europe from Russia.)

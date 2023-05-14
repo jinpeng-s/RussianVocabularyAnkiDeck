@@ -1,0 +1,11 @@
+сокр.
+++++++++++
+сокр.
+++++++++++
+None
+++++++++++
+С
+++++++++++
+abbr.Info: Shortened spelling of сокращение = abbreviation.
+++++++++++
+None

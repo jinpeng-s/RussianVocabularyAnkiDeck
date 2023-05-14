@@ -1,8 +1,0 @@
-тр`а`ктор
-++++++++++
-1. [`noun, masculine`] tractor
-· У нас есть `трактор` для плугования поля. (We have a `tractor` for ploughing the field.)
-· Для перевозки пассажиров в просторах России часто используется `трактор` и прицеп. (In the vastness of Russia, a `tractor` and trailer are often used for passenger transport.)
-2. [`verb`] to tractor
-· Он `тракторил` поле весь день. (He `tracted` the field all day.)
-· Мы используем `тракторинг` для перевозки товара из одной точки в другую. (We use `tractoring` to transport goods from one point to another.)

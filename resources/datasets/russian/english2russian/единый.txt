@@ -1,8 +1,0 @@
-ед`и`ный
-++++++++++
-1. [`adjective`] unified
-· Восьмь стран состоит в `едином` блоке. (Eight countries are in a `unified` bloc.)
-· Ему придется принять `единого` ответственного. (He will have to accept one `unified` responsible.)
-2. [`noun, masculine`] unit
-· В древности имелись `единые` единицы измерения. (In antiquity there were `unified` units of measurement.)
-· В плане стратегии нужны `единые` правила. (In the plan of strategy, unified rules are needed.)

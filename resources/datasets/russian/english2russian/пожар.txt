@@ -1,8 +1,0 @@
-пож`а`р
-++++++++++
-1. [`noun, masculine`] fire
-· В лесу был `пожар`. (There was a `fire` in the forest.)
-· При пожаре терялось много вещей. (Many things were lost in the `fire`.)
-2. [`verb`] to set fire
-· Он `зажёг` пожар в лесу. (He `set fire` to the forest.)
-· Он попытался `зажечь` пожар, но не смог. (He attempted to `set fire`, but couldn't.)

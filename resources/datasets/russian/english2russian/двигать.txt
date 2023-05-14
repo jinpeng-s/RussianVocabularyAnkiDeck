@@ -1,8 +1,0 @@
-дв`и`гать
-++++++++++
-1. [`verb`] move
-· Не двигайте `диван` здесь! (Don't `move` the sofa here!)
-· Дети `двигались` быстро, чтобы успеть. (The children `moved` quickly to be in time.)
-2. [`verb`] drive
-· Водитель не `двигал`ся со своего места. (The driver didn't `drive` from his spot.)
-· Этот борт `двигался` со скоростью 50 километров в час. (The board `moved` with the speed of 50 kilometers per hour.)

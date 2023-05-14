@@ -1,8 +1,0 @@
-кл`а`сс
-++++++++++
-1. [`noun, masculine`] class
-· Традиционно, в школе учат по `классам`. (Traditionally, in school students are taught in `classes`.)
-· Ты можешь посмотреть на расписание `класса`. (You can look at the `class` schedule.)
-2. [`verb`] classify
-· Они `классифицировали` растения и животных. (They `classified` plants and animals.)
-· Преподаватель `классифицировал` студентов по их знаниям. (The teacher `classified` the students according to their knowledge.)

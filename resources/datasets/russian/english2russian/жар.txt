@@ -1,8 +1,0 @@
-ж`а`р
-++++++++++
-1. [`noun, masculine`] heat
-· Температура стала `жаркой`. (The temperature became `hot`.)
-· Осенью бывает `жарко`. (It can be `hot` in autumn.)
-2. [`adjective`] hot
-· На улице `жаркое` лето. (It is a `hot` summer outside.)
-· Кухня очень `жаркая`. (The kitchen is very `hot`.)

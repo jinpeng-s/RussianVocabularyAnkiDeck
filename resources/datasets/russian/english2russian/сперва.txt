@@ -1,8 +1,0 @@
-сперв`а`
-++++++++++
-1. [`adverb`] first
-· Он `сперва` делал лабораторные работы. (He `first` did the laboratory works.)
-· Всё `сперва` надо думать, и только потом действовать. (First `think`, and then act.)
-2. [`noun, masculine`] beginning
-· В `сперва` было трудно, но потом всё начало получаться. (It was difficult at the `beginning`, but then everything began to work out.)
-· `Сперва` он просто посмотрел фильм, а потом пообщался с друзьями. (He just watched a movie `first`, and then talked to his friends.)

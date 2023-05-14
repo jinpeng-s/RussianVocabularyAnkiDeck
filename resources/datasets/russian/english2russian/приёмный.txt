@@ -1,8 +1,0 @@
-приёмный
-++++++++++
-1. [`adjective`] reception
-· В детском саду `приёмные` дни проходят раз в месяц. (In the kindergarten, reception days are held once a month.)
-· Этот магазин имеет `приёмное` время с 10 утра до 2 вечера. (This store has reception hours from 10 a.m. to 2 p.m.)
-2. [`noun, masculine`] reception
-· На фабрике было встречено `приёмным` чином. (The factory was welcomed with a reception.)
-· `Приёмными` ребятами были представители фабрики. (The receptionists were the representatives of the factory.)

@@ -1,8 +1,0 @@
-по`э`т
-++++++++++
-1. [`noun, masculine`] poet
-· Пушкин -- наиболее знаменитый русский `поэт`. (Pushkin is the most famous Russian `poet`.)
-· Моя бабушка редко читала `поэзию`. (My grandmother rarely read `poetry`.)
-2. [`verb`] poetize
-· Он `поэтизировал` жизнь своих друзей и знакомых. (He `poetized` the lives of his friends and acquaintances.)
-· Она `поэтизировала` красоту своей страны. (She `poetized` the beauty of her country.)

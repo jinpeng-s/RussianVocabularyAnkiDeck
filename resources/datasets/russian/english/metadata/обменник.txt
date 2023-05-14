@@ -1,0 +1,12 @@
+обменник
+++++++++++
+обменник
+++++++++++
+noun, masculine, inanimate
+++++++++++
+О
+++++++++++
+(currency) exchange
+exchangerExample: электронно-ионный обменник - electron-ion exchanger
+++++++++++
+None

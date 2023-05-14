@@ -1,0 +1,22 @@
+вас
+++++++++++
+вас
+++++++++++
+None
+++++++++++
+A1
+В
+++++++++++
+you (formal) accAlso: gen, prep.Info: accusative, genitive, prepositional of "you (plural)"
+you (plural) accAlso: gen, prepInfo: accusative, genitive, prepositional of "you (formal)"
+++++++++++
+Мне жаль, что я заста́вил вас так долго ждать. | I feel bad about having made you wait so long.
+Сколько у вас автомоби́лей? | How many cars do you have?
+Мы вас скоро смо́жем посади́ть. | We'll soon be able to send you to jail.
+Пожалуйста, отре́жьте себе я́блочного пирога. Я пригото́вила его для вас. | Please help yourself to some apple pie. I baked it for you.
+Так как мы любим Вас, мы обновля́ем Татоэбу, чтобы Вам бы́ло удо́бнее с ней рабо́тать. Ви́дите? Мы любим вас, так ведь? | Because we love you, we are updating Tatoeba to bring you a better user experience. See? We love you huh?
+Я могу́ попроси́ть вас сде́лать э́то ещё раз? | Could I ask you to do that again?
+То, что вы сказа́ли, не каса́ется вас. | What you have said doesn't apply to you.
+Прошу́ вас, пожалуйста да́йте мне ви́зу. | PLEASE give me a visa.
+До́ктор Кларк, я могу́ попроси́ть вас об одолже́нии? | Dr. Clark, may I ask a favor of you?
+В э́том де́ле, если у вас будет угрю́мое лицо́, к вам не приду́т покупа́тели. | In this line of work, if you make a grim face the customers won't come.

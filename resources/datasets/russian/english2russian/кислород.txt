@@ -1,8 +1,0 @@
-кислор`о`д
-++++++++++
-1. [`noun, masculine`] oxygen
-· Воздух содержит около 20% `кислорода`. (The air contains about 20% `oxygen`.)
-· Для его выживания он нуждается в `кислороде`. (He needs `oxygen` to survive.)
-2. [`verb`] oxygenate
-· Река очищается, чтобы `кислородизировать` воду. (The river is cleaned to `oxygenate` the water.)
-· В результате фотосинтеза растения `кислородизируют` атмосферу. (As a result of photosynthesis, plants `oxygenate` the atmosphere.)

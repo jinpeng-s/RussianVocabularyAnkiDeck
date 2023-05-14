@@ -1,8 +1,0 @@
-четвёртый
-++++++++++
-1. [`adjective`] fourth
-· В этом месяце мы имеем `четвёртый` выходной. (We have a `fourth` day-off this month.)
-· Ричард был `четвёртым` по счёту гостем на торжестве. (Richard was the `fourth` guest at the party.)
-2. [`noun, masculine`] fourth
-· Это был `четвёртый` день непрерывной работы. (It was the `fourth` day of nonstop work.)
-· Они заняли `четвёртое` место в этом соревновании. (They took the `fourth` place in that competition.)

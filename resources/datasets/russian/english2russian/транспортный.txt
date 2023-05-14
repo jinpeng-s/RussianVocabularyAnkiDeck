@@ -1,8 +1,0 @@
-тр`а`нспортный
-++++++++++
-1. [`noun, masculine`] transport
-· Московский `транспортный` объем заметно увеличился. (The volume of Moscow's `transport` has noticeably increased.)
-· В данный момент в Москве идёт развитие `транспортного` сетевого покрытия. (At the moment, the development of the `transport` network coverage is underway in Moscow.)
-2. [`verb`] transport
-· Отель обеспечивает гостей `транспортировкой` в аэропорт. (The hotel provides guests with `transportation` to the airport.)
-· Электрички постоянно `транспортируют` пассажиров по городу. (Trains constantly `transport` passengers around the city.)

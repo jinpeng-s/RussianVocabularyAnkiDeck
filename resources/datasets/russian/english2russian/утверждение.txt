@@ -1,8 +1,0 @@
-утвержд`е`ние
-++++++++++
-1. [`noun, neuter`] assertion
-· Он дал точное `утверждение` о своем положении. (He gave an exact `assertion` of his condition.)
-· Его `утверждение` было очень конкретным. (His `assertion` was very specific.)
-2. [`verb`] assert
-· Он `утверждал` что все остальные были виновными. (He `asserted` that all the others were guilty.)
-· Я `утверждаю`, что ты не прав. (I `assert` that you're wrong.)

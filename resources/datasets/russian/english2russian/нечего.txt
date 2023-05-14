@@ -1,8 +1,0 @@
-н`е`чего
-++++++++++
-1. [`indefinite`] nothing
-· Я не могу помочь тебе, у меня `нечего` нет. (I can't help you, I have `nothing`.)
-· Здесь `нечего` делать. (There is `nothing` to do here.)
-2. [`indefinite`] not at all
-· Нет, об этом `нечего` думать. (No, there is `not at all` thinking about it.)
-· Нет, этому `нечего` делать. (No, there is `not at all` doing it.)

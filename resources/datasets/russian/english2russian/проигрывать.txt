@@ -1,8 +1,0 @@
-про`и`грывать
-++++++++++
-1. [`verb`] lose
-· Он `проиграл` в шахматах своего друга. (He `lost` to his friend in chess.)
-· Вы не должны `проигрывать` эту игру. (You should not `lose` this game.)
-2. [`verb`] fail
-· Он потерял `проигрывать` экзамен. (He failed the exam.)
-· Он `проиграл` аукцион. (He `failed` the auction.)

@@ -1,0 +1,21 @@
+автоматически
+++++++++++
+автомати́чески
+++++++++++
+Somewhat often used word (top 5,000)
+++++++++++
+C2
+А
+++++++++++
+automaticallyAlso: independently
+++++++++++
+Компьютерная систе́ма автоматически отключа́ется в восемь вечера. | The computer system shuts down automatically at 8pm.
+Э́та дверь закрыва́ется автоматически. | This door locks by itself.
+Же́нщины автоматически теря́ют к нему интере́с, стоит им обменя́ться с ним па́рой слов. | Women automatically lose interest in him after exchanging a couple of words.
+Я автоматически отве́тил, когда услы́шал своё и́мя. | I replied automatically when I heard my name.
+Я де́лал всё автоматически. | I did everything automatically.
+Обогре́в выключа́ется автоматически, когда температу́ра в ко́мнате достига́ет определённого значе́ния. | The heat turns off automatically when the room reaches a certain temperature.
+Э́то происхо́дит автоматически. | It happens automatically.
+Фуригана генерируется автоматически. | The furigana is automatically generated.
+Двери запира́ются автоматически. | The doors lock automatically.
+Дверь закрыва́ется автоматически. | The door closes automatically.

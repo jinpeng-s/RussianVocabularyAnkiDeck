@@ -1,8 +1,0 @@
-ликвид`и`ровать
-++++++++++
-1. [`verb`] liquidate
-· Акционеры решили `ликвидировать` компанию. (The shareholders decided to `liquidate` the company.)
-· Он был назначен, чтобы `ликвидировать` долг предприятия. (He was appointed to `liquidate` the company's debt.)
-2. [`adjective`] liquidated
-· Банк `ликвидирован`. (The bank was `liquidated`.)
-· Учреждение `ликвидировано`. (The institution was `liquidated`.)

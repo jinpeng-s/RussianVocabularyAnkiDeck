@@ -1,8 +1,0 @@
-от
-++++++++++
-1. [`preposition`] from
-· Он пришёл `от` школы. (He came `from` school.)
-· Я приехал `от` России. (I arrived `from` Russia.)
-2. [`adverb`] away
-· Он ушёл `от` меня. (He went `away` from me.)
-· Мы должны держаться `от` плохих людей. (We should stay `away` from bad people.)

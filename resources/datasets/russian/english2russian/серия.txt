@@ -1,8 +1,0 @@
-с`е`рия
-++++++++++
-1. [`noun, feminine`] series
-· Смотрите сезон `серии` фильма. (Watch the season `series` of the movie.)
-· Все они просмотрели 12 `серий` сериала. (They all watched 12 `series` of the show.)
-2. [`verb`] serialize
-· Он `сериализовал` свои истории для газеты. (He `serialized` his stories for the newspaper.)
-· Некоторые книги были `сериализованы` для телевиденья. (Some books were `serialized` for television.)

@@ -1,8 +1,0 @@
-пров`и`нция
-++++++++++
-1. [`noun, feminine`] province
-· Она живёт в `провинции`. (She lives in a `province`.)
-· Я родился и вырос в `провинции`. (I was born and raised in a `province`.)
-2. [`verb, infinitive`] province
-· Он `провинцировал` против своего друга. (He `provincied` against his friend.)
-· Она `провинцировала` в этот решение. (She `provincied` in this decision.)

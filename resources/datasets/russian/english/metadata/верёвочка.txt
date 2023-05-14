@@ -1,0 +1,12 @@
+верёвочка
+++++++++++
+верёвочка
+++++++++++
+noun, feminine, inanimate
+Rarely used word (top 10,000)
+++++++++++
+В
+++++++++++
+ropeAlso: string
+++++++++++
+Сколько верёвочке ни ви́ться, всё равно коне́ц будет. | Sooner or later secrets become widely known.

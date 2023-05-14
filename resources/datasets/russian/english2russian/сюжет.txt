@@ -1,8 +1,0 @@
-сюж`е`т
-++++++++++
-1. [`noun, masculine`] plot
-· Он `сюжет` фильма оказался простым и притягательным. (The `plot` of the movie turned out to be simple and attractive.)
-· Нужно составить `сюжет` для короткометражного фильма. (It's necessary to compose a `plot` for a short film.)
-2. [`verb`] plot
-· Они `сюжетили` свой проект месяцами до его начала. (They `plotted` their project for months before it started.)
-· Они начали `сюжетить` свои дальнейшие действия. (They started `plotting` their next moves.)

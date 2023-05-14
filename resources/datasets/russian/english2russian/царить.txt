@@ -1,8 +1,0 @@
-цар`и`ть
-++++++++++
-1. [`verb`] reign
-· `Честность` царила в нашем офисе. (`Honesty` reigned in our office.)
-· Династия `царила` в этой стране на протяжении долгого времени. (A dynasty `reigned` over this country for a long time.)
-2. [`noun, feminine`] reign
-· Данный правитель правил в течение длительной `царствования`. (The ruler ruled during a long `reign`.)
-· `Царствование` Нила принесло много перемен. (`Reign` of Niles brought a lot of changes.)

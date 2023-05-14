@@ -1,8 +1,0 @@
-прикр`ы`тие
-++++++++++
-1. [`noun, neuter`] coverage
-· Компания включает максимальное `прикрытие` при покупке страховки. (The company offers maximum `coverage` when buying insurance.)
-· Он рассчитывал на то, что мы предоставляем `прикрытие` для его детей. (He was counting on us to provide `coverage` for his children.)
-2. [`verb`] cover
-· Это правило `прикрывает` большинство ваших потребностей. (This rule `covers` most of your needs.)
-· Работа нашей команды `прикрывала` большую часть разработки. (Our team's work `covered` a big part of the development.)

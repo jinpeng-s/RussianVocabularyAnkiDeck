@@ -1,8 +1,0 @@
-согрев`а`ть
-++++++++++
-1. [`verb`] warm
-· Камин `согревал` комнату. (The fireplace was `warming` the room.)
-· Сегодня прохладно, поэтому мне захотелось принять `согревающую` ванну. (Today is chilly, so I feel like taking a `warming` bath.)
-2. [`noun, masculine`] warming
-· Он приготовил `согревание` для рук для больного. (He made a `warming` for the patient's hands.)
-· Она приспособила `согревание` для ног. (She adapted a `warming` for her feet.)

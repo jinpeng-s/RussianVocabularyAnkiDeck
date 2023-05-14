@@ -1,8 +1,0 @@
-пониж`е`ние
-++++++++++
-1. [`noun, neuter`] decrease
-· Вы будете получать существенное `понижение` дохода. (You will receive a significant `decrease` in income.)
-· Эта программа привела к значительному `понижению` цен на товары. (This program has led to a significant `decrease` in the prices of goods.)
-2. [`verb`] decrease
-· За последние несколько лет цены на нефть `понизились` на местном рынке. (In the last few years, the prices of oil have `decreased` on the local market.)
-· Внезапное `понижение` цен на авиабилеты позволило многим людям путешествовать по дешевым ценам. (The sudden `decrease` in airfare prices allowed many people to travel at lower prices.)

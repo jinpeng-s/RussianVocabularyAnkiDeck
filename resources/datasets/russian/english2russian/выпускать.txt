@@ -1,8 +1,0 @@
-выпуск`а`ть
-++++++++++
-1. [`verb`] issue
-· Они выпустили новую модель телефона. (They `issued` a new model of a phone.)
-· Фирма обязана выпускать ежегодное отчётное заявление. (The company is obligated to `issue` an annual statement.)
-2. [`noun, masculine`] issue
-· Они рассматривали выпуск `выпуска`. (They discussed the `issue` of a release.)
-· Основной `выпуск` был завершён спустя несколько месяцев. (The main `issue` was completed after several months.)

@@ -1,0 +1,12 @@
+тюлька
+++++++++++
+тю́лька
+++++++++++
+noun, feminine, animate
+++++++++++
+Т
+++++++++++
+tyulkaInfo: Fish from the herring family.
+spratAlso: herring
+++++++++++
+None

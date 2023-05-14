@@ -1,8 +1,0 @@
-к`и`нок`а`мера
-++++++++++
-1. [`noun`] movie camera
-· Он профессионально работает с `кинокамерой`. (He works professionally with a `movie camera`.)
-· Группа показывала зрителям фильм, снятым `кинокамерой`. (The group was showing the viewers a movie shot with a `movie camera`.)
-2. [`verb`] film
-· Ученые `кинокамерой` снимали развитие этой птицы. (The scientists `filmed` the development of this bird.)
-· Они `кинокамерой` запечатлели лунные горизонты. (They `filmed` moon horizons.)

@@ -1,0 +1,23 @@
+обеспечение
+++++++++++
+обеспе́чение
+++++++++++
+noun, neuter, inanimate
+Somewhat often used word (top 5,000)
+++++++++++
+C2
+О
+++++++++++
+provisionAlso: ensuring, providing
+support
+++++++++++
+Шестидесятичетырёхразрядное програ́ммное обеспе́чение не будет рабо́тать на тридцатидвухразрядной архитекту́ре. | Sixty-four-bit software will not run on 32-bit architecture.
+Како́е програ́ммное обеспе́чение обычно испо́льзует Фома? | What kind of software does Tom usually use?
+Том — разрабо́тчик програ́ммного обеспе́чения. | Tom is a software developer.
+Комите́т обсужда́ет социа́льное обеспе́чение. | The committee is discussing social welfare.
+Tatoeba – э́то откры́тое програ́ммное обеспе́чение. | Tatoeba is open source software.
+Tatoeba — свобо́дное програ́ммное обеспе́чение. | Tatoeba is free software.
+Том рабо́тает разрабо́тчиком програ́ммного обеспе́чения. | Tom is working as a software engineer.
+Обнови́те ваше програ́ммное обеспе́чение. | Update your software.
+Я обнови́л ваше програ́ммное обеспе́чение. | I updated your software.
+Сколько стоит э́то програ́ммное обеспе́чение? | How much does that software cost?

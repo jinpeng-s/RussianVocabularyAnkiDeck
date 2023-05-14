@@ -1,8 +1,0 @@
-стальн`о`й
-++++++++++
-1. [`adjective`] steel
-· Он был в `стальной` корпус. (He was in a `steel` hull.)
-· Я купил `стальной` браслет. (I bought a `steel` bracelet.)
-2. [`noun, masculine`] steel
-· Он построил структуру из `стальных` балок. (He built a structure out of `steel` beams.)
-· Это `стальной` ключ для открытия металлических дверей. (This is a `steel` key for opening metal doors.)

@@ -1,8 +1,0 @@
-созд`а`ние
-++++++++++
-1. [`noun, neuter`] creation
-· Компания занимается `созданием` электронных игр. (The company is engaged in the `creation` of computer games.)
-· Трудности с `созданием` защищенной системы были очень большими. (Difficulties with the `creation` of a secure system were very large.)
-2. [`verb`] create
-· Они создали собственное программное обеспечение. (They have `created` their own software.)
-· Вместе они `создали` отличное приложение. (Together they `created` an excellent application.)

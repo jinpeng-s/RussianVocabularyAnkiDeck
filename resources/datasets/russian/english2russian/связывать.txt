@@ -1,8 +1,0 @@
-св`я`зывать
-++++++++++
-1. [`verb`] connect
-· Они подключились к `сети`, чтобы связаться с коллегами. (They connected to the `network` to connect with their colleagues.)
-· Интернет позволил нам `связаться` с людьми со всего мира. (The internet has enabled us to `connect` with people from all over the world.)
-2. [`verb, reflexive`] connect oneself
-· Она пыталась `связаться со своими родственниками`. (She attempted to `connect herself` with her relatives.)
-· Мы пытались `связаться с этим организацией`, чтобы пообщаться с представителем. (We attempted to `connect ourselves` with this organization in order to talk to a representative.)

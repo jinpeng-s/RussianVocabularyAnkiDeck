@@ -1,0 +1,15 @@
+вождь
+++++++++++
+вождь
+++++++++++
+noun, masculine, animate
+Somewhat often used word (top 2,000)
+++++++++++
+C1
+В
+++++++++++
+leaderAlso: captain, chief
+++++++++++
+Он был вождём своего́ пле́мени 35 лет. | He has been the chief of his tribe for 35 years.
+Вождь говори́т со мной. | The chief is speaking to me.
+Собери́те всех вожде́й мое́й а́рмии. | Assemble all of the leaders of my army.

@@ -1,8 +1,0 @@
-издав`а`ть
-++++++++++
-1. [`verb`] Issue
-· Фирма `издает` каталоги о металлических изделиях. (The company `issues` catalogues about metallic products.)
-· Правительство `издает` новые правила о заработной плате. (The government `issues` new rules about wages.)
-2. [`verb`] Publish
-· Он `издал` свою книгу об истории страны. (He `published` his book about the history of the country.)
-· Газеты `издали` интервью с президентом. (The newspapers `published` an interview with the president.)

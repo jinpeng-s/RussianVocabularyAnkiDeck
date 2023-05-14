@@ -1,8 +1,0 @@
-освещ`е`ние
-++++++++++
-1. [`noun, neuter`] illumination
-· Они предоставили нам хорошее `освещение` на ужине. (They provided us with good `illumination` for the dinner.)
-· Парк в очень хорошем `освещении`. (The Park is in very good `illumination`.)
-2. [`verb`] illuminate
-· Наши эксперты `осветили` различные аспекты проекта. (Our experts `illuminated` different aspects of the project.)
-· Они `осветили` что это был неудачный эксперимент. (They `illuminated` that it was an unsuccessful experiment.)

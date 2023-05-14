@@ -1,8 +1,0 @@
-машин`и`стка
-++++++++++
-1. [`noun, feminine`] machinist
-· Она была `машинисткой` по профессии. (She was a `machinist` by profession.)
-· На заводе мы работали под наблюдением `машинистки`. (At the factory we were working under the supervision of a `machinist`.)
-2. [`adjective`] machinist
-· Для данного `машинисткого` дела нужны специальные навыки. (Special skills are required for this particular `machinist` job.)
-· Они были доверены выполнять `машинисткие` работы. (They were trusted to perform `machinist` duties.)

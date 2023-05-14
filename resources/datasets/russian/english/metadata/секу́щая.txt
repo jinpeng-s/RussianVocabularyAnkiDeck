@@ -1,0 +1,11 @@
+секущая
+++++++++++
+секу́щая
+++++++++++
+noun, feminine, inanimate
+++++++++++
+С
+++++++++++
+secantInfo: In geometry, a secant is a line that intersects a curve at a minimum of two distinct points.
+++++++++++
+None

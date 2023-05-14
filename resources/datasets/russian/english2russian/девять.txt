@@ -1,8 +1,0 @@
-д`е`вять
-++++++++++
-1. [`numeral`] nine
-· Он имеет `девять` друзей. (He has `nine` friends.)
-· Мы проживаем здесь уже `девять` лет. (We have been living here for `nine` years.)
-2. [`adjective`] ninth
-· `Девятый` ученик получил похвалу. (The `ninth` student was praised.)
-· Третий следующий поезд будет `девятый`. (The third next train will be the `ninth` one.)

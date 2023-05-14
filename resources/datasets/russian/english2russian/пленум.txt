@@ -1,8 +1,0 @@
-пл`е`нум
-++++++++++
-1. [`noun, masculine`] meeting, session
-· Он принимал участие в `пленуме` Госдумы страны. (He participated in a `meeting` of the country's State Duma.)
-· Он анонсировал `пленум` на следующую неделю. (He announced a `session` for next week.)
-2. [`verb, perfective`] make a decision by voting
-· Комитет `принял пленумом` итоги дискуссии. (The committee `made a decision by voting` about the discussion's results.)
-· Депутаты `приняли пленумом` проект закона. (The deputies `made a decision by voting` on the law's project.)

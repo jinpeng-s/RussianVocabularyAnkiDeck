@@ -1,5 +1,0 @@
-п`я`ть
-++++++++++
-1. [`numeral`] five
-· Мне нужно пять яблок. (I need `five` apples.)
-· Всего было пять человек. (There were `five` people in total.)

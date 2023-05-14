@@ -1,8 +1,0 @@
-ж`и`рный
-++++++++++
-1. [`adjective`] fat, greasy
-· Жирное `мясо` не очень полезное для здоровья. (`Fat` meat is not very healthy.)
-· Этот макаронный блюд `жирный`. (This pasta dish is `greasy`.)
-2. [`adverb`] heavily
-· Он исполнил песню `жирно`. (He performed the song `heavily`.)
-· Урок `жирно` затянулся. (The lesson dragged `heavily`.)

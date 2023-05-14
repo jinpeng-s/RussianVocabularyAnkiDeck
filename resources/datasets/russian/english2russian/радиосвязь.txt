@@ -1,8 +1,0 @@
-р`а`диосв`я`зь
-++++++++++
-1. [`noun, feminine`] radio communication
-· Они использовали `радиосвязь` для координации действий. (They used `radio communication` to coordinate their actions.)
-· При помощи `радиосвязи` они смогли подключиться к устройству. (With the help of `radio communication` they were able to connect to the device.)
-2. [`verb`] to radio
-· Нам пришлось решить проблему по `радиосвязи`. (We had to solve the problem via `radio`.)
-· Они `радиовали` друг другу инструкции. (They `radioded` each other instructions.)

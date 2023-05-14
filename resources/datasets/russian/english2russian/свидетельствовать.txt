@@ -1,8 +1,0 @@
-свид`е`тельствовать
-++++++++++
-1. [`verb`] testify
-· В суде он должен `свидетельствовать` в пользу привинившихся. (He must `testify` in court in favor of the guilty.)
-· Он дал слухом `свидетельствовать` о произошедшем событии. (He gave an `testimony` about the event.)
-2. [`verb`] bear witness
-· Они `свидетельствовали` перед судом о том, что они видели. (They `bore witness` before the court about what they saw.)
-· Она `свидетельствовала` за своим сыном, сказав, что он невиновен. (She `bore witness` for her son, saying he was innocent.)

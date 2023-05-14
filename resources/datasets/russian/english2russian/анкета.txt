@@ -1,8 +1,0 @@
-анк`е`та
-++++++++++
-1. [`noun, feminine`] questionnaire
-· Он заполнил `анкету` на конференции. (He filled out the `questionnaire` at the conference.)
-· Все должны заполнить `анкету` до конца месяца. (Everyone has to fill out the `questionnaire` by the end of the month.)
-2. [`verb`] questionnaire
-· Преподаватель попросил нас `анкетировать` учащихся. (The teacher asked us to `questionnaire` the students.)
-· Она просила меня помочь ей `анкетировать` сотрудников ее организации. (She asked me to help her `questionnaire` the employees of her organization.)

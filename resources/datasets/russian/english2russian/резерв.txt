@@ -1,8 +1,0 @@
-рез`е`рв
-++++++++++
-1. [`noun, masculine`] reserve
-· Он имеет `резерв` на будущее. (He has `reserve` for the future.)
-· Страна имеет `резерв` на аварийные ситуации. (The country has `reserve` for emergency situations.)
-2. [`verb`] reserve
-· Она `зарезервировала` место в библиотеке. (She `reserved` a spot in the library.)
-· Они `зарезервировали` один номер в гостинице. (They `reserved` one room in the hotel.)

@@ -1,0 +1,12 @@
+останов
+++++++++++
+остано́в
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 60,000)
+++++++++++
+О
+++++++++++
+To stopAlso: to break, to stallExample: Э́то зна́чит что сре́дний Тог се́рвер исче́рпает весь non-page pool, вы́зовет оши́бку и авари́йный остано́в систе́мы - This means that a medium sized Tor relay will empty the non-page pool, causing havoc and system crashes.
+++++++++++
+None

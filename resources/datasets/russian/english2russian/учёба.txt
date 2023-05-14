@@ -1,8 +1,0 @@
-учёба
-++++++++++
-1. [`noun, feminine`] learning
-· Она решила посвятить жизнь `учёбе`. (She decided to dedicate her life to `learning`.)
-· У него было много домашнего задания для `учёбы`. (He had lots of homework for `learning`.)
-2. [`verb`] learn
-· Учитель помогал детям `учиться`. (The teacher helped the children `learn`.)
-· Он претендовал на стипендию, чтобы улучшить `учение`. (He applied for a scholarship to improve his `learning`.)

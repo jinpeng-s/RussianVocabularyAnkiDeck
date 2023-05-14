@@ -1,8 +1,0 @@
-др`о`бь
-++++++++++
-1. [`noun, feminine`] fraction
-· Он делал домашнее задание недолго, отвечая на вопросы по `дробям`. (He finished his homework quickly, answering questions about `fractions`.)
-· Этот предмет включает много подробностей по обработке `дробей`. (This course includes lots of details about dealing with `fractions`.)
-2. [`verb`] divide
-· Всё число можно `дробить` на два множителя. (Any number can be `divided` into two factors.)
-· Мы `дробили` ѣсла на дополнительные части. (We `divided` sentences into additional parts.)

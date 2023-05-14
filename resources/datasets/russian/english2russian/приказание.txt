@@ -1,8 +1,0 @@
-приказ`а`ние
-++++++++++
-1. [`noun, neuter`] order; command
-· Он должен был послушать `приказание` и поехать домой. (He was supposed to obey the `order` and go home.)
-· У неё было `приказание` не покидать комнату. (She had the `order` not to leave the room.)
-2. [`verb`] order; command
-· Он `приказал` нам прийти здесь завтра утром. (He `commanded` us to come here tomorrow morning.)
-· Он `приказал` ему сделать это немедленно. (He `ordered` him to do that immediately.)

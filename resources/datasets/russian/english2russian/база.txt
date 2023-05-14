@@ -1,8 +1,0 @@
-б`а`за
-++++++++++
-1. [`noun, feminine`] base
-· Это `база` данных для расчёта стоимости товаров. (This is a `base` database for calculating the cost of products.)
-· Следующая `база` стержня должна быть готова к работе к концу месяца. (The next `base` shaft should be ready to work by the end of the month.)
-2. [`verb`] base
-· Они `базируются` на разных системах. (They`re based` on different systems.)
-· Оборудование должно `базироваться` на последних технологиях. (The equipment should be `based` on the latest technologies.)

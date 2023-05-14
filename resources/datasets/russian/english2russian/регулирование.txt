@@ -1,8 +1,0 @@
-регул`и`рование
-++++++++++
-1. [`noun, neuter`] regulation
-· У них очень строгие `регулирования` охраны природы. (They have very strict `regulations` for the protection of nature.)
-· С помощью `регулирования` достигается больше предсказуемости результатов. (`Regulation` leads to greater predictability of results.)
-2. [`verb`] regulate
-· Государство должно `регулировать` рынки в интересах конечного потребителя. (The government should `regulate` markets for the sake of the end-consumer.)
-· Совет решил `регулировать` импортные товары. (The council decided to `regulate` imported goods.)

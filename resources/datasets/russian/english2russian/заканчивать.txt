@@ -1,8 +1,0 @@
-зак`а`нчивать
-++++++++++
-1. [`verb`] finish
-· Он `заканчивал` работу до конца дня. (He `finished` the work by the end of the day.)
-· Они `заканчивают` проект в следующем месяце. (They `finish` the project in the next month.)
-2. [`verb`] end
-· Он решил `заканчивать` свои дни в путешествии. (He decided to `end` his days on the trip.)
-· Эта выставка была `заканчивана` процессом разлучения последней транспорта. (This exhibition was `ended` with a process of parting the last transport.)

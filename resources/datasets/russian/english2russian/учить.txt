@@ -1,8 +1,0 @@
-уч`и`ть
-++++++++++
-1. [`verb`] study
-· Он `учит` в школе. (He `studies` in school.)
-· Я обычно `учу` в воскресенье. (I usually `study` on Sundays.)
-2. [`verb`] teach
-· Он `учит` математику в вузе. (He `teaches` math at the university.)
-· Она `учила` своих детей читать. (She `taught` her children to read.)

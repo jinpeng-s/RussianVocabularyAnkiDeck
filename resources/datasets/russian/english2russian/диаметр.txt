@@ -1,8 +1,0 @@
-ди`а`метр
-++++++++++
-1. [`noun, masculine`] diameter
-· Длина `диаметра` прутка была 10 см. (The `diameter` of the rod was 10 cm.)
-· Пересечение двух окружностей с равным `диаметром` привело к успешному проекту. (The intersect of two circles with equal `diameter` led to a successful project.)
-2. [`verb`] diameter
-· На нашем проекте мы `диаметрировали` круг с радиусом 30 см. (We `diametered` a circle with a radius of 30 cm in our project.)
-· Он `диаметрировал` велосипедное колесо, чтобы исследовать его радиус. (He `diametered` a bicycle wheel to study its radius.)

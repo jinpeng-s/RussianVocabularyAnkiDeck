@@ -1,0 +1,22 @@
+строка
+++++++++++
+строка́
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 3,000)
+++++++++++
+C1
+С
+++++++++++
+lineExample: Но та строка была не из вашей работы. - But that line wasn't a line from your paper.
+++++++++++
+Пожалуйста, чита́йте между строк. | Please read between the lines.
+Между строк я мог прочита́ть, что он хоте́л, чтобы я подал в отста́вку. | I could read between the lines that he wanted me to resign.
+Ты должна́ чита́ть между строк. | You have to read between the lines.
+Браузер не обраща́ет внима́ния на о́тступы и пусты́е строки в исхо́дном те́ксте. | A browser ignores any indentations or blank lines in the source text.
+Как толкова́ть э́ти строки стихотворе́ния? | How do you interpret these lines of the poem?
+Э́ти две строки вам следует пропусти́ть. | You should leave out these two lines.
+Чита́й между строк. | Read between the lines.
+Ты должен чита́ть между строк. | You have to read between the lines.
+Нужно чита́ть между строк. | You need to read between the lines.
+Чита́йте между строк. | Read between the lines.

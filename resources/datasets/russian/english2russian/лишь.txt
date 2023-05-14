@@ -1,8 +1,0 @@
-лишь
-++++++++++
-1. [`adverb`] only
-· Они могли делать это `лишь` для друзей. (They could do it `only` for friends.)
-· Он лишь обещал, но не выполнял свои обязанности. (He `only` promised, but not fulfilled his obligations.)
-2. [`conjunction`] only
-· Я могу сделать это, если `лишь` я получу нужную помощь. (I can do it, `only` if I get help I need.)
-· Он пришёл, `лишь` чтобы помочь нам. (He came `only` to help us.)

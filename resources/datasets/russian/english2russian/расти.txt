@@ -1,8 +1,0 @@
-раст`и`
-++++++++++
-1. [`verb`] grow
-· Быстрыми темпами `растет` цена на нефть. (The price of oil `grows` rapidly.)
-· Растения `растут` быстро после дождя. (Plants `grow` quickly after a rain.)
-2. [`noun, neuter`] growth
-· У нас было `рост` продаж на 5%. (We had a `growth` in sales by 5%.)
-· Они отслеживают `рост` рынка. (They track the `growth` of the market.)

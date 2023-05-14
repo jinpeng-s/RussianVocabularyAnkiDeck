@@ -1,8 +1,0 @@
-т`о`рмоз
-++++++++++
-1. [`noun`] brake
-· Он подключил `тормоз` к машине. (He connected the `brake` to the car.)
-· Она прикрыла ручку `тормоза`. (She covered the handle of the `brake`.)
-2. [`verb`] brake
-· Она `тормозила` после каждого сигнала. (She `braked` after every signal.)
-· Он `тормозил`, чтобы устранить перегрузку. (He `braked` to reduce the overload.)

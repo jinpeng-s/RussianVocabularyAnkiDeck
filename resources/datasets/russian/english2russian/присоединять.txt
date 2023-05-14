@@ -1,8 +1,0 @@
-присоедин`я`ть
-++++++++++
-1. [`verb`] attach
-· Нужно `присоединить` данный документ к письму. (You need to `attach` this document to the letter.)
-· У меня есть несколько документов, в которых нужно `присоединить` подпись. (I have several documents that need to be `attached` with signatures.)
-2. [`verb`] join
-· Он присоединился к нам на прогулку. (He `joined` us for a walk.)
-· Я присоединилась к друзьям после абсолютно чудесной встречи. (I `joined` my friends after an absolutely wonderful meeting.)

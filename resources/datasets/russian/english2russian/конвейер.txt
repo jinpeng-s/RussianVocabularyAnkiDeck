@@ -1,8 +1,0 @@
-конв`е`йер
-++++++++++
-1. [`noun, masculine`] conveyor
-· В заводе были `конвейеры` для транспортирования готовых изделий. (The factory had `conveyors` for transporting finished products.)
-· Он стоял у `конвейера`, проверяя производимую продукцию. (He stood by the `conveyor`, checking the manufactured products.)
-2. [`verb`] convey
-· Этот транспортный конвейер `конвейерирует` вещи в одну сторону. (This transport conveyor is `conveying` things in one direction.)
-· На конвейере `конвейерировали` абразивы и пульверизаторы. (`Conveyors` were conveying abrasives and pulverizers on the conveyor.)

@@ -1,8 +1,0 @@
-знач`и`тельный
-++++++++++
-1. [`adjective`] significant
-· Это `значительный` вклад в экономику. (It's a `significant` contribution to the economy.)
-· Эти `значительные` изменения сильно помогут компании. (These `significant` changes will greatly help the company.)
-2. [`noun, masculine`] significance
-· `Значительное` значение имеет рост экономики. (The `significance` of economic growth is significant.)
-· Он понимает `значительность` такого решения. (He understands the `significance` of such a decision.)

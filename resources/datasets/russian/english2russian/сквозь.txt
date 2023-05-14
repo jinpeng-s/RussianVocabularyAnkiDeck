@@ -1,8 +1,0 @@
-сквозь
-++++++++++
-1. [`preposition`] through
-· Требуется пройти `сквозь` этот лес. (It is required to go `through` this forest.)
-· Трава росла `сквозь` дыры в крыше. (Grass was growing `through` the holes in the roof.)
-2. [`adverb`] through
-· Он прошёл `сквозь` этот проход для достижения выхода. (He went `through` this passage to reach the exit.)
-· Все материалы были проверены `сквозь` прибор. (All the materials were checked `through` the device.)

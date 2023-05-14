@@ -1,8 +1,0 @@
-объект`и`вный
-++++++++++
-1. [`adjective`] objective
-· Он представил `объективную` оценку ситуации. (He presented an `objective` evaluation of the situation.)
-· Я стремлюсь оставаться `объективным`. (I strive to remain `objective`.)
-2. [`noun, masculine`] objectivity
-· Было очевидно, что в ее подходе недостаточно `объективности`. (It was clear that there was insufficient `objectivity` in her approach.)
-· `Объективность` рассмотрения проблемы очень важна. (`Objectivity` in the consideration of the problem is very important.)

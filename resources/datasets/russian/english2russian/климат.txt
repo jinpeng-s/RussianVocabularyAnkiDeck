@@ -1,8 +1,0 @@
-кл`и`мат
-++++++++++
-1. [`noun`] climate
-· Россия имеет уникальный `климат`. (Russia has a unique `climate`.)
-· В нашем городе всегда `климат` свежий и хороший. (Our city always has a refreshing and pleasant `climate`.)
-2. [`verb`] (to) climate
-· Условия `климатизации` дома должны соответствовать международным стандартам. (The conditions of `climatization` of the house should comply with international standards.)
-· Нужно принимать меры, чтобы `климатизировать` помещение. (Measures must be taken to `climate` the room.)

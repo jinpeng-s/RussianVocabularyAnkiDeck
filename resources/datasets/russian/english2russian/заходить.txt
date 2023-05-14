@@ -1,8 +1,0 @@
-заход`и`ть
-++++++++++
-1. [`verb, imperfective`] enter, come in
-· Это было неудобно, но они не могли `заходить` в помещение. (It was uncomfortable, but they couldn't `enter` the room.)
-· Мы `заходили` в бары каждую ночь. (We would `come in` to bars every night.)
-2. [`verb, perfective`] go in, enter
-· Я `зашёл` в комнату и заметил нового сотрудника. (I `went in` the room and noticed the new employee.)
-· Они вдруг `зашли` в его дом. (They suddenly `entered` his house.)

@@ -1,8 +1,0 @@
-чин`и`ть
-++++++++++
-1. [`verb`] fix, repair
-· Мне пришлось `чинить` сломанную пружину. (I had to `fix` a broken spring.)
-· Автор приходит к нам `чинить` оборудование. (The technician comes to us to `repair` the equipment.)
-2. [`verb, reflexive`] fix oneself
-· Я долгое время `чинилась`, прежде чем я была готова к путешествию. (I `fixed myself` for a long time before I was ready to travel.)
-· Моя мать занималась тем, что `чинила` свои вещи до последнего. (My mother `fixed herself` her things to the last.)

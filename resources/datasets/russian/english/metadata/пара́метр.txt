@@ -1,0 +1,13 @@
+параметр
+++++++++++
+пара́метр
+++++++++++
+noun, masculine, inanimate
+Rarely used word (top 6,000)
+++++++++++
+П
+++++++++++
+parameter
+++++++++++
+Э́та фу́нкция принима́ет два пара́метра: пе́рвый явля́ется заголо́вком окна, а второй будет заголо́вком ико́нки. | This function takes two parameters, the first one is the title of the window, the second one will be the title of the icon.
+Вы мо́жете настро́ить пара́метры конфигура́ции игры во вре́мя её пе́рвого запуска. | You can adjust game configuration options when starting the game for the first time.

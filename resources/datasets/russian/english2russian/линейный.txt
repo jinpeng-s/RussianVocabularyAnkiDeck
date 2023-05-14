@@ -1,8 +1,0 @@
-лин`е`йный
-++++++++++
-1. [`adjective`] linear
-· Это является `линейным` уравнением. (This is a `linear` equation.)
-· Рассмотренная тема относится к `линейной` алгебре. (The considered topic relates to `linear` algebra.)
-2. [`noun, masculine`] line
-· Он любил рисовать `линии`. (He liked to draw `lines`.)
-· В фигуре не хватает `линии`. (The figure lacks a `line`.)

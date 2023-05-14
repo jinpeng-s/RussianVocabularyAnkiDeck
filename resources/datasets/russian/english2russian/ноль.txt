@@ -1,8 +1,0 @@
-н`о`ль
-++++++++++
-1. [`noun, masculine`] zero
-· Это число равно `нолю`. (This number is equal to `zero`.)
-· Трамвай остановился на `ноле`. (The tram stopped at `zero`.)
-2. [`verb`] zero
-· Туман унес `ноль` из нашего видения. (The fog `zeroed` out of our sight.)
-· Она `ноленотировала` счет. (She `zeroed` the score.)

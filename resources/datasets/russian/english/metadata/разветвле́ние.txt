@@ -1,0 +1,13 @@
+разветвление
+++++++++++
+разветвле́ние
+++++++++++
+noun, neuter, inanimate
+Very rarely used word (top 50,000)
+++++++++++
+Р
+++++++++++
+branchingAlso: ramification, forking, branch, fork
+++++++++++
+Мы пришли́ к разветвле́нию дороги и совершенно не зна́ли, в каку́ю сто́рону идти́. | We came to a fork in the road and had no idea which direction to go.
+Разветвле́ние и слия́ние - две основные опера́ции контроля́ ве́рсий. | Branching and merging are two basic operations of revision control.

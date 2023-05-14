@@ -1,8 +1,0 @@
-смен`я`ть
-++++++++++
-1. [`verb`] change, switch
-· Он периодически `сменяет` свою работу. (He `changes`/`switches` his job periodically.)
-· У нас есть `смена` в пять часов вечера. (We have a `change` at five o'clock in the evening.)
-2. [`noun, feminine`] change, shift
-· Каждый работник должен выполнить две `смены` в день. (Each employee must carry out two `changes`/`shifts` a day.)
-· Эта `смена` закончится в 23:00. (This `shift` will end at 23:00.)

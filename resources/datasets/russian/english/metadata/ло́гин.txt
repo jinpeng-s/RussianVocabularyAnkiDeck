@@ -1,0 +1,16 @@
+логин
+++++++++++
+ло́гин
+++++++++++
+noun, masculine, inanimate
+++++++++++
+Л
+++++++++++
+loginExample: Как пройти логин на этом сайте? - How to pass the login on this site?
+user account name (login name)Also: username, user identification
+++++++++++
+Убеди́тесь, что ваши логин и паро́ль введены правильно. | Check that your username and password are written correctly.
+Како́й у тебя логин в Скайпе? | What's your Skype login name?
+Бы́ло бы здорово, если бы можно бы́ло испо́льзовать дефи́с в моём логине. | It would be great if I could use a hyphen in my username.
+Како́й у тебя логин в Skype? | What's your Skype username?
+Како́й у тебя логин? | What's your username?

@@ -1,8 +1,0 @@
-представ`и`тель
-++++++++++
-1. [`noun, masculine`] representative
-· Он был `представителем` в парламенте. (He was a `representative` in the parliament.)
-· Это поле занимает `представитель` в мэрии. (This field is occupied by a `representative` in the mayor's office.)
-2. [`verb`] represent
-· Он `представлял` их интересы в парламенте. (He `represented` their interests in parliament.)
-· Он `представлял` фирму на конференции. (He `represented` the firm at the conference.)

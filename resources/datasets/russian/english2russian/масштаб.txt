@@ -1,8 +1,0 @@
-масшт`а`б
-++++++++++
-1. [`noun, masculine`] scale
-· Вы должны учитывать `масштаб`, чтобы понять это изображение. (You should consider the `scale` to understand this picture.)
-· Он измерил этот объект на `масштабе` 1:50. (He measured that object on a `scale` of 1:50.)
-2. [`verb`] scale
-· Они `масштабировали` план для повышения рабочих бюджетов. (They `scaled` the plan to raise the working budgets.)
-· Разработчики `масштабировали` и исправляли систему для поддержки большего количества пользователей. (The developers `scaled` and corrected the system to support a bigger number of users.)

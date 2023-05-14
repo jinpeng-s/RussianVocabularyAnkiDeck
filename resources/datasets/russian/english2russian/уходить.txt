@@ -1,8 +1,0 @@
-уход`и`ть
-++++++++++
-1. [`verb`] leave
-· Все `уходят` с работы до пяти часов. (Everyone `leaves` work by 5pm.)
-· У нас было очень мало времени прежде чем мы `уходили`. (We had very little time before we `left`.)
-2. [`verb, intransitive`] go away
-· На концерте многие `уходили`, как только звучал последний голос. (At the concert many people `went away` as soon as the last voice sounded.)
-· Когда люди были так злые, он `уходил`. (When people were so angry, he `went away`.)

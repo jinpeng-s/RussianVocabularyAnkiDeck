@@ -1,8 +1,0 @@
-усл`о`вный
-++++++++++
-1. [`adjective`] conditional
-· У нас есть `условное` соглашение. (We have a `conditional` agreement.)
-· `Условная` дата доставки уже истекла. (The `conditional` delivery date has already expired.)
-2. [`adverb`] conditionally
-· Я готов помочь `условно`. (I'm ready to help `conditionally`.)
-· Он принял эту предложение `условно`. (He accepted this offer `conditionally`.)

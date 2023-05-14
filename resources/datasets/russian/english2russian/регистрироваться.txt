@@ -1,8 +1,0 @@
-регистр`и`роваться
-++++++++++
-1. [`verb`] register
-· Вам нужно `регистрироваться` для доступа к сайту. (You need to `register` to access the website.)
-· Все новые студенты должны `регистрироваться` в первую неделю семестра. (All new students must `register` in the first week of the semester.)
-2. [`noun, masculine`] registration
-· Эта организация предоставляет бесплатную `регистрацию` для своих участников. (This organization provides free `registration` for its participants.)
-· Вы можете завершить `регистрацию` с помощью онлайн-формы. (You can complete the `registration` via an online form.)

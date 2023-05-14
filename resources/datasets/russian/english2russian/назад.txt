@@ -1,8 +1,0 @@
-наз`а`д
-++++++++++
-1. [`adverb`] back
-· Она отправилась `назад` домой. (She went `back` home.)
-· Он целый день был `назад`. (He was `back` the whole day.)
-2. [`adjective`] back
-· Это `назад` уходит в ночь. (It's going `back` into the night.)
-· Мы уже `назад` следовали вторым путём. (We had already gone `back` the second way.)

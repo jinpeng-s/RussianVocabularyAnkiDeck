@@ -1,8 +1,0 @@
-разбив`а`ть
-++++++++++
-1. [`verb`] break
-· Он решил `разбить` коробку и использовать её в качестве ящика. (He decided to `break` the box and use it as a box.)
-· Я попыталась `разбить` длинное текстовое сообщение на несколько отдельных параграфов. (I tried to `break` a long text message into several separate paragraphs.)
-2. [`verb`] split
-· Плохая погода заставила нас `разбить` наше восхождение. (Bad weather forced us to `split` our climb.)
-· Новый закон о налогах `разбил` рынок на две части. (The new tax law `split` the market into two parts.)

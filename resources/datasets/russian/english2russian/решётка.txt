@@ -1,8 +1,0 @@
-решётка
-++++++++++
-1. [`noun, feminine`] grille
-· Там была решётка из стали. (There was a `grille` made of steel.)
-· На окнах были решётки. (There were `grilles` on the windows.)
-2. [`verb, imperfective`] bar
-· Урок начался. Дверь тихо `зарешёткалась`. (The lesson started, and the door `barred` quietly.)
-· Она `зарешёткала` дверь на ключ. (She `barred` the door with a key.)

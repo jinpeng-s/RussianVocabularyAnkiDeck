@@ -1,8 +1,0 @@
-р`у`сский
-++++++++++
-1. [`adjective`] Russian
-· Он говорит по-`русски`. (He speaks `Russian`.)
-· Это `русская` традиция. (This is a `Russian` tradition.)
-2. [`noun, masculine`] Russian
-· Он живёт в `русской` семье. (He lives in a `Russian` family.)
-· Город был построен из `русского` камня. (The city was built from `Russian` stone.)

@@ -1,8 +1,0 @@
-звёздный
-++++++++++
-1. [`adjective`] starry
-· В ночи высоко над гармонией сияли `звёздные` очертания (The `starry` outlines shone high above the horizon at night.)
-· Дети глазели на звездное небо. (The children looked up at the `starry` sky.)
-2. [`noun, masculine`] starry
-· `Звёздный` бегун был самым популярным спортсменом. (The `starry` runner was the most popular athlete.)
-· В небе заиндевели `звёздные` спектакли. (`Starry` spectacles dimmed in the sky.)

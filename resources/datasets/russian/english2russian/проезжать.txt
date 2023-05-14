@@ -1,8 +1,0 @@
-проезж`а`ть
-++++++++++
-1. [`verb`] pass
-· Мы `проезжали` этот квартал и не увидели что-либо необычное. (We `passed` through the area and didn't see anything unusual.)
-· Он достаточно долго `проезжал` этот мост. (He `passed` over this bridge for a long time.)
-2. [`noun, masculine`] pass
-· Это `проезд` был открыт год назад. (This `pass` was opened a year ago.)
-· Для туристов есть специальный `проезд`. (There is a special `pass` for tourists.)

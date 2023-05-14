@@ -1,8 +1,0 @@
-инстит`у`т
-++++++++++
-1. [`noun, masculine`] institute
-· В этом `институте` работают лучшие учёные. (The best scientists work at this `institute`.)
-· Его дети идут в этот `институт`. (His children go to this `institute`.)
-2. [`verb`] institute
-· Они `институтом` регулярно проводят опросы о климате. (They `institute` regular surveys about the climate.)
-· Полиция `институтом` расследование дела о преступлении. (The police `instituted` an investigation of the crime.)

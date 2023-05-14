@@ -1,8 +1,0 @@
-подсист`е`ма
-++++++++++
-1. [Noun, feminine] subsystem
-· Подсистема `программирования` была необходима для решения поставленной задачи. (A `subsystem` for programming was necessary for solving the task.)
-· В данной `подсистеме` включены три блока точек доступа. (Three access points are included in this `subsystem`.)
-2. [Verb] subsist
-· Они смогли `поддержать себя` только летом. (They were only able to `subsist` in the summer.)
-· Она `поддерживает` свою семью работой. (She `subsists` her family with work.)

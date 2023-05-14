@@ -1,8 +1,0 @@
-рай`о`н
-++++++++++
-1. [`noun, masculine`] district
-· Он живёт в центральном `районе` города. (He lives in the central `district` of the city.)
-· Этот `район` очень безопасный. (This `district` is very safe.)
-2. [`verb`] district
-· Власти `разграничили` город на эти пять районов. (The authorities `districted` the city into five districts.)
-· Они `разграничили` центр города, чтобы сделать его безопаснее. (They `districted` the city center to make it safer.)

@@ -1,0 +1,15 @@
+регулярный
+++++++++++
+регуля́рный
+++++++++++
+adjective
+adverb регуля́рно
+Rarely used word (top 9,000)
+++++++++++
+Р
+++++++++++
+regular
+++++++++++
+Э́то бы́ло бы и́стиной, если бы от нуля́ и более си́мволов в нача́ле строки соотве́тствовало э́тому регуля́рному выраже́нию. | It would be true, if zero or more characters at the beginning of the string would match this regular expression.
+Регуля́рные физи́ческие упражне́ния поле́зны для здоро́вья. | Regular exercise is beneficial to good health.
+Здесь есть регуля́рное авто́бусное сообще́ние с го́родом? | Is there regular bus service to the town?

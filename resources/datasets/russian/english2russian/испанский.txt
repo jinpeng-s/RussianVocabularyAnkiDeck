@@ -1,8 +1,0 @@
-исп`а`нский
-++++++++++
-1. [`adjective`] Spanish
-· Она говорит `испанским`. (She speaks `Spanish`.)
-· Эта область имеет `испанскую` кухню. (This region has `Spanish` cuisine.)
-2. [`noun, masculine`] Spaniard
-· Он по-`испански`, а не по-английски. (He speaks `Spaniard`, not English.)
-· В Испании живет большое количество `испанцев`. (There are many `Spaniards` living in Spain.)

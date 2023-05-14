@@ -1,8 +1,0 @@
-прост`о`рный
-++++++++++
-1. [`adjective`] spacious
-· Эта комната очень `просторная`. (This room is very `spacious`.)
-· В нашем новом доме есть `просторная` кухня. (Our new house has a `spacious` kitchen.)
-2. [`adverb`] spaciously
-· Мы оформили уборную `просторно`. (We arranged the utility room `spaciously`.)
-· Станция `просторно` оборудована. (The station is equipped `spaciously`.)

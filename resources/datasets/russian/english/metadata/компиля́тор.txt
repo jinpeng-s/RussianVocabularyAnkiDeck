@@ -1,0 +1,13 @@
+компилятор
+++++++++++
+компиля́тор
+++++++++++
+noun, animate
+Very rarely used word (top 20,000)
+++++++++++
+К
+++++++++++
+compiler
+++++++++++
+«@implementation» — э́то директи́ва компиля́тора, говоря́щая, что вы собира́етесь предста́вить код основы кла́сса. | «@implementation» is a compiler directive that says you’re about to present the code for the guts of a class.
+GCC - э́то компиля́тор, в то вре́мя как Python - интерпрета́тор. | GCC is a compiler while Python is an interpreter.

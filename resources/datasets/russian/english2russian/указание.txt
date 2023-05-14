@@ -1,8 +1,0 @@
-указ`а`ние
-++++++++++
-1. [`noun, neuter`] instruction
-· Он дал нам `указание` продолжить работу. (He gave us an `instruction` to continue the work.)
-· Мы получили от него `указание`, что мы должны связаться с ним завтра. (We received an `instruction` from him to contact him tomorrow.)
-2. [`verb`] instruct
-· Он нас `указывал`, что мы должны делать и оставаться там. (He `instructed` us to do something and stay there.)
-· Учитель `указывал` учащимся, что они должны быть аккуратнее. (The teacher `instructed` the students to be more careful.)

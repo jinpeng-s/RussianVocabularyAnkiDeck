@@ -1,8 +1,0 @@
-учёт
-++++++++++
-1. [`noun, masculine`] accounting
-· В Экономическом университете я учусь по `учёту`. (At my economic university, I study `accounting`.)
-· Нам нужно сделать точный `учёт` всех материальных ценностей. (We need to make a precise `accounting` of all material valuables.)
-2. [`verb`] account
-· Они `учитывали` это при принятии решения. (They `accounted` for this when making their decision.)
-· Необходимо точно `учесть` все расходы. (It's necessary to accurately `account` for all expenses.)

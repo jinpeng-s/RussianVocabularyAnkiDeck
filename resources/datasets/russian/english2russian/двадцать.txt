@@ -1,8 +1,0 @@
-дв`а`дцать
-++++++++++
-1. [`numeral`] twenty
-· Сегодня `двадцать` декабря. (Today is the `twenty`th of December.)
-· До `двадцати` лет ему не было ещё. (He was not yet `twenty` years old.)
-2. [`adjective`] twentieth
-· На этой неделе мы отмечаем `двадцатый` день. (We are celebrating the `twentieth` day this week.)
-· Давайте отметим `двадцатый` год нашего брака. (Let's celebrate the `twentieth` year of our marriage.)

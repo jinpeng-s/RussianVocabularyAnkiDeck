@@ -1,0 +1,11 @@
+обеспечивший
+++++++++++
+обеспе́чивший
+++++++++++
+participle active past of обеспе́чить
+++++++++++
+О
+++++++++++
+ensuringExample: Некоторые узлы, обеспечившие результат этого проекта (прототипы приводов, отдельная голова робота). - Some components ensuring  that provided the result of this project (prototypes of drives, a separate robot head) will also be demonstrated.
+++++++++++
+None

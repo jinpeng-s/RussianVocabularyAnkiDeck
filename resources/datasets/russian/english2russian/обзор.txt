@@ -1,8 +1,0 @@
-обз`о`р
-++++++++++
-1. [`noun, feminine`] overview, review
-· Я написал `обзор` нового фильма. (I wrote an `overview` of the new movie.)
-· Она принесла мне короткий `обзор` процесса. (She brought me a short `review` of the process.)
-2. [`verb`] review, overview
-· Он  `обзорел` книгу и оценил ее. (He `reviewed` the book and rated it.)
-· На семинаре мы `обзорили` все возможные варианты решения. (At the seminar we `overviewed` all the possible solutions.)

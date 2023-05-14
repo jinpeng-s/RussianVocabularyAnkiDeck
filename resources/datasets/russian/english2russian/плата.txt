@@ -1,8 +1,0 @@
-пл`а`та
-++++++++++
-1. [`noun, feminine`] fee
-· Всем ученикам требуется единовременно заплатить `плату` при входе в учреждение. (All students need to pay the `fee` once when entering the institution.)
-· Он будет платить ежемесячную `плату` своему адвокату. (He will pay his lawyer a monthly `fee`.)
-2. [`verb, transitive`] pay
-· Я заплатил огромную `плату` за этот проект. (I paid a huge `fee` for this project.)
-· Он заплатил `плату` за проезд. (He paid a `fee` for the ride.)

@@ -1,8 +1,0 @@
-сл`е`довать
-++++++++++
-1. [`verb`] follow
-· По указанию команды все должны `следовать` правилам. (Everyone has to `follow` the rules according to the command's indication.)
-· Он не хотел `следовать` правилам своей команды. (He didn't want to `follow` the rule of his team.)
-2. [`verb`] obey
-· Должны `следовать` правилам проедущих поколений. (We should `obey` the rules of past generations.)
-· Он так и не сделал то, что ему приказали `следовать`. (He never [did] what he was ordered to `obey`.)

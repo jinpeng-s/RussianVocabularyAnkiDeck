@@ -1,8 +1,0 @@
-аэродр`о`м
-++++++++++
-1. [`noun, masculine`] airport
-· В нашей городе есть `аэродром`. (There is an `airport` in our city.)
-· Много людей летели с `аэродрома` в другую страну. (Many people flew from the `airport` to another country.)
-2. [`verb`] take off, depart
-· С аэродрома взлетели много самолетов. (Many planes `took off` from the airport.)
-· Самолет с `аэродрома` отправился в направлении Москвы. (A plane `departed` from the airport in the direction of Moscow.)

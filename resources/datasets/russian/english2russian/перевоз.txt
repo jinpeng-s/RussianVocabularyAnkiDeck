@@ -1,8 +1,0 @@
-перев`о`з
-++++++++++
-1. [`noun, masculine`] transportation
-· Транспортное средство используется для `перевоза` грузов. (A vehicle is used for `transportation` of cargos.)
-· Мы оплатили `перевоз` на автомобиле. (We paid for `transportation` by car.)
-2. [`verb`] transport
-· Все товары мы `перевозим` на специальных грузовиках. (We `transport` all the goods on special trucks.)
-· `Перевозить` людей стало более безопасно и комфортно. (`Transporting` people became safer and more comfortable.)

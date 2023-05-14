@@ -1,8 +1,0 @@
-бет`о`н
-++++++++++
-1. [`noun, masculine`]: concrete
-· Он использовал `бетон` для строительства дома. (He used `concrete` for the construction of the house.)
-· Строители должны использовать высококачественный `бетон`. (The builders should use high-quality `concrete`.)
-2. [`verb`]: concrete
-· Он предложил `бетонировать` пол в гостиной. (He suggested to `concrete` the floor in the living room.)
-· Сроки строительства сократились, после того как они `бетонировали` без остановок. (The construction period was shortened after they `concreted` without stopping.)

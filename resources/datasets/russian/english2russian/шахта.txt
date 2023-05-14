@@ -1,8 +1,0 @@
-ш`а`хта
-++++++++++
-1. [`noun, feminine`] mine
-· В этом городе есть `шахты` угля. (This city has `mines` of coal.)
-· Он посетил `шахту` золота. (He visited a `mine` of gold.)
-2. [`verb`] mine
-· Компания начала `шахтерство` угля. (The company started `mining` coal.)
-· Он `шахтерствовал` долго до нахождения золота. (He was `mining` long before he found gold.)

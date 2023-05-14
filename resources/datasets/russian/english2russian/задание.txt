@@ -1,8 +1,0 @@
-зад`а`ние
-++++++++++
-1. [`noun, neuter`] assignment
-· Она завершила своё `задание` за одну неделю. (She completed her `assignment` in one week.)
-· ученик принял `задание` домой для дополнительной практики. (The student took the `assignment` home for extra practice.)
-2. [`verb`] assign
-· Учитель `задал` урок по теории и практике. (The teacher `assigned` a lesson on theory and practice.)
-· Ученик `задал` вопрос о примерах. (The student `assigned` a question about examples.)

@@ -1,8 +1,0 @@
-ре`а`ктор
-++++++++++
-1. [`noun, masculine`] reactor
-· В нашем реакторе была испытана новая технология. (A new technology was tested at out `reactor`.)
-· В другом реакторе проходит процесс переработки ядра. (The process of core reprocessing is happening in another `reactor`.)
-2. [`verb`] to reactor
-· Они решили `реакторизовать` топливо, чтобы уменьшить его объём. (They decided `to reactor` the fuel to reduce its volume.)
-· Новая технология позволит `реакторизовать` безопасней. (The new technology will allow `to reactor` more safely.)

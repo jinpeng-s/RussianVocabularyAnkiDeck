@@ -1,8 +1,0 @@
-п`о`иск
-++++++++++
-1. [`noun, masculine`] search
-· Он проводит `поиск` затерянных тайн. (He is searching for lost secrets.)
-· Мы выполняем `поиск` нужной информации. (We are conducting a `search` for the required information.)
-2. [`verb`] search
-· Они объявили `поиск` солдата, который пропал на поле боя. (They announced a `search` for the soldier who went missing on the battlefield.)
-· Наш друг пытался `поискать` информацию в интернете. (Our friend was trying to `search` the Internet for information.)

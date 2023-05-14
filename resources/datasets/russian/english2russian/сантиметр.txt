@@ -1,8 +1,0 @@
-сантим`е`тр
-++++++++++
-1. [`noun, masculine`] centimeter
-· Рост ребенка был `сантиметров` двадцати трех. (The child's height was twenty-three `centimeters`.)
-· Женщина измерила длину провода в `сантиметрах`. (The woman measured the length of the wire in `centimeters`.)
-2. [`verb`] centimeter
-· Они `сантиметризовали` длину провода. (They `centimeterized` the length of the wire.)
-· Он пытался `сантиметризировать` длину сумки. (He attempted to `centimeterize` the length of the bag.)

@@ -1,8 +1,0 @@
-обещ`а`ть
-++++++++++
-1. [`verb, imperfective`] promise
-· Он давал мне обещания, но никогда их не `справлял`. (He gave me promises, but never `fulfilled` them.)
-· Я пообещал не говорить это. (I `promised` not to say it.)
-2. [`verb, perfective`] promise
-· Он `обещал` предоставить надежный сервис. (He `promised` to provide reliable service.)
-· Он обещал помочь мне в крайнее время. (He `promised` to help me in a crisis.)

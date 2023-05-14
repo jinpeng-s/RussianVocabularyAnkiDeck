@@ -1,8 +1,0 @@
-п`о`чвенный
-++++++++++
-1. [`adjective`] soil
-· Это случай `почвенной` аллергии. (This is a case of `soil` allergy.)
-· На заднем дворе есть `почвенный` участок. (There is a `soil` patch in the back yard.)
-2. [`noun, masculine`] soil
-· Это почва хорошей `почвенности`. (This is a soil of good `soil-ness`.)
-· Для растения необходимы хорошие `почвенные` условия. (The plant requires good `soil` conditions.)

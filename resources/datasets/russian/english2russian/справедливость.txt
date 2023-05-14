@@ -1,8 +1,0 @@
-справедл`и`вость
-++++++++++
-1. [`noun, feminine`] fairness
-· У нас должна править `справедливость`. (Fairness must prevail here.)
-· Указ о порядке рассмотрения дел должен обеспечивать `справедливость`. (The ordinance on the order of the consideration of cases must ensure `fairness`.)
-2. [`adjective`] fair
-· Он был `справедлив` ко всем сотрудникам. (He was `fair` to all employees.)
-· Суд должен прийти к `справедливому` решению. (The court must come to a `fair` decision.)

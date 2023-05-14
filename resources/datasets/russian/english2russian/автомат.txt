@@ -1,8 +1,0 @@
-автом`а`т
-++++++++++
-1. [`noun, masculine`] automation
-· Многие производственные процессы уже автоматизированы. (Many manufacturing processes are already `automated`.)
-· Эта компания настроила автоматическую систему производства. (The company set up an `automated` production system.)
-2. [`verb`] automate
-· В этой компании занимаются `автоматизацией` производственных процессов. (This company is engaged in the `automation` of production processes.)
-· Для выполнения этого задания мы можем `автоматизировать` программу. (We can `automate` the program to do this task.)

@@ -1,8 +1,0 @@
-р`а`дий
-++++++++++
-1. [`noun, masculine`] radium
-· Мы изучаем рентгеновские лучи `радия`. (We are studying the X-rays of `radium`.)
-· Врачи использовали `радий` для лечения онкологических болезней. (The doctors used `radium` to treat cancer.)
-2. [`verb`] radiate
-· Планета излучает `радиацию`. (The planet is `radiating` radiation.)
-· Горные цветы `излучают` свет. (Mountain flowers `radiate` light.)

@@ -1,0 +1,24 @@
+соответствовать
+++++++++++
+соотве́тствовать
+++++++++++
+verb, imperfective
+No aspect partner
+Somewhat often used word (top 3,000)
+++++++++++
+C1
+С
+++++++++++
+suitAlso: conform, be consistent with
+match / correspond to
+++++++++++
+Э́то не соотве́тствует действи́тельности. | That isn't true.
+Соотве́тствуй во́зрасту! | Act your age.
+Ра́зным цвета́м соотве́тствуют ра́зные значе́ния. | Different flowers represent different meanings.
+Перево́д соотве́тствовал оригина́лу. | The translation was true to the original.
+Фома не нашёл нико́го, кто мог бы соотве́тствовать тре́бованиям. | Tom didn't find anyone who met the requirements.
+Если не соотве́тствовать соглаше́нию об имена́х, э́то мо́жет привести́ к оши́бкам парсинга. | Not complying with the naming conventions will result in parse errors.
+Э́то бы́ло бы и́стиной, если бы от нуля́ и более си́мволов в нача́ле строки соотве́тствовало э́тому регуля́рному выраже́нию. | It would be true, if zero or more characters at the beginning of the string would match this regular expression.
+Наказа́ние должно соотве́тствовать преступле́нию. | The punishment must fit the crime.
+Вели́кие ли́чности не соотве́тствуют высо́ким станда́ртам: наоборот, они создаю́т свои́ со́бственные. | Great figures don't meet high standards, but rather make their own.
+Э́то я́вно не соотве́тствует действи́тельности. | That's clearly not true.

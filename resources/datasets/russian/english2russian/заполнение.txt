@@ -1,8 +1,0 @@
-заполн`е`ние
-++++++++++
-1. [`verb`] fill
-· Этот бланк необходимо `заполнить` быстро. (This form must be `filled` quickly.)
-· `Заполнение` этой формы требует много времени. (`Filling` this form requires a lot of time.)
-2. [`noun, neuter`] filling
-· Этот бланк нужно заполнить с помощью `заполнения` на компьютере. (This form must be filled with the help of `filling` from the computer.)
-· Твое `заполнение` бланка неверно. (Your `filling` of this form is incorrect.)

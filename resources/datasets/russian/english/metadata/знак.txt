@@ -1,0 +1,22 @@
+знак
+++++++++++
+знак
+++++++++++
+noun, masculine, inanimate
+Often used word (top 1,000)
+++++++++++
+B2
+З
+++++++++++
+signAlso: token, symbol, mark, omen, signalExample: поставь знак удаения. - Place the stress mark
+++++++++++
+Разве вы не ви́дите там знак вы́хода? | Don't you see the exit sign over there?
+Э́тот знак сообща́ет: "Не кормите живо́тных!" | This sign says "do not feed the animals."
+Посмотри́ на знак прямо пе́ред тобой. | Look at the sign just ahead of you.
+Како́й у тебя знак зодиа́ка? | What sign were you born under?
+Я расцени́л твоё молча́ние как знак согла́сия. | I interpreted your silence as consent.
+Он не уви́дел зна́ка остано́вки на перекрёстке и врезался во встре́чный автомоби́ль. | He failed to see the stop sign at the intersection and hit an oncoming car.
+Внима́ние! Вместо неподдерживаемых си́мволов отобража́ется знак подчеркивания (_). | Warning: unsupported characters are displayed using the '_' character.
+Э́то небольшо́й знак мое́й благода́рности. | This is a small token of my gratitude.
+Он приподня́л шля́пу в знак почте́ния. | He raised his hat in respect.
+Она подала́ мне знак, чтобы я молча́л. | He gave me a sign to keep quiet.

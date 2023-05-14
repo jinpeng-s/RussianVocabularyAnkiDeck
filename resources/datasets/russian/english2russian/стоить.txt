@@ -1,8 +1,0 @@
-ст`о`ить
-++++++++++
-1. [`verb, imperfective`] cost
-· Эти очки `стоят` дорого. (These glasses `cost` a lot.)
-· Комната `стоит` дешевле в другом отеле. (The room `costs` cheaper in the other hotel.)
-2. [`verb, perfective`] cost
-· Сколько всё `состояло` в конечном итоге? (How much `did it cost` in the end?)
-· Какова цена этого автомобиля? - Он `состоит` три тысячи долларов. (What's the price for this car? - It `costs` three thousand dollars.)

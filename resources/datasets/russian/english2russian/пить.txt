@@ -1,8 +1,0 @@
-п`и`ть
-++++++++++
-1. [`verb`] drink
-· Он любит `пить` пиво. (He loves to `drink` beer.)
-· Она предпочитает `пить` тоник. (She prefers to `drink` tonic.)
-2. [`noun`] drink
-· У неё есть предпочтения в `питье`. (She has preferences in `drinks`.)
-· Он принес мне холодное `питье`. (He brought me a cold `drink`.)

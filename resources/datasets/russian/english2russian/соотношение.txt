@@ -1,8 +1,0 @@
-соотнош`е`ние
-++++++++++
-1. [`noun, neuter`] ratio, proportion
-· Это единственное `соотношение`, на которое нам нужно обратить внимание. (This is the only `ratio` we need to pay attention to.)
-· `Соотношение` товаров в магазине изменилось за последние два месяца. (The `proportion` of goods in the store has changed in the last two months.)
-2. [`verb`] relate, compare
-· Мы должны уменьшить размер `соотносить` текущий статус с планом. (We need to reduce the size to `relate` the current status to the plan.)
-· Вам нужно `соотносить` информацию, предоставленную исследователями. (You need to `compare` the information provided by the researchers.)

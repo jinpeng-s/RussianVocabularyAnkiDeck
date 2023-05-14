@@ -1,8 +1,0 @@
-просп`е`кт
-++++++++++
-1. [`noun, masculine`] prospect
-· Он перерыл `проспект` и пришёл к выводу. (He went through the `prospect` and came to a conclusion.)
-· В документах были рассмотрены все `проспекты` для этого проекта. (All `prospects` for this project were considered in the documents.)
-2. [`verb`] prospect
-· Вся территория была `проспекчена` на предмет залегающих там природных ресурсов. (The whole territory was `prospected` for natural resources lying there.)
-· Дробить породу пришлось перед тем, как её `проспектировать`. (The ore had to be crushed before it could be `prospected`.)

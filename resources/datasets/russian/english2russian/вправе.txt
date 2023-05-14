@@ -1,8 +1,0 @@
-впр`а`ве
-++++++++++
-1. [`adjective`] entitled
-· Он был `вправе` изменить договор. (He was `entitled` to alter the contract.)
-· Она имеет право быть `вправе` делать то, что она считает правильным. (She has the right to be `entitled` to do what she thinks is right.)
-2. [`verb, imperfective`] be entitled
-· Клиент `вправе` требовать возврат денег. (The customer is `entitled` to request a refund.)
-· Мы `вправе` инспектировать их документы. (We are `entitled` to inspect their documents.)

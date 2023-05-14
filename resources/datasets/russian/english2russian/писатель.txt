@@ -1,8 +1,0 @@
-пис`а`тель
-++++++++++
-1. [`noun, masculine`] writer
-· Этот `писатель` пишет хорошие рассказы. (This `writer` is writing good stories.)
-· Он работает в газете как `писатель`. (He is working in the newspaper as a `writer`.)
-2. [`verb`] write
-· Он `пишет` рассказы с радостью. (He `writes` stories with joy.)
-· Она ежедневно `пишет` статьи для сайта. (She `writes` articles for the website on a daily basis.)

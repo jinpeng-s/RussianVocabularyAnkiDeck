@@ -1,0 +1,24 @@
+внимание
+++++++++++
+внима́ние
+++++++++++
+noun, neuter, inanimate
+Often used word (top 400)
+++++++++++
+B1
+People - Mental actions
+В
+++++++++++
+attentionAlso: notice
+heedAlso: consideration, hindsight
+++++++++++
+Полице́йский привлёк внима́ние к пробле́ме карма́нных краж. | The policeman called attention to the problem of pickpockets.
+Внима́ние! Вместо неподдерживаемых си́мволов отобража́ется знак подчеркивания (_). | Warning: unsupported characters are displayed using the '_' character.
+Если мы при́мем во внима́ние дополни́тельные доказа́тельства, то второй зако́н следует измени́ть. | If we take this additional evidence into consideration, the second law must be modified.
+Ты должен приня́ть во внима́ние своё отсу́тствие на совеща́нии. | You must account for your absence from the meeting.
+Он ни на чём не заде́рживает внима́ние. | Whatever he takes up, he gets soon tired of it.
+Он не обраща́ет внима́ния на учителя. | He pays no attention to the teacher.
+Пожалуйста, обрати́те внима́ние. | Please pay attention.
+Судья́ при́нял во внима́ние тот факт, что э́то бы́ло его первое правонаруше́ние. | The judge took into consideration the fact that it was his first offense.
+Её оде́жда привлекла́ много внима́ния на вечери́нке. | Her clothes attracted much attention at the party.
+Браузер не обраща́ет внима́ния на о́тступы и пусты́е строки в исхо́дном те́ксте. | A browser ignores any indentations or blank lines in the source text.

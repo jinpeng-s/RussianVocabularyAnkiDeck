@@ -1,8 +1,0 @@
-ш`и`ть
-++++++++++
-1. [`verb`] sew
-· Она с `шила`платье для ребёнка. (She `sewed` a dress for the child.)
-· Я научилась `шить`пуловеры и футболки. (I learned to `sew` pullovers and t-shirts.)
-2. [`noun, masculine`] seam
-· Это платье имеет `шитье`в спинке для расширения шлицов. (This dress has a `seam` at the back to give more flexibility on the sides.)
-· Для трубки потребовалось за `шитье` расходовать мало искр. (It did not need much sparks to `seam` the tube.)

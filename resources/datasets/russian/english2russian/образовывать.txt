@@ -1,8 +1,0 @@
-образ`о`вывать
-++++++++++
-1. [`verb`] form
-· Это `образовывает` тяжелую ситуацию. (It `forms` a difficult situation.)
-· Формирование команды `образовалось` довольно долго. (The formation of the team `took form` quite a while.)
-2. [`verb`] shape
-· Долгое время ценовые политики `образуют` интересы рынка. (Price policies `shape` the market interests for a long time.)
-· Новый редактор должен `образовываться` для каждого проекта. (A new editor should be `shaped` for every project.)

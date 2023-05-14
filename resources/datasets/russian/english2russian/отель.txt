@@ -1,8 +1,0 @@
-от`е`ль
-++++++++++
-1. [`noun, masculine`] hotel
-· Он забронировал `отель` для мероприятия. (He booked a `hotel` for the event.)
-· Она снимала номер в `отеле`. (She rented a room in the `hotel`.)
-2. [`verb`] host
-· Мы будем `отелем` для встречи. (We will `host` the meeting.)
-· Они `отелят` нас два дня. (They will `host` us for two days.)

@@ -1,0 +1,14 @@
+косвенный
+++++++++++
+ко́свенный
+++++++++++
+adjective
+Rarely used word (top 9,000)
+++++++++++
+К
+++++++++++
+circumstantial
+indirect
+++++++++++
+Всё что каса́ется объектно-ориентированного программи́рования связано с ко́свенной адресацией. | Object-oriented programming is all about indirection.
+Все ули́ки ко́свенные. | The evidence is all circumstantial.

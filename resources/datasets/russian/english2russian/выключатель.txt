@@ -1,8 +1,0 @@
-выключ`а`тель
-++++++++++
-1. [`noun, masculine`] switch
-· В этом помещении есть `выключатель` освещения. (There is a `switch` for the lights in this room.)
-· Нужно включить `выключатель` для запуска двигателя. (It is necessary to turn on the `switch` to start the engine.)
-2. [`verb`] switch off
-· Давайте выключим `выключатель`. (Let's `switch off` the switch.)
-· Перед тем, как закрыть дверь, выключите `выключатель`. (Before you close the door, `switch off` the switch.)

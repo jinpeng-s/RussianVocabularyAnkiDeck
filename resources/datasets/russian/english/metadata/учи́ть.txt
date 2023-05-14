@@ -1,0 +1,24 @@
+учить
+++++++++++
+учи́ть
+++++++++++
+verb, imperfective
+Partner вы́учить, научи́ть, обучи́ть
+Somewhat often used word (top 2,000)
+++++++++++
+A2
+У
+++++++++++
+learnInfo: + topic
+teachAlso: instruct, drill
+++++++++++
+Он всегда хоте́л учи́ть япо́нский. | He always wanted to study Japanese.
+Яйца ку́рицу не у́чат. | You can't teach your grandmother to suck eggs.
+Я рад, потому что я немножко учу́ голла́ндский. | I'm happy, 'cause I'm learning some Dutch.
+Мне нра́вится учи́ть англи́йский. | I like studying English.
+Учи́ть - э́то учи́ться. | Teaching is learning.
+Он у́чит их говори́ть по-японски. | He teaches them how to speak Japanese.
+Мно́гие восто́чные рели́гии у́чат, что за мно́жеством явле́ний существу́ет еди́нство. | Many Eastern religions teach that there is a unity behind the diversity of phenomena.
+Те, кто у́чат англи́йский язы́к не мо́гут обойти́сь без англи́йских словаре́й. | Those who learn English cannot do without English dictionaries.
+Для чего ты у́чишь испа́нский? | What do you learn Spanish for?
+Како́й бы язы́к ты ни учи́л, без словаря́ ты не обойдёшься. | Whatever language you study, you cannot do without a dictionary.

@@ -1,8 +1,0 @@
-механиз`и`ровать
-++++++++++
-1. [`verb, imperfective`] mechanize
-· Они `механизировали` свои производственные процессы. (They `mechanized` their production process.)
-· Фабрика `механизировала` свою линию производства. (The factory `mechanized` its production line.)
-2. [`verb, perfective`] mechanize
-· Он `механизировал` движение для быстрого перемещения. (He `mechanized` the movement for fast transport.)
-· Им потребовалось два года, чтобы `механизировать` всю производственную линию. (It took them two years to `mechanize` the whole production line.)

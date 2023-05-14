@@ -1,8 +1,0 @@
-тёмный
-++++++++++
-1. [`adjective`] dark
-· Ночь была `тёмная`. (The night was `dark`.)
-· В комнате было `тёмно`. (The room was `dark`.)
-2. [`noun, masculine`] darkness
-· Теперь наступило `тёмное` время. (Now it is the `darkness` of time.)
-· `Тёмное помещение` становилось все темнее. (The `dark room` was getting darker.)

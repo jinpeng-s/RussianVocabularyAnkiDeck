@@ -1,8 +1,0 @@
-д`а`та
-++++++++++
-1. [`noun, feminine`] date
-· Он указал `дату` своей встречи. (He indicated the `date` of his meeting.)
-· Я просрочил задание и не сдал его в установленную `дату`. (I missed the deadline and didn't submit it by the prescribed `date`.)
-2. [`verb`] date
-· Они `датировали` договор в мае. (They `dated` the contract in May.)
-· Мы предлагаем вам датировать документ 11 сентября. (We offer you to `date` the document on 11 September.)

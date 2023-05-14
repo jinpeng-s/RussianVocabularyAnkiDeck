@@ -1,8 +1,0 @@
-посет`и`тель
-++++++++++
-1. [`noun, masculine`] visitor
-· Несколько `посетителей` приходили в наш музей за последнее время. (Several `visitors` have come to our museum lately.)
-· У меня дома были друзья- `посетители` (I had friends as `visitors` at home.)
-2. [`verb`] visit
-· Мы часто `посещаем` свои родственники. (We often `visit` our relatives.)
-· Вы `посетили` другую страну на отпуске? (Did you `visit` another country on vacation?)

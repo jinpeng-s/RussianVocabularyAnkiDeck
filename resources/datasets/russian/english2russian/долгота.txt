@@ -1,8 +1,0 @@
-долгот`а`
-++++++++++
-1. [`noun, feminine`] longitude
-· Координаты объекта включают в себя и долготу `долготы` и широту. (The coordinates of the object include longitude and latitude.)
-· Мы были примерно на одной долготе `долготой`. (We were approximately on the same longitude.)
-2. [`verb`] longitude
-· Он подсчитывал `долготу` каждого объекта. (He calculated the `longitude` of each object.)
-· Я искал любую информацию, которая `долготирует` этот объект. (I was looking for any information that `longitudinates` this object.)

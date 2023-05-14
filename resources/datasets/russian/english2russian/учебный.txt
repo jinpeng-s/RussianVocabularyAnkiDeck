@@ -1,8 +1,0 @@
-уч`е`бный
-++++++++++
-1. [`adjective`] educational
-· Я хочу посетить `учебные` курсы. (I want to attend `educational` courses.)
-· У него был очень `учебный` подход к работе. (He had a very `educational` approach to work.)
-2. [`noun, masculine`] lesson, study
-· У него есть много `учебных` материалов. (He has a lot of `lesson/study` materials.)
-· Это был `учебный` процесс. (This was a `lesson/study` process.)

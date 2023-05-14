@@ -1,8 +1,0 @@
-пробл`е`ма
-++++++++++
-1. [`noun, feminine`] problem	
-· Он решил `проблему` очень быстро. (He solved the `problem` very quickly.)
-· У него есть несколько `проблем` с экономикой. (He has several `problems` with the economy.)
-2. [`verb`] problematize
-· Многие люди пытаются `проблематизировать` актуальные вопросы. (Many people try to `problematize` relevant questions.)
-· Он `проблематизировал` идею и предложил более эффективные решения. (He `problematized` the idea and proposed more efficient solutions.)

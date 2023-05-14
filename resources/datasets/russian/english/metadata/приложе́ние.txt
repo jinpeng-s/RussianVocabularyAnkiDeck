@@ -1,0 +1,22 @@
+приложение
+++++++++++
+приложе́ние
+++++++++++
+noun, neuter, inanimate
+Rarely used word (top 7,000)
+++++++++++
+П
+++++++++++
+application
+appendixAlso: addendum
+++++++++++
+Есть вещь, кото́рую я не люблю́ в айпаде - э́то то, что ты не мо́жешь легко установи́ть приложе́ния, кото́рые не досту́пны через Аппстор. | One thing I don't like about the iPad is that you can't easily install apps that aren't available through Apple's App Store.
+Я разраба́тываю приложе́ние для Android. | I'm developing an Android application.
+Како́е твое люби́мое приложе́ние для айфона? | What's your favorite iPhone app?
+Я также показа́л приме́р просто́й, но полноце́нной систе́мы плагинов для приложе́ния, полностью написанной на Python. | I also showed an example of a simple but complete plugin system for an application, all written in Python.
+Скача́й и установи приложе́ние. | Download and install the application.
+Э́то приложе́ние рабо́тает на телефо́не Тома, но не рабо́тает на телефо́не Мэри. | This application runs on Tom's phone, but not on Mary's.
+Э́то приложе́ние просто жрёт батаре́ю. | This application just eats up your battery.
+Данное приложе́ние позволя́ет быстро рассчита́ть коэффицие́нт и́ндекса массы тела — ИМТ. | The application allows you to quickly calculate the ratio of body mass index - BMI.
+Вну́тренняя структу́ра приложе́ния напрямую отно́сится к его о́бщей производи́тельности. | The infrastructure of an application is directly related to its overall performance.
+Слова́рь теперь досту́пен в ви́де приложе́ния для телефо́нов с операцио́нной систе́мой Android. | The dictionary is now available as an app for Android phones.

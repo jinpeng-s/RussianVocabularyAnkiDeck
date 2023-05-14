@@ -1,8 +1,0 @@
-индик`а`тор
-++++++++++
-1. [`noun, masculine`] indicator
-· Является ли повышение расхода электричества `индикатором` проблем со счётчиком? (Is a rise in electricity expenses an `indicator` of problems with the meter?)
-· Турбулентность рынка - `индикатор` риска. (Market turbulence is an `indicator` of risk.)
-2. [`verb`] indicate
-· Неликвидные активы предоставляют `индикацию` о стратегических проблемах компании. (Non-current assets provide `indication` of the company's strategic problems.)
-· Данная документация `индикатор` готовности проекта. (This documentation is an `indicator` of the project's readiness.)

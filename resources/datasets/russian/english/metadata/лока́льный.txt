@@ -1,0 +1,15 @@
+локальный
+++++++++++
+лока́льный
+++++++++++
+adjective
+adverb лока́льно
+Rarely used word (top 10,000)
+++++++++++
+Л
+++++++++++
+local
+++++++++++
+Мы́сли глобально, де́йствуй лока́льно. | Think global, act local.
+В ча́стности, кольцо́ эндоморфизмов мо́дуля M явля́ется коммутативным лока́льным кольцо́м. | In particular, the endomorphism ring of M is a commutative local ring.
+Мно́гие библиоте́ки также предоставля́ют беспроводную лока́льную сеть. | Many libraries also provide wireless local area network.

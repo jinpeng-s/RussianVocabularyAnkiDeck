@@ -1,8 +1,0 @@
-в`о`зле
-++++++++++
-1. [`preposition`] near, by
-· Автобус останавливается `возле` парка. (The bus stops `near` the park.)
-· Я живу `возле` реки. (I live `by` the river.)
-2. [`adverb`] nearby, close by
-· Я видел `возле` банка много людей. (I saw many people `nearby` the bank.)
-· Дом `возле` моего детского сада расположен магазин. (The store is located `close by` my kindergarten.)

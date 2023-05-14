@@ -1,0 +1,11 @@
+вложенный
+++++++++++
+вло́женный
+++++++++++
+participle passive past of вложи́ть
+++++++++++
+В
+++++++++++
+invested
+++++++++++
+Чита́емость его ко́да захлебну́лась в пото́ке вложенных ско́бок. | His code's readability drowned in a riptide of nested parentheses.

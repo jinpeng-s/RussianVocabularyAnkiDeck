@@ -1,8 +1,0 @@
-жев`а`ть
-++++++++++
-1. [`verb`] chew
-· Я слушаю музыку, пока жую свою `жевать`. (I'm listening to music while I `chew` my gum.)
-· Дети `жевали` сладкие конфеты. (The children were `chewing` on sweet candy.)
-2. [`verb, reflexive`] gnaw
-· Грызуны `жевали` для их нор. (The rodents were `gnawing` on their burrows.)
-· Мы глупо думали, что мы `жевали` дела. (We foolishly thought that we were `gnawing` away at the task.)

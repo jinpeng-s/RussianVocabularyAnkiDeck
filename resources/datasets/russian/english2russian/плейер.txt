@@ -1,8 +1,0 @@
-плейер
-++++++++++
-1. [`noun, masculine`] player
-· Он принес домой новый `плеер`. (He brought home a new `player`.)
-· У нас есть `плеер` для бенгальских дисков. (We have a `player` for Bengali disks.)
-2. [`verb`] play
-· Он `проигрывает` музыку на гитаре. (He `plays` music on the guitar.)
-· Дети `играют` в военку на улице. (The children `play` war on the street.)

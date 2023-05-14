@@ -1,8 +1,0 @@
-разбир`а`ться
-++++++++++
-1. [`verb`] understand
-· Она `разбиралась` в новых правилах. (She `understood` the new rules.)
-· Я понимаю, что Том совсем `не разбирается` в бухгалтерском учете. (I understand that Tom doesn't `understand` accounting at all.)
-2. [`verb, reflexive`] deal with
-· Он должен `разбираться` сам со своими проблемами. (He needs to `deal with` his problems himself.)
-· Мы должны `разбираться` в деталях. (We need to `deal with` the details.)

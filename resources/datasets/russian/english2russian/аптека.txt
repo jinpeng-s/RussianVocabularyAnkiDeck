@@ -1,8 +1,0 @@
-апт`е`ка
-++++++++++
-1. [`noun, feminine`] pharmacy
-· Она пошла в `аптеку` за лекарствами. (She went to the `pharmacy` for medicine.)
-· Ты можешь найти аптеки в местных автобусных терминалах. (You can find pharmacies in the local bus terminals.)
-2. [`verb`] dispense
-· Аптекарь `диспенсировал` ей лекарства. (The pharmacist `dispensed` her the medicine.)
-· Аптека также `диспенсирует` доступные лекарства. (The pharmacy also `dispenses` affordable medicine.)

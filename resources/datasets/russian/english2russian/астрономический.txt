@@ -1,8 +1,0 @@
-астроном`и`ческий
-++++++++++
-1. [`adjective`] astronomical
-· Астрономические исследования выявили новые звездные системы. (Astronomical research has revealed new stellar systems.)
-· Расходы для создания этого медицинского центра были `астрономическими`. (The costs of creating this medical center were astronomical.)
-2. [`noun, masculine`] astronomer
-· `Астроном` исследовал за большое количество лет наблюдательную систему планет. (The `astronomer` has studied the observing system of planets for many years.)
-· Во многих музеях есть экспозиции, посвященные `астрономам`. (Many museums have exhibitions dedicated to astronomers.)

@@ -1,8 +1,0 @@
-задав`а`ть
-++++++++++
-1. [`verb`] ask
-· Ученик `задал` учителю вопрос. (The student `asked` the teacher a question.)
-· Я `задал` своим друзьям вопросы о мечте. (I `asked` my friends questions about their dream.)
-2. [`verb, transitive`] impose
-· Москва не `задавала` дополнительных требований для этого договора. (Moscow did not `impose` any additional requirements for the contract.)
-· Это правило `задавало` много огромных трудностей при планировании. (This rule `imposed` a lot of great difficulties in planning.)

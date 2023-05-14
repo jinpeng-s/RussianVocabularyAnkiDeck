@@ -1,8 +1,0 @@
-назв`а`ние
-++++++++++
-1. [`noun, neuter`] title
-· Правительство присвоило ему `название` генерала в знак уважения. (The government awarded him the `title` of general as a sign of respect.)
-· Он получил `название` главы департамента. (He obtained the `title` of head of the department.)
-2. [`verb`] title
-· Книга была `названа` "Однажды в студеную зиму". (The book was `titled` "Once upon a cold winter night.")
-· Он `назвал` свою новую компанию "Радуга". (He `titled` his new company "Rainbow.")

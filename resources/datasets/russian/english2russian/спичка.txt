@@ -1,8 +1,0 @@
-сп`и`чка
-++++++++++
-1. [`noun`] match
-· У меня нет `спичек`. (I don't have any `matches`.)
-· Он взял `спичку` и зажег костер. (He took a `match` and lit the fire.)
-2. [`verb`] light/ignite
-· Я взял `спичку` и зажег огонь. (I took a `match` and lit the fire.)
-· Он зажег `спичку`, чтобы осветить комнату. (He lit a `match` to illuminate the room.)

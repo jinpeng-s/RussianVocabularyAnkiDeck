@@ -1,8 +1,0 @@
-м`е`бель
-++++++++++
-1. [`noun, feminine`] furniture
-· В этой комнате есть много `мебели`. (There is a lot of `furniture` in this room.)
-· Она купила новую `мебель` для своей кухни. (She bought a new `furniture` for her kitchen.)
-2. [`verb`] furnish
-· Они `меблировали` его новую квартиру. (They `furnished` his new apartment.)
-· Они `меблировали` дом стильно. (They `furnished` the house stylishly.)

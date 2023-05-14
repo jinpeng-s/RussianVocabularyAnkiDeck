@@ -1,0 +1,20 @@
+браузер
+++++++++++
+бра́узер
+++++++++++
+noun
+++++++++++
+Б
+++++++++++
+browserAlso: internet browser
+++++++++++
+Браузер не обраща́ет внима́ния на о́тступы и пусты́е строки в исхо́дном те́ксте. | A browser ignores any indentations or blank lines in the source text.
+В мо́ем браузере не хо́чет рабо́тать только один плагин - флэш. | The only plug-in that crashes on my browser is Flash.
+Каки́м браузером ты по́льзуешься? | What browser are you using?
+Како́й браузер Вы испо́льзуете? | What browser are you using?
+Како́й твой люби́мый браузер? | Which browser is your favorite?
+Вы каки́м браузером по́льзуетесь? | Which browser are you using?
+Ты каки́м браузером по́льзуешься? | Which browser are you using?
+Каки́м браузером вы по́льзуетесь? | What browser are you using?
+Я попыта́лся установи́ть но́вый браузер. | I tried to install a new browser.
+В моём браузере не рабо́тает только один плагин — Flash. | The only plug-in that crashes on my browser is Flash.

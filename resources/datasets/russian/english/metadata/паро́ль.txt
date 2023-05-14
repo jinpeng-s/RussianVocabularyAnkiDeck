@@ -1,0 +1,21 @@
+пароль
+++++++++++
+паро́ль
+++++++++++
+noun, masculine, inanimate
+Rarely used word (top 8,000)
+++++++++++
+П
+++++++++++
+passwordAlso: parole, countersign, watchword
+++++++++++
+Мы легко подобра́ли паро́ль. | We easily figured out the password.
+Како́й ваш паро́ль? | What is your password?
+Ваша попы́тка восстанови́ть паро́ль око́нчилась неуда́чей. Пожалуйста, попро́буйте ещё раз. | Your attempt to retrieve your password was not successful. Please try again.
+Убеди́тесь, что ваше и́мя по́льзователя и паро́ль написаны правильно. | Check that your username and password are written correctly.
+Блять, паро́ль забы́л! | Damn it! I forgot my password!
+Хоро́ший паро́ль трудно угада́ть, но легко запо́мнить. | A good password should be difficult to guess, but easy to remember.
+Како́й у вас паро́ль? | What is your password?
+Паро́ль? | Password?
+Я только паро́ль свой поменя́л. | I just changed my password.
+Пожалуйста, введи́те свой паро́ль. | Enter your password, please.

@@ -1,0 +1,22 @@
+винтовка
+++++++++++
+винто́вка
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 3,000)
+++++++++++
+C1
+В
+++++++++++
+rifleInfo: A 'винтовка' is a gun with a helical grooved barrel to stabilize the projectile in flight (винтов = helical). In contrast to a normal shotgun, such guns are called rifles.
+++++++++++
+Том поднял винто́вку и наце́лил её на Мэри. | Tom raised his rifle and pointed it at Mary.
+Он нес на плече́ винто́вку. | He carried a rifle on his shoulder.
+Том уме́ет обраща́ться с винто́вкой. | Tom knows how to handle a rifle.
+Вы́чистите ствол э́той винто́вки. | Clean the barrel of this rifle.
+Когда я сказа́л, что уби́л панте́ру только ножо́м, э́то значит, что у меня не бы́ло с собой соба́к и что я не испо́льзовал винто́вку. | When I said that I had killed a panther with nothing but a knife, this means that I did not have any dogs with me and that I did not use a rifle.
+Том спроси́л Мэри, не зна́ет ли она, где можно купи́ть штурмовую винто́вку. | Tom asked Mary if she knew where he could buy an assault rifle.
+Том опусти́л винто́вку. | Tom lowered his rifle.
+Отда́ча винто́вки мо́жет слома́ть вам плечо́. | The kick of the rifle can break your shoulder.
+Он всегда хо́дит с винто́вкой. | He always walks with a rifle.
+Э́то крупнокали́берная винто́вка. | That is a high caliber rifle.

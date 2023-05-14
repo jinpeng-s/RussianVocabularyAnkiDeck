@@ -1,8 +1,0 @@
-эксплуат`а`тор
-++++++++++
-1. [`noun, masculine`] operator
-· Торговый центр имеет одного `эксплуататора`. (The shopping mall has one `operator`.)
-· Эта машина нуждается в установке `эксплуататора`. (This machine needs an `operator`.)
-2. [`verb`] operate
-· Они просят заказчика `эксплуатировать` машину три года. (They ask the customer to `operate` the machine for three years.)
-· Эта машина может `эксплуатироваться` до 10 часов в день. (This machine can be `operated` up to 10 hours per day.)

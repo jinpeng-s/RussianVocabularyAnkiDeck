@@ -1,8 +1,0 @@
-просм`а`тривать
-++++++++++
-1. [`verb`] browse
-· Он пошёл `просматривать` товар на рынке. (He went to `browse` the products in the market.)
-· Они сидели и `просматривали` все варианты. (They were sitting and `browsing` through all the options.)
-2. [`verb`] inspect
-· Они пришли `просматривать` место для проведения собрания. (They came to `inspect` the place for the gathering.)
-· Полицейские пришли `просматривать` помещение. (The police came to `inspect` the premises.)

@@ -1,8 +1,0 @@
-неизм`е`нный
-++++++++++
-1. [`adjective`] invariable
-· Все эти правила не `неизменные`. (All these rules are `invariable`.)
-· Наши ценности остаются `неизменными`. (Our values remain `invariable`.)
-2. [`verb`] fix
-· Он не `неизменно` хочет построить дом. (He `fixedly` wants to build a house.)
-· Мы должны `неизменно` быть ответственны за свои слова. (We must `fixedly` be responsible for our words.)

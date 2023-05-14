@@ -1,8 +1,0 @@
-сб`о`рник
-++++++++++
-1. [`noun, masculine`] anthology
-· Он `сборник` стихов был очень достойным. (The `anthology` of poems was very commendable.)
-· Она развивала представленные в `сборнике` сюжеты. (She developed the plots presented in the `anthology`.)
-2. [`verb, imperfective`] to collect
-· Они `собирали` материалы для новой книги. (They `collected` materials for the new book.)
-· Она `собирала` статьи для журнала. (She `collected` articles for the journal.)

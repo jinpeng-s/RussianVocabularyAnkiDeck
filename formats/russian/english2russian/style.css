@@ -1,0 +1,8 @@
+.field {
+    text-align: left;
+    background-color: #fafafb;
+    border: 2px solid #dddddd;
+    border-radius: 10pt;
+    padding: 5pt;
+    margin-bottom: 5pt;
+}

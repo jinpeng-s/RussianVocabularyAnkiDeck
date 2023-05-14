@@ -1,8 +1,0 @@
-кус`о`к
-++++++++++
-1. [`noun, masculine`] piece
-· Он нашёл маленький `кусок` карандаша на полу. (He found a small `piece` of pencil on the floor.)
-· Он купил слоновую кость в `кусках`. (He bought elephant bone in `pieces`.)
-2. [`verb`] cut, break
-· Мы `разрезали` доску на `куски`. (We `cut` the board in `pieces`.)
-· Он `сломал` стакан на `куски`. (He `broke` the glass into `pieces`.)

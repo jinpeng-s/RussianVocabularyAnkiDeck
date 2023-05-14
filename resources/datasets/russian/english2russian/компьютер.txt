@@ -1,8 +1,0 @@
-компь`ю`тер
-++++++++++
-1. [`noun`] computer
-· Я использую `компьютер` для просмотра сайтов. (I use a `computer` to browse websites.)
-· У меня дома два `компьютера`. (I have two `computers` at home.)
-2. [`verb`] compute
-· Мы должны `вычислять` простые математические выражения. (We have to `compute` simple mathematical expressions.)
-· Наш компьютер может `вычислять` 75 миллионов операций в секунду. (Our computer can `compute` 75 million operations per second.)

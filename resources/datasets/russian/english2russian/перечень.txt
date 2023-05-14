@@ -1,8 +1,0 @@
-п`е`речень
-++++++++++
-1. [`noun, masculine`] list
-· Я бы хотел получить `перечень` всех продуктов. (I would like to get a `list` of all the products.)
-· Он дал мне `перечень` моих обязанностей. (He gave me a `list` of my obligations.)
-2. [`verb`] list
-· Мы `перечислили` все наши доходы. (We `listed` all our incomes.)
-· Те, кто решил посетить заседание, `перечислены` в приказе. (Those who decided to attend the meeting are `listed` in the order.)

@@ -1,8 +1,0 @@
-`у`же
-++++++++++
-1. [`adverb`] already
-· Он уже приехал. (He has `already` arrived.)
-· Она уже сделала свою работу. (She has `already` done her work.)
-2. [`conjunction`] already
-· Они уже `устроились` на работу. (They have `already` found a job.)
-· Ты уже `знаешь`, как это делается? (Do you `already` know how to do it?)

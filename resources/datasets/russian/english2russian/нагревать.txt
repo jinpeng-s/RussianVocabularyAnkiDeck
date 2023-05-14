@@ -1,8 +1,0 @@
-нагрев`а`ть
-++++++++++
-1. [`verb`] heat
-· На `нагревать` отваривается для длительного хранения. (It is heated to `heat` for long-term storage.)
-· Нам нужно для недели `нагревать` контейнер. (We need to `heat` the container for a week.)
-2. [`verb, transitive`] warm
-· Она предпочитает `нагревать` горячую пищу при помощи микроволновой печи. (She prefers to `warm` hot food with the help of a microwave oven.)
-· Для достижения наилучших результатов нужно сначала `нагревать` тесто. (To achieve the best results you should `warm` the dough first.)

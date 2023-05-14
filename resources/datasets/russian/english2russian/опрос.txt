@@ -1,8 +1,0 @@
-опр`о`с
-++++++++++
-1. [`noun, masculine`] survey
-· Мы сконцентрировались на `опросе` жителей города. (We focused on a `survey` of the city's inhabitants.)
-· Учёные провели `опрос`, для того чтобы узнать мнение общества. (Researchers conducted a `survey` in order to get the opinion of the society.)
-2. [`verb`] survey
-· Он `опросил` большое количество людей об их предпочтениях. (He `surveyed` a large number of people about their preferences.)
-· Работники `опросили` своих клиентов по поводу своей работы. (The employees `surveyed` their clients about their work.)

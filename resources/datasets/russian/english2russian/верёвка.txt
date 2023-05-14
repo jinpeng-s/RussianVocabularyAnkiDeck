@@ -1,8 +1,0 @@
-верёвка
-++++++++++
-1. [`noun, feminine`] rope
-· Они нашли `верёвку`, которая была необходима для преодоления препятствия. (They found a `rope` which was necessary to overcome the obstacle.)
-· Они использовали `веревку` для подтягивания корабля. (They used a `rope` to pull the boat.)
-2. [`verb, transitive`] rope
-· Он знает как `верёвать` верёвку. (He knows how to `rope` a rope.)
-· Он должен был `веревать` эти сумки верёвкой. (He had to `rope` these bags with a rope.)

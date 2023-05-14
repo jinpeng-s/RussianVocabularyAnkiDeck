@@ -1,8 +1,0 @@
-сн`и`зу
-++++++++++
-1. [`adverb`] from below, downwards
-· Дождь идёт `снизу`. (Rain is coming `from below`.)
-· Друзья видели его только `снизу`. (Friends saw him only `from below`.)
-2. [`preposition`] from below, from underneath
-· Всё что мы видим, `снизу`. (Everything we can see, `from below`.)
-· Трамвай проезжает туда `снизу`. (The tram is passing there `from underneath`.)

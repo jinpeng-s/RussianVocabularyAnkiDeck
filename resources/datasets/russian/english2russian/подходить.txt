@@ -1,8 +1,0 @@
-подход`и`ть
-++++++++++
-1. [`verb`] to fit
-· Одежда `подходит` мне как налету. (The clothes fit me perfectly.)
-· Этот размер не `подходит` для моей посуды. (This size does not fit my dishes.)
-2. [`verb`] to be suitable
-· Этот климат не `подходит` моему организму. (This climate does not suit my organism.)
-· Этот вариант `подходит` мне больше всего. (This option suits me the most.)

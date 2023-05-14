@@ -1,0 +1,16 @@
+приписать
+++++++++++
+приписа́ть
+++++++++++
+verb, perfective
+припи́сывать / приписа́ть
+Rarely used word (top 10,000)
+++++++++++
+П
+++++++++++
+attributeAlso: ascribe
+++++++++++
+Возможно, Том не соверша́л то, что мы ему приписа́ли. | Tom may not have done what we think he did.
+Я не де́лал того́, что Том мне приписа́л. | I didn't do what Tom said I did.
+Она приписа́ла свою́ неуда́чу невезе́нию. | She ascribed her failure to bad luck.
+Она приписа́ла свою́ неуда́чу боле́зни. | She attributed her failure to illness.

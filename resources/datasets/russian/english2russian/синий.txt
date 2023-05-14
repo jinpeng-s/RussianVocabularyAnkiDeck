@@ -1,8 +1,0 @@
-с`и`ний
-++++++++++
-1. [`adjective`] blue
-· У меня есть `синие` шорты. (I have `blue` shorts.)
-· С `синим` небом закат смотрелся замечательно. (The sunset looked amazing with the `blue` sky.)
-2. [`noun, masculine`] blue
-· Мы рассказали историю о `синем` цвете. (We told the story about the `blue` color.)
-· Он носил `синий` шарф. (He was wearing a `blue` scarf.)

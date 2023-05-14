@@ -1,8 +1,0 @@
-в`у`з
-++++++++++
-1. [`noun, masculine`] university
-· Он поступил в `вуз` в Москве. (He was admitted to a `university` in Moscow.)
-· Они приехали из другого `вуза`. (They arrived from another `university`.)
-2. [`verb`] enroll
-· Он `записался` в `вуз` этой осенью. (He `enrolled` in the `university` this autumn.)
-· Она `записалась` на дипломную работу этой весной. (She `enrolled` for a diploma project this spring.)

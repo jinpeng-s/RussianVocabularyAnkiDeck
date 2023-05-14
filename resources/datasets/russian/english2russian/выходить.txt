@@ -1,8 +1,0 @@
-выход`и`ть
-++++++++++
-1. [`verb, imperfective`] exit
-· Он постоянно `выходил` из комнаты. (He was constantly `exiting` the room.)
-· Он `выходил` из помещения и закрывал дверь за собой. (He `exited` the room and closed the door behind him.)
-2. [`verb, perfective`] go out
-· Они `вышли` из дома и отправились в путешествие. (They `went out` from their house and went on a journey.)
-· Они `вышли` из бара и начали домой. (They `went out` of the bar and started home.)

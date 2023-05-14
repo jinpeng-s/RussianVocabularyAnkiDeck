@@ -1,8 +1,0 @@
-зар`я`
-++++++++++
-1. [`noun, feminine`] dawn
-· Настала `заря` вечерняя. (The evening `dawn` has arrived.)
-· Маршрутка уехала к следующему остановочному во `заре`. (The bus left to the next stop at `dawn`.)
-2. [`verb`] dawn
-· На `зареве` она подъехала к дому. (She drove to the house at `dawn`.)
-· Окончание темноты было ясно при `заревании`. (The ending of darkness was clear at `dawning`.)

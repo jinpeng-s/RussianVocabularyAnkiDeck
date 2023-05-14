@@ -1,8 +1,0 @@
-аукцион`и`ст
-++++++++++
-1. [`noun, masculine`] auctioneer
-· В зале было много `аукционистов`. (There were many `auctioneers` in the hall.)
-· Она работает `аукционистом` и продает старинные вещи. (She works as an `auctioneer` and sells antiques.)
-2. [`verb`] auction
-· Они провели `аукцион` машин. (They held an `auction` of cars.)
-· Я купил письмо на `аукционе`. (I bought a letter at the `auction`.)

@@ -1,8 +1,0 @@
-несоотв`е`тствие
-++++++++++
-1. [`noun, neuter`] discrepancy
-· Между словами было несколько `несоответствий`. (There were a few `discrepancies` between the words.)
-· Любое `несоответствие` правил влечет неприятные последствия. (Any `discrepancy` from the rules has unpleasant consequences.)
-2. [`verb, infinitive`] to mismatch
-· Тексты переведены автоматически, так что многие `несоответствия`. (The texts were translated automatically, so there are many `mismatches`.)
-· Я думаю, вы `несоответствовали` требованиям. (I think you `mismatched` the requirements.)

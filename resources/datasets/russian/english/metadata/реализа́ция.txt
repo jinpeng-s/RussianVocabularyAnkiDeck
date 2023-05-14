@@ -1,0 +1,15 @@
+реализация
+++++++++++
+реализа́ция
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 5,000)
+++++++++++
+C2
+Р
+++++++++++
+realizationAlso: sale, realisation
+Implementing
+++++++++++
+Прое́кт нахо́дится в ста́дии реализа́ции. | The project is underway.
+Kawa — э́то реализа́ция языка́ Scheme для JVM, кото́рая позволя́ет испо́льзовать все библиоте́ки платфо́рмы Java. | Kawa is an implementation of Scheme for JVM that allows to take advantage of all the Java’s libraries.

@@ -1,8 +1,0 @@
-стро`и`тельство
-++++++++++
-1. [`noun, neuter`] building
-· Он работает в `строительстве`. (He works in `building`.)
-· `Строительство` в городе неимоверно дорогое. (`Building` in the city is incredibly expensive.)
-2. [`verb`] build
-· Они начали `строительство` новой дороги. (They started `building` a new road.)
-· Он намерен `строить` дачу на западном побережье. (He intends to `build` a cottage on the western coast.)

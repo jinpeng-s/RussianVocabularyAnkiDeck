@@ -1,0 +1,20 @@
+уравнение
+++++++++++
+уравне́ние
+++++++++++
+noun, neuter, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+У
+++++++++++
+equationAlso: equalization
+++++++++++
+Он совершенно не понима́л, что тако́е дифференциальное уравне́ние. | He didn't understand the concept of differential equations.
+У э́той систе́мы лине́йных уравне́ний есть бесконе́чно много реше́ний. | This system of linear equations has infinitely many solutions.
+Реши́те э́то куби́ческое уравне́ние: x³ + 2x² − x − 2 = 0. | Solve this cubic equation: x³ + 2x² − x − 2 = 0.
+Э́то дифференциальное уравне́ние мо́жет быть легко решено через преобразова́ние Лапласа. | This differential equation can be easily solved by Laplace transform.
+Я не могу́ реши́ть уравне́ние. | I'm not finding the equation.
+Раскро́йте ско́бки в уравне́нии. | Open the brackets in the equation.
+Вы мо́жете реши́ть э́то как систе́му уравне́ний. | You can resolve this as a system of equations.
+Уравне́ния очень сло́жные. | The equations are very complicated.
+У э́той систе́мы лине́йных уравне́ний есть ровно одно реше́ние. | This system of linear equations has exactly one solution.

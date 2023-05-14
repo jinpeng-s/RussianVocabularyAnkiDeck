@@ -1,8 +1,0 @@
-обвин`е`ние
-++++++++++
-1. [`noun, neuter`] accusation
-· Сиала была подвергнута `обвинению` в преступлении. (Siala was accused of a `crime`.)
-· Восьмой был приговорён в последствии `обвинения` в мошенничестве. (The eighth was sentenced as a result of an `accusation` of fraud.)
-2. [`verb`] accuse
-· Он был `обвинен` в убийстве. (He was `accused` of murder.)
-· Они `обвинили` его в ложных свидетельствах. (They `accused` him of giving false testimonies.)

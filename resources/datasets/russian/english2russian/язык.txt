@@ -1,8 +1,0 @@
-яз`ы`к
-++++++++++
-1. [`noun, masculine`] language
-· У них разные `языки`. (They have different `languages`.)
-· Она знает два `языка`. (She knows two `languages`.)
-2. [`verb`] speak
-· Он `языком` не владеет. (He doesn’t `speak` the language.)
-· Они смогли `языком` друг друга понять. (They were able to `speak` to each other in the language.)

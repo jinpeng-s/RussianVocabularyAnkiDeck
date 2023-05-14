@@ -1,8 +1,0 @@
-отг`а`дывать
-++++++++++
-1. [`verb`] guess
-· Он `отгадывал` идею моментально. (He `guessed` the idea instantly.)
-· Дети любят `отгадывать` загадки. (Children like to `guess` riddles.)
-2. [`verb`] solve
-· Он успешно `отгадал` уравнение. (He successfully `solved` the equation.)
-· Они `отгадали` вопрос за минуту. (They `solved` the question in a minute.)

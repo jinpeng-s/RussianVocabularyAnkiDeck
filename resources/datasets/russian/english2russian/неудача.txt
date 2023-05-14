@@ -1,8 +1,0 @@
-неуд`а`ча
-++++++++++
-1. [`noun, feminine`] failure
-· Неудача может быть причиной нервных срывов. (`Failure` can be a cause of nervous breakdowns.)
-· Неудача дает опыт, а успех дает достаток. (`Failure` gives experience, and success brings wealth.)
-2. [`verb, intransitive`] fail
-· Он не смог пройти экзамен. (He `failed` an exam.)
-· Этот план не увенчался успехом. (This plan `failed`.)

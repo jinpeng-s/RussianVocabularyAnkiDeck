@@ -1,8 +1,0 @@
-отрыв`а`ть
-++++++++++
-1. [`verb`] separate/break off
-· Дверь от `отрывалась` неслышно. (The door `separated/broke off` silently.)
-· Она от `отрывала` листы бумаги и закрепляла там фотографии. (She `separated/broke off` pieces of paper and put photos there.)
-2. [`verb`] detach
-· Нам нужно было `отрывать` детали машины. (We had to `detach` the parts of the machine.)
-· Она потратила два часа, `отрывая` ему руку из замка. (She spent two hours `detaching` his hand from the lock.)

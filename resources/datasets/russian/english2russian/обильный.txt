@@ -1,8 +1,0 @@
-об`и`льный
-++++++++++
-1. [`adjective`] abundant
-· Здесь есть `обильные` ресурсы. (There are `abundant` resources here.)
-· Она живёт в `обильном` доме. (She lives in an `abundant` house.)
-2. [`verb`] lavish
-· Компания `обильно` вознаграждала своих работников. (The company `lavished` its employees with rewards.)
-· Он дарил своёй дочери `обильные` подарки. (He `lavished` his daughter with presents.)

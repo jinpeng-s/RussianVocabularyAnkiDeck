@@ -1,8 +1,0 @@
-кон`е`ц
-++++++++++
-1. [`noun, masculine`] end, conclusion
-· Завершение этого проекта `было его концом`. (The completion of this project was its `end`.)
-· Я закончил рассказ вместо того, чтобы доходить до `конца`. (I finished the story instead of getting to the `end`.)
-2. [`verb, imperfective`] end, conclude
-· Он решил `закончить` свой доклад. (He decided to `end` his presentation.)
-· Проект был `закончен` раньше, чем мы ожидали. (The project was `ended` earlier than we expected.)

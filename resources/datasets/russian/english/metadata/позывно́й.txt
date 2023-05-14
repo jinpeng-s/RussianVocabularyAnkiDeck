@@ -1,0 +1,11 @@
+позывной
+++++++++++
+позывно́й
+++++++++++
+noun, masculine, inanimate
+++++++++++
+П
+++++++++++
+call-signAlso: signature tuneExample: позывно́й сигна́л - call-sign signal
+++++++++++
+None

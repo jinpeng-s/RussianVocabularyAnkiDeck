@@ -1,8 +1,0 @@
-загол`о`вок
-++++++++++
-1. [`noun, masculine`] heading
-· Она поставила `заголовок` к письму. (She put a `heading` at the top of the letter.)
-· Над процессом был поставлен новый `заголовок`. (A new `heading` was set over the process.)
-2. [`verb`] head
-· Она `заголовила` это письмо словами: "Уведомление о партерстве". (She `headed` this letter with the words: "Notice of partnership.")
-· Он `заголовил` документ неверно. (He `headed` the document incorrectly.)

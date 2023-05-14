@@ -1,8 +1,0 @@
-`а`лый
-++++++++++
-1. [`adjective`] bright, scarlet
-· Небо покрыто `алыми` тучами. (The sky is covered with `bright` clouds.)
-· Она носила `алое` платье. (She was wearing a `scarlet` dress.)
-2. [`verb`] become red, blush
-· Он стал `алым` от смущения. (He `became red` with embarrassment.)
-· Она за`ала` от приступа злости. (She `blushed` with a fit of anger.)

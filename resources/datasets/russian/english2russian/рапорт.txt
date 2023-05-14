@@ -1,8 +1,0 @@
-р`а`порт
-++++++++++
-1. [`noun, masculine`] report
-· Все военные должны писать `рапорт` на свои действия в бою. (All soldiers must write a `report` on their actions in combat.)
-· Он написал `рапорт` о своих обнаружениях. (He wrote a `report` on his discoveries.)
-2. [`verb, transitive`] report
-· Он должен `рапортовать` о ходе своего рабочего дня в конце недели. (He must `report` on the progress of his work day at the end of the week.)
-· Они должны `рапортовать` об исходе встречи. (They must `report` on the outcome of the meeting.)

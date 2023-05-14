@@ -1,8 +1,0 @@
-затр`а`та
-++++++++++
-1. [`noun, feminine`] expense
-· Подсчитайте все `затраты` на этот проект. (Calculate all the `expenses` for this project.)
-· Его материальные `затраты` были высокими. (His material `expenses` were high.)
-2. [`verb`] spend
-· Он затратил много сил, чтобы преодолеть трудности. (He `spent` a lot of effort to overcome difficulties.)
-· Они `затратили` два дня для разработки этого софтвера. (They `spent` two days to develop this software.)

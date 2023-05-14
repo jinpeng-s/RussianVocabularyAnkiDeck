@@ -1,8 +1,0 @@
-зелёный
-++++++++++
-1. [`adjective`] green
-· Я вижу дерево с `зелёным` листвой. (I see a tree with `green` leaves.)
-· На заборе стоит вывешенная `зелёная` лампа. (A `green` lamp is hung on the fence.)
-2. [`noun, masculine`] green
-· Я поехал на отдых в `зелёный` лес. (I went to the `green` forest for a vacation.)
-· Они посетили `зелёное` море. (They visited the `green` sea.)

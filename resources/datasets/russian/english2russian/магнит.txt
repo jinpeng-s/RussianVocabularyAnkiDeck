@@ -1,8 +1,0 @@
-магн`и`т
-++++++++++
-1. [`noun, masculine`] magnet
-· Все компьютеры работают с помощью `магнитных` дисков. (All computers work with `magnetic` disks.)
-· Тростник притягивался к `магниту` и держался над ним. (The reed was drawn to the `magnet` and held over it.)
-2. [`verb`] magnetize
-· Устройство `магнитизировало` то, что было рядом с ним. (The device `magnetized` whatever was near it.)
-· Электрический ток `магнитизировал` металлические предметы. (The electric current `magnetized` the metal objects.)

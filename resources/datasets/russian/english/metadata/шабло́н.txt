@@ -1,0 +1,13 @@
+шаблон
+++++++++++
+шабло́н
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 30,000)
+++++++++++
+Ш
+++++++++++
+templateAlso: pattern, stencil, mould, strickle, cliche, commonplace
+++++++++++
+Э́то откровенно хрено́вый пикаперский шабло́н для знако́мства. | That pick-up line is really lame.
+C++0x будет подде́рживать шабло́ны фу́нкций с произво́льным число́м аргуме́нтов. | C++0x will admit template functions that take an arbitrary number of arguments.

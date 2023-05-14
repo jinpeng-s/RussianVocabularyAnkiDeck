@@ -1,8 +1,0 @@
-нар`о`дный
-++++++++++
-1. [`adjective`] folk
-· Это был `народный` плясовой инструмент. (It was a `folk` plucked string instrument.)
-· Он преподавал `народные` танцы в городской школе. (He taught `folk` dances at the city school.)
-2. [`noun, masculine`] people's
-· Мы разработали `народный` программный интерфейс. (We developed the `people's` software interface.)
-· Город строился в духе `народной` архитектуры. (The city was built in the spirit of `people's` architecture.)

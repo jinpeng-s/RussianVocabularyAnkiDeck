@@ -1,8 +1,0 @@
-деклар`а`ция
-++++++++++
-1. [`noun, feminine`] declaration
-· Она подписала официальную `декларацию`. (She signed an official `declaration`.)
-· Я должна заполнить `декларацию` перед проходом через границу. (I have to fill out a `declaration` before crossing the border.)
-2. [`verb`] declare
-· Он авторитетно `декларировал`, что никто не может подрывать дисциплину на работе. (He `declared` authoritatively that nobody can disrupt the discipline at work.)
-· Ученые `декларировали`, что иследуемые реакции были успешными. (The scientists `declared` that the tested reactions were successful.)

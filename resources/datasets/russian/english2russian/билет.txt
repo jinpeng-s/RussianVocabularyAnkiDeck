@@ -1,8 +1,0 @@
-бил`е`т
-++++++++++
-1. [`noun, masculine`] ticket
-· Я купил `билет` на самолет. (I bought a `ticket` for the plane.)
-· Он хочет бронировать `билет` заранее. (He wants to book the `ticket` in advance.)
-2. [`verb`] ticket
-· Не забудь `билетировать` самолет. (Don't forget to `ticket` the plane.)
-· Они не смогли `билетировать` на этот рейс. (They couldn't `ticket` for this flight.)

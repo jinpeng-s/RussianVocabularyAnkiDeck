@@ -1,8 +1,0 @@
-судь`я`
-++++++++++
-1. [`noun, masculine`] judge
-· Он работает присяжным `судьёй`. (He is working as a `judge`.)
-· Он был `судьёй` в этом деле. (He was a `judge` in this case.)
-2. [`verb`] judge
-· Суд решил `судить` дело в течение двух недель. (The court decided to `judge` the case in two weeks.)
-· Он доложил про `судить` дело объективно. (He has reported to `judge` the case objectively.)

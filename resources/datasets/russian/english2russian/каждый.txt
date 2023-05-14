@@ -1,8 +1,0 @@
-к`а`ждый
-++++++++++
-1. [`pronoun`] everyone, every
-· На `каждой` улице есть своя история. (There is a story on `every` street.)
-· `Каждый` студент пришёл на встречу директора. (`Every` student came to a meeting with the director.)
-2. [`adjective`] each
-· `Каждое` дело рассматривалось по отдельности. (`Each` case was considered separately.)
-· Мы делили это на `каждые` два дня. (We divided it into `every` two days.)

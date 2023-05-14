@@ -1,8 +1,0 @@
-пар`а`дный
-++++++++++
-1. [`adjective`] grand
-· Все коридоры в этом доме оформлены по `парадному` стилю. (All the corridors in this house are decorated in `grand` style.)
-· Вечеринка была устроена в `парадном` платье. (The party was held in `grand` dress.)
-2. [`noun, masculine`] parade
-· Мы пригласили всех к участию в `параде`. (We invited everyone to take part in the `parade`.)
-· Каждый год город устраивает `парад` о день города. (Every year the city holds a `parade` on the city's birthday.)

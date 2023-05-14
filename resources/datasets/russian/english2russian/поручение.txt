@@ -1,8 +1,0 @@
-поруч`е`ние
-++++++++++
-1. [`noun, neuter`] instruction, order
-· Друг дал мне `поручение`. (A friend gave me an `instruction`.)
-· Они следуют `поручению` командира. (They follow the `order` of the commander.)
-2. [`verb`] instruct, order
-· Он приказал им `поручить` им это дело. (He `instructed` them to do this task.)
-· Командир `поручил` им ещё одну миссию. (The commander `ordered` them to do one more mission.)

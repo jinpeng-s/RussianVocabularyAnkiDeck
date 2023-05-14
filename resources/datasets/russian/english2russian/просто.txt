@@ -1,8 +1,0 @@
-пр`о`сто
-++++++++++
-1. [`adverb`] simply
-· Он ответил очень `просто`: так и будет. (He answered `simply`: it will be like that.)
-· Я думаю, всё можно `просто` решить поговоркой. (I think it can be `simply` solved with a proverb.)
-2. [`adjective`] simple
-· У него `простое` отношение к делам. (He has a `simple` attitude towards the matters.)
-· Я задал `простой` вопрос, но получил сложные ответы. (I asked a `simple` question but got complex answers.)

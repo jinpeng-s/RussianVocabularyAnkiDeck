@@ -1,8 +1,0 @@
-трансформ`а`тор
-++++++++++
-1. [`noun, masculine`] transformer
-· Этот телевизор имеет `трансформатор` для приведения напряжения. (This television has a `transformer` for voltage conversion.)
-· Они заказали `трансформатор` для оборудования. (They ordered a `transformer` for the equipment.)
-2. [`verb`] transform
-· Он помогал нам `трансформировать` идеи в реальность. (He helped us `transform` our ideas into reality.)
-· Наш новый проект предусматривает `трансформирование` нашей компании. (Our new project involves `transforming` our company.)

@@ -1,8 +1,0 @@
-стол`и`ца
-++++++++++
-1. [`noun, feminine`] capital
-· Москва является `столицей` России. (Moscow is the `capital` of Russia.')
-· Лондон является `столицей` Великобритании. (London is the `capital` of the United Kingdom.)
-2. [`adjective`] capital
-· `Столичная` акция вряд ли поднимется. (A `capital` stock is unlikely to rise.)
-· Россия стремится к развитию `столичного` туризма. (Russia is striving for the development of `capital` tourism.)

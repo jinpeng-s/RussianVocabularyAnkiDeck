@@ -1,8 +1,0 @@
-прикл`а`дывать
-++++++++++
-1. [`verb`] attach
-· Ты должен `прикладывать` резюме к своему заявлению. (You have to `attach` your résumé to your application.)
-· В письме мы должны `прикладывать` данные для подтверждения. (We must `attach` data in the letter for confirmation.)
-2. [`verb`] append
-· Она `прикладывала` дополнительные документы к приложению. (She `appended` additional documents to the appendix.)
-· Вы `прикладывали` скан ключа к заявке. (You `appended` the scan of the key to the application.)

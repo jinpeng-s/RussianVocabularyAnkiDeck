@@ -1,8 +1,0 @@
-поврежд`е`ние
-++++++++++
-1. [`noun, neuter`] damage
-· Пассажирский автобус получил `повреждения` при аварии. (The passenger bus got `damage` in the accident.)
-· Некоторые элементы имели значительные `повреждения`. (Some elements had significant `damage`.)
-2. [`verb`] damage
-· Ледяная гроза `повредила` части города. (The hail `damaged` parts of the city.)
-· Для улучшения изображения понадобится исправить странные `повреждения`, причиной которого является перегрузка памяти. (To improve the image, it will be necessary to fix the strange `damage`, the cause of which is an overload of memory.)

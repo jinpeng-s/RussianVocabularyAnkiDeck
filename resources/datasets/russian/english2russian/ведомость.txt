@@ -1,8 +1,0 @@
-в`е`домость
-++++++++++
-1. [`noun, feminine`] ledger
-· Официальное заявление содержится в `ведомости` документов. (The official statement is contained in the `ledger` of documents.)
-· Главный бухгалтер проверял `ведомость` по счетам. (The chief accountant checked the `ledger` of accounts.)
-2. [`verb`] register
-· Сотрудники решили `ведомствовать` новые договоры. (The employees decided to `register` new contracts.)
-· Они `ведомствовали` новые правила и нормы. (They `registered` new rules and regulations.)

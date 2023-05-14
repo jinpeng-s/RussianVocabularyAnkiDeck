@@ -1,8 +1,0 @@
-обнаруж`е`ние
-++++++++++
-1. [`noun, neuter`] detection
-· Проведите дополнительные меры `обнаружения`, чтобы избежать проблем. (Carry out additional measures of `detection` to avoid problems.)
-· Официальные документы предоставлены для расследования и `обнаружения` преступления. (Official documents are provided to investigate and `detect` a crime.)
-2. [`verb`] detect
-· Надо усиленно проверять для `обнаружения` опасных материалов. (You need to check intensively to `detect` hazardous materials.)
-· Новое оборудование позволяет `обнаружить` вирус в сети. (New equipment is able to `detect` a virus in the network.)

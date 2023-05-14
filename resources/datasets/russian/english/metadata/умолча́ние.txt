@@ -1,0 +1,16 @@
+умолчание
+++++++++++
+умолча́ние
+++++++++++
+noun, neuter, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+У
+++++++++++
+passing over in silenceAlso: failure to mention, preterition
+In computing default
+++++++++++
+Ты испо́льзуешь настро́йки по умолча́нию? | Are you using the default settings?
+Большинство́ люде́й выбира́ют вариа́нт по умолча́нию. | Most people choose the default option.
+Все чле́ны структу́ры да́нных по умолча́нию откры́ты. | All the elements of a data structure are public by default.
+По умолча́нию домашние живо́тные запрещены. | It goes without saying that pets are not allowed.

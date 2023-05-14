@@ -1,8 +1,0 @@
-с`у`точный
-++++++++++
-1. [`adjective`] daily
-· У нас есть `суточные` курсы. (We have `daily` courses.)
-· В отеле предоставляется `суточный` тур по городу. (The hotel provides a `daily` tour to the city.)
-2. [`noun, masculine`] day (one particular or some particular)
-· Он продал дом за три `суточные` деньги. (He sold the house for three `day's` money.)
-· За пять `суточных` дней она изучила всю историю. (She studied all the history in five `day's` time.)

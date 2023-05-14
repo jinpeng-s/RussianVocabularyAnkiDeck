@@ -1,8 +1,0 @@
-ре`а`льный
-++++++++++
-1. [`adjective`] real
-· Ето реальный `сценарий` будущего события. (This is a `real` scenario of the future event.)
-· Существуют ли `реальные` сложности для достижения цели? (Are there `real` complexities to reach the goal?)
-2. [`verb`] realize
-· Он не `реализовал` свой заветный мечту. (He didn't `realize` his dream.)
-· Эта идея уже `реализована` другим изобретателем. (This idea has been already `realized` by another inventor.)

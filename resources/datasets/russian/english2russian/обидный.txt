@@ -1,8 +1,0 @@
-об`и`дный
-++++++++++
-1. [`adjective`] offending
-· Вы говорили  `обидные` слова о нём. (You uttered `offending` words about him.)
-· Она не стала давать мне `обидные` ответы. (She refrained from giving me `offending` answers.)
-2. [`noun`] offense
-· Он совершил небольшое `обидное` преступление. (He committed a minor `offense`.)
-· В ответ на `обидное` обращение, он предупредил меня. (In response to the `offense`, he warned me.)

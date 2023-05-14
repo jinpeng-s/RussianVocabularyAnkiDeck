@@ -1,8 +1,0 @@
-неизб`е`жный
-++++++++++
-1. [`adjective`] inevitable
-· Это `неизбежно` ухудшит ситуацию. (This is `inevitable` to worsen the situation.)
-· Исход получился `неизбежен`. (The outcome was `inevitable`.)
-2. [`verb`] inevitabilize
-· Коррупция `неизбежана`. (Corruption is `inevitable`.)
-· Тенденции развития `неизбежаны`. (Trends of development are `inevitable`.)

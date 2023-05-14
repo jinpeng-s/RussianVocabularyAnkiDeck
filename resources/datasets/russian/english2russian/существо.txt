@@ -1,8 +1,0 @@
-существ`о`
-++++++++++
-1. [`noun, neuter`] entity
-· Это `существо` имеет два глаза. (This `entity` has two eyes.)
-· Это математическое `существо` абстрации было сложно для понимания. (This mathematical `entity` of abstraction was difficult to understand.)
-2. [`verb`] to exist
-· Вещи, которые `существуют` на земле, имеют реальную ценность. (Things that `exist` on Earth have real value.)
-· Это дало нам силы `существовать` в этом сложном обществе. (This gave us the power `to exist` in this complex society.)

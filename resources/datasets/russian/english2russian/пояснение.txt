@@ -1,8 +1,0 @@
-поясн`е`ние
-++++++++++
-1. [`noun, neuter`] explanation
-· Он дал `пояснение` для своей позиции на этот счёт. (He gave an `explanation` of his position on this matter.)
-· Она заслужила `пояснения` за свой поступок. (She deserved an `explanation` for her behavior.)
-2. [`verb`] explain
-· Он объяснил правила игры. (He `explained` the rules of the game.)
-· Она объяснила свои мотивы действий. (She `explained` her motives of action.)

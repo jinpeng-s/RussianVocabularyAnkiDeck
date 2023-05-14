@@ -1,8 +1,0 @@
-ур`о`к
-++++++++++
-1. [`noun, masculine`] lesson
-· У него каждый день были `уроки` математики. (He had math `lessons` every day.)
-· Моя мать провела у меня в комнате отдельный `урок` английского языка. (My mom gave me a private English `lesson` in my room.)
-2. [`verb`] learn
-· Он изучал русский язык на своих `уроках`. (He was `learning` Russian on his lessons.)
-· Этот учитель заставляет нас трудиться и `учить` каждый день. (This teacher makes us work hard and `learn` every day.)

@@ -1,8 +1,0 @@
-экспон`е`нт
-++++++++++
-1. [`noun, masculine`] exponent
-· Он пригласил эксперта, который мог бы быть полезным `экспонентом`. (He invited an expert who might be a useful `exponent`.)
-· Он является представителем жанра и выдающимся `экспонентом`. (He is a representative of the genre and a prominent `exponent`.)
-2. [`verb`] exponentiate
-· Вы можете возвести `экспонента` к квадрату. (You can `exponentiate` to the square.)
-· Все эти числа можно `экспонентировать`. (You can `exponentiate` all of these numbers.)

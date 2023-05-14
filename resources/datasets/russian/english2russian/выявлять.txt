@@ -1,8 +1,0 @@
-выявл`я`ть
-++++++++++
-1. [`verb`] identify
-· Ты должен `выявлять` причину проблемы. (You have to `identify` the cause of the problem.)
-· В мире путешествий необходимо `выявлять` и искать новых возможностей. (Traveling the world requires `identifying` and seeking out new opportunities.)
-2. [`verb`] detect
-· Они `выявляли` новое заболевание при исследовании данных. (They `detected` a new disease while studying the data.)
-· Ученые сумели `выявлять` антисептик в архаичных растениях. (Scientists were able to `detect` antiseptics in ancient plants.)

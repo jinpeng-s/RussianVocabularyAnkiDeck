@@ -1,8 +1,0 @@
-серьёзный
-++++++++++
-1. [`adjective`] serious
-· Вопрос очень `серьёзный`. (The question is very `serious`.)
-· Он никогда не излагал `серьёзных` обвинений. (He never made any `serious` accusations.)
-2. [`noun, masculine`] seriousness
-· Он понимает `серьёзность` ситуации. (He understands the `seriousness` of the situation.)
-· Он не достаточно заметил `серьёзность` ситуации. (He didn't take enough notice of the `seriousness` of the situation.)

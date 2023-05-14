@@ -1,8 +1,0 @@
-сн`о`ва
-++++++++++
-1. [`adverb`] again
-· Я думаю, я должен быть `снова` в школе завтра. (I think I must be `again` in school tomorrow.)
-· Он просто посмотрел на меня и `снова` сказал "Ничего". (He just looked at me and `again` said "Nothing".)
-2. [`conjunction`] again
-· Хорошо, я попробую `снова`, но не уверен, что это поможет. (Okay, I'll try `again` but I'm not sure it will help.)
-· Он усердно работал по ночам, и `снова` чувствовал себя переутомленным днем. (He worked hard at night and `again` felt exhausted during the day.)

@@ -1,6 +1,0 @@
-гарант`и`ровать
-++++++++++
-1. [`verb`] guarantee
-· Они официально `гарантировали`, что товар является качественным. (They officially `guaranteed` that the product is of a high quality.)
-· Он `гарантировал` мне, что всё будет готово завтра. (He `guaranteed` me that everything will be ready tomorrow.)
-· Компания `гарантирует` поставку товара в указанное время. (The company `guarantees` delivery of the product in the given time.)

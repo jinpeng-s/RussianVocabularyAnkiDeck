@@ -1,8 +1,0 @@
-`и`х
-++++++++++
-1. [`pronoun`] they/them
-· Они `их` видели. (They saw `them`.)
-· Для `их` это было приятным удивлением. (For `them`, it was a pleasant surprise.)
-2. [`pronoun`] who, whom, whose
-· Роботы, `их` исследовали и изобретали научное оборудование. (Robots, `whom` they studied and invented scientific equipment.)
-· Девушки, `их` мама звала блюстительницами чинов. (The girls, `whose` mother called them regulators of ranks.)

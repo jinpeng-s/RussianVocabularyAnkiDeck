@@ -1,8 +1,0 @@
-тр`а`нспорт
-++++++++++
-1. [`noun, masculine`] transport
-· Путь был проблематичным из-за отсутствия `транспорта`. (The journey was problematic due to the lack of `transport`.)
-· Этот вид транспорта применяется только для грузов. (This type of `transport` is only used for cargo.)
-2. [`verb`] transport
-· Каждый день автобусы `транспортируют` людей по городу. (Each day buses `transport` people around the city.)
-· Она `транспортировала` продукты из одного места в другое. (She `transported` products from one place to another.)

@@ -1,8 +1,0 @@
-санат`о`рий
-++++++++++
-1. [`noun, masculine`] sanatorium
-· Он посещал `санаторий` для лечения. (He visited a `sanatorium` for treatment.)
-· Она заболела, поэтому ее послали в `санаторий`. (She got sick, so they sent her to the `sanatorium`.)
-2. [`verb`] sanitize
-· Мы должны `санитаризовать` все помещения. (We have to `sanitize` all the rooms.)
-· Они обязаны `санитаризовать` воду, прежде чем ее пить. (They are required to `sanitize` the water before drinking it.)

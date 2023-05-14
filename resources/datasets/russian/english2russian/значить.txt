@@ -1,8 +1,0 @@
-зн`а`чить
-++++++++++
-1. [`verb`] mean
-· Как ты понимаешь, это `значит`, что мы сдадим экзамен завтра. (As you understand, that `means` that we'll take the exam tomorrow.)
-· Я понял, что на следующий год она поедет в Китай, что `значит`, что мы не сможем общаться. (I understood that she's going to China next year, which `means` that we won't be able to communicate.)
-2. [`noun, neuter`] meaning
-· Нам нужно понять `значение` этих слов. (We need to understand the `meaning` of these words.)
-· Ты знаешь `значение` всех этих слов? (Do you know the `meaning` of all these words?)

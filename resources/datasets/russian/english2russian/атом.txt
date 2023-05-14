@@ -1,8 +1,0 @@
-`а`том
-++++++++++
-1. [`noun, masculine`] atom
-· Атомы образуют основные естественные элементы. (Atoms form the basic natural elements.)
-· Атомная энергия может быть использована и на благо и на зло. (Atomic energy can be used for both good and bad.)
-2. [`verb`] atomize
-· Был изобретён метод `атомизации` для производства растворов в крупных объёмах. (A method of `atomization` was invented for the production of solutions in large volumes.)
-· В процессе `атомизации` продукт нагревается до точки кипения. (During `atomization` the product is heated to the boiling point.)

@@ -1,8 +1,0 @@
-психол`о`гия
-++++++++++
-1. [`noun, feminine`] psychology
-· Она учится на `психологию`. (She studies `psychology`.)
-· Она является опытным `психологом`. (She is an experienced `psychologist`.)
-2. [`verb`] psychologize
-· Он начал применять `психологические` методы в образовании. (He started to use `psychological` methods in education.)
-· Он предлагал `психологизировать` школьную программу. (He proposed to `psychologize` the school program.)

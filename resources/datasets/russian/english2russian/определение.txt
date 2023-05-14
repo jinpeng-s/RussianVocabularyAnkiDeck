@@ -1,8 +1,0 @@
-определ`е`ние
-++++++++++
-1. [`noun, neuter`] definition
-· Мы должны прочитать `определение` этого термина. (We need to read the `definition` of this term.)
-· `Определение` этого понятия было дано в законе. (The `definition` of this concept was given in the law.)
-2. [`verb`] define
-· Он попытался `определить` сложный процесс. (He tried to `define` a complex process.)
-· Наша задача `определить` место происшествия. (Our task is to `define` the place of the accident.)

@@ -1,8 +1,0 @@
-игр`а`ть
-++++++++++
-1. [`verb, infinitive`] to play
-· Дети `играют` во дворе. (The children `play` in the yard.)
-· Вы можете `играть` в эту игру на вашем ПК. (You can `play` this game on your PC.)
-2. [`noun, neuter`] play (dramatic work)
-· В театре сегодня стартует новое `игра`. (A new `play` is starting in the theater today.)
-· “Отель Монако” – это знаменитая `игра` Владимира Высоцкого. (“Hotel Monaco” is the famous `play` by Vladimir Vysotsky.)

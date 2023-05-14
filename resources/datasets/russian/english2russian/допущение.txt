@@ -1,8 +1,0 @@
-допущ`е`ние
-++++++++++
-1. [`noun, neuter`] assumption
-· Они приняли `допущение`, что это правильное решение. (They adopted the `assumption` that it is the right decision.)
-· Исходя из `допущения` о сроках, проект должен быть завершен через 10 дней. (Based on the `assumption` of deadlines, the project should be completed within 10 days.)
-2. [`verb`] assume
-· Они `допустили`, что этот план приведет к успеху. (They `assumed` that this plan would lead to success.)
-· Эксперты `допускают`, что это является наиболее вероятным сценарием. (Experts `assume` that this is the most likely scenario.)

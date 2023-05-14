@@ -1,8 +1,0 @@
-транз`и`стор
-++++++++++
-1. [`noun, masculine`] transistor
-· В процессоре было использовано более 300 `транзисторов`. (More than 300 `transistors` were used in the processor.)
-· Он модифицировал устройство добавив дополнительные `транзисторы`. (He modified the device by adding additional `transistors`.)
-2. [`verb`] transistorize
-· Они `транзисторизировали` устройство, чтобы улучшить его производительность. (They `transistorized` the device in order to improve its performance.)
-· Последняя версия процессора была `транзисторизирована`. (The latest version of the processor was `transistorized`.)

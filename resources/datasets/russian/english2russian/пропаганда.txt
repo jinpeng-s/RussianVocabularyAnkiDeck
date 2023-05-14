@@ -1,8 +1,0 @@
-пропаг`а`нда
-++++++++++
-1. [`noun, feminine`] propaganda
-· В борьбе против экстремизма были использованы  `пропагандистские` методы. (Propaganda methods were used to fight extremism.)
-· В средствах массовой информации представлена `пропаганда` правительства. (Government propaganda is presented in mass media.)
-2. [`verb`] propagate
-· Политическое движение  `пропагандировало` свои идеи среди населения. (The political movement `propagated` its ideas among the population.)
-· Профессор `пропагандировал` важность науки и образования. (The professor `propagated` the importance of science and education.)

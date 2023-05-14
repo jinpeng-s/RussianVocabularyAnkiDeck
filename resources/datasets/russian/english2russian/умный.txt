@@ -1,8 +1,0 @@
-`у`мный
-++++++++++
-1. [`adjective`] clever
-· Он очень `умный` мальчик. (He is a very `clever` boy.)
-· Его идея была очень `умная`. (His idea was very `clever`.)
-2. [`noun, masculine`] clever person
-· Этот `умный` человек нашёл выход из сложной ситуации. (This `clever` person found a way out of the difficult situation.)
-· `Умные` люди имеют богатый интеллектуальный потенциал. (`Clever` people have a rich intellectual potential.)

@@ -1,8 +1,0 @@
-заболев`а`ть
-++++++++++
-1. [`verb`] to fall ill
-· Он `заболел`. (He `fell ill`.)
-· Она `заболела` от гриппа этой зимой. (She `fell ill` with the flu this winter.)
-2. [`verb`] to infect
-· Воздух `заболевал` бактериями. (The air was `infected` with bacteria.)
-· Он страдает от заболевания, которое `заболело` его мышцы. (He suffers from a disease that `infected` his muscles.)

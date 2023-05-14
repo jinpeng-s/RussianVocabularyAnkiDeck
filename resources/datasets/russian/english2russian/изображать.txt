@@ -1,8 +1,0 @@
-изображ`а`ть
-++++++++++
-1. [`verb`] depict
-· Ты можешь `изображать` его так, как тебе нравится. (You can `depict` him in any way you like.)
-· Картина изображала город во время снегопада. (The painting `depicted` the city during a snowfall.)
-2. [`verb`] portray
-· Во время презентации они `изображали` свои идеи яркими слайдами. (They `portrayed` their ideas with vivid slides during the presentation.)
-· Он `изображал` героя как доброго человека. (He `portrayed` the hero as a kind man.)

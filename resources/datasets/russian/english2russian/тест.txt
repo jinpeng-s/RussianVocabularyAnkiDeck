@@ -1,8 +1,0 @@
-т`е`ст
-++++++++++
-1. [`noun, masculine`] test
-· Они сдали `тест` с первой попытки. (They passed the `test` on their first try.)
-· Для защиты диплома необходимо поступить на `тест`. (To defend the thesis one has to take a `test`.)
-2. [`verb`] to test
-· Они `тестировали` продукт перед его продажей. (They `tested` the product before its sale.)
-· Нам нужно `тестировать` наше программное обеспечение на надёжность. (We need to `test` our software for reliability.)

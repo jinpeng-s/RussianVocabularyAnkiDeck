@@ -1,8 +1,0 @@
-к`а`рта
-++++++++++
-1. [`noun, feminine`] map
-· Они приобрели `карту` для своего путешествия. (They bought a `map` for their journey.)
-· Они использовали `карту`, чтобы найти новое место. (They used the `map` to find a new place.)
-2. [`verb, transitive`] map
-· Они `отобразили` все пути на карте. (They `mapped` out all the paths on the map.)
-· Они `отобразили` маршрут на карте. (They `mapped` their route out on the map.)

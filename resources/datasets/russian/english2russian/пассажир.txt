@@ -1,8 +1,0 @@
-пассаж`и`р
-++++++++++
-1. [`noun, masculine`] passenger
-· В этом автобусе проехало много `пассажиров`. (Many `passengers` travelled in this bus.)
-· `Пассажиры` должны быть безопасны во время поездки. (`Passengers` should be safe during the journey.)
-2. [`verb`] transport
-· Этот автобус `пассажиров` до ближайшей остановки. (This bus `transports` passengers to the closest stop.)
-· `Пассажиры` этого поезда будут перевезены в другой город. (The `passengers` of this train will be transported to another city.)

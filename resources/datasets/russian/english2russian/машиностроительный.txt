@@ -1,8 +1,0 @@
-машиностро`и`тельный
-++++++++++
-1. [`noun, masculine`] mechanical engineering
-· Он учится на машиностроительном факультете. (He is studying at the `mechanical engineering` faculty.)
-· В машиностроительной отрасли существует много профессий. (There are a lot of professions in the `mechanical engineering` industry.)
-2. [`verb`] engineer
-· Он разрабатывает научные проекты по `машиностроительному` инжинирингу. (He is developing scientific projects in `mechanical engineering`.)
-· Он мастерски `инжинировал` несколько машин для автоматизации. (He `engineered` several machines for automation.)

@@ -1,0 +1,22 @@
+структура
+++++++++++
+структу́ра
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 2,000)
+++++++++++
+C1
+С
+++++++++++
+structure
+++++++++++
+Мозг име́ет сло́жную структу́ру. | The brain has a complex structure.
+Э́та моле́кула име́ет кристалли́ческую структу́ру. | This molecule has a crystalline structure.
+Фунда́мент подде́рживает структу́ру зда́ния. | Foundations maintain the structure of the building.
+Тами нашёл оши́бку в структу́ре предложе́ния. | Tamy discovered a mistake in the sentence structure.
+Эсперанто не только номинально, но и по свое́й структу́ре - междунаро́дный язы́к. | Esperanto is not only nominally but also structurally an international language.
+Структу́ру нельзя назва́ть безопа́сной. | The structure isn't safe.
+Структу́ра мо́зга сло́жная. | The structure of the brain is complicated.
+Фрэнсис Крик был одним из первооткрыва́телей структу́ры ДНК. | Francis Crick was one of the discoverers of DNA's structure.
+Гру́ппа брита́нских учёных обнару́жила, по их слова́м, "си́льную связь" между убежде́ниями челове́ка и структу́рой его мо́зга. | A team of British scientists has discovered what is apparently a “strong correlation” between a person's beliefs and the structure of his or her brain.
+Структу́ры в языке́ C позволя́ют группирова́ть скалярные переме́нные, таки́е как координаты то́чки. | C structures allow the grouping of scalar variables, such as the coordinates of a point.

@@ -1,8 +1,0 @@
-фл`а`г
-++++++++++
-1. [`noun, masculine`] flag
-· Он `флаг` помогал им ориентироваться в джунглях. (The `flag` helped them navigate through the jungle.)
-· Мне нужно приобрести `флаг` для своего корабля. (I need to buy a `flag` for my boat.)
-2. [`verb`] flag
-· У нее заметно `ослабели` настроение. (Her mood `flagged` significantly.)
-· Его энтузиазм `отвалился` после первого сбоя. (His enthusiasm `flagged` after the first failure.)

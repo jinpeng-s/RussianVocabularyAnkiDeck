@@ -1,8 +1,0 @@
-пр`и`зма
-++++++++++
-1. [`noun, feminine`] prism
-· То, что было изложено на семинаре, можно объяснить помощью `призмы` философии. (What was presented at the seminar can be explained with the `prism` of philosophy.)
-· Архитектура дома напоминает `призму` проецированную на стены. (The architecture of the house resembles a `prism` projected on the walls.)
-2. [`verb`] to prism
-· Белые светильники `призмировали` его лицо при входе в зал. (White spotlights `prismed` his face on entering the hall.)
-· Архитекторы `призмировали` форму моста. (Architects `prismed` the shape of the bridge.)

@@ -1,8 +1,0 @@
-х`и`щник
-++++++++++
-1. [`noun, masculine`] predator
-· Животное для других животных, таких как мыши, является `хищником`. (A creature to other creatures, such as mice, is a `predator`.)
-· Некоторые млекопитающие являются `хищниками`. (Some mammals are `predators`.)
-2. [`verb`] hunt
-· Некоторые тигры `хищничают` по ночам. (Some tigers `hunt` at night.)
-· Наши псы иногда `хищничают` за добычу. (Our dogs sometimes `hunt` for prey.)

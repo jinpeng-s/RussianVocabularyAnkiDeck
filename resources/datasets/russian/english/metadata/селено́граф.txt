@@ -1,0 +1,11 @@
+селенограф
+++++++++++
+селено́граф
+++++++++++
+noun, masculine, animate
+++++++++++
+С
+++++++++++
+selenographerInfo: Specialist for lunar mapping and lunar science.
+++++++++++
+None

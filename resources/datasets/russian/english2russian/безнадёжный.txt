@@ -1,8 +1,0 @@
-безнадёжный
-++++++++++
-1. [`adjective`] hopeless
-· Это кажется `безнадёжным`. (It seems `hopeless`.)
-· Я нахожусь в `безнадёжной` ситуации. (I'm in a `hopeless` situation.)
-2. [`verb`] hope
-· Никто не ожидает произвести `безнадёжные` исходы в данной ситуации. (Nobody expects `hopeless` outcomes in this situation.)
-· Он боялся `безнадёжного` исхода. (He feared a `hopeless` outcome.)

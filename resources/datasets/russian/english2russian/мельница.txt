@@ -1,8 +1,0 @@
-м`е`льница
-++++++++++
-1. [`noun, feminine`] mill
-· В деревне была старая `мельница`. (There was an old `mill` in the village.)
-· Душистый запах `мельницы` распространялся по всему месту. (The sweet smell of the `mill` spread across the place.)
-2. [`verb`] mill
-· `Мельница` измельчает зерно до порошка. (A `mill` grinds the grain into a powder.)
-· Ты можешь `мелить пшеницу` в этой мельнице. (You can `mill wheat` in this mill.)

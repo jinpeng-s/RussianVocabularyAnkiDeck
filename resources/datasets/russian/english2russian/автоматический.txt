@@ -1,8 +1,0 @@
-автомат`и`ческий
-++++++++++
-1. [`adjective`] automatic
-· Это `автоматический` автомобиль. (It's an `automatic` car.)
-· Мы разместили этот процесс на `автоматическом` режиме. (We set this process to `automatic` mode.)
-2. [`adverb`] automatically
-· Программа `автоматически` сохранила все изменения. (The program `automatically` saved all changes.)
-· Форматтер `автоматически` форматирует ваш текст. (The formatter `automatically` formats your text.)

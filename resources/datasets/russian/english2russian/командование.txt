@@ -1,8 +1,0 @@
-ком`а`ндование
-++++++++++
-1. [`noun, neuter`] command
-· Он `командовал` войсками против врагов. (He `commanded` the troops against the enemies.)
-· Она подчинилась `командованию` своего начальства. (She obeyed the `command` of her superiors.)
-2. [`verb`] command
-· Он `командовал` армией без сомнений. (He `commanded` the army without hesitation.)
-· Они `командовали` своим караульным вниманием. (They `commanded` their sentry to pay attention.)

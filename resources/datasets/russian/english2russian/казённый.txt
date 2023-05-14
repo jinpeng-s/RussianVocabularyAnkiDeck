@@ -1,8 +1,0 @@
-казённый
-++++++++++
-1. [`adjective`] state-owned
-· Он принадлежит к `казённой` компании. (It belongs to a `state-owned` company.)
-· Автобус был `казённым`. (The bus was `state-owned`.)
-2. [`adverb`] state-ownedly
-· Он владеет этим `казённым` оборудованием. (He owns this `state-ownedly` equipment.)
-· Компания была ведёна `казённым` образом. (The company was run `state-ownedly`.)

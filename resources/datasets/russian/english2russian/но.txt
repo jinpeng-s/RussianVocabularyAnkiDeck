@@ -1,8 +1,0 @@
-но
-++++++++++
-1. [`adverb`] now
-· `Но` всё, что он сказал, было трудно для меня приметить. (But `now` all that he said was hard for me to accept.)
-· `Но` время изменилось. (But `now` time has changed.)
-2. [`conjunction`] but
-· `Я` думаю, `но` я не уверен. (I think `but` I'm not sure.)
-· `Она` была очень грустная, `но` всё же поняла. (She was very sad `but` still understood.)

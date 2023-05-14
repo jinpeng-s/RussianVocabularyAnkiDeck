@@ -1,8 +1,0 @@
-разг`а`дывать
-++++++++++
-1. [`verb, transitive`] solve
-· Он помог мне `разгадать` сложную задачу. (He helped me `solve` a difficult task.)
-· Они смогли `разгадать` причину этой проблемы. (They managed to `solve` the cause of this problem.)
-2. [`verb, intransitive`] guess
-· Он использовал науку и математику, чтобы `разгадывать` загадки. (He used science and math to `guess` puzzles.)
-· Она не может `разгадать` это загадку. (She can't `guess` this riddle.)

@@ -1,8 +1,0 @@
-строк`а`
-++++++++++
-1. [`noun, feminine`] string
-· Отделяйте каждую словоформу `строкой`. (Separate each word form by a `string`.)
-· Программисты должны хорошо понимать `строки` программного кода. (Programmers must have a good understanding of `strings` of program code.)
-2. [`verb`] string
-· Он начал `строить` свое резюме. (He began to `string` his resume together.)
-· Я был занят `строить` соединения с другими командами. (I was busy `stringing` together connections with other teams.)

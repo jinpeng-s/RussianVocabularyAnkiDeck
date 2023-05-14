@@ -1,8 +1,0 @@
-гражд`а`нский
-++++++++++
-1. [`adjective`] civil
-· В этой стране применяется `гражданский` закон. (Civil law is applied in this country.)
-· Это `гражданские` права и свободы. (These are civil rights and liberties.)
-2. [`noun, masculine`] civilian
-· Крупное количество `гражданских` лиц было пострадавшими в этой катастрофе. (A large number of `civilians` were victims of this disaster.)
-· `Гражданским` людям разрешено в армию не приезжать. (`Civilians` are allowed not to be in the army.)

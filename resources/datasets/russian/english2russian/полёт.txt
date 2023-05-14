@@ -1,8 +1,0 @@
-п`о`лет
-++++++++++
-1. [`noun, masculine`] flight
-· У нас был `полёт` в Дубай. (We had a `flight` to Dubai.)
-· Ты купил билет на `полёт`? (Did you buy a ticket for the `flight`?)
-2. [`verb`] fly
-· Самолёт `полетел` в Дубай. (The plane `flew` to Dubai.)
-· Мы `полетим` в Германию следующей неделей. (We will `fly` to Germany next week.)

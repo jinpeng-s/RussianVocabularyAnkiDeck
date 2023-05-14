@@ -1,8 +1,0 @@
-кр`о`ме
-++++++++++
-1. [`preposition`] besides
-· Все идеи, кроме этой, были отвергнуты. (All ideas `besides` this one were rejected.)
-· Кроме того, он не очень охотно выполнял свои обязанности. (`Besides`, he wasn't very willing to fulfill his obligations.)
-2. [`conjunction`] except
-· Всем было разрешено посетить мероприятие, `кроме` детей младше 12 лет. (Everyone was allowed to attend the event `except` for children younger than 12 years old.)
-· Мы получили все материалы, `кроме` того, который был на одной из потерянных памятников. (We got all the materials `except` for the one that was on one of the lost monuments.)

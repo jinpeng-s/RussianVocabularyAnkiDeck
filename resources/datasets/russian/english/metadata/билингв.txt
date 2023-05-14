@@ -1,0 +1,11 @@
+билингв
+++++++++++
+билингв
+++++++++++
+noun, masculine, animate
+++++++++++
+Б
+++++++++++
+bilingualInfo: a person who is fluent in two languages
+++++++++++
+Том - билингв. | Tom is bilingual.

@@ -1,8 +1,0 @@
-пров`а`л
-++++++++++
-1. [`noun, masculine`] failure
-· Оборот `провал` проекта был безусловно его неудачей. (The failure of the project was undoubtedly his `failure`.)
-· Некоторые опитимисты всё же недооценивают `провал` реформ. (Some optimists still underestimate the `failure` of the reform.)
-2. [`verb`] fail
-· Он не смог доказать, что он не `провалил` экзамен. (He couldn't prove that he didn't `fail` the exam.)
-· Они никогда не `провалят` — они не в этом разумны. (They will never `fail` — they're not foolish enough for that.)

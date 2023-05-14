@@ -1,8 +1,0 @@
-шаг`а`ть
-++++++++++
-1. [`verb`] step
-· Он `шагал` очень быстро. (He `stepped` very quickly.)
-· Я слышала, как он `шагал` по лестнице. (I heard him `stepping` upstairs.)
-2. [`noun, masculine`] step
-· Мы двигаемся по `шагам` плана. (We are going step by `step` according to the plan.)
-· Он проскакивал несколько `шагов`, чтобы догнать поезд. (He jumped a few `steps` to catch the train.)

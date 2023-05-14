@@ -1,8 +1,0 @@
-случ`а`йность
-++++++++++
-1. [`noun, feminine`] randomness
-· Они `случайность` атрибутов этой проблемы накопили и проанализировали. (They `randomness` of the attributes of this problem accumulated and analyzed.)
-· В некоторых случаях `случайность` оказалась очень полезной. (In some cases `randomness` proved to be very helpful.)
-2. [`adjective`] random
-· `Случайные` эффекты надо позаботиться при разработке этой системы. (`Random` effects need to be taken into account when developing this system.)
-· `Случайные` факторы не должны быть не приниматься во внимание. (`Random` factors should not be disregarded.)

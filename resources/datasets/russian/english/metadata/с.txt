@@ -1,0 +1,25 @@
+с
+++++++++++
+с
+++++++++++
+Daily used word (top 10)
+++++++++++
+A1
+С
+++++++++++
+withExample: Я жила с семьёй. - He lives with his mother.Info: с + object in instrumental case
+fromExample: Я то́лько что пришла́ с рабо́ты. - I have just come from work.Info: с + place, origin in genitive case
+sinceExample: С апре́ля - since AprilInfo: с + time in genitive case
+offAlso: remove fromExample: Он снял карти́ну со стены́. - He took the picture off the wall.Info: с + object in genitive case
+againstExample: по вопросам борьбы с инфекционными заболеваниями - on the fight against infectious diseaseInfo: с + object in instrumental case
+++++++++++
+Пробле́мы с эре́кцией мо́гут быть вызваны разли́чными причи́нами. | since then
+Ты уже определи́лся с те́мой дипло́ма? | (to have) lost one`s mind
+Мне чай с лимо́ном, пожалуйста. | as compared with
+Ты недавно с ним познако́мился? | countersunk screw
+Ты мо́жешь ходи́ть с закры́тыми глаза́ми? | warmest regards
+С днём рожде́ния, Мюриэл! | with difficulty
+Жизнь — то, что с тобой случа́ется, пока ты за́нят други́ми дела́ми. | with great difficulty; narrowly
+Все хотя́т встре́титься с вами, вы знамени́тость! | to confuse
+Мы жда́ли э́той вечери́нки с нетерпе́нием. | without a word
+Прошло́ почти 50 лет с тех пор, как зако́нчилась Втора́я мировая война́. | with difficulty (hardly, scarcely)

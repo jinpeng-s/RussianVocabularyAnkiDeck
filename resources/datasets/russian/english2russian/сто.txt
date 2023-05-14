@@ -1,8 +1,0 @@
-ст`о`
-++++++++++
-1. [`noun, masculine`] cost
-· В `стоимости` товара включена доставка. (The `cost` of the product includes delivery.)
-· Я слышал, что авиабилеты `стоят` не очень дорого. (I heard that airplane tickets `cost` not too much.)
-2. [`verb`] cost/to cost
-· Это `стоит` много денег. (It `costs` a lot of money.)
-· Какова примерная `стоимость` авиабилетов? (What is the approximate `cost` of the airplane tickets?)

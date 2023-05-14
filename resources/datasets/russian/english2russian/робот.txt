@@ -1,8 +1,0 @@
-р`о`бот
-++++++++++
-1. [`noun, masculine`] robot
-· Этот новый `робот` спосон делать много вещей. (This new `robot` is capable of doing many things.)
-· В этой фабрике работают `роботы`. (In this factory `robots` are working.)
-2. [`verb`] automate
-· Мы можем автоматизировать производство, используя `роботы`. (We can `automate` the production using `robots`.)
-· Некоторые компании решили автоматизировать свое производство, чтобы сократить расходы. (Some companies decided to `automate` their production to reduce costs.)

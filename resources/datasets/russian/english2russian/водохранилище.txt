@@ -1,8 +1,0 @@
-водохран`и`лище
-++++++++++
-1. [`noun, neuter`] reservoir
-· Наша страна строит `водохранилища` для наступающего зимнего сезона. (Our country is constructing `reservoirs` for the upcoming winter season.)
-· В этом `водохранилище` протекает некая речка. (A stream flows through this `reservoir`.)
-2. [`verb`] store
-· Они `водохранилище` во второй половине года. (They will `store` in the second half of the year.)
-· После растения `водохранилища` речную воду. (The plants will `store` river water afterwards.)

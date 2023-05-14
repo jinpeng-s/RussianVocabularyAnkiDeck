@@ -1,8 +1,0 @@
-г`о`род
-++++++++++
-1. [`noun, masculine`] city
-· `Город` был полон праздничной атмосферы. (The `city` was full of festive atmosphere.)
-· Несколько дней назад в `городе` было очень шумно. (A few days ago, it was very noisy in the `city`.)
-2. [`verb`] build
-· Они `городили` всю ночь до утра. (They `built` all night until morning.)
-· Они вдвоём `городят` свой дом из кирпича. (They both `are building` their house from bricks.)

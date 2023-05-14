@@ -1,8 +1,0 @@
-фальш`и`вый
-++++++++++
-1. [`adjective`] fake, false
-· Он купил `фальшивые` билеты. (He bought `fake` tickets.)
-· Он пытался продать `фальшивые` деньги. (He attempted to sell `false` money.)
-2. [`noun, masculine`] counterfeiter
-· Он был `фальшивым` денежным делом. (He was a `counterfeiter` of money.)
-· Тот `фальшивый` брендировал нелегальные банкноты. (That `counterfeiter` counterfeited illegal banknotes.)

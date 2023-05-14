@@ -1,8 +1,0 @@
-табл`и`ца
-++++++++++
-1. [`noun, feminine`] table
-· Я видел `таблицу` в газете. (I saw the `table` in the newspaper.)
-· Учитель показал `таблицу` из учебника. (The teacher showed a `table` from the textbook.)
-2. [`verb`] table
-· Мы `подали` этот вопрос `в таблицу` для дальнейшего рассмотрения. (We `tabled` this issue for further consideration.)
-· Заседание было `прервано`, чтобы `подать в таблицу` новые предложения. (The meeting was `interrupted` in order to `table` new proposals.)

@@ -1,8 +1,0 @@
-аудит`о`рия
-++++++++++
-1. [`noun, feminine`] audience
-· Аудитория прислушалась к президенту. (The `audience` listened to the president.)
-· В зале была большая аудитория. (There was a large `audience` in the hall.)
-2. [`verb`] audit
-· Там `аудитория` по закону. (They `audit` by law there.)
-· Он провёл `аудиторию` в конторе. (He `audited` the office.)

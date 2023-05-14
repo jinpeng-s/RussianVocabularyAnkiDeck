@@ -1,8 +1,0 @@
-возм`о`жный
-++++++++++
-1. [`adjective`] possible
-· Это `возможно` даже с текущими ресурсами. (It's `possible` even with current resources.)
-· Для достижения этой цели `возможно` нужно больше времени. (`Possible` more time is needed to achieve this goal.)
-2. [`noun, masculine`] possibility
-· Они уменьшили `возможность` экстремистских действий. (They reduced the `possibility` of extremist actions.)
-· Для такого плана существует `возможность` успеха. (There's a `possibility` of success for the plan.)

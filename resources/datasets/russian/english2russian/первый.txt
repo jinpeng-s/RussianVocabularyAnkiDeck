@@ -1,8 +1,0 @@
-п`е`рвый
-++++++++++
-1. [`adjective`] first
-· Это `первый` результат поиска. (This is the `first` result of the search.)
-· Наш `первый` класс был последним. (Our `first` class was the last one.)
-2. [`noun, masculine`] first
-· Имя нашего `первого` президента? (What is the name of our `first` president?)
-· Он является `первым` на ту должность. (He is the `first` one to hold that position.)

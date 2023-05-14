@@ -1,8 +1,0 @@
-кип`е`ть
-++++++++++
-1. [`verb`] boil
-· Вода `кипит` во вкусной суп-пюре. (The water is `boiling` in a delicious soup-puree.)
-· Кофе `кипятился` долгое время в чашке. (The coffee was `boiling` for a long time in a cup.)
-2. [`noun, masculine`] boil
-· Он слышал, как из посуды выходит `кипение`. (He heard the `boiling` coming from the dishes.)
-· Все мы можем думать о первоначальном `кипении`, из которого произошла вселенная. (We can all think about the initial `boiling`, from which the universe arose.)

@@ -1,8 +1,0 @@
-учёный
-++++++++++
-1. [`noun, masculine`] scientist
-· Это `учёный` предложил принципиально новую теорию. (This `scientist` proposed a fundamentally new theory.)
-· Она разработала проект, в котором участвовали `учёные` по всему миру. (She developed a project that involved `scientists` around the world.)
-2. [`verb`] to research
-· Он проводил `учёные` исследования в этом вопросе. (He conducted `scientific` research on this matter.)
-· Наша команда `исследует` новые возможности. (Our team is `researching` new possibilities.)

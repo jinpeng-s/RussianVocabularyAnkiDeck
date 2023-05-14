@@ -1,8 +1,0 @@
-учрежд`е`ние
-++++++++++
-1. [`noun, neuter`] institution
-· Это `учреждение` известно своими исследованиями. (This `institution` is known for its research.)
-· Цели `учреждения` противоречат интересам региона. (The goals of the `institution` contradict the interests of the region.)
-2. [`verb`] establish
-· Банк `учредил` беспроцентный заем. (The bank `established` an interest-free loan.)
-· Правительство `учредило` дополнительные социальные программы. (The government `established` additional social programs.)

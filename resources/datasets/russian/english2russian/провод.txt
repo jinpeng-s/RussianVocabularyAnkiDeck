@@ -1,8 +1,0 @@
-пров`о`д
-++++++++++
-1. [`noun, masculine`] cord
-· Вы должны иметь `провод` для подключения к электричеству. (You have to have a `cord` to connect to the electricity.)
-· Ему потребовался `провод` для подключения другого устройства. (He needed a `cord` to connect another device.)
-2. [`verb`] to cord
-· Он пришел со своим инструментом `проводить` провода. (He came with his tool to `cord` the wires.)
-· Клеммы предназначены для `проводки` электрических проводов. (Crimps are used to `cord` electrical wires.)

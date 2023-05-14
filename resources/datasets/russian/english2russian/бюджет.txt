@@ -1,8 +1,0 @@
-бюдж`е`т
-++++++++++
-1. [`noun, masculine`] budget
-· Они учитывают `бюджет`, который доступен для проекта. (They consider the `budget` available for the project.)
-· В бюджете включены все пункты, которые были заявлены. (The `budget` includes all items that were claimed.)
-2. [`verb`] budget
-· Они `бюджетируют` каждый шаг проекта. (They `budget` each step of the project.)
-· У нас недостаточно времени для правильного `бюджетирования` проекта. (We don't have enough time to properly `budget` the project.)

@@ -1,8 +1,0 @@
-дров`а`
-++++++++++
-1. [`noun, masculine`] logs
-· Для поддержания огня они используют `дрова` из березы. (They use `logs` of birch for keeping a fire.)
-· У них постоянно не хватает `дров` для плиты. (They constantly don't have enough `logs` for the stove.)
-2. [`verb`] sawing
-· Он работает на дроварне, `дровит` деревья. (He works at the sawmill, `sawing` trees.)
-· В цеху друзья дровили `дрова` для строительства. (In the workshop his friends were `sawing` logs for construction.)

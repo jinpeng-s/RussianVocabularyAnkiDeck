@@ -1,8 +1,0 @@
-обусл`о`вливать
-++++++++++
-1. [`verb`] condition
-· Она `обусловливала` свое решение температурой воздуха. (She `conditioned` her decision by the temperature of the air.)
-· Его решение `обусловливалось` лишь его презрение к ее друзьям. (His decision was `conditioned` only by his disdain for her friends.)
-2. [`noun, neuter`] condition
-· Это `обусловление` потребовало бы много времени и труда. (This `conditioning` would require a lot of time and effort.)
-· Мы должны были рассмотреть все возможные `обусловления` прежде, чем принять решение. (We had to consider all the possible `conditions` before making a decision.)

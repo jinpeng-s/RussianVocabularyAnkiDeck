@@ -1,0 +1,19 @@
+счётчик
+++++++++++
+счётчик
+++++++++++
+noun, masculine, animate
+Very rarely used word (top 20,000)
+++++++++++
+С
+++++++++++
+counterAlso: meter, tellerInfo: (inanimate)
+calculatorAlso: computer (person)Info: (animate)
+++++++++++
+Сними́те показа́ния счётчика. | Read the meter.
+Я бы давно потеря́л счёт числу́ предложе́ний, добавленных мной на Татоэбу, когда бы не счётчик. | I would have long ago lost track of how many sentences I contributed to Tatoeba, were it not for the count.
+Сними́те, пожалуйста, показа́ния счётчика. | Please read the meter.
+Где счётчики? | Where are the meters?
+Сними́ показа́ния счётчика. | Read the meter.
+Прочти́те мне показа́ние счётчика у котла́. | Give me a reading on that meter near the boiler.
+Сними́, пожалуйста, показа́ния счётчика. | Please read the meter.

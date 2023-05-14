@@ -1,8 +1,0 @@
-многокр`а`тный
-++++++++++
-1. [`adjective`] frequent
-· Они нуждаются в `многократных` проверках. (They require `frequent` checks.)
-· Им была предоставлена `многократная` возможность исправить ошибки. (They were given `frequent` opportunities to correct mistakes.)
-2. [`noun, feminine`] frequency
-· У них есть доступ к `многократности` сигнала. (They have access to the `frequency` of the signal.)
-· Итоговая `многократность` может быть куда выше. (The overall `frequency` can be much higher.)

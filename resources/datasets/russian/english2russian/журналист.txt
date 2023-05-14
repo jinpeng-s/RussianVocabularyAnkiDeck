@@ -1,8 +1,0 @@
-журнал`и`ст
-++++++++++
-1. [`noun, masculine`] journalist
-· Он работает в качестве `журналиста` в газете. (He works as a `journalist` at the newspaper.)
-· Она является известным `журналистом`. (She is a famous `journalist`.)
-2. [`verb`] journalist
-· Она `журналистски` изучает вопросы жизни. (She `journalistically` studies the issues of life.)
-· Телевидении `журналистирует` для многих шоу. (She `journalists` for many shows on television.)

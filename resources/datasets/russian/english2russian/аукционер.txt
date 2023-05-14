@@ -1,8 +1,0 @@
-аукцион`е`р
-++++++++++
-1. [`noun, masculine`] auctioneer
-· У аукциона был `аукционер`, проводивший процесс аукциона. (At the auction, there was an `auctioneer` conducting the process of the auction.)
-· Он профессионально работает `аукционером`. (He professionally works as an `auctioneer`.)
-2. [`verb`] to auction, to auction off
-· Они аукционировали `артефакты`. (They `auctioned` off artifacts.)
-· Здание было аукционировано `аукционером`. (The building was `auctioned` off by an auctioneer.)

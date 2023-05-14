@@ -1,8 +1,0 @@
-маш`и`на
-++++++++++
-1. [`noun, feminine`] machine
-· Это интересная `машина`. (This is an interesting `machine`.)
-· Я покупал `машину` для перемещения по воде. (I bought a `machine` for movement on water.)
-2. [`verb`] machine
-· Они `машинали` эту деталь с помощью специального инструмента. (They `machined` this part with a special tool.)
-· Вы `машинировали` профиль с помощью металлорежущего станка. (You `machined` the profile with a metal-cutting machine.)

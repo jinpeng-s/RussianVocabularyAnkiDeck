@@ -1,8 +1,0 @@
-филос`о`фия
-++++++++++
-1. [`noun, feminine`] philosophy
-· Студенты изучали `философию` более чем два десятилетия. (Students have been studying `philosophy` for more than two decades.)
-· Моя мать преподает `философию` в ВУЗе. (My mom teaches `philosophy` at the university.)
-2. [`verb`] philosophize
-· Все животные философствовали на своих наблюдателей. (All the animals `philosophized` on their observers.)
-· Этот философ `философствовал` на географических различиях между народами. (This philosopher `philosophized` on the geographical differences between the peoples.)

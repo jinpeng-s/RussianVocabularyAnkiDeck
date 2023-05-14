@@ -1,0 +1,12 @@
+синтаксис
+++++++++++
+си́нтаксис
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 30,000)
+++++++++++
+С
+++++++++++
+syntax
+++++++++++
+Си́нтаксис скриптов Python очень прост. | The syntax of Python scripts is very simple.

@@ -1,0 +1,12 @@
+нефильтрованный
+++++++++++
+нефильтро́ванный
+++++++++++
+adjective
+adverb нефильтро́ванно
+++++++++++
+Н
+++++++++++
+unfilteredExample: нефильтрованное пиво - * unfiltered beerInfo: * Unfiltered beer does not undergo extra filtration before it is bottled.
+++++++++++
+None

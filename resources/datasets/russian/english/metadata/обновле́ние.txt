@@ -1,0 +1,19 @@
+обновление
+++++++++++
+обновле́ние
+++++++++++
+noun, neuter, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+О
+++++++++++
+renewalExample: обновление клеток - cell renewal
+updateAlso: actualisation, actualizationExample: програ́ммное обновле́ние - software update
+++++++++++
+Компью́тер переста́л рабо́тать после автомати́ческого обновления систе́мы. | The computer stopped working after an automatic system update.
+Кажется, будто с ка́ждым обновлением они всё отка́тываются. | It seems that with every update they take a step back.
+От э́тих эффектных обновлений маши́на только улитизируется. | These fancy upgrades only serve to snailify the car.
+Э́то обновле́ние вы́йдет в 10 часо́в утра. | This update will be released at 10 o'clock this morning.
+Спасибо за обновле́ние. | Thanks for the update.
+prototype.js — вставля́ет информа́цию об обновлениях в страни́цу при её загру́зке. | prototype.js - inserts update information into the page when the page is loaded.
+Наша образова́тельная систе́ма нужда́ется в серьёзном обновлении. | Our education system needs to be seriously revamped.

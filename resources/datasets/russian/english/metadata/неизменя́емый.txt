@@ -1,0 +1,13 @@
+неизменяемый
+++++++++++
+неизменя́емый
+++++++++++
+adjective
+adverb неизменя́емо
+Very rarely used word (top 50,000)
+++++++++++
+Н
+++++++++++
+invariableAlso: unalterableExample: Неизменяемые слова - immutable wordsInfo: кафе, кино, такси, кенгуру
+++++++++++
+None

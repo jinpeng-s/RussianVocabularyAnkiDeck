@@ -1,8 +1,0 @@
-вертик`а`льный
-++++++++++
-1. [`adjective`] vertical
-· Это была `вертикальная` вилка. (It was a `vertical` fork.)
-· Конь упал в `вертикальное` положение. (The horse laid down in a `vertical` position.)
-2. [`verb`] verticalize
-· Мост проецирует `вертикализацию` другой структуры в том же районе. (The bridge projects `verticalization` of another structure in the same area.)
-· Нужно обеспечить `вертикализацию` всех структур для решения этой проблемы. (It is necessary to ensure `verticalization` of all structures to solve this problem.)

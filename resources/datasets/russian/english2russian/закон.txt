@@ -1,8 +1,0 @@
-зак`о`н
-++++++++++
-1. [`noun, masculine`] law
-· Он знает `закон` хорошо. (He knows the `law` well.)
-· Он не следовал `закону`. (He did not follow the `law`.)
-2. [`verb`] law
-· В `законе` статья говорит о данной ситуации. (The `law` has an article about this situation.)
-· Это должно быть `законим`. (This must be `lawed`.)

@@ -1,8 +1,0 @@
-авт`о`бус
-++++++++++
-1. [`noun, masculine`] bus
-· Этот `автобус` остановился на остановке. (This `bus` stopped at the station.)
-· Он захотел пройти за `автобус`. (He wanted to run for the `bus`.)
-2. [`verb, infinitive`] bus
-· Они `автобусом` отправляются из города. (They `bus` out of town.)
-· Он `автобусом` добрался до деревни. (He `bussed` to the village.)

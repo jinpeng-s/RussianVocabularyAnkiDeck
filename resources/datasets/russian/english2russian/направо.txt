@@ -1,8 +1,0 @@
-напр`а`во
-++++++++++
-1. [`adverb`] to the right
-· Двигайтесь `направо` по улице. (Move `to the right` down the street.)
-· Она бежала `направо`, но оказалось, что там заканчивается дорога. (She ran `to the right`, but it turned out that the road ended there.)
-2. [`adjective`] right
-· На `направо` поворот был закрыт. (The `right` turn was closed.)
-· На `направо` стороне был лес. (On the `right` side there was a forest.)

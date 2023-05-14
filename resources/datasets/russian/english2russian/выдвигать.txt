@@ -1,8 +1,0 @@
-выдвиг`а`ть
-++++++++++
-1. [`verb`] propose:
-· Вы `выдвигали` новые идеи для решения проблемы. (You `proposed` new ideas for solving the problem.)
-· Они `выдвигали` его на пост президента. (They `proposed` him for the president's post.)
-2. [`verb`] put forward :
-· Мы `выдвигали` некоторые изменения в документ. (We `put forward` some changes to the document.)
-· Он `выдвигал` сложную идею, которая потребовала больше исследований. (He `put forward` a complex idea which required further investigation.)

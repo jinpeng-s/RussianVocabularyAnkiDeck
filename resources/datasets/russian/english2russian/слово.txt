@@ -1,8 +1,0 @@
-сл`о`во
-++++++++++
-1. [`noun, neuter`] word
-· Он произнес последнее `слово`. (He uttered the last `word`.)
-· Что тебе значит это `слово`? (What does this `word` mean to you?)
-2. [`verb`] to talk
-· Они долго `словили` друг с другом. (They `talked` for a long time with each other.)
-· Давай просто `поговорим` об этом случае. (Let's just `talk` about this case.)

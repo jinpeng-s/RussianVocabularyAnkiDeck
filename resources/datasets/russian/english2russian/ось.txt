@@ -1,8 +1,0 @@
-`о`сь
-++++++++++
-1. [`noun, feminine`] axis
-· Отчётный период вращался вокруг одной `оси`. (The reporting period revolved around one `axis`.)
-· Всё движение происходит вдоль `оси`. (All movement occurs along the `axis`.)
-2. [`verb, intransitive`] axis
-· Система земных орбит `осею` вокруг Солнца. (The system of Earth orbits `axes` around the Sun.)
-· Звездолёт `осел` на новый курс. (The spaceship `axed` to a new course.)

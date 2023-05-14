@@ -1,8 +1,0 @@
-микр`о`н
-++++++++++
-1. [`noun, masculine`] micron
-· Эта вещество имеет диаметр всего в `микрон` дюйма. (This substance has a diameter of only a `micron` inch.)
-· Он настроил тонкий слой из `микрон` в 0.3 миллиметров. (He set a thin layer of `micron` at 0.3 millimeters.)
-2. [`adjective`] micro
-· Он использует `микро` детали для своей сборки. (He uses `micro` parts for his assembly.)
-· Этот прибор может измерять до `микро` размеров. (This instrument can measure down to `micro` sizes.)

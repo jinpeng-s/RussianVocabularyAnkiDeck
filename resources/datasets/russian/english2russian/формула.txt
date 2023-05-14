@@ -1,8 +1,0 @@
-ф`о`рмула
-++++++++++
-1. [`noun, feminine`] formula
-· Он создал `формулу` для нахождения минимума функции. (He created a `formula` for finding the minimum of a function.)
-· Ты знаешь `формулу` для решения этого задания? (Do you know the `formula` for solving this task?)
-2. [`verb`] formula
-· Ученые смогли `формулировать` теорию большой взрыв. (The scientists could `formulate` a theory of a big bang.)
-· Она `формулировала` свое желание устроиться на работу. (She `formulated` her wish to get a job.)

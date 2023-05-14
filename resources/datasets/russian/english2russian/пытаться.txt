@@ -1,8 +1,0 @@
-пыт`а`ться
-++++++++++
-1. [`verb`] try
-· Она пробовала `пытаться` договориться с ним. (She tried to `try` to reach an agreement with him.)
-· Они `пытались` решить проблему, но ничего не получилось. (They `tried` to solve the problem, but nothing worked.)
-2. [`verb, reflexive`] attempt
-· Я предпринимала несколько попыток, чтобы `пытаться` изменить это поведение. (I have `attempted` several times to `attempt` to change this behavior.)
-· Они не потерпели никаких неудач при попытке `пытаться` достичь соглашения. (They encountered no failures in the `attempt` to `attempt` to reach an agreement.)

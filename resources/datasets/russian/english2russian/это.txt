@@ -1,8 +1,0 @@
-`э`то
-++++++++++
-1. [`pronoun`] this, that;
-· Это дом, в котором живет моя семья. (This is the house where my family lives.)
-· Это его решение. (That is his decision.)
-2. [`adjective`] this, that;
-· Эта область богата культурными достопримечательностями. (This region is rich in cultural attractions.)
-· Этот план не работает. (That plan doesn't work.)

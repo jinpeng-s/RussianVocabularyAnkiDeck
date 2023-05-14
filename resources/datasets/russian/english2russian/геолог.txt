@@ -1,8 +1,0 @@
-ге`о`лог
-++++++++++
-1. [`noun, masculine`] geologist
-· У нас есть `геолог`, который исследует геологические формации земли. (We have a `geologist` who researches the geological formations of the earth.)
-· Он изучал в колледже, где много различных предметов, в том числе `геология`. (He studied at a college where there were many different subjects including `geology`.)
-2. [`verb`] to geologize
-· Он собрал много различных материалов и все `геологизировал`. (He gathered many different materials and `geologized` them all.)
-· Группа исследователей `геологизирует` площадь для научного исследования. (A group of researchers is `geologizing` the area for scientific study.)

@@ -1,8 +1,0 @@
-ни
-++++++++++
-1. [`pronoun`] neither
-· Ни `они`, ни `она` не хотят этого делать. (`Neither` `they` nor `she` wants to do that.)
-· Ни `он`, ни `она` не знает правильного ответа. (`Neither` `he` nor `she` knows the correct answer.)
-2. [`adverb`] not
-· Он `ни за что` не уступит. (He `will not` give up for anything.)
-· Она думает `ни то, ни другое`. (She thinks `neither` one nor the other.)

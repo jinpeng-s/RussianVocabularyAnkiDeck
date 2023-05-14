@@ -1,8 +1,0 @@
-догов`о`р
-++++++++++
-1. [`noun, masculine`] contract
-· Вы должны подписать `договор` с компанией. (You have to sign a `contract` with the company.)
-· Они могут вступить в `договорные` отношения с другой компанией. (They can enter into `contractual` relations with another company.)
-2. [`verb`] contract
-· Они `заключили` договор на 5 лет. (They `contracted` a contract for 5 years.)
-· Она `подписала` договор с компанией. (She `contracted` a contract with the company.)

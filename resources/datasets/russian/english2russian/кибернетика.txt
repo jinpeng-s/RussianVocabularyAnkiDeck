@@ -1,8 +1,0 @@
-киберн`е`тика
-++++++++++
-1. [`noun, feminine`] cybernetics
-· Учёные изучают `кибернетику`, чтобы создать программируемые роботы. (Scientists study `cybernetics` to create programmable robots.)
-· `Кибернетика` — это наука о взаимодействии между человеком и машинами. (`Cybernetics` is the science of interaction between humans and machines.)
-2. [`verb`] cybernetize
-· Все процессы в данном предприятии были `кибернетизированы`. ( All processes in the enterprise were `cybernetized`.)
-· `Кибернетизировать` задание — значит автоматизировать процесс решения. (`Cybernetize` the task means to automate the process of decision making.)

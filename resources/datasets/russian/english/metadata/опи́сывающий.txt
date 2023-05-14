@@ -1,0 +1,12 @@
+описывающий
+++++++++++
+опи́сывающий
+++++++++++
+participle active present of опи́сывать
+++++++++++
+О
+++++++++++
+someone who is doing (опи́сывать)
+++++++++++
+Компьютерная програ́мма — э́то набо́р инстру́кций, описывающих, как компью́теру себя вести. | A computer program is a list of instructions that tell the computer what to do.
+Ка́ждая фу́нкция должна́ име́ть коммента́рии, описывающие её назначе́ние, чтобы избежа́ть непонима́ния. | Every function should have comments describing its purpose in order to avoid confusions.

@@ -1,8 +1,0 @@
-возраж`а`ть
-++++++++++
-1. [`verb`] object
-· Она `возражала` против нового правила. (She `objected` to the new rule.)
-· Пожалуйста, не `возражайте`, я знаю, что делаю. (Please don't `object`, I know what I'm doing.)
-2. [`noun, masculine`] objection
-· Он имеет серьезные `возражения` к этой идее. (He has serious `objections` to the idea.)
-· Он дал мне разумные `возражения` к моему плану. (He gave me reasonable `objections` to my plan.)

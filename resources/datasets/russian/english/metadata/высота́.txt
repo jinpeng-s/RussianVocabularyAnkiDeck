@@ -1,0 +1,22 @@
+высота
+++++++++++
+высота́
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 2,000)
+++++++++++
+B2
+В
+++++++++++
+heightAlso: altitude, pitch, loftiness, elevation, eminence, ridge, hillExample: Данные о высотах - Elevation data
+++++++++++
+С высоты пти́чьего полета Лос-Анджелес похо́ж на кле́тчатый ковёр. | From a bird's-eye view, Los Angeles looks like a chequered carpet.
+Ба́шня пятнадцать метров высото́й. | The tower is fifteen metres tall.
+Меня интересу́ют данные касательно Вели́кой Кита́йской стены. Каковы́ её длина́, ширина́ и высота́? | I'm interested in data related to the Great Wall. What is its length, its breadth and height?
+По той или ино́й причи́не их каникулы во Фра́нции оказа́лись не на высоте́ их ожида́ний. | For one reason or another their holiday in France didn't come up to expectations.
+Она чу́вствовала себя на высоте́. | She felt herself being lifted up.
+Когда ситуа́ция тре́бует от меня прояви́ть способности, я ока́зываюсь по-настоящему на высоте́. | I'm at my best when I'm challenged.
+Пло́щадь треуго́льника равна́ полови́не пло́щади прямоуго́льника с те́ми же основа́нием и высото́й. | The area of a triangle is half of the area of the rectangle with equivalent base and height.
+Какова́ высота́ Монблана? | How high is Mont Blanc?
+Како́й высоты гора́ Фудзи? | How high is Mt. Fuji?
+Высота́ э́той ба́шни более 100 метров. | The height of the tower is above 100 meters.

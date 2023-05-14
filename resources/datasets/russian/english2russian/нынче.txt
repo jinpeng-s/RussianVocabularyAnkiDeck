@@ -1,8 +1,0 @@
-н`ы`нче
-++++++++++
-1. [`adverb`] now
-· Нынче он работает над проектом. (`Now` he is working on the project.)
-· Ты будешь счастлив нынче. (You will be `now` happy.)
-2. [`adjective`] present
-· Нынешнее поколение более развитое. (The `present` generation is more developed.)
-· Нынчешние стандарты будут действовать дальше. (The `present` standards will continue to apply.)

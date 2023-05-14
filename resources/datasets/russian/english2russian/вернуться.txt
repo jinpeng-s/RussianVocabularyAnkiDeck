@@ -1,8 +1,0 @@
-верн`у`ться
-++++++++++
-1. [`verb`] return
-· Они `вернулись` домой раньше, чем планировали. (They `returned` home earlier than they had planned.)
-· Он уже `вернулся` со своей поездки. (He has already `returned` from his trip.)
-2. [`verb, reflexive`] return
-· Когда будет время, он снова `вернётся` домой. (When the time come, he will `return` home again.)
-· Она не `вернулась` в своё родное город. (She didn't `return` to her hometown.)

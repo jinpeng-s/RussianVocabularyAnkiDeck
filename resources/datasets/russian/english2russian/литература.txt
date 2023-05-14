@@ -1,8 +1,0 @@
-литерат`у`ра
-++++++++++
-1. [`noun, feminine`] literature
-· На занятии они разбирали `литературу`. (At the lesson they discussed `literature`.)
-· Современная `литература` даёт о других культурах много важной информации. (Modern `literature` gives much valuable information about other cultures.)
-2. [`verb`] literature
-· Он `литературизировал` своё произведение. (He `literaturized` his work.)
-· Школа очень усердно `литературизирует` национальные произведения. (The school is earnestly `literaturizing` national works.)

@@ -1,8 +1,0 @@
-вычисл`е`ние
-++++++++++
-1. [`noun, neuter`] calculation
-· Он быстро произвел `вычисление` и получил правильный ответ. (He quickly made the `calculation` and got the correct answer.)
-· Эта задача потребует много `вычислений`. (This task will require a lot of `calculations`.)
-2. [`verb`] calculate
-· Ученые используют высокотехнологичные методы для `вычисления` некоторых значений. (Scientists use high-tech methods to `calculate` some values.)
-· Он заинтересовался в том, как `вычислить` правильный ответ. (He became interested in how to `calculate` the correct answer.)

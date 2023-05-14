@@ -1,8 +1,0 @@
-гр`а`нь
-++++++++++
-1. [`noun, feminine`] edge, brink
-· Я увидел, что моя ручка выросла до `грани`. (I saw that my pencil had grown to the `edge`.)
-· Он двигался вдоль `грани` уступа. (He moved along the `brink` of the precipice.)
-2. [`verb`] border, edge
-· Вот там начинается граница района. (This is where the district `borders`.)
-· Эти два района `граничат` друг с другом. (These two districts `edge` each other.)

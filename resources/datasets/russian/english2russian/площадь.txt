@@ -1,8 +1,0 @@
-пл`о`щадь
-++++++++++
-1. [`noun, feminine`] area
-· Город не был слишком большой по `площади` . (The city was not too large in `area`.)
-· Эта `площадь` была заполнена людьми. (This `area` was filled with people.)
-2. [`verb`] cover
-· Этот мотор покрывает `площадь` до 5 км. (This motor covers an `area` of up to 5 km.)
-· Телескоп покрывает `площадь` вокруг нас. (The telescope covers an `area` around us.)

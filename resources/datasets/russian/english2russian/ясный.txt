@@ -1,8 +1,0 @@
-`я`сный
-++++++++++
-1. [`adjective`] clear
-· Я понял твоё сообщение, оно `ясное`. (I understood your message, it`s `clear`.)
-· Рассуждения были `ясными` для всех участников. (The arguments were `clear` to all the participants.)
-2. [`verb`] explain
-· Он пояснил `ясно`, что ему требуется. (He `explained` clearly what he needed.)
-· Она прокажет `ясно`, как машину будет работать. (She `explained` clearly how the machine will work.)

@@ -1,8 +1,0 @@
-вперёд
-++++++++++
-1. [`adverb`] forward
-· Он прыгнул `вперёд` и поднял руки в воздух. (He jumped `forward` and raised his hands in the air.)
-· Мы должны смотреть `вперёд` и не бояться. (We should look `forward` and not be afraid.)
-2. [`noun, masculine`] foreword
-· Глава книги началась с длинного `вперёда`. (The chapter of the book began with a long `foreword`.)
-· Здесь мог бы быть ещё `вперёд`, но это займёт много места. (Here could be more `foreword`, but it would take up a lot of space.)

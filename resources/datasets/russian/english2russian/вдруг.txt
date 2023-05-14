@@ -1,8 +1,0 @@
-вдруг
-++++++++++
-1. [`adverb`] suddenly
-· Внезапно я почувствовал `вдруг` странное давление в груди. (Suddenly I felt `suddenly` strange pressure in my chest.)
-· Он `вдруг` решил поступить в колледж. (He `suddenly` decided to go to college.)
-2. [`interjection`] suddenly
-· `Вдруг` появился странный звук из комнаты. (`Suddenly` a strange noise came out of the room.)
-· `Вдруг` включилась радио. (`Suddenly` the radio turned on.)

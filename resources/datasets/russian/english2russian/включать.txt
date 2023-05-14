@@ -1,5 +1,0 @@
-включ`а`ть
-++++++++++
-1. [`verb`] include
-· Страхование `включает` в себя покрытие медицинских расходов. (Insurance `includes` coverage of medical expenses.)
-· В цену входит проживание и завтрак, а также всё остальное, что `включено` в список услуг. (The price includes lodging and breakfast, as well as all other amenities `included` in the list of services.)

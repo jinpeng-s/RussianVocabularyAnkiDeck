@@ -1,8 +1,0 @@
-пр`а`вильность
-++++++++++
-1. [`noun, feminine`] correctness
-· Отдавать приоритет `правильности` перебору было правильно. (Giving priority to `correctness` over speed was correct.)
-· Он выдаёт правильные заключения с учётом `правильности` и достоверности. (He draws correct conclusions taking into account the `correctness` and accuracy.)
-2. [`adjective`] correct, accurate
-· Он сам устанавливал допустимую `правильность` своего поведения. (He himself set the acceptable `correctness` of his behavior.)
-· Ответ должен быть `правильным`. (The answer should be `correct`.)

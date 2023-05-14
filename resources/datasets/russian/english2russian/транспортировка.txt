@@ -1,8 +1,0 @@
-транспортир`о`вка
-++++++++++
-1. [`noun, feminine`] transportation
-· Стоимость `транспортировки` заказа будет указана на счёте. (The cost of the `transportation` of the order will be specified on the bill.)
-· `Транспортировка` продуктов потребует дополнительных расходов. (`Transportation` of the products will require additional expenses.)
-2. [`verb`] transport
-· Он был посажен на долгое `транспортирование` из города в город. (He was sentenced to a long `transport` from city to city.)
-· Продукты будут `транспортироваться` до пункта назначения за один день. (The products will be `transported` to the destination point in one day.)

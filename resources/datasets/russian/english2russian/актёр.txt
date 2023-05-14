@@ -1,8 +1,0 @@
-актёр
-++++++++++
-1. [`noun, masculine`] actor
-· Он `актёр` известной киностудии. (He is an `actor` from a famous movie studio.)
-· Он сыграл одну из самых известных ролей `актёра`. (He played one of the most famous `actor's` roles.)
-2. [`verb`] act
-· Он `актировал` в классических драмах. (He `acted` in classical dramas.)
-· Она `актировала` в фильме по первой книге серии. (She `acted` in a movie based on the first book of the series.)

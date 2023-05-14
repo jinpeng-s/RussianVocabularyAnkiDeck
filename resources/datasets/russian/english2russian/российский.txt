@@ -1,8 +1,0 @@
-росс`и`йский
-++++++++++
-1. [`adjective`] Russian
-·Она носит `российскую` традиционную одежду. (She wears `Russian` traditional clothing.)
-·Она изучает `российский` язык. (She is learning `Russian` language.)
-2. [`noun, masculine`] Russian
-·Она говорит на `российском`. (She speaks `Russian`.)
-·В Москве очень много `россиян`. (There are a lot of `Russians` in Moscow.)

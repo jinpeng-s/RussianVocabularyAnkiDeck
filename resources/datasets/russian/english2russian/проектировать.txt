@@ -1,8 +1,0 @@
-проект`и`ровать
-++++++++++
-1. [`verb`] plan
-· Он начал `проектировать` свой будущий дом. (He started to `plan` his future home.)
-· Они `проектировали` нашу новую школу. (They `planned` our new school.)
-2. [`verb, reflexive`] plan for oneself
-· Он занимается `проектированием` собственной будущей карьеры. (He is `planning` his future career.)
-· Она помогала своим детям `проектировать` свои жизни. (She helped her children `plan for` their lives.)

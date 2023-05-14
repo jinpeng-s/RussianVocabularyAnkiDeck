@@ -1,8 +1,0 @@
-путёвка
-++++++++++
-1. [`noun, feminine`] voucher
-· Он предложил купить `путёвку` в Турцию. (He offered to buy a `voucher` to Turkey.)
-· Вместе с билетом купили `путёвку` в Албанию. (Together with the ticket they bought a `voucher` to Albania.)
-2. [`verb`] voucher
-· Они `путёвкувируя` билеты, они дошли до страны прибытия. (`Vouchering` the tickets, they reached the country of arrival.)
-· Мы должны будем `путёвковать` только ту продукцию, которая выдерживает настоящие стандарты качества. (We will have to `voucher` only that product, which meets current quality standards.)

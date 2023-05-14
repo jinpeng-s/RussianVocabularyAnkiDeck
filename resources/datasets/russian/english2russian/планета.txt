@@ -1,8 +1,0 @@
-план`е`та
-++++++++++
-1. [`noun, feminine`] planet
-· Наша планета `планета` забита звездами. (Our planet is dotted with stars.)
-· На планете `планета` есть несколько народов. (There are several nations on the `planet`.)
-2. [`verb`] planet
-· Некоторые планеты `планируются` для исследовательских экспедиций. (Some `planet`s are planned for exploration missions.)
-· Наша планета `планируется` для изучения разнообразных форм жизни. (Our `planet` is planned to be studied for various forms of life.)

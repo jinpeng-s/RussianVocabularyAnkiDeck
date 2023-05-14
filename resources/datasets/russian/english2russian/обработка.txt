@@ -1,8 +1,0 @@
-обраб`о`тка
-++++++++++
-1. [`noun, feminine`] processing
-· Это предприятие специализируется на `обработке` продукции из дерева. (This enterprise specializes in `processing` products made of wood.)
-· Учёные занимаются `обработкой` и систематизацией данных. (Scientists are engaged in `processing` and systematization of data.)
-2. [`verb`] process
-· Мы планируем `обрабатывать` эти данные с помощью специального программного обеспечения. (We plan to `process` these data using special software.)
-· Наша компания может быстро `обработать` ваш заказ. (Our company can quickly `process` your order.)

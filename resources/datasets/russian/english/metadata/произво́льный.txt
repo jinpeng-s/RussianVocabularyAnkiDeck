@@ -1,0 +1,18 @@
+произвольный
+++++++++++
+произво́льный
+++++++++++
+adjective
+adverb произво́льно
+Very rarely used word (top 20,000)
+++++++++++
+П
+++++++++++
+arbitraryAlso: voluntary
+++++++++++
+Зако́н Годвина у́чит нас, что люба́я бесконе́чная диску́ссия о произво́льном предме́те схо́дится к наци́стскому сравне́нию. | Godwin's law teaches us that any infinite discussion about an arbitrary subject converges to a Nazi comparison.
+Ле́мма 5 не мо́жет быть обобщена на произво́льные артиновы кольца. | Lemma 5 cannot be generalized to arbitrary artinian rings.
+C++0x будет подде́рживать шабло́ны фу́нкций с произво́льным число́м аргуме́нтов. | C++0x will admit template functions that take an arbitrary number of arguments.
+Ле́мма 5 не обобщается на случай произво́льных артиновых коле́ц. | Lemma 5 cannot be generalized to arbitrary artinian rings.
+То́нкости языка́ мо́гут каза́ться изучающему его произво́льными, но для носи́теля они полностью осмы́сленны. | The nuances of a language may seem arbitrary to someone learning the language, but to a native speaker, they make perfect sense.
+Никто не мо́жет быть подве́ржен произво́льному аре́сту, задержа́нию или изгна́нию. | No one shall be subjected to arbitrary arrest, detention or exile.

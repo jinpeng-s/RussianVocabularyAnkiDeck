@@ -1,0 +1,11 @@
+морф
+++++++++++
+морф
+++++++++++
+noun, masculine, inanimate
+++++++++++
+М
+++++++++++
+morphInfo: A morph is the concrete legible or audible part of a morpheme.A morph is the concrete legible or audible part of a morpheme.
+++++++++++
+None

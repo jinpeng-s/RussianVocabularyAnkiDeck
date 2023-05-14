@@ -1,8 +1,0 @@
-соотв`е`тствие
-++++++++++
-1. [`noun, neuter`] correspondence
-· Мы должны подтвердить `соответствие` наших структур. (We need to certify the `correspondence` of our structures.)
-· Этот элемент должен быть с `соответствием` стандартам. (This element should be in `correspondence` with the standards.)
-2. [`verb`] correspond
-· Наш ответ `соответствует` требуемым параметрам. (Our response `corresponds` with the required parameters.)
-· Эта проблема `соответствует` действительности. (This problem `corresponds` with the reality.)

@@ -1,8 +1,0 @@
-отопл`е`ние
-++++++++++
-1. [`noun, neuter`]: heating
-· Мы обязаны приобрести `отопление` для нашего дома. (We need to buy `heating` for our house.)
-· В бассейне отсутствует `отопление`. (The pool has no `heating`.)
-2. [`verb`]: to heat
-· К концу лета мы будем `отоплять` дом. (By the end of summer we will `heat` the house.)
-· Эта машина умеет `отоплять` помещение. (This machine is able to `heat up` a room.)

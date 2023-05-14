@@ -1,8 +1,0 @@
-вал`и`ть
-++++++++++
-1. [`verb`] leave, get away
-· Дети торопились `валить` из урока. (The children were in haste to `leave` the lesson.)
-· Один из моих студентов как то пытался `валить` из экзамена. (One of my students was trying to `get away` from the exam.)
-2. [`verb`] flunk, fail
-· Она `валила` физику. (She `flunked` physics.)
-· Они не прошли экзамен, поэтому, они `валили`. (They did not pass the exam, so they `failed`.)

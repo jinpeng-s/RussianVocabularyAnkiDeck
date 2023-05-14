@@ -1,8 +1,0 @@
-вращ`а`ться
-++++++++++
-1. [`verb`] to rotate
-· Голова начала `вращаться` по кругу. (The head began to `rotate` in a circle.)
-· Звезда продолжает `вращаться` по своей орбите. (The star continues to `rotate` on its orbit.)
-2. [`verb`] to revolve
-· Планеты `вращаются` вокруг солнца. (Planets `revolve` around the sun.)
-· Звёзды `вращаются` вокруг центра галактики. (Stars `revolve` around the center of the galaxy.)

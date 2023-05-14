@@ -1,8 +1,0 @@
-зад`а`ток
-++++++++++
-1. [`noun, masculine`] installment
-· От меня требуют предоплату – `задаток`, прежде чем начать работу. (They require an `installment` from me before beginning the job.)
-· Он брал `задаток` на свою работу. (He took an `installment` for his work.)
-2. [`verb`] to pre-pay
-· Они `задатком` оплатили двадцать долларов. (They pre-paid `twenty dollars` by installment.)
-· Она `задатком` купила новый автомобиль. (She pre-paid for a new car `by installment`.)

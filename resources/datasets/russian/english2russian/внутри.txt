@@ -1,8 +1,0 @@
-внутри
-++++++++++
-1. [`adverb`] inside
-· Он стоял `внутри` комнаты. (He stood `inside` the room.)
-· Наши данные `внутри` программы сохранены. (Our data is saved `inside` the program.)
-2. [`preposition`] within
-· Мы должны выполнить эту задачу `внутри` десяти минут. (We should complete the task `within` ten minutes)
-· Она закончила экзамен `внутри` трёх часов. (She completed the exam `within` three hours.)

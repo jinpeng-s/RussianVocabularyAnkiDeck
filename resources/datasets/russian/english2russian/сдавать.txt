@@ -1,8 +1,0 @@
-сдав`а`ть
-++++++++++
-1. [`verb`] submit
-· Он `сдавал` домашнее задание после дедлайна. (He `submitted` the homework after the deadline.)
-· Все студенты `сдавали` экзамен в срок. (All the students `submitted` the exam on time.)
-2. [`verb`] give up
-· Он не хотел `сдаваться` и продолжал сражаться. (He did not want to `give up` and kept fighting.)
-· Затруднённая ситуация заставила его `сдаться`. (The difficult situation forced him to `give up`.)

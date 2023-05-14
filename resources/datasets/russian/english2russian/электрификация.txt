@@ -1,8 +1,0 @@
-электрифик`а`ция
-++++++++++
-1. [`noun, feminine`] electrification
-· В стране проводится массовая `электрификация`. (Mass `electrification` is taking place in the country.)
-· За последние 15 лет начались многие проекты `электрификации`. (Many projects of `electrification` have been launched in the last 15 years.)
-2. [`verb`] electrify
-· Этот проект помог этой стране `электрифицировать` большую зону. (This project helped `electrify` a large area of this country.)
-· Все пути будут `электрифицированы` для ускорения процесса перевозки. (All ways of transport will be `electrified` to speed up the process of transportation.)

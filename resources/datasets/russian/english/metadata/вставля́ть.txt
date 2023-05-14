@@ -1,0 +1,17 @@
+вставлять
+++++++++++
+вставля́ть
+++++++++++
+verb, imperfective
+вставля́ть / вста́вить
+Rarely used word (top 8,000)
+++++++++++
+В
+++++++++++
+putAlso: fix, put in, insert, introduce
+++++++++++
+prototype.js — вставля́ет информа́цию об обновлениях в страни́цу при её загру́зке. | prototype.js - inserts update information into the page when the page is loaded.
+Они вставля́ли ему па́лки в колеса́. | They put a spoke in his wheel.
+Никогда не вставля́й па́лец в розе́тку. | Never plug your finger into the socket.
+Челове́к вставля́ет кассе́ту в видеомагнитофо́н. | Man is inserting a tape into the VCR.
+Она вечно вставля́ет всем па́лки в колеса́. | She's always putting spokes in other people's wheels.

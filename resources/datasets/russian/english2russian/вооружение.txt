@@ -1,8 +1,0 @@
-вооруж`е`ние
-++++++++++
-1. [`noun, neuter`] armament
-· Именно `вооружение` даёт нации мощь. (It is `armament` that gives nations power.)
-· Они решили снизить уровень `вооружения`. (They decided to reduce the level of `armament`.)
-2. [`verb`] arm
-· Военные предпринять меры для `вооружения` границы. (The military took steps to `arm` the borders.)
-· Зона была `вооружена` для предотвращения стычек. (The zone was `armed` to prevent clashes.)

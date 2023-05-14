@@ -1,8 +1,0 @@
-отвод`и`ть
-++++++++++
-1. [`verb`] detach/separate
-· Они `отводили` от крыши ненужные слои. (They `detached` the unnecessary layers from the roof.)
-· Он `отводил` детей от взрослых. (He `separated` the children from the adults.)
-2. [`verb`] divert/deflect
-· Он использовал цифровые алгоритмы, чтобы `отводить` трафик от защищённого сервера. (He used digital algorithms to `divert` the traffic from the protected server.)
-· Мы использовали магнитные поля, чтобы `отводить` поток партиклей. (We used magnetic fields to `deflect` the stream of particles.)

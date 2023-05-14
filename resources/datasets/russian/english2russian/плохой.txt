@@ -1,8 +1,0 @@
-плох`о`й
-++++++++++
-1. [`adjective`] bad
-· У меня `плохое` настроение сегодня. (I am in a `bad` mood today.)
-· Он имеет `плохое` здоровье. (He has `bad` health.)
-2. [`adverb`] badly
-· Он вчера `плохо` спал. (He slept `badly` yesterday.)
-· Она не умеет `плохо` курить. (She doesn't know how to smoke `badly`.)

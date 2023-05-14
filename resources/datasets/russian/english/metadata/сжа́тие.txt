@@ -1,0 +1,12 @@
+сжатие
+++++++++++
+сжа́тие
+++++++++++
+noun, neuter, inanimate
+Very rarely used word (top 30,000)
+++++++++++
+С
+++++++++++
+pressingAlso: pressure, grasp, grip, compression
+++++++++++
+Алгори́тмы сжа́тия да́нных можно раздели́ть на две катего́рии: с поте́рей да́нных и без поте́рь да́нных. | Data compression algorithms can be classified in two categories: those with data loss and those without data loss.

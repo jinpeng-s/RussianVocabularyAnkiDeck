@@ -1,8 +1,0 @@
-в`е`с
-++++++++++
-1. [`noun, masculine`] weight
-· Вы должны указать `вес` посылки. (You have to indicate the `weight` of the package.)
-· В `вес`е этого продукта 200 г. (The `weight` of this product is 200 g.)
-2. [`verb`] weigh
-· Они проверяли `вес` посылки. (They checked the `weight` of the package.)
-· Походное обмундирование в `весило` 20 кг. (The camping gear `weighed` 20 kg.)

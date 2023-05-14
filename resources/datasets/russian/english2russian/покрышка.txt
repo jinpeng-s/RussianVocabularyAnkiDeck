@@ -1,8 +1,0 @@
-покр`ы`шка
-++++++++++
-1. [`noun, feminine`] tire
-· Я установил на машину новую `покрышку`. (I installed a new `tire` on the car.)
-· На автомобиле были очень плохие `покрышки`. (The car had very bad `tires`.)
-2. [`verb`] tire (in the sense of becoming tired)
-· Я аж `покрывался` после долгой прогулки. (I `tired` after a long walk.)
-· Они аж `покрылись` после ночи непрерывной работы. (They `tired` after a night of continuous work.)

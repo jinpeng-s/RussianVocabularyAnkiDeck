@@ -1,8 +1,0 @@
-клавиат`у`ра
-++++++++++
-1. [`noun, feminine`] keyboard
-· Она стояла `клавиатуры` за его компьютером. (She was standing at his computer with the `keyboard`.)
-· Он пользуется `клавиатурой` с USB-разъёмом. (He is using a `keyboard` with USB port.)
-2. [`verb`] keyboard
-· Этот поток данных должен быть `клавиатурован` вручную. (This data stream should be `keyboarded` manually.)
-· Этот код необходимо `клавиатуровать` точно по инструкции. (This code needs to be `keyboarded` exactly according to the instructions.)

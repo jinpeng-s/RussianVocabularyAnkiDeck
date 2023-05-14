@@ -1,8 +1,0 @@
-с`е`ять
-++++++++++
-1. [`verb`] sow
-· Комбайн `сеял` зерно по полю. (The combine `sowed` grain in the field.)
-· Городские жители настаивали на том, чтобы фермеры `сеяли` продукты для заготовки. (The city dwellers insisted that the farmers `sow` produce for storage.)
-2. [`noun, masculine`] seed
-· Травы и злаки растут из `семян`. (Grasses and grains grow from `seeds`.)
-· Вы должны посадить `семена`, и деревья будут расти. (You have to plant `seeds`, and the trees will grow.)

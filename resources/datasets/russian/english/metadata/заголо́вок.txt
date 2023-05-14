@@ -1,0 +1,20 @@
+заголовок
+++++++++++
+заголо́вок
+++++++++++
+noun, masculine, inanimate
+Rarely used word (top 8,000)
+++++++++++
+З
+++++++++++
+headlineAlso: title
+++++++++++
+Предполага́ется, что заголо́вки до́лжны привлека́ть чита́тельский интере́с. | Headlines are supposed to grab the reader's interest.
+Э́та фу́нкция принима́ет два пара́метра: пе́рвый явля́ется заголо́вком окна, а второй будет заголо́вком ико́нки. | This function takes two parameters, the first one is the title of the window, the second one will be the title of the icon.
+Вы ви́дели заголо́вки газе́т? | Have you seen the headlines?
+Заголо́вок кни́ги должен быть выделен курсивом. | The title of the book should be italicized.
+Вы́берите не́сколько случа́йных предложе́ний (двух-трёх доста́точно), запиши́те их и отпра́вьте нам на team@tatoeba.org с заголо́вком "Audio for Tatoeba in ". | Pick a few random sentences (just 2 or 3), record them, and send us the samples at team@tatoeba.org, with the title "Audio for Tatoeba in <language_name>".
+Том поднял газе́ту и прочита́л заголо́вки. | Tom picked up the newspaper and read the headlines.
+Э́та фу́нкция принима́ет два пара́метра: пе́рвый явля́ется заголо́вком окна, а второй будет заголо́вком ико́нки. | This function takes two parameters, the first one is the title of the window, the second one will be the title of the icon.
+Заголо́вки стро́ятся с расчётом на то, чтобы привле́чь чита́тельский интере́с. | Headlines are supposed to grab the reader's interest.
+Вы ви́дели заголо́вки? | Have you seen the headlines?

@@ -1,8 +1,0 @@
-соглаш`а`ться
-++++++++++
-1. [`verb`] agree, consent
-· Они пришли к соглашению об общих целях. (They came to an `agreement` about common goals.)
-· Никто не хочет `соглашаться` с тем, что у нас есть мало ресурсов. (Nobody wants to `agree` that we have few resources.)
-2. [`verb`] promise
-· Она согласилась `поступить` в этот университет. (She `promised` to enter this university.)
-· Он `согласился` прислать мне билеты в этот день. (He `promised` to send me the tickets on this day.)

@@ -1,8 +1,0 @@
-молот`о`к
-++++++++++
-1. [`noun, masculine`] hammer
-· Он купил `молоток`, чтобы сделать отверстие в стене. (He bought a `hammer` to make a hole in the wall.)
-· Понадобился `молоток` для разбивания щебня. (A `hammer` was needed to break the gravel.)
-2. [`verb`] hammer
-· Он `пробивал` щебень при помощи `молотка`. (He `hammered` the gravel with a `hammer`.)
-· Он `пробурил` дыру в стене `молотком`. (He `hammered` a hole in the wall with a `hammer`.)

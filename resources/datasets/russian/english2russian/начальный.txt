@@ -1,8 +1,0 @@
-нач`а`льный
-++++++++++
-1. [`adjective`] initial
-· Я получил результаты самостоятельных `начальных` тестов. (I got the results of the `initial` tests.)
-· В данном документе приведены `начальные` данные. (This document contains the `initial` data.)
-2. [`noun`] beginning
-· Запомните `начальную` формулу и вы без труда преодолеете данный шаг. (Memorize the `beginning` formula and you'll easily overcome this step.)
-· Руководство оставалось без изменений до `начала` эксперимента. (The manual remained unchanged until the `beginning` of the experiment.)

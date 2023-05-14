@@ -1,8 +1,0 @@
-прогр`а`мма
-++++++++++
-1. [`noun, feminine`] program
-· У нас есть `программа` обучения иностранным языкам. (We have a `program` of foreign language learning.)
-· В ближайшее время телеканал представит новую `программу`. (The TV station will present a new `program` soon.)
-2. [`verb, infinitive`] program
-· Учёные начали `программировать` робота для исполнения простых задач. (Scientists started to `program` a robot to perform simple tasks.)
-· Требуется профессиональное программирование, чтобы `программировать` всё это правильно. (Professional programming is required to `program` all of this correctly.)

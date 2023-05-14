@@ -1,8 +1,0 @@
-переп`и`сывать
-++++++++++
-1. [`verb`] to rewrite
-· Нам нужно `переписывать` учебник по физике. (We need to `rewrite` the physics textbook.)
-· Ему пришлось потратить много времени, чтобы `переписать` курсовую работу. (He had to spend a lot of time `rewriting` his term paper.)
-2. [`noun, masculine`] rewrite
-· Это правильный `переписывания` оригинального текста. (This is a correct `rewrite` of the original text.)
-· В процессе редактирования мы сделали некоторые `переписывания`. (In the course of editing, we made some `rewrites`.)

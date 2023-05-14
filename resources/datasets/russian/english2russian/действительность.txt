@@ -1,8 +1,0 @@
-действ`и`тельность
-++++++++++
-1. [`noun, feminine`] reality, validity
-· `Действительность` заявления была сомнительной. (The `reality` of the statement was uncertain.)
-· На документе стоит утверждение о его `действительности`. (There is an assertion of its `validity` on the document.)
-2. [`verb`] validate, be valid
-· Только оригинал может `действительность` документа. (Only the original can `validate` the document.)
-· К нему были приложены дополнительные документы, которые `действительность` документа. (Additional documents were attached to it to `be valid` the document.)

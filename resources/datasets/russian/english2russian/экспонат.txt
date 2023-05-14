@@ -1,8 +1,0 @@
-экспон`а`т
-++++++++++
-1. [`noun, masculine`] exhibit
-· Они открыли `экспонат` в музее. (They opened an `exhibit` in the museum.)
-· Он показал мне `экспонат` из его коллекции. (He showed me an `exhibit` from his collection.)
-2. [`verb`] exhibit
-· Они `экспонировали` свои творения на выставке. (They `exhibited` their works at the show.)
-· Выставка `экспонирует` историю локальной жизни. (The exhibition `exhibits` the history of local life.)

@@ -1,8 +1,0 @@
-зар`я`д
-++++++++++
-1. [`noun, masculine`] charge
-· Эта батарея может `заряжаться` за несколько часов. (This battery can be charged in several hours.)
-· Я должен `зарядить` мой ноутбук. (I have to `charge` my laptop.)
-2. [`verb`] charge
-· Он `зарядил` свою батарею перед поездкой. (He `charged` his battery before the trip.)
-· Ты уже `зарядил` аккумулятор? (Have you already `charged` the battery?)

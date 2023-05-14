@@ -1,8 +1,0 @@
-прил`и`в
-++++++++++
-1. [`noun, masculine`] tide
-· Полезные ископаемые извлекаются во `прилив` воды. (Useful minerals are extracted at the `tide` of the water.)
-· Я решил пойти плавать на вечернем `приливе`. (I decided to go swimming at the evening `tide`.)
-2. [`verb`] swell
-· Луна влияла на `прилив` и отлив моря. (The moon affected the `swell` and ebb of the sea.)
-· Нам оставалось всего несколько минут перед тем, как `прилив` начал понижаться. (We had only a few minutes before the `swell` began to decline.)

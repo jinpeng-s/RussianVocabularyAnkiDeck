@@ -1,8 +1,0 @@
-здесь
-++++++++++
-1. [`adverb`] here
-· Я `здесь`, чтобы оказать помощь. (I'm `here` to help.)
-· Когда мы приехали, всё было `здесь`. (When we arrived, everything was `here`.)
-2. [`adjective`] here
-· Этот продукт доступен только `здесь`. (This product is only available `here`.)
-· В этом доме жили `здесь`. (People lived `here` in this house.)

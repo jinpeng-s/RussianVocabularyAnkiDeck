@@ -1,8 +1,0 @@
-температ`у`ра
-++++++++++
-1. [`noun, feminine`] temperature
-· За окном была `температура` до минус двадцати. (Outside there was a `temperature` of minus twenty.)
-· Для этого эксперимента нужна была определённая `температура`. (A certain `temperature` was needed for this experiment.)
-2. [`verb`] to temperature
-· В этой комнате `темперировали` атмосферу. (They `temperature-controlled` the atmosphere in this room.)
-· Вы `темперируете` атмосферу между вами? (Are you `temperature-controlling` the atmosphere between you?)

@@ -1,8 +1,0 @@
-ж`и`ть
-++++++++++
-1. [`verb, infinitive`] to live
-· Я люблю `жить` в этом городе. (I love `living` in this city.)
-· Он всё время `живет` на даче. (He is always `living` on a country house.)
-2. [`noun, neuter`] life
-· Его история полна интересных `житий`. (His biography is full of interesting `lives`.)
-· Для людей бездомного пространство становится вероятным `житьем`. (For homeless people, public space becomes a potential `life`.)

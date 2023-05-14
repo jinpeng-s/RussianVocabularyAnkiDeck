@@ -1,8 +1,0 @@
-зав`и`сеть
-++++++++++
-1. [`verb`] depend
-· Примеры решения зависят от типа задачи. (The solutions `depend` on the type of problem.)
-· Его успех полностью зависит от его усилий. (His success `depends` entirely on his efforts.)
-2. [`verb`] hang
-· Осколки стекла висели на пальме. (Shards of glass `hung` from the palm tree.)
-· В ресторане висел большой портрет. (A large portrait `hung` in the restaurant.)

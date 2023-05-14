@@ -1,8 +1,0 @@
-ядр`о`
-++++++++++
-1. [`noun, neuter`] core
-· В процессоре используется два двухъядерных `ядра`. (The processor uses two dual-`core`s.)
-· В каждом контейнере было по три `ядра` семян. (Each container had three `cores` of seeds.)
-2. [`verb`] core
-· Они `ядрили` овощи для салата. (They `cored` the vegetables for the salad.)
-· Она `ядрила` апельсины на много частей. (She `cored` the oranges into many pieces.)

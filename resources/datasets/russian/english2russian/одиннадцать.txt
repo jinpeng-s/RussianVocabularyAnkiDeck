@@ -1,7 +1,0 @@
-од`и`ннадцать
-++++++++++
-1. [`numeral`] eleven
-· Он имеет 11 детей. (He has `eleven` children.)
-· Одиннадцатерых января они отправятся в путешествие. (On the `eleventh` of January they will leave for a trip.)
-2. [`adverb`] elevenly
-· Он имеет детей `одиннадцатью`, каждый день с утра до вечера. (He had children `elevenly`, every day from morning to evening.)

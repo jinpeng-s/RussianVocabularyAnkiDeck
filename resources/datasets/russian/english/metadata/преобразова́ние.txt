@@ -1,0 +1,14 @@
+преобразование
+++++++++++
+преобразова́ние
+++++++++++
+noun, neuter, inanimate
+Rarely used word (top 8,000)
+++++++++++
+П
+++++++++++
+transformationAlso: reform, reorganization, conversion
+++++++++++
+Э́то дифференциальное уравне́ние мо́жет быть легко решено через преобразова́ние Лапласа. | This differential equation can be easily solved by Laplace transform.
+Поля́рный медве́дь - э́то прямоуго́льный медве́дь после преобразова́ния координа́т. | A polar bear is a rectangular bear after a coordinate transform.
+Программи́сты рабо́тали над преобразова́нием в HTML5. | The programmers worked on the conversion to HTML5.

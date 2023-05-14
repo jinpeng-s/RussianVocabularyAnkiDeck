@@ -1,8 +1,0 @@
-пос`о`льство
-++++++++++
-1. [`noun, neuter`] embassy
-· В Японии находится Российское `Посольство`. (The Russian `Embassy` is located in Japan.)
-· При  `Посольстве` происходит подписание договора. (A contract is being signed at the `Embassy`.)
-2. [`verb`] to sent an embassy
-· Россия решила `послать` посольство в США. (Russia has decided to `sent` an embassy to the USA.)
-· Они собирались `послать` посольство в страны Балтики. (They were planning to `sent` an embassy to the Baltic countries.)

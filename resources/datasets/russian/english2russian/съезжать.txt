@@ -1,8 +1,0 @@
-съезж`а`ть
-++++++++++
-1. [`verb`] Leave, depart
-· Он должен `съезжать` к ближайшему городу. (He must `leave` for the nearest town.)
-· В конце тура они все `съезжали` назад домой. (At the end of the tour they all `departed` back home.)
-2. [`verb, intransitive`] To fail, fail off
-· Ход игры `съехал` к другой стороне. (The course of the game `failed off` to the other side.)
-· В конце игры двум игрокам `съехала` сила. (At the end of the game two players `failed` in strength.)

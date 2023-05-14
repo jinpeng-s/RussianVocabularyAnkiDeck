@@ -1,8 +1,0 @@
-секрет`а`рь
-++++++++++
-1. [`noun, feminine`] secretary
-· Моя сестра работает `секретарём` в больнице. (My sister works as a `secretary` in the hospital.)
-· Я нанимаю `секретаря` для решения моих дел. (I'm hiring a `secretary` to manage my affairs.)
-2. [`verb`] to secretary
-· Она `секретарействует` для двух менеджеров. (She `secretaries` for two managers.)
-· Он `секретарействует` для компании уже два года. (He's been `secretarying` for the company for two years.)

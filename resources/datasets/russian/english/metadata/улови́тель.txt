@@ -1,0 +1,12 @@
+уловитель
+++++++++++
+улови́тель
+++++++++++
+noun, masculine, inanimate
+++++++++++
+У
+++++++++++
+collectorAlso: catcherExample: улови́тель пы́ли - dust collector
+separatorAlso: precipitator, trapExample: уловитель твердых частиц - particle precipitator
+++++++++++
+None

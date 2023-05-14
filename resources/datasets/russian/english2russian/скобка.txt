@@ -1,8 +1,0 @@
-ск`о`бка
-++++++++++
-1. [`noun, feminine`] bracket
-· В этом предложении около первого слова стоят `скобки`. (In this sentence there are `brackets` around the first word.)
-· Найдите в тексте все закрывающие `скобки`. (Find all the closing `brackets` in the text.)
-2. [`verb`] bracket
-· Компания `скобировала` все свои показатели и начала процесс анализа. (The company `bracketed` all its metrics and started the analysis process.)
-· Текст был `скобирован` двумя строчками выделенных слов. (The text was `bracketed` by two lines of highlighted words.)

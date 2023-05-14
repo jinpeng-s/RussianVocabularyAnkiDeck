@@ -1,8 +1,0 @@
-чертёж
-++++++++++
-1. [`noun, masculine`] drawing
-· Он делает `чертёжи` в ночное время. (He is making `drawings` in the night time.)
-· Нам нужен `чертёж` для проекта. (We need a `drawing` for the project.)
-2. [`verb, imperfective`] to draw
-· Он усердно `чертил` в свободное время. (He was `drawing` diligently in his spare time.)
-· Она учится `чертить` картину по живописи. (She is learning to `draw` a painting in oil.)

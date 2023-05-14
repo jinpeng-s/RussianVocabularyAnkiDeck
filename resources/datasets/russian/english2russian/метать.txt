@@ -1,8 +1,0 @@
-мет`а`ть
-++++++++++
-1. [`verb`] throw
-· Он  `метнул` камень в окно. (He `threw` a stone at the window.)
-· Они `метали` подушки в друг друга. (They `threw` pillows at each other.)
-2. [`verb`] aim
-· Она `метала` пять стрел и попала в цель. (She `aimed` five arrows and hit the target.)
-· Я развиваю свои навыки, за `метая` дротики на доску. (I'm developing my skills while `aiming` darts at the board.)

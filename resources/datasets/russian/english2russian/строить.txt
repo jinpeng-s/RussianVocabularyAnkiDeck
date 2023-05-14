@@ -1,8 +1,0 @@
-стр`о`ить
-++++++++++
-1. [`verb`] build
-· Она `строит` дом для себя. (She is `building` a house for herself.)
-· В городе `строится` новый мост. (A new bridge is being `built` in the town.)
-2. [`verb, reflexive`] build oneself
-· Он решил `строить` себя карьеру. (He decided to `build` himself a career.)
-· Она стремится успешно `строить` себя. (She is striving to `build` herself successfully.)

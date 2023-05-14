@@ -1,8 +1,0 @@
-орёл
-++++++++++
-1. [`noun, masculine`] eagle
-· `Орёл` является официальным символом России. (The `eagle` is the official symbol of Russia.)
-· У них в эмблеме отображается `орёл`. (Their emblem depicts an `eagle`.)
-2. [`noun, masculine`] die (in gambling)
-· Я поставил алмаз на `орёл`. (I placed a diamond on the `die`. )
-· У `орла` был лицевой номер три. (The `die` had a face number of three.)

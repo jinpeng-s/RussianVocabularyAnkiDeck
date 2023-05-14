@@ -1,8 +1,0 @@
-скрип`е`ть
-++++++++++
-1. [`verb`] creak
-· Дверь `скрипела` при открывании. (The door `creaked` when opened.)
-· Деревья `скрипели` из-за ветра. (The trees `creaked` from the wind.)
-2. [`noun, feminine`] creak
-· Дверь издала глухое `скрипение`. (The door made a dull `creak`.)
-· На деревьях слышалось `скрипение`. (A `creak` could be heard in the trees.)

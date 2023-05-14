@@ -1,0 +1,24 @@
+управление
+++++++++++
+управле́ние
+++++++++++
+noun, neuter, inanimate
+Often used word (top 800)
+++++++++++
+B2
+У
+++++++++++
+administrationAlso: direction, control
+managementAlso: board
+ControlExample: Для управления виртуальным автомобильным средством. - For controlling a virtual vehicle.
+++++++++++
+Управле́ние компа́нии предложи́ло профсою́зу пятипроцентное увеличе́ние зарпла́т. | The management of a company offered a 5% pay increase to the union.
+Я купи́л Тому пожа́рную маши́ну с дистанцио́нным управле́нием, и, похоже, он ей очень дово́лен. | I bought Tom a remote controlled fire truck and he seems very happy with it.
+Том потеря́л управле́ние. | Tom has lost control.
+Маши́на потеря́ла управле́ние и на по́лном хо́ду упа́ла в ре́ку. | The car went out of control and pitched headlong into the river.
+Виртуа́льная па́мять - э́то метод управле́ния па́мятью, разработанный для многозадачных я́дер. | Virtual memory is a memory management technique developed for multitasking kernels.
+Я сомнева́юсь, что он доста́точно квалифицирован для управле́ния тако́й кома́ндой! | I doubt he is qualified enough to manage such a team!
+Ба́нковский счёт Тома был заморожен Налоговым управле́нием США. | Tom's bank account has been frozen by the IRS.
+Пило́т потеря́л управле́ние, и самолет свалился в пике. | The pilot lost control and the plane went into a dive.
+Даже прочитав пять книг-самоучителей, Сергей по-прежнему ужасно неэффективно подходи́л к управле́нию. | Five self-help books later, Sergey still had a terribly ineffective approach to management.
+Индия была́ под управле́нием Великобрита́нии много лет. | India was governed by Great Britain for many years.

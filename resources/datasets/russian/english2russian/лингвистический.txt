@@ -1,8 +1,0 @@
-лингвист`и`ческий
-++++++++++
-1. [`adjective`] linguistic
-· Он закончил `лингвистический` университет. (He graduated from a `linguistic` university.)
-· Это `лингвистическая` теория продвигается сейчас достаточно активно. (This `linguistic` theory is being pushed quite actively now.)
-2. [`noun, feminine`] linguistics
-· `Лингвистика` интересная наука. (`Linguistics` is an interesting science.)
-· Он изучает `лингвистику` в университете. (He studies `linguistics` at university.)

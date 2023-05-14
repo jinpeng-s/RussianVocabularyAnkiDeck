@@ -1,8 +1,0 @@
-алюм`и`ний
-++++++++++
-1. [`noun, masculine`] aluminum
-· Алюминий `используется` для производства аеропланов. (Aluminum is `used` for the production of aircrafts.)
-· Он сделал подстаканник из `алюминия`. (He made a mug from `aluminum`.)
-2. [`verb`] aluminum
-· Они `алюминировали` свой самолёт. (They `aluminized` their plane.)
-· Авиакомпания `алюминировала` свои истребители. (The airline `aluminized` its fighters.)

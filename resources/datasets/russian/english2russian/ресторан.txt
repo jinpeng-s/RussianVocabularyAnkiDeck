@@ -1,8 +1,0 @@
-рестор`а`н
-++++++++++
-1. [`noun, masculine`] restaurant
-· На улице находится `ресторан`. (A `restaurant` can be found on the street.)
-· Я хочу поесть в `ресторане`. (I want to eat in a `restaurant`.)
-2. [`verb`] restaurant
-· Наши друзья любят `ресторанировать` круглыми суммами. (Our friends love to `restaurant` in round sums.)
-· Она регулярно `ресторанирует` для новых друзей. (She `restaurants` regularly for new friends.)

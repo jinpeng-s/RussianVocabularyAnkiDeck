@@ -1,8 +1,0 @@
-прилож`е`ние
-++++++++++
-1. [`noun, neuter`] attachment
-· У меня `приложение` к договору. (I have an `attachment` to the contract.)
-· Мне нужно добавить `приложение` к рассказу. (I need to add an `attachment` to the essay.)
-2. [`verb`] attach
-· Я `приложил` эту информацию ко второй части. (I `attached` this information to the second part.)
-· Ты не забыл `приложить` свою фотографию к анкете? (Did you remember to `attach` your photo to the application form?)

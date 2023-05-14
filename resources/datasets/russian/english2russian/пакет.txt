@@ -1,8 +1,0 @@
-пак`е`т
-++++++++++
-1. [`noun, masculine`] package
-· Он доставил ему небольшой `пакет`. (He delivered a small `package` to him.)
-· Они посылали посылки в виде `пакетов`. (They sent parcels in the form of `packages`.)
-2. [`verb`] package
-· Эта фирма предлагает `пакование` товаров. (This company offers `packaging` of goods.)
-· Эти магазины специализируются на `паковке` продуктов. (These stores specialize in `packaging` of products.)

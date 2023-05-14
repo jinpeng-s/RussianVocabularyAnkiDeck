@@ -1,8 +1,0 @@
-консерват`о`рия
-++++++++++
-1. [`noun, feminine`] conservatory
-· Она изучает музыку в `консерватории`. (She is studying music at a `conservatory`.)
-· Наш университет открыл новую `консерваторию`. (Our university opened a new `conservatory`.)
-2. [`verb`] conserve
-· Нужно `консервировать` природные ресурсы. (It is necessary to `conserve` natural resources.)
-· Они `консервировали` данные для дальнейшего использования. (They `conserved` the data for further use.)

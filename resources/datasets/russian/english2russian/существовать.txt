@@ -1,8 +1,0 @@
-существов`а`ть
-++++++++++
-1. [`verb`] exist
-· Это `существование` цели также не было проверено. (The `existence` of the goal was also not verified.)
-· Этот дом уже не `существует`. (This house no longer `exists`.)
-2. [`noun, neuter`] existence
-· `Существование` чего-либо не означает хорошее качество. (`Existence` of something does not mean good quality.)
-· `Существование` его сильных сторон активно было пропагандировано. (The `existence` of his strong sides was actively propagandized.)

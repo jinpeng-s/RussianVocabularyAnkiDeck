@@ -1,8 +1,0 @@
-продов`о`льственный
-++++++++++
-1. [`adjective`] grocery
-· Я могу купить всё необходимое для дома в `продовольственном` магазине. (I can buy everything necessary for the home in a `grocery` store.)
-· Это `продовольственные` товары. (These are `grocery` items.)
-2. [`noun, masculine`] grocery
-· Он занимается продажей `продовольственных` товаров. (He deals in `grocery` items.)
-· Мы были в `продовольственном` магазине, чтобы купить нужные продукты. (We were at the `grocery` store to buy the necessary products.)

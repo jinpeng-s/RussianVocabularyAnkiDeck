@@ -1,8 +1,0 @@
-электров`о`з
-++++++++++
-1. [`noun, masculine`] electric train
-· Станция отправки `электровоза` находится слева. (The station for departure of the `electric train` is on the left.)
-· Я воспользовался `электровозом`, чтобы съехать в другой город. (I took an `electric train` to go to another city.)
-2. [`verb`] to electrify
-· Рабочие `электрифицировали` поездную дорогу чтобы перевести на железные дороги. (The workers `electrified` the railway to transition to an ironroad.)
-· Город решил `электрифицировать` свои поезда. (The city decided to `electrify` its trains.)

@@ -1,8 +1,0 @@
-доход`и`ть
-++++++++++
-1. [`verb`] reach
-· Поезд доходит до станции в 8 утра. (The train `reaches` the station at 8 o'clock.)
-· Самолет доходит в Нью-Йорк в семь вечера. (The plane `reaches` New York at 7 pm.)
-2. [`verb`] arrive/come
-· Он доходит на работу в восемь часов утра. (He `arrives`/`comes` to work at 8 am.)
-· Я доходила домой с работы в семь вечера. (I `arrived`/`came` home from work at 7 pm.)

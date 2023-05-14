@@ -1,8 +1,0 @@
-постан`о`вка
-++++++++++
-1. [`noun, feminine`] regulation
-· Они приняли `постановку` по работе. (They adopted a `regulation` on the work.)
-· Вы должны придерживаться `постановки`. (You should comply with the `regulation`.)
-2. [`verb`] establish, set
-· Комитет `постановил`, что расходы должны быть оплачены банком. (The committee `established` that the expenses should be paid by the bank.)
-· Правительство `постановило` нормы о безопасности. (The government `set` standards on safety.)

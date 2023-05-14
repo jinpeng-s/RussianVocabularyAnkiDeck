@@ -1,8 +1,0 @@
-постеп`е`нный
-++++++++++
-1. [`adjective`] gradual
-· Они решили ввести `постепенные` изменения. (They decided to introduce `gradual` changes.)
-· Программа имела `постепенный` успех. (The program had a `gradual` success.)
-2. [`verb, imperfective`] to gradually
-· Чтобы улучшить ситуацию, нам надо `постепенно` исправлять ошибки. (To improve the situation, we need to `gradually` correct the mistakes.)
-· Ему потребовалось некоторое время, чтобы `постепенно` внести изменения. (It took him some time to `gradually` introduce changes.)

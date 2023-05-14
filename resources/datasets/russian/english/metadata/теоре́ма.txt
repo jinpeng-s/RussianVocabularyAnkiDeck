@@ -1,0 +1,15 @@
+теорема
+++++++++++
+теоре́ма
+++++++++++
+noun, feminine, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+Т
+++++++++++
+theorem
+++++++++++
+Вели́кая теоре́ма Фе́рма была́ оконча́тельно доказана англи́йским матема́тиком Эндрю Вайлзом в 1994 году. | Fermat's Last Theorem was finally proven by English mathematician Andrew Wiles in 1994.
+Теоре́ма Пифагора гласи́т о том, что квадра́т гипотену́зы ра́вен су́мме квадра́тов ка́тетов. | Pythagoras' theorem says that the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+Очевидно, теоре́ма верна́ для коне́чных мно́жеств. | Obviously, the theorem is true for finite sets.
+Теперь мы пока́жем, как э́та ле́мма мо́жет быть применена для доказа́тельства основной теоре́мы. | Now, we show how this lemma can be used to prove our main theorem.

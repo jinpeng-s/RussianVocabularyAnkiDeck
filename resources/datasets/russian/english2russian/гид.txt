@@ -1,8 +1,0 @@
-г`и`д
-++++++++++
-1. [`noun, masculine`] guide
-· Он привел нас в город в качестве `гида`. (He brought us to the city as a `guide`.)
-· Всё прошло отлично. У нас был хороший `гид`. (It was all great. We had a good `guide`.)
-2. [`verb`] to guide
-· Он готов `гидировать` нас по городу. (He is ready to `guide` us through the city.)
-· Он всё время `гидировал` нас на правильные маршруты. (He always ` guided` us on the right routes.)

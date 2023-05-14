@@ -1,8 +1,0 @@
-тр`и`дцать
-++++++++++
-1. [`numeral`] thirty
-· Он заработал `тридцать` долларов. (He earned `thirty` dollars.)
-· Кроме нас `тридцати` были в доме. (There were `thirty` of us in the house besides.)
-2. [`adjective`] thirty
-· Он сделал `тридцать` видов заданий. (He did `thirty` kinds of assignment.)
-· Она вышла из дома в `тридцать` лет. (She left the house at `thirty`.)

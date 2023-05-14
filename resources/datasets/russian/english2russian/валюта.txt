@@ -1,8 +1,0 @@
-вал`ю`та
-++++++++++
-1. [`noun, feminine`] currency
-· Во всех магазинах принимают `валюту`. (All stores accept `currency`.)
-· Всё в нашей стране оценивается в `валюте`. (Everything in our country is valued in `currency`.)
-2. [`verb`] exchange
-· Он пошёл в банк для того, чтобы `валютировать` свои деньги. (He went to the bank to `exchange` his money.)
-· Многие международные путешественники `валютируют` whenever they travel abroad. (Many international travelers `exchange` whenever they travel abroad.)

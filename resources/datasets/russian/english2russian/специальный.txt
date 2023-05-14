@@ -1,8 +1,0 @@
-специ`а`льный
-++++++++++
-1. [`adjective`] special
-· Он пришёл на `специальные` мероприятия. (He came to `special` events.)
-· Это персональное `специальное` предложение. (This is a `special` personal offer.)
-2. [`noun, masculine`] special
-· Он принял `специальное` участие в выставке. (He took `special` part in the exhibition.)
-· Это `специальный` экзамен для магистрантов. (This is a `special` exam for graduate students.)

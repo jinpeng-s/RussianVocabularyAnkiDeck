@@ -1,8 +1,0 @@
-микроск`о`п
-++++++++++
-1. [`noun, masculine`] microscope
-· Он пользуется `микроскопом` для изучения структуры растений. (He uses a `microscope` to study the structure of plants.)
-· За `микроскопом` она смотрела на структуру клеток. (She looked at the structure of cells through a `microscope`.)
-2. [`verb`] microscope
-· Генетики `микроскопировали` для исследования молекул. (Geneticists `microscoped` to study molecules.)
-· Учёные `микроскопировали` кожу, чтобы проанализировать её состав. (Scientists `microscoped` the skin to analyze its composition.)

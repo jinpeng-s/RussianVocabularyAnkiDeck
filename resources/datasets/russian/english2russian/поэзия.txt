@@ -1,8 +1,0 @@
-по`э`зия
-++++++++++
-1. [`noun, feminine`] poetry
-· Он читал `поэзию` Пушкина. (He read the `poetry` of Pushkin.)
-· Анна написала красивую `поэзию`. (Anna wrote a beautiful `poem`.)
-2. [`verb`] to poetize
-· Он посвятил эту песню `поэзированию` мира. (He dedicated this song to the `poetizing` of the world.)
-· Она `поэзировала` о своих неудачах в жизни. (She `poetized` about her failures in life.)

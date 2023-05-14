@@ -1,8 +1,0 @@
-электр`о`н
-++++++++++
-1. [`noun, masculine`] electron
-· Точка под действием `электрона` образует плазму. (A point under the influence of an `electron` forms a plasma.)
-· В проводниках существует цепочка `электронов`. (There is a chain of `electrons` in conductors.)
-2. [`adjective`] electronic
-· `Электронная` система принимает параметры и отображает результаты в любой существующей единице требуемого размера. (An `electronic` system takes parameters and displays results in any existing unit of required size.)
-· На рынке техники имеется большое количество `электронных` приборов. (There are a large number of `electronic` devices on the market of technology.)

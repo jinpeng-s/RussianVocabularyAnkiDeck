@@ -1,8 +1,0 @@
-прерыв`а`ть
-++++++++++
-1. [`verb`] interrupt
-· Слушатель `прерывал` лекцию вопросами. (The listener `interrupted` the lecture with questions.)
-· Он просила его не `прерывать`, когда она говорила. (She asked him not to `interrupt` when she was talking.)
-2. [`verb`] break off
-· Он `прерывал` своё рассказание чтобы подумать над следующими словами. (He `broke off` his story to think about the next words.)
-· После долгого спора они `прерывали` разговор. (They `broke off` the conversation after a long dispute.)

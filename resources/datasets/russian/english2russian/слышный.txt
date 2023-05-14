@@ -1,8 +1,0 @@
-сл`ы`шный
-++++++++++
-1. [`adjective`] audible
-· Это звук был `слышный` на большом расстоянии. (The sound was `audible` from a great distance.)
-· Сигнал был `слышным` даже в большом шуме. (The signal was `audible` even in great noise.)
-2. [`adverb`] audibly
-· Он `слышно` вздохнул. (He sighed `audibly`.)
-· Дети громко плакали, `слышно` рыдая. (The children wept loudly and `audibly`.)

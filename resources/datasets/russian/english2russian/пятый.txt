@@ -1,8 +1,0 @@
-п`я`тый
-++++++++++
-1. [`numeral`] fifth
-· На пятом этаже находится аптека. (The `fifth` floor is the pharmacy.)
-· Я заказал `пятым` докладом. (I ordered as the `fifth` report.)
-2. [`adjective`] fifth
-· Это был `пятый` проект. (It was the `fifth` project.)
-· Команда разделила `пятое` место. (The team got the `fifth` place.)

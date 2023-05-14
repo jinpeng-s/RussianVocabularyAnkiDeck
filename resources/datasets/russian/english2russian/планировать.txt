@@ -1,8 +1,0 @@
-планиров`а`ть
-++++++++++
-1. [`verb`] plan
-· Он `планирует` поехать на выходные. (He is `planning` to go for the weekend.)
-· Он `планирует` достичь своей цели к концу года. (He is `planning` to reach his goal by the end of the year.)
-2. [`noun, feminine`] plan
-· Прежде чем начать делать что-либо, Вам лучше сначала придумать `планировку`. (It is better to come up with a `plan` before starting to do something.)
-· Все работы проводились в соответствии с `планировкой`. (All the work was carried out according to the `plan`.)

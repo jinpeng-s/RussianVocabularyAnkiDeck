@@ -1,8 +1,0 @@
-в`е`сти
-++++++++++
-1. [`verb`] lead
-· Он должен `вести` жизнь без алкоголя. (He has to `lead` a life without alcohol.)
-· Она научилась `вести` свой бизнес. (She learnt to `lead` her own business.)
-2. [`noun, neuter`] news
-· Газета была полна `вестей` о происходящих в мире событиях. (The newspaper was full of `news` about the events taking place in the world.)
-· В городе было много `вестей`, которые были очень полезны. (There was a lot of `news` in the town which was very useful.)

@@ -1,8 +1,0 @@
-практ`и`ческий
-++++++++++
-1. [`adjective`] practical
-· Мы имеем `практические` решения для проблемы. (We have `practical` solutions for the problem.)
-· Она всегда делает `практические` предложения. (She always makes `practical` suggestions.)
-2. [`noun, masculine`] practicality
-· Эта книга упорядочивает теоретические принципы с целью `практичности`. (This book organizes theoretical principles with the aim of `practicality`.)
-· Он стремится объединить идеи и их `практичность`. (He strives to combine ideas and their `practicality`.)

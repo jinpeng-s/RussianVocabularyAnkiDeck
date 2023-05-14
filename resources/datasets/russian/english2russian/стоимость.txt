@@ -1,8 +1,0 @@
-ст`о`имость
-++++++++++
-1. [`noun, feminine`] cost
-· Они показали `стоимость` продукта. (They showed the `cost` of the product.)
-· Она просила о скидке из-за низкой `стоимости` товара. (She asked for a discount because of the low `cost` of the product.)
-2. [`verb, infinitive`] cost
-· У меня нет достаточно денег, чтобы платить за то, `что стоит`. (I don't have enough money to pay for what `costs`.)
-· Мне стоит заменить старую штору на новую. (It `costs` me to replace the old curtain with a new one.)

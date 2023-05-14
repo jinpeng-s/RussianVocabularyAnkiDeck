@@ -1,8 +1,0 @@
-з`а`яц
-++++++++++
-1. [`noun, masculine`] hare
-· Я видел `зайца`, бегающего по полям. (I saw a `hare`, running across the fields.)
-· Дети любят погонять за `зайцем`. (Children like chasing after the `hare`.)
-2. [`verb`] to hare
-· Дети `забегали` за зайцем в лес. (The children `hared` after the hare into the forest.)
-· Вороны `забегали` по полю. (The crows `hared` across the field.)

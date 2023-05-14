@@ -1,8 +1,0 @@
-`а`томный
-++++++++++
-1. [`noun, masculine`] atomic
-· `Атомные` реакторы используются для производства электроэнергии. (`Atomic` reactors are used to produce electricity.)
-· Товар подлежит сертификации для доступа на `атомные` рынки. (The product needs to be certified to access `atomic` markets.)
-2. [`adjective`] atomic
-· `Атомная` энергия необходима для развития технологии. (`Atomic` energy is needed for the advancement of technology.)
-· В этом городе был недавно построен `атомный` реактор. (An `atomic` reactor was recently built in this city.)

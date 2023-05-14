@@ -1,8 +1,0 @@
-дост`у`пный
-++++++++++
-1. [`adjective`] available
-· В магазине были доступны `очень дешёвые` товары. (The store had `very cheap` items available.)
-· Этот парк доступен для всех. (This park is `available` to everyone.)
-2. [`verb`] make available
-· Данная услуга будет доступна в ближайшее время. (This service will be `made available` soon.)
-· Доступ к этому сайту будет открыт после проверки. (Access to this website will be `made available` after inspection.)

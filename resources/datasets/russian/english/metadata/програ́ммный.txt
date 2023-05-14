@@ -1,0 +1,21 @@
+программный
+++++++++++
+програ́ммный
+++++++++++
+adjective
+Rarely used word (top 10,000)
+++++++++++
+П
+++++++++++
+programAlso: software
+++++++++++
+Я обнови́л ваше програ́ммное обеспе́чение. | I updated your software.
+Обнови́те ваше програ́ммное обеспе́чение. | Update your software.
+Шестидесятичетырёхразрядное програ́ммное обеспе́чение не будет рабо́тать на тридцатидвухразрядной архитекту́ре. | Sixty-four-bit software will not run on 32-bit architecture.
+Том рабо́тает разрабо́тчиком програ́ммного обеспе́чения. | Tom is working as a software engineer.
+Tatoeba - програ́ммное обеспе́чение с откры́тым исхо́дным те́кстом. | Tatoeba is open source software.
+Том — разрабо́тчик програ́ммного обеспе́чения. | Tom is a software developer.
+В Ubuntu соде́ржится много програ́ммного обеспе́чения. | Ubuntu includes lots of software.
+Tatoeba – э́то откры́тое програ́ммное обеспе́чение. | Tatoeba is open source software.
+Tatoeba — свобо́дное програ́ммное обеспе́чение. | Tatoeba is free software.
+Програ́ммное обеспе́чение как секс: лу́чше, если оно беспла́тное. | Software is like sex: it's better when it's free.

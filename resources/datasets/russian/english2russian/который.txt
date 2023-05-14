@@ -1,8 +1,0 @@
-кот`о`рый
-++++++++++
-1. [`pronoun, masculine`] which, that
-· Это мой сосед, `который` живёт рядом со мной. (This is my neighbor `which` lives near me.)
-· Я нашёл дом, `который` указал мне мой друг. (I found the house `that` my friend told me about.)
-2. [`adverb`] which, that
-· Я думаю о тех вещах, `которые` я хочу делать в ближайшем будущем. (I'm thinking about the things `which` I want to do in the near future.)
-· Когда я увидел её, я понял, `которое` это странное зрелище. (When I saw her, I realised `which` strange sight it was.)

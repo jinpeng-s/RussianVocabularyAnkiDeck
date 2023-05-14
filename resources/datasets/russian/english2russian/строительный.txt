@@ -1,8 +1,0 @@
-стро`и`тельный
-++++++++++
-1. [`adjective`] construction
-· Нужен хороший `строительный` материал. (We need good `construction` material.)
-· Нам нужен `строительный` план. (We need a `construction` plan.)
-2. [`noun, masculine`] constructor
-· Проект нужно выполнить специальному `строительному`. (The project needs to be done by a special `constructor`.)
-· Город строит `строительный` корпус. (The city is building a `constructor` wing.)

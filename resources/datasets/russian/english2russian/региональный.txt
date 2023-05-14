@@ -1,8 +1,0 @@
-регион`а`льный
-++++++++++
-1. [`adjective`] regional
-· В этом регионе многие проблемы остаются `региональными`. (Many issues remain `regional` in this district.)
-· Развитие `региональных` экономик и социальных систем важно для процветания государства. (The development of `regional` economies and social systems is important for the prosperity of the state.)
-2. [`noun, neuter`] region
-· Он приехал в этот `регион` искать новые места для отдыха. (He came to this `region` looking for new places to relax.)
-· Это наиболее неравномерно распространенный `регион` в стране. (This is the most unevenly distributed `region` in the country.)

@@ -1,8 +1,0 @@
-прим`е`рный
-++++++++++
-1. [`adjective`] approximate
-· На моем `примерном` расчёте видно, что это будет стоить слишком много. (My `approximate` calculation shows that it is going to be too expensive.)
-· Вы должны прилагать `примерный` расчёт для всех заказов. (You should attach an `approximate` calculation for all orders.)
-2. [`noun, masculine`] example
-· Это `примерный` бюджет для исследования. (This is an `example` budget for the research.)
-· Он привёл несколько `примерных` идей для проекта. (He brought several `example` ideas for the project.)

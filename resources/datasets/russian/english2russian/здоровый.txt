@@ -1,8 +1,0 @@
-здор`о`вый
-++++++++++
-1. [`adjective`] healthy
-· Воздух был `здоровым`. (The air was `healthy`.)
-· Для вашего здоровья необходимо правильное питание. (A healthy diet is needed for your `health`.)
-2. [`verb`] to heal
-· Он использовал народные средства, чтобы `здороветь`. (He used folk remedies to `heal`.)
-· Лекарства помогали больному `здороветь`. (The medicines helped the patient `heal`.)

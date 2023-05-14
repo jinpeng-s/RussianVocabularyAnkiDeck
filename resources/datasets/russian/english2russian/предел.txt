@@ -1,8 +1,0 @@
-пред`е`л
-++++++++++
-1. [`noun, masculine`] limit
-· Он достиг `предела` своих возможностей. (He reached the `limit` of his abilities.)
-· Мои эмоции достигли `предела`. (My emotions reached the `limit`.)
-2. [`verb`] limit
-· `Ограничить` права граждан без разрешения суда нельзя. (It is not allowed to `limit` the rights of citizens without a court ruling.)
-· Он `ограничил` свою жизнь ритуалами. (He `limited` his life to rituals.)

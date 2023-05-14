@@ -1,8 +1,0 @@
-ч`е`тверть
-++++++++++
-1. [`noun, feminine`] quarter
-· По первое `четверти` учебного года наши студенты были достаточно успешны. (Our students were quite successful in the first `quarter` of the academic year.)
-· Она сменила место работы в `четверть`. (She changed her job `quarter`.)
-2. [`verb`] quarter
-· Деньги были `четвертованы` за счет троих инвесторов. (The money were `quartered` by three investors.)
-· Они `четвертовали` налоги среди участников. (They `quartered` taxes among participants.)

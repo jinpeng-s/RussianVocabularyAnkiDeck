@@ -1,8 +1,0 @@
-повыш`а`ть
-++++++++++
-1. [`verb`] raise
-· Он `повысил` цену на товар. (He `raised` the price of the product.)
-· Они решили `повысить` уровень обслуживания. (They decided to `raise` the level of service.)
-2. [`verb`] increase
-· Она `повысила` зарплату своему сотруднику. (She `increased` the salary of her employee.)
-· Он `повысил` доходы своего бизнеса. (He `increased` the income of his business.)

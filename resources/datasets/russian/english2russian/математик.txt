@@ -1,8 +1,0 @@
-матем`а`тик
-++++++++++
-1. [`noun, feminine`] mathematics
-· Я закончил школу с отличием по `математике`. (I graduated from school with distinction in `mathematics`.)
-· Она получила бакалаврскую степень в области `математики`. (She has a Bachelor's degree in `mathematics`.)
-2. [`adjective`] mathematical
-· Эта проблема имеет `математическую` основу. (This problem has a `mathematical` basis.)
-· Решение этого задания требует `математических` знаний. (Solving this task requires `mathematical` knowledge.)

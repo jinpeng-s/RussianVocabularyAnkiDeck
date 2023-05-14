@@ -1,8 +1,0 @@
-астрон`о`мия
-++++++++++
-1. [`noun, feminine`] astronomy
-· `Астрономия` - это наука, которая изучает небо. (`Astronomy` is the science that studies the sky.)
-· Я учил `астрономию` в своей высшей школе. (I studied `astronomy` in my college.)
-2. [`verb`] astronomize
-· Он регулярно `астрономизирует`, чтобы улучшить свои навыки. (He `astronomizes` regularly to improve his abilities.)
-· Она `астрономизировала` для поиска новых планет. (She `astronomized` to find new planets.)

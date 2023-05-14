@@ -1,8 +1,0 @@
-кр`у`глый
-++++++++++
-1. [`adjective`] round
-· Этот круглый `стол` - идеальный пример для дизайна интерьера. (This `round` table is a perfect example for interior design.)
-· Это круглый `отверстие` позволяет легко убрать колесо. (This `round` hole allows for easy wheel removal.)
-2. [`verb`] round
-· Мы округлили `сумму` до ближайшего целого числа. (We rounded the `sum` to the nearest whole number.)
-· Он `округлил` цену до удобной цифры. (He `rounded` the price to a convenient figure.)

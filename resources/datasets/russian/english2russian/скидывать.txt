@@ -1,8 +1,0 @@
-ск`и`дывать
-++++++++++
-1. [`verb`] discount
-· Они согласились скидывать нам некоторые товары. (They agreed to `discount` us some products.)
-· Делают скидку после успешной торговой разменки. (They are offering a `discount` after successful trade negotiations.)
-2. [`verb`] drop
-· Они решили скидывать цены после снижения курса. (They decided to `drop` the prices after a rate decrease.)
-· Цены будут скидываться до последнего дня до Нового Года. (The prices will be `dropping` until the last day for New Year.)

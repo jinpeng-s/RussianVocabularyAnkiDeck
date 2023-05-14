@@ -1,8 +1,0 @@
-сплошь
-++++++++++
-1. [`adverb`] entirely
-· Воры украли всё, `сплошь` и всё. (The thieves stole everything, `entirely` everything.)
-· Вы можете выбрать место `сплошь` как вам угодно. (You can choose the place `entirely` as you want.)
-2. [`noun, neuter`] entirety
-· Он смотрел на зрелище `сплошь` с ужасом. (He watched the spectacle `in its entirety` with horror.)
-· Каждый человек должен понимать правила `сплошь`. (Every person should understand the rules `in their entirety`.)

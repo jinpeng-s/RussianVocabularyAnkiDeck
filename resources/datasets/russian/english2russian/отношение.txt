@@ -1,8 +1,0 @@
-отнош`е`ние
-++++++++++
-1. [`noun, neuter`] relationship
-· У нас есть дружеские `отношения`. (We have friendly `relationships`.)
-· Они не думали, что их `отношения` станут процветающими. (They did not think that their `relationships` would be prosperous.)
-2. [`verb`] relate
-· Учитель помогал детям `отнести` новый текст к ранее изученному. (The teacher helped the children `relate` the new text to the previously learnt one.)
-· Мы не можем `отнести` это к истине. (We cannot `relate` this to the truth.)

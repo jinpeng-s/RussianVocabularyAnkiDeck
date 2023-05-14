@@ -1,8 +1,0 @@
-дополн`и`тельный
-++++++++++
-1. [`adjective`] additional
-· Отель предоставляет `дополнительные` услуги для гостей. (The hotel provides `additional` services for guests.)
-· Они добавили `дополнительные` часы в расписание автобусов. (They added `additional` hours to the bus schedule.)
-2. [`noun`] addition
-· К этому добавьте `дополнение`. (`Addition` to this.)
-· Это `дополнение` сделает изображение более интересным. (This `addition` will make the image more interesting.)

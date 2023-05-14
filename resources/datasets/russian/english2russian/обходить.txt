@@ -1,8 +1,0 @@
-обход`и`ть
-++++++++++
-1. [`verb`] bypass
-· Нам надо `обходить` эту трудность. (We need to `bypass` this difficulty.)
-· Ему пришлось `обходить` аудиторию чтобы добраться до двери. (He had to `bypass` the auditorium to reach the door.)
-2. [`Verb`, reflexive] avoid
-· Мы должны `обходить` центр города. (We had to `avoid` the city center.)
-· Он пробовал `обходить` эту тему, но не особо успешно. (He tried to `avoid` the topic, but not very successfully.)

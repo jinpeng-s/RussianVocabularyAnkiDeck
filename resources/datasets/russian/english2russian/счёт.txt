@@ -1,8 +1,0 @@
-счёт
-++++++++++
-1. [`noun, masculine`] bill
-· Он принес нам счёт за услуги. (He brought us the `bill` for the services.)
-· Я заплатил счёт наличными. (I paid the `bill` in cash.)
-2. [`verb, infinitive`] to bill
-· Отель предоставил нам счета за платеж. (The hotel provided us `bills` for the payment.)
-· Они должны нам отправить счет по почте. (They should `bill` us for it by mail.)

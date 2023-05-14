@@ -1,8 +1,0 @@
-пятьдес`я`т
-++++++++++
-1. [`numeral`] fifty
-· Он заплатил `пятьдесят` долларов. (He paid `fifty` dollars.)
-· Она имела `пятьдесят` занятий по математике. (She had `fifty` math classes.)
-2. [`adjective`] fifty
-· Она имела `пятьдесятидневный` план для обучения английскому языку. (She had a `fifty-day` plan for learning English.)
-· Он прочитал `пятьдесятистраничный` роман. (He read a `fifty-page` novel.)

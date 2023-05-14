@@ -1,8 +1,0 @@
-бы
-++++++++++
-1. [`adverb`] quickly, promptly
-· Он `быстро` реагировал на изменения. (He reacted `quickly` to the changes.)
-· У меня нет времени, мне нужно делать всё `быстро`. (I don't have time, I need to do everything `quickly`.)
-2. [`conjunction`] already, then
-· У нас `было` много дел до этого. (We `already` had a lot of tasks before this.)
-· Ты `бы` хотел присоединиться к нам? (Would you `then` like to join us?)

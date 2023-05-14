@@ -1,8 +1,0 @@
-усл`о`вие
-++++++++++
-1. [`noun, neuter`] condition
-· Продажа предусматривает определенные `условия`. (The sale involves certain `conditions`.)
-· Для этого контракта были установлены особые `условия`. (Special `conditions` were set for this contract.)
-2. [`verb`] condition
-· Стоимость зависит от условий поставки. (The price depends on the ` conditioning` of delivery.)
-· Он постоянно `условивал` меня. (He kept on `conditioning` me.)

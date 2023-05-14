@@ -1,8 +1,0 @@
-`и`ндекс
-++++++++++
-1. [`noun, masculine`] index
-· В `индексе` указаны все страницы этого издания. (The `index` lists all the pages of this publication.)
-· Он просмотрел содержание и осмотрел `индекс`. (He browsed the contents and skimmed the `index`.)
-2. [`verb`] index
-· Данное издание `индексировано` с помощью электронных баз данных. (This publication is `indexed` using electronic databases.)
-· Тезисы по этому исследованию `индексировались` и публиковались в журнале. (The theses of this research were `indexed` and published in the journal.)

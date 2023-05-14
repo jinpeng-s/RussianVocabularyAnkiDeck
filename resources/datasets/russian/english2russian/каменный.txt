@@ -1,8 +1,0 @@
-к`а`менный
-++++++++++
-1. [`adjective`] stony
-· У него был `каменный` взгляд. (He had a `stony` look.)
-· Этот памятник был выставлен под `каменным` небом. (This monument was set up under a `stony` sky.)
-2. [`noun, masculine`] stone
-· Часто бывает, что `каменное` строительство дешевле, чем строительство из кирпича. (Often `stone` construction is cheaper than brick construction.)
-· Мост был построен из `камня`. (The bridge was built of `stone`.)

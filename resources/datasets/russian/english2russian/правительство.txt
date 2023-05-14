@@ -1,8 +1,0 @@
-прав`и`тельство
-++++++++++
-1. [`noun, neuter`] government
-· В России правительство `правительство` контролирует экономику. (In Russia, the `government` controls the economy.)
-· `Правительство` Франции начало новую инициативу. (The `government` of France has started a new initiative.)
-2. [`verb`] govern
-· Кто `правительствует` Великобританией? (Who `governs` the United Kingdom?)
-· Этот закон `правительствует` в этом регионе. (This law `governs` this region.)

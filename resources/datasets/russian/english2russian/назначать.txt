@@ -1,8 +1,0 @@
-назнач`а`ть
-++++++++++
-1. [`verb`] appoint
-· Он `назначил` меня на высокую должность. (He `appointed` me to a high position.)
-· Они `назначили` митинг на следующую неделю. (They `appointed` a meeting for next week.)
-2. [`verb`] assign
-· Он `назначил` сотрудникам домашние задания. (He `assigned` homework to the employees.)
-· Учитель `назначил` нам новое домашнее задание. (The teacher `assigned` us a new homework.)

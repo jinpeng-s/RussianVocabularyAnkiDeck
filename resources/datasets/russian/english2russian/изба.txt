@@ -1,8 +1,0 @@
-изб`а`
-++++++++++
-1. [`noun, feminine`] shed
-· В деревне была `изба` для животных. (In the village there was a `shed` for animals.)
-· На поле была старая деревянная `изба`. (In the field there was an old wooden `shed`.)
-2. [`verb`] shed
-· Листья на дереве `избирались`. (The leaves on the tree were `shed`.)
-· В старом доме кровля `избивалась`. (The roof of the old house was `shed`.)

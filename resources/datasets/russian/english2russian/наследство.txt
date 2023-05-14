@@ -1,8 +1,0 @@
-насл`е`дство
-++++++++++
-1. [`noun, neuter`] inheritance
-· На `наследство` нам пришло огромное богатство. (We got an immense wealth as an `inheritance`.)
-· Вы не можете отказаться от `наследства`. (You cannot refuse the `inheritance`.)
-2. [`verb`] inherit
-· Вам наследуется дом. (You are going to `inherit` a house.)
-· Они наследуют бизнес от своего деда. (They `inherit` a business from their grandfather.)

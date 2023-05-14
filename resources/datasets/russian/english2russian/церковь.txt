@@ -1,8 +1,0 @@
-ц`е`рковь
-++++++++++
-1. [`noun, feminine`] church
-· В субботу мы все ходим в `церковь`. (On Saturday we all go to `church`.)
-· На центральной площади находится `церковь`. (On the central square there is a `church`.)
-2. [`verb`] to church
-· Нам нужно идти `в церковь`. (We need to `go to church`.)
-· Она идёт `в церковь` каждую неделю. (She goes `to church` every week.)

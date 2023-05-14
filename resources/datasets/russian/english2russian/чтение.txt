@@ -1,8 +1,0 @@
-чт`е`ние
-++++++++++
-1. [`noun, neuter`] reading
-· Он предложил нам `чтение` произведения Пушкина. (He offered us `reading` of the work of Pushkin.)
-· Моя мама любит `чтение` книг. (My mother loves `reading` books.)
-2. [`verb`] read
-· Они `читали` стихи перед экзаменом. (They `read` poems before the exam.)
-· Он `читал` учебник целый день. (He `read` the textbook all day.)

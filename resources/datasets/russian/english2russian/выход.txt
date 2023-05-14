@@ -1,8 +1,0 @@
-в`ы`ход
-++++++++++
-1. [Noun] exit
-· Дорога в `выход` была затоплена. (The road to the `exit` was flooded.)
-· Где `выход` из здания? (Where is the `exit` from the building?)
-2. [Verb] exit
-· Мы `вышли` из ресторана в полной темноте. (We `exited` the restaurant in complete darkness.)
-· В конце концов он предложил `выйти` из бизнеса. (In the end, he offered to `exit` the business.)

@@ -1,8 +1,0 @@
-кол`и`чественный
-++++++++++
-1. [`adjective`] quantitative
-· Этот показатель определяется `количественно`. (This indicator is determined `quantitatively`.)
-· Этот результат можно `количественно` измерить. (This result can be measured `quantitatively`.)
-2. [`noun, masculine`] quantity
-· По данным на `количество` наблюдений возникли определенные закономерности. (Certain regularities emerged based on the `number` of observations.)
-· Результаты исследования зависят от `количества` замеров. (Results of the research depend on the `quantity` of measurements.)

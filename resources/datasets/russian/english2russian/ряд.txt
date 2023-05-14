@@ -1,8 +1,0 @@
-р`я`д
-++++++++++
-1. [`noun, masculine`] row, line
-· Мы стояли в одном `ряду`. (We were standing in one `row`.)
-· Во дворе были два `ряда` деревьев. (There were two `rows` of trees in the yard.)
-2. [`verb`] put in/line up
-· Они `расстались` в `ряды`. (They `lined up` in `rows`.)
-· Они приказали `расставляться` по `рядам`. (They ordered to `line up` in `rows`.)

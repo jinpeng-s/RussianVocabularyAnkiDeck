@@ -1,8 +1,0 @@
-черт`и`ть
-++++++++++
-1. [`verb`] draw
-· Он любит `чертить`. (He loves to `draw`.)
-· Он прекрасно `чертил` портреты. (He superbly `drew` portraits.)
-2. [`verb, reflexive`] draw up
-· Мы должны `чертить` свои планы. (We must `draw up` our plans.)
-· Он `чертил` список того, что нужно сделать. (He `drew up` a list of what needed to be done.)

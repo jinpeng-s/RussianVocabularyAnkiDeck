@@ -1,0 +1,13 @@
+скрипт
+++++++++++
+скрипт
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+С
+++++++++++
+scriptExample: Затем скрипт спросит о маршруте инсталляции. - Then, the script will ask you for the installation path.
+++++++++++
+Са́мый ну́жный для Tatoeba скрипт - э́то дете́ктор носи́телей языка́. | The script Tatoeba needs the most is the native speaker detector.
+Мо́жешь написа́ть мне скрипт? | Can you write a script for me?

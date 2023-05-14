@@ -1,8 +1,0 @@
-температ`у`рный
-++++++++++
-1. [`adjective`] temperature, thermal
-· Они используют `температурный` снаряд для измерения температуры. (They use a `temperature` bullet to measure the temperature.)
-· Сверху была установлена `температурная` датчик. (A `thermal` sensor was installed on top.)
-2. [`verb`] temperature.
-· Он `температурирует` жидкость с помощью реактора. (He `temperatures` the fluid using the reactor.)
-· Они планируют `температурировать` газ с помощью конденсатора. (They plan to `temperature` the gas using the condenser.)

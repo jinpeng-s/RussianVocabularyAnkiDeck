@@ -1,0 +1,23 @@
+нитка
+++++++++++
+ни́тка
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 5,000)
+++++++++++
+C2
+Н
+++++++++++
+threadAlso: string
+skin
+++++++++++
+Она шьёт иго́лкой и ни́ткой. | She sews with a needle and thread.
+Я промо́кла до ни́тки. | I got soaking wet.
+Я вам вде́ну ни́тку в иго́лку. | I'll thread the needle for you.
+Том чи́стит зу́бы ни́ткой не́сколько раз в неде́лю. | Tom flosses his teeth several times a week.
+Не дёргай, а не то спу́таешь ни́тки. | Don't pull, or you'll tangle the threads.
+Куда иго́лка, туда и ни́тка. | Wherever the needle goes, the thread goes too.
+Я попа́л под ли́вень и вы́мок до ни́тки. | I was caught in a shower and got drenched to the skin.
+Я промо́к до ни́тки. | I'm soaking wet.
+Он промо́к под дождём до ни́тки. | He was drenched by the rain.
+Мы попали под ли́вень и промо́кли до ни́тки. | We were caught in a shower and got wet to the skin.

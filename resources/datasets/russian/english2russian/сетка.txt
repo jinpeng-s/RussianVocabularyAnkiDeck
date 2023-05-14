@@ -1,8 +1,0 @@
-с`е`тка
-++++++++++
-1. [`noun, feminine`] grid
-· Коридор заблокирован `сеткой`. (The corridor was blocked with a `grid`.)
-· Мы видели, что замок закрыт `сеткой`. (We saw that the lock was closed with a `grid`.)
-2. [`verb`] grid
-· Он поместил изображение в `сетку`. (He put the image into `grid`.)
-· Сетка помогает нам `сетать` эту информацию. (The grid helps us to `grid` this information.)

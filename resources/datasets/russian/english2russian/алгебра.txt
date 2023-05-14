@@ -1,8 +1,0 @@
-`а`лгебра
-++++++++++
-1. [`noun, feminine`] algebra
-· Ученики должны изучать `алгебру`, чтобы решить проблемы. (The students have to study `algebra` to solve problems.)
-· Он проходил курс по `алгебре`, чтобы получить диплом. (He took a course in `algebra` to get his diploma.)
-2. [`adjective`] algebraic
-· Он выполнил `алгебраическую` работу. (He completed an `algebraic` task.)
-· Решение этой задачи требует `алгебраических` знаний. (The solution of this problem requires `algebraic` knowledge.)

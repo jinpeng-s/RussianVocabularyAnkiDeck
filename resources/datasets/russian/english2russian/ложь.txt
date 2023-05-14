@@ -1,8 +1,0 @@
-л`о`жь
-++++++++++
-1. [`noun`] lie
-· Он говорит мне `ложь`. (He tells me a `lie`.)
-· Мы не можем жить в `ложи`. (We can't live in `lies`.)
-2. [`verb`] lie
-· Он лгал мне, что это была хорошая идея. (He lied to me that it was a good idea.)
-· Она не лгала по поводу того, что она чувствовала. (She didn't lie about what she was feeling.)

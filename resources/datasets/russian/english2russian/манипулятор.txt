@@ -1,8 +1,0 @@
-манипул`я`тор
-++++++++++
-1. [`noun, masculine`] manipulator
-· В нашем роботе используется `манипулятор`. (A `manipulator` is used in our robot.)
-· `Манипулятор` может выполнять различные двигательные функции. (The `manipulator` can perform various motor functions.)
-2. [`verb`] manipulate
-· Злоумышленники пытались `манипулировать` процессом. (The criminals tried to `manipulate` the process.)
-· Ее руководитель постоянно `манипулирует` ей. (Her supervisor constantly `manipulates` her.)

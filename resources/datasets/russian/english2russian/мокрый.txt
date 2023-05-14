@@ -1,8 +1,0 @@
-м`о`крый
-++++++++++
-1. [`adjective`] wet
-· Сегодня погода очень `мокрая`. (The weather is very `wet` today.)
-· Его `мокрая` куртка скатилась с плеч. (His `wet` jacket slipped off his shoulders.)
-2. [`verb`] wet
-· Куртка просохла, поскольку дождь `замокнул` ее снаружи. (The jacket got wet because rain `wetted` it from outside.)
-· Он `замочил` свою руку в воде. (He `wetted` his hand in the water.)

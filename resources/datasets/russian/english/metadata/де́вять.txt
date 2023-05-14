@@ -1,0 +1,21 @@
+девять
+++++++++++
+де́вять
+++++++++++
+None
+++++++++++
+A2
+Д
+++++++++++
+nineAlso: 9
+++++++++++
+Ноль, один, два, три, четыре, пять, шесть, семь, восемь, девять, десять. | Zero, one, two, three, four, five, six, seven, eight, nine, ten.
+Заня́тия начина́ются ежедневно в девять часо́в. | Classes start at nine o'clock every day.
+Сейчас девять пятнадцать. | It's 9:15.
+Заня́тия в шко́ле начина́ются в девять, а зака́нчиваются в шесть. | School begins at nine and is over at six.
+Боксёр поднялся на счёте «девять». | The boxer got up on the count of nine.
+До сих пор он сде́лал девять человекоподобных ро́ботов, но все они бы́ли демонстрацио́нными моде́лями. | Up to now he had made nine humanoid robots but they were all demonstration models.
+В девять часо́в вы мо́жете услы́шать но́вости по ра́дио. | You can hear the news on the radio at nine o'clock.
+Уже девять часо́в. | It is already nine o'clock.
+Э́тот магази́н закрыва́ется в девять. | This shop shuts at nine.
+Сле́дующий по́езд «Синкансэн» отхо́дит ровно в девять часо́в. | The next Shinkansen train leaves at just nine o'clock.

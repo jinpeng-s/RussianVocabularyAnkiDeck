@@ -1,0 +1,15 @@
+модуль
+++++++++++
+мо́дуль
+++++++++++
+noun, masculine, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+М
+++++++++++
+modulusAlso: module
+++++++++++
+Курс де́лится на четыре мо́дуля. | The course is divided into four smaller units.
+Мо́дуль называ́ется полупростым, если он разлага́ется в пряму́ю су́мму просты́х подмодулей. | A module is said to be semisimple if it is the sum of simple submodules.
+В ча́стности, кольцо́ эндоморфизмов мо́дуля M явля́ется коммутативным лока́льным кольцо́м. | In particular, the endomorphism ring of M is a commutative local ring.
+Мо́дуль называ́ется вполне приводимым, если он разлага́ется в пряму́ю су́мму неприводимых подмодулей. | A module is said to be semisimple if it is the sum of simple submodules.

@@ -1,0 +1,19 @@
+загрузка
+++++++++++
+загру́зка
+++++++++++
+noun, feminine, inanimate
+Very rarely used word (top 20,000)
+++++++++++
+З
+++++++++++
+loadingAlso: employment of machine, charging, work commitment, work-load
+++++++++++
+У меня пробле́мы с загру́зкой пе́сен на мой айпод. | I'm having a hard time downloading songs to my iPod.
+Загру́зка завершена. | The download is complete.
+Том и Мэри приобрели́ высокоэффективную стира́льную маши́нку с вертика́льной загру́зкой. | Tom and Mary bought a high-efficiency top-loading washer.
+Том приобрёл высокоэффективную стира́льную маши́нку с фронтальной загру́зкой. | Tom bought a high-efficiency front-loading washing machine.
+Нажми́те на "сохрани́ть", чтобы нача́ть загру́зку. | Click on "save" to begin the download.
+Э́то стира́льная маши́на с фронтальной загру́зкой. | This is a front-loading washing machine.
+prototype.js — вставля́ет информа́цию об обновлениях в страни́цу при её загру́зке. | prototype.js - inserts update information into the page when the page is loaded.
+Э́то стира́льная маши́на с вертика́льной загру́зкой. | This is a top-loading washing machine.

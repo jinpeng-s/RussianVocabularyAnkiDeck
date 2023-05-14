@@ -1,8 +1,0 @@
-прод`о`льный
-++++++++++
-1. [`adjective`] longitudinal
-· Большое магнитное поле в продольном направлении. (A large magnetic field in a `longitudinal` direction.)
-· Нормаль к поверхности тоже может быть продольной. (A normal to the surface may also be `longitudinal`.)
-2. [`noun`] longitudinal
-· Продольные изгибы могут связаться с большим подметанием структуры. (`Longitudinal` bends can be associated with a large displacement of the structure.)
-· Продольные волны имеют больше скорости, чем поперечные. (`Longitudinal` waves have a higher speed than transverse ones.)

@@ -1,8 +1,0 @@
-пр`о`бовать
-++++++++++
-1. [`verb`] try
-· Они пробовали уложиться в срок поставки. (They `tried` to make the delivery date.)
-· Он пробовал быстро сделать это задание. (He `tried` to finish the task quickly.)
-2. [`verb, reflexive`] try oneself
-· Я пробовала сама решить эту задачу, но не получилось. (I `tried myself` to solve this problem, but I failed.)
-· Он пробовал сам понять, как эта система работает. (He `tried himself` to understand how this system works.)

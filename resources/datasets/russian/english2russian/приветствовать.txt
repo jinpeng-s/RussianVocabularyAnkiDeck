@@ -1,8 +1,0 @@
-прив`е`тствовать
-++++++++++
-1. [`verb`] greet
-· Я `приветствовал` его при первой встрече. (I `greeted` him at our first meeting.)
-· Он обратился к нам словами `приветствовать`. (He addressed us with words of `greeting`.)
-2. [`verb`] welcome
-· Они `приветствовали` меня с замечательным доброжелательным приёмом. (They `welcomed` me with a wonderful warm reception.)
-· Я `приветствовал` это предложение. (I `welcomed` the offer.)

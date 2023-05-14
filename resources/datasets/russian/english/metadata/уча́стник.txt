@@ -1,0 +1,23 @@
+участник
+++++++++++
+уча́стник
+++++++++++
+noun, masculine, animate
+Partner уча́стница
+Somewhat often used word (top 2,000)
+++++++++++
+C1
+У
+++++++++++
+participantAlso: participator, sharer, accomplice, competitor, player, member
+++++++++++
+Я уча́стник. | I'm a member.
+Спи́сок уча́стников сле́дующий: | The list of participants is as follows.
+С э́того номера начина́ются предложе́ния, добавленные уча́стниками прое́кта Татоэба. | Sentences past this ID are sentences added by contributors of Tatoeba Project.
+Большинство́ уча́стников из Австра́лии. | Most of the participants are from Australia.
+Когда все уча́стники гру́ппы молча́т, кто-то должен растопи́ть лёд. | When all the group members are silent, somebody must break the ice.
+На Татоэбе ты должен всегда слу́шать о́пытных уча́стников. Они расска́жут тебе, что нельзя де́лать и почему. А потом сде́лай э́то. | In Tatoeba, you gotta always listen to veteran members. They'll tell you what can't be done and why. Then do it.
+До настоя́щего вре́мени только один уча́стник вы́играл миллио́н изра́ильских шекелей в "Кто хо́чет стать миллионе́ром" в Изра́иле. | So far there has been only one participant who won one million Israeli Shekels in "Who Wants to Be a Millionaire" in Israel.
+Число́ уча́стников быстро вы́растет. | The number of members will grow quickly.
+Я был уча́стником ДТП. | I was involved in a traffic accident.
+Все уча́стники до́лжны пройти́ регистра́цию. | All participants must be registered.

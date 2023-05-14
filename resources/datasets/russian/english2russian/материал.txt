@@ -1,8 +1,0 @@
-матери`а`л
-++++++++++
-1. [`noun, masculine`] material
-· Она использовала `материал` для своего проекта. (She used `material` for her project.)
-· Он доставлял `материал` для строительства. (He delivered `material` for construction.)
-2. [`adjective`] material
-· `Материальные` требования превышали его возможности. (The `material` requirements exceeded his possibilities.)
-· Для его личного развития необходимы `материальные` ресурсы. (Material resources are necessary for his personal development.)

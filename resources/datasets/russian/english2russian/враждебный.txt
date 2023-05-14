@@ -1,8 +1,0 @@
-вражд`е`бный
-++++++++++
-1. [`adjective`] hostile
-· Ты не должен показывать `враждебность` из-за мелких разногласий. (You shouldn't show `hostility` due to small disagreements.)
-· Мы будем стараться добиться мирного разрешения конфликта, а не `враждебного` подхода к проблеме. (We will strive to achieve a peaceful resolution to the conflict, rather than a `hostile` approach to the problem.)
-2. [`noun, feminine`] hostility
-· У них было несколько месяцев `враждебности` друг к другу. (They had several months of `hostility` towards each other.)
-· Мы обнаружили повышение `враждебности` между обеими сторонами. (We noticed an increase in `hostility` between the two sides.)

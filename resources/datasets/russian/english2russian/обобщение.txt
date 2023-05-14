@@ -1,8 +1,0 @@
-обобщ`е`ние
-++++++++++
-1. [`noun, neuter`] generalization
-· Он делает некоторые `обобщения` о этом виде литературы. (He makes some `generalizations` about this type of literature.)
-· Настоящие исследования во многом основываются на `обобщениях` ранних исследований. (The present study is based in large part on `generalizations` of earlier studies.)
-2. [`verb`] generalize
-· Это исследование `обобщает` предыдущие исследования и делает дальновидные выводы. (This research `generalizes` the previous studies and makes long-term conclusions.)
-· Он `обобщает` свои тезисы с помощью статистических данных. (He `generalizes` his theses using statistical data.)

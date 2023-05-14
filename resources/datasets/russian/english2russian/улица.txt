@@ -1,8 +1,0 @@
-`у`лица
-++++++++++
-1. [`noun, feminine`] street
-· `Улица`, в которой я живу, весьма шумная. (The `street` I live in is rather noisy.)
-· В магазине на `улице` было очень много людей. (There were lots of people in the shop on the `street`.)
-2. [`verb, imperfective`] to street
-· Они `ходили по улице`. (They `wandered the streets`.)
-· Он любил `гулять по улицам`, слушая птичьи пения. (He liked to `take a stroll in the streets`, listening to birdsong.)

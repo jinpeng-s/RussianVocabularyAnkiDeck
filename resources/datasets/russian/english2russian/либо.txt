@@ -1,8 +1,0 @@
-л`и`бо
-++++++++++
-1. [`conjunction`] either
-· Ты должен выбрать `либо` этот план, `либо` тот. (You have to choose `either` this plan `or` that.)
-· Он думал `либо` то, `либо` то. (He was thinking `either` this `or` that.)
-2. [`adverb`] either
-· Они не пойдут, `либо` вы. (They won't go `either`.)
-· Даже не рассматривалось другого `либо` варианта. (They didn't even consider `any` other `option`.)

@@ -1,8 +1,0 @@
-лов`и`ть
-++++++++++
-1. [`verb, imperfective`] catch
-· Он пытался `ловить` рыбу в реке. (He tried to `catch` fish in the river.)
-· Она была в страхе, что он может `ловить` ее слова. (She was afraid that he could `catch` her words.)
-2. [`verb, perfective`] catch
-· Он никогда не смог `поймать` рыбу. (He never could `catch` a fish.)
-· Она `поймала` речь только потому, что задержалась до конца. (She `caught` the speech only because she stayed until the end.)

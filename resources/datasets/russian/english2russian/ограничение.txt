@@ -1,8 +1,0 @@
-огранич`е`ние
-++++++++++
-1. [`noun, neuter`] restriction
-· У него были `ограничения` в деле. (He had `restrictions` in this matter.)
-· Они приняли `ограничения` для финансирования этой программы. (They set `restrictions` on the financing of the program.)
-2. [`verb`] restrict
-· Они `ограничили` мой доступ к этой информации. (They `restricted` my access to this information.)
-· Ты `ограничила` свои эмоции и выступала хладнокровно. (You `restricted` your emotions and acted coldly.)

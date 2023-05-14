@@ -1,0 +1,18 @@
+реализовать
+++++++++++
+реализова́ть
+++++++++++
+verb, perfective & imperfective
+Rarely used word (top 8,000)
+++++++++++
+Р
+++++++++++
+realiseAlso: realize, sell
+implement
+++++++++++
+Понима́ние того́, как мо́гут рабо́тать плагины, написанные на Си, помо́жет нам поня́ть, как в бу́дущем реализова́ть кросс-языковые плагины. | Understanding how plugins may work in C will help us understand how to implement cross-language plugins in the future.
+Деся́тки люде́й убежда́ли меня реализова́ть мои́ устремле́ния. | Dozens of people encouraged me to fulfill my ambitions.
+Нет ничего пугающего в обы́чной, есте́ственной сме́рти; в сме́рти челове́ка, кото́рый реализова́л себя и прожи́л свою́ жизнь. | There is nothing frightening about a normal, natural death, the death of a man who has fulfilled himself and lived out his life.
+Э́тот план будет сложно реализова́ть. | It is hard to carry out this plan.
+К сожале́нию, она у́мерла раньше, чем смогла́ реализова́ть свою́ мечту́. | Sadly, she died before she could realize her dream.
+Мы реализова́ли наши моде́ли на C++. | We implemented our models in C++.

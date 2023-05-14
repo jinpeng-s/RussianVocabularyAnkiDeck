@@ -1,8 +1,0 @@
-угнетённый
-++++++++++
-1. [`adjective`] oppressed
-· В `угнетённом` состоянии армия была беспомощна. (The army was helpless in an `oppressed` state.)
-· Она почувствовала неистовый `угнетённый` гнев. (She felt unstoppable `oppressed` anger.)
-2. [`verb`] oppress
-· Несправедливая система `угнетает` людей. (The unfair system `oppresses` people.)
-· Работодатели должны перестать `угнетать` своих сотрудников. (Employers must stop `oppressing` their employees.)

@@ -1,8 +1,0 @@
-пригов`о`р
-++++++++++
-1. [`noun, masculine`] sentence
-· Он получил 8-летний `приговор` за хищение. (He received an 8-year `sentence` for theft.)
-· Судья признал его виновным и приговорил ему к лишению свободы. (The judge found him guilty and pronounced a `sentence` of imprisonment.)
-2. [`verb`] sentence
-· Суд приговорил его к 15 лет лишения свободы. (The court `sentenced` him to 15 years' imprisonment.)
-· Мне наверняка приговорят поштрафить меня. (There's sure to be a `sentence` of a fine imposed on me.)

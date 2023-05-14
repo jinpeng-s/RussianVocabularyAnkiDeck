@@ -1,8 +1,0 @@
-расск`а`зывать
-++++++++++
-1. [`verb`] narrate
-· Она с удовольствием `рассказывала` приключения в путешествии. (She enjoyed `narrating` the adventures on the journey.)
-· Он `рассказывал` нам про свою работу. (He `narrated` us about his job.)
-2. [`verb`] tell
-· Она с `рассказывала` мне о поездке в Москву. (She was `telling` me about a trip to Moscow.)
-· Он `рассказывал` историю о драконе и принцессе. (He was `telling` a story about a dragon and a princess.)

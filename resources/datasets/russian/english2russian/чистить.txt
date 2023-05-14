@@ -1,8 +1,0 @@
-ч`и`стить
-++++++++++
-1. [`verb`] CLEAN
-· Следует `чистить` руки перед едой. (It is necessary to `clean` one's hands before eating.)
-· Чтобы освежить воздух, нужно почаще `чистить` помещение. (To freshen the air it is necessary to `clean` the room more often.)
-2. [`noun, feminine`] CLEANING
-· Нужно готовиться к `чистке`, да? (We need to prepare for `cleaning`, right?)
-· Кто-то должен заниматься `чисткой`, иначе дом будет грязным. (Someone needs to do the `cleaning`, otherwise the house will be dirty.)

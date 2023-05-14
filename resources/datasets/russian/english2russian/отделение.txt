@@ -1,8 +1,0 @@
-отдел`е`ние
-++++++++++
-1. [`noun, neuter`] department
-· В офисе было два детских `отделения`. (The office had two children's `departments`.)
-· На этом `отделении` работают опытные специалисты. (Experienced specialists work in this `department`.)
-2. [`verb`] departmentalize
-· Компания `отделила` свою производственную деятельность от управленческой. (The company `departmentalized` its production activities from the management ones.)
-· Фирма `отделила` свои департаменты по разным видам продукции. (The company `departmentalized` its departments by different types of products.)

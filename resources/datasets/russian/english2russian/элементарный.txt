@@ -1,8 +1,0 @@
-элемент`а`рный
-++++++++++
-1. [`adjective`] elementary:
-· Знание `элементарных` правил очень важно. (Knowledge of `elementary` rules is very important.)
-· `Элементарные` идеи можно понять легко. (`Elementary` ideas can be easily understood.)
-2. [`adverb`] elementarily:
-· Он объяснил `элементарно`, как работают машина и компьютер. (He explained `elementarily` how a machine and a computer work.)
-· Они `элементарно` понятны школьникам. (They are `elementarily` understandable to schoolchildren.)

@@ -1,8 +1,0 @@
-`я`корь
-++++++++++
-1. [`noun, masculine`] anchor
-· Он выкинул `якорь`, чтобы задержать судно. (He dropped the `anchor` to hold the ship.)
-· В этой бухте много `якорей`. (There are many `anchors` in this bay.)
-2. [`verb`] anchor
-· Они `заякорили` судно у берега. (They `anchored` the ship near the shore.)
-· Мы были за `якорить` в этой бухте. (We were to `anchor` in this bay.)

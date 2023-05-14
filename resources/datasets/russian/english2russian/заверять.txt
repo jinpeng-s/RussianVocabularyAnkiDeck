@@ -1,6 +1,0 @@
-завер`я`ть
-++++++++++
-1. [`verb`] certify/confirm/acknowledge
-· Торговая марка должна быть `заверена` соответствующими документами. (The trade mark must be `certified` with the relevant documents.)
-· Он официально `заверил` эту информацию на собрании. (He `confirmed` this information in the meeting officially.)
-· Его последнее заявление было `заверено` руководителем. (His last statement was `acknowledged` by the leader.)

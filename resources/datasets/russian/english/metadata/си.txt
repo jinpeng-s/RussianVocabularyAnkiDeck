@@ -1,0 +1,14 @@
+си
+++++++++++
+си
+++++++++++
+noun, neuter, inanimate
+Rarely used word (top 7,000)
+++++++++++
+С
+++++++++++
+BAlso: si
+++++++++++
+На мо́ем языке́ ноты га́ммы называ́ются так: до, ре, ми, фа, соль, ля, си, до. | In my language, the notes of the scale are do, re, mi, fa, sol, la, si, do.
+Председа́тель Си Цзиньпин подчеркну́л, что Китай, Россия и Монго́лия явля́ются до́брыми сосе́дями и партнёрами. | President Xi Jinping emphasized that China, Russia and Mongolia are good neighbours and partners.
+Понима́ние того́, как мо́гут рабо́тать плагины, написанные на Си, помо́жет нам поня́ть, как в бу́дущем реализова́ть кросс-языковые плагины. | Understanding how plugins may work in C will help us understand how to implement cross-language plugins in the future.

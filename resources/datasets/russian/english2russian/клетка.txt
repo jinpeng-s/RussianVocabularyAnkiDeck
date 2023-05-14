@@ -1,8 +1,0 @@
-кл`е`тка
-++++++++++
-1. [`noun, feminine`] cell
-· В этой `клетке` сидел птичка. (There was a bird inside this `cell`.)
-· Они открыли `клетку` и выпустили птичку на свободу. (They opened the `cell` and let the bird out.)
-2. [`verb, infinitive`] cell
-· В научных исследованиях хорошо `клетать` клетки из разных компонентов. (In scientific experiments it's good to `cell` cells from different components.)
-· Она `клетит` бумагу из бумажной массы и наполняет их расчётными пастами. (She `cells` paper from paper pulp and fills them with calculative pastes.)

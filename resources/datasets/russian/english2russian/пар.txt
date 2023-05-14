@@ -1,8 +1,0 @@
-п`а`р
-++++++++++
-1. [`noun, masculine`] pair
-· Мы покупаем `пар` ботинок для нашего сына. (We are buying a `pair` of boots for our son.)
-· Я купил `пар` туфель для своей мамы. (I bought a `pair` of shoes for my mother.)
-2. [`noun, feminine`] parity
-· Низкая `паритета` доступа плохо влияет на предприятие. (Low `parity` of access adversely affects the company.)
-· Международные правила направлены на обеспечение `паритета` и справедливости. (International rules are aimed at providing `parity` and justice.)

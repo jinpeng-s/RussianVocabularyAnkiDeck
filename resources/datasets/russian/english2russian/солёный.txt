@@ -1,8 +1,0 @@
-солёный
-++++++++++
-1. [`adjective`] salty
-· Я люблю `солёные` овощи. (I like `salty` vegetables.)
-· Судак очень `солёный`. (Seabass is very `salty`.)
-2. [`verb`] salt
-· Не забудь посолить еду перед подачей. (Don't forget to `salt` the food before serving.)
-· Он `солил` свою пищу с удовольствием. (He `salted` his food with pleasure.)

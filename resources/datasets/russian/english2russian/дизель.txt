@@ -1,8 +1,0 @@
-д`и`зель
-++++++++++
-1. [`noun, masculine`] diesel
-· Они производят дизельное `топливо` для двигателей. (They produce `diesel fuel` for engines.)
-· Поезд полностью зависит от `дизельной` энергетики. (The train is completely dependent on `diesel` power.)
-2. [`adjective`] diesel
-· Товарные вагоны оборудованы `дизельными` двигателями. (Freight cars are equipped with `diesel` engines.)
-· `Дизельная` электростанция производит электричество. (A `diesel` power plant produces electricity.)

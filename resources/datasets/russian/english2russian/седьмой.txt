@@ -1,8 +1,0 @@
-седьм`о`й
-++++++++++
-1. [`adjective`] seventh
-· У нас сегодня `седьмой` день после рождества. (Today is the `seventh` day after Christmas.)
-· Это последний `седьмой` день недели. (This is the last `seventh` day of the week.)
-2. [`noun, masculine`] seventh
-· Каждый `седьмой` день мы празднуем. (We celebrate every `seventh` day.)
-· В плане других задач мы достигли `седьмой` по счёту позиции. (In terms of other tasks, we reached the `seventh` position in line.)

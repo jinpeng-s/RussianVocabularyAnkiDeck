@@ -1,8 +1,0 @@
-нест`и`
-++++++++++
-1. [`verb`] carry
-· Он несёт `нести` своё обеденное коробку. (He is carrying his lunchbox.)
-· Ему пришлось `нести` много пакеты с собой. (He had to carry many bags with him.)
-2. [`noun`] carrying
-· Пересечь дорогу по крайней мере требовалось три пере`носа` её потока. (Crossing the road at least took three `carryings` of its stream.)
-· Они попросили его по`носить` свои вещи в дом. (They asked him to `carry` his stuff to the house.)

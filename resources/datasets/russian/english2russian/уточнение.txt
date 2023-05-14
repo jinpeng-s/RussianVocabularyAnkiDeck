@@ -1,8 +1,0 @@
-уточн`е`ние
-++++++++++
-1. [`noun, neuter`] clarification, specification
-· Нам нужно получить `уточнение` правил. (We need to obtain a `clarification` of the rules.)
-· Наш договор нуждается в `уточнении` некоторых положений. (Our contract needs `specification` of some provisions.)
-2. [`verb`] clarify, specify
-· Он уточнил цену на товар. (He `clarified` the price of the product.)
-· Его ответ был нуждающийся в `уточнении`. (His answer was in need of `clarification`.)

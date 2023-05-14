@@ -1,8 +1,0 @@
-ст`а`ль
-++++++++++
-1. [`noun, feminine`] steel
-· Этот мост был построен из `стали`. (This bridge was constructed from `steel`.)
-· В магазине мы купили очки из `стали`. (At the store, we bought glasses made of `steel`.)
-2. [`adjective`] steel
-· Она носила `стальные` очки. (She was wearing `steel` glasses.)
-· У него `стальный` характер. (He has a `steel` character.)

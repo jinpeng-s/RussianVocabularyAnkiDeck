@@ -1,8 +1,0 @@
-отчёт
-++++++++++
-1. [`noun, masculine`] report
-· Мы должны сдать `отчёт` к концу месяца. (We have to submit a `report` by the end of the month.)
-· Департамент запросил `отчёт` о статусе проекта. (The department requested a `report` on the status of the project.)
-2. [`verb`] report
-· Он будет `отчитываться` за свои действия. (He will `report` on his actions.)
-· Она просила меня `отчитаться` о прошлой ночи. (She asked me to `report` on last night.)

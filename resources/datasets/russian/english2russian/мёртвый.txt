@@ -1,8 +1,0 @@
-мёртвый
-++++++++++
-1. [`adjective`] dead
-· Он поставил `мёртвую` точку в этом деле. (He put a `dead` end to the matter.)
-· `Мёртвые` рыбы плавают по течению. (`Dead` fishes are floating downstream.)
-2. [`adverb`] completely, thoroughly
-· Они были `мёртво` усталы. (They were `completely` exhausted.)
-· Она вырезала `мёртво` все связи с прошлым. (She `thoroughly` cut all ties with the past.)

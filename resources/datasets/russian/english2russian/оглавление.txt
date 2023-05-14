@@ -1,8 +1,0 @@
-оглавл`е`ние
-++++++++++
-1. [`noun, neuter`] table of contents
-· Все темы указаны в `оглавлении` документа. (All the topics are indicated in the `table of contents` of the document.)
-· `Оглавление` главы много говорило о её содержании. (The `table of contents` of the chapter had much to say about its content.)
-2. [`verb`] enumerate
-· Он `огласил` все аргументы против этого предложения. (He `enumerated` all the arguments against this proposal.)
-· Она `огласила` плюсы и минусы клиентского проекта. (She `enumerated` all the pros and cons of the customers project.)

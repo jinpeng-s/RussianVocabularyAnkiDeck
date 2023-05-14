@@ -1,8 +1,0 @@
-фиг`у`ра
-++++++++++
-1. [`noun, feminine`] figure
-· Мы нарисовали `фигуру` для класса. (We drew a `figure` for the class.)
-· Он придумал удивительную `фигуру` для своей сценки. (He came up with a wonderful `figure` for his scene.)
-2. [`verb`] figure
-· Как можно `вычислить` эту `фигуру`？ (How can one `figure` out this `figure`?)
-· Манхэттен “`фигурировал`” как столица мира. (Manhattan `figured` as the capital of the world.)

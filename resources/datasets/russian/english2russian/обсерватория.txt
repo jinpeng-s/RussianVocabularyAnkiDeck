@@ -1,8 +1,0 @@
-обсерват`о`рия
-++++++++++
-1. [`noun, feminine`] observatory
-· На `обсерватории` наблюдали за появлением неожиданных явлений. (At the `observatory` they watched for unexpected phenomena.)
-· На `обсерватории` работают заслуживающие специалисты. (At the `observatory` work highly qualified specialists.)
-2. [`verb`] observe
-· На обсерватории наблюдали за появлением нового сверхновой звезды. (At the observatory they `observed` the emergence of a new supernova star.)
-· Они `наблюдали` за поведением марсианских дронов. (They `observed` the behavior of Martian drones.)

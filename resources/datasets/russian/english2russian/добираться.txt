@@ -1,8 +1,0 @@
-добир`а`ться
-++++++++++
-1. [`verb`] arrive
-· Он поехал `добираться` домой на поезде. (He travelled at home by train to `arrive`.)
-· Они `добирались` до цели за ночь. (They `arrived` to their goal by night.)
-2. [`verb, reflexive`] arrive
-· До нас доходило до этого момента за долгий путь. (It took us a long time to `arrive` to this point.)
-· Они должны были поздновато `добираться` домой. (They were supposed to `arrive` home late.)

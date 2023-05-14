@@ -1,8 +1,0 @@
-проб`е`гать
-++++++++++
-1. [`verb, intransitive`] pass
-· Я иногда пробегаю этот маршрут на машине. (I sometimes `pass` this route by car.)
-· Поезд пробегает по тоннелю. (The train `passes` through the tunnel.)
-2. [`verb, transitive`] pass
-· У него был достаточный пробег, чтобы добраться до дома. (He had enough `passing` to get home.)
-· Они пробегали маршрут несколько раз. (They `passed` the route several times.)

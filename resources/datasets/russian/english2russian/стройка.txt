@@ -1,8 +1,0 @@
-стр`о`йка
-++++++++++
-1. [`noun, feminine`] building construction
-· `Стройка` дома началась в сентябре. (The `building construction` of the house began in September.)
-· В этом году начинается `стройка` новой школы. (The `building construction` of a new school will begin this year.)
-2. [`verb, intransitive`] build
-· `Строить` дома могут только квалифицированные строители. (Only qualified builders can `build` houses.)
-· Работники должны ускорить `строительство` фасада. (The workers must accelerate the `building` of the facade.)

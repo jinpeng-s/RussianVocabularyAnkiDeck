@@ -1,0 +1,22 @@
+функция
+++++++++++
+фу́нкция
+++++++++++
+noun, feminine, inanimate
+Somewhat often used word (top 2,000)
+++++++++++
+B2
+Ф
+++++++++++
+functionInfo: chức năng nhiệm vụ vai trò
+++++++++++
+C++0x будет подде́рживать шабло́ны фу́нкций с произво́льным число́м аргуме́нтов. | C++0x will admit template functions that take an arbitrary number of arguments.
+Да́нная фу́нкция устаре́ла. Мы рекоменду́ем вам не по́льзоваться ей. | This feature is deprecated. We advise you not to use it.
+В мои́х програ́ммах никогда нет оши́бок. Есть только неожи́данные фу́нкции. | My software never has bugs. It just has random features.
+Например, не хвата́ет фу́нкции "только с э́тим словосочета́нием". | For example, we lack the option "only with this group of words".
+Но твоя́ фу́нкция не липшицевая! | But your function isn't Lipschitz continuous!
+У крыс тоже есть своя́ фу́нкция. Они помога́ют чи́стить сто́чные трубы. | Rats also have a function. They help to clean the pipes.
+Отыскание оптима́льного значе́ния числовой фу́нкции мо́жет быть ва́жной зада́чей. | Finding the optimal for a numerical function can be an important challenge.
+Э, сэр? На доске́ написана не экспоненциальная фу́нкция, а тригонометрическая. | Er, Sir? What's written on the blackboard isn't an exponential function but a trigonometric one ...
+По техни́ческим причи́нам фу́нкция по́иска в да́нный моме́нт отключена. | Due to technical reasons, the search feature is currently disabled.
+Фу́нкции си́нус и ко́синус принима́ют значе́ния между -1 и 1 включительно. | The functions sine and cosine take values between -1 and 1 (-1 and 1 included).

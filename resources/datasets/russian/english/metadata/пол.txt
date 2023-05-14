@@ -1,0 +1,15 @@
+пол
+++++++++++
+пол
+++++++++++
+noun, masculine, inanimate
+Daily used word (top 300)
+++++++++++
+B1
+П
+++++++++++
+floorAlso: groundExample: Он урони́л свои́ кни́ги на пол - He dropped his books on the floor
+sexAlso: genderExample: Они́ да́же не зна́ют пол соба́ки - They don't even know the gender of the dog.
+halfExample: На ку́хне есть пол буты́лки кра́сного вина́ - There's half a bottle of red wine in the kitchen.
+++++++++++
+None

@@ -1,8 +1,0 @@
-разл`и`чный
-++++++++++
-1. [`adjective`] different
-· В архиве находились `различные` документы. (The archive contained various `different` documents.)
-· Данный проект был рассмотрен с `различных` точек зрения. (The project was considered from various `different` perspectives.)
-2. [`noun, masculine`] difference
-· В `различиях` между человеком и животным многое подходит. (There are many similarities between humans and animals in `difference`s.)
-· Словарь осуществляет поиск по `различиям` в вариациях слов. (The dictionary searches for `differences` in variations of words.)

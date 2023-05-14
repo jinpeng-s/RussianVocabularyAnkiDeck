@@ -1,8 +1,0 @@
-звукоз`а`пись
-++++++++++
-1. [`noun, feminine`] recording
-· Сделайте `звукозапись` интервью с этим человеком. (Make a `recording` of the interview with this person.)
-· Для публикации была применена живая `звукозапись`. (The live `recording` was used for publication.)
-2. [`verb`] record
-· Она `записала` свою песню в духовом оркестре. (She `recorded` her song with a symphonic orchestra.)
-· Он `записывал` музыку в студии. (He `recorded` music in the studio.)

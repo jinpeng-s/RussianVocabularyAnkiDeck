@@ -1,8 +1,0 @@
-волокн`о`
-++++++++++
-1. [`noun, neuter`] filament
-· На столе лежали рулоны `волокна`. (Rolls of `filament` were lying on the table.)
-· Небольшие частицы застряли в `волокнах` материала. (Small particles were stuck in the `filaments` of the material.)
-2. [`verb, intransitive`] filament
-· `Волокна` стекла расширялись под действием жара. (The `filaments` of the glass were expanding under the heat.)
-· `Волокна` из материала были длинные и тонкие. (The `filaments` of the material were long and thin.)

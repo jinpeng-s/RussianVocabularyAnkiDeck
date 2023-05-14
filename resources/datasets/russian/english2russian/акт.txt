@@ -1,8 +1,0 @@
-`а`кт
-++++++++++
-1. [`noun, masculine`] act
-· Он составил `акт` о приемке товара. (He drew up an `act` for the acceptance of the goods.)
-· К принятому `акту` надо добавить дополнения. (Addendums should be attached to the accepted `act`.)
-2. [`verb`] act
-· Необходимо `активно действовать`, чтобы справиться с проблемой. (It is necessary to `act actively`to resolve the problem.)
-· Нужно `активировать` план действий. (It is necessary to `activate` a plan of action.)

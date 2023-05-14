@@ -1,8 +1,0 @@
-орб`и`та
-++++++++++
-1. [`noun, feminine`] orbit
-· Наша планета обращается вокруг Солнца по накруглой `орбите`. (Our planet revolves around the Sun in an `orbit`.)
-· Эта планета должна быть в нашей `орбите`. (This planet should be in our `orbit`.)
-2. [`verb`] orbit
-· Плутон обращается вокруг Солнца в `орбите`. (Pluto revolves around the Sun in an `orbit`.)
-· Солнце также продолжает движение по `орбите` вокруг центра галактики. (The Sun also continues its `orbit` around the center of the galaxy.)

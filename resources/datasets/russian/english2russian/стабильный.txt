@@ -1,8 +1,0 @@
-стаб`и`льный
-++++++++++
-1. [`adjective`] stable
-· У них было `стабильное` финансовое положение. (They had a `stable` financial situation.)
-· Эти результаты являются `стабильными`. (These results are `stable`.)
-2. [`verb`] stabilize
-· Он `стабилизировал` динамику экономики страны. (He `stabilized` the economic dynamics of the country.)
-· Правительство `стабилизировало` инфляцию. (The government `stabilized` the inflation.)

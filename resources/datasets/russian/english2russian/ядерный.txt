@@ -1,8 +1,0 @@
-`я`дерный
-++++++++++
-1. [`adjective`] nuclear
-· У страны есть `ядерное` оружие. (The country has `nuclear` weapons.)
-· Эта компания занимается `ядерной` энергией. (This company deals with `nuclear` energy.)
-2. [`noun, masculine`] nuclear
-· `Ядерные` реакторы являются одним из самых важных инженерных изобретений. (`Nuclear` reactors are one of the most important engineering inventions.)
-· Мы не против `ядерного` вооружения. (We are not against `nuclear` weapons.)

@@ -1,0 +1,12 @@
+адресация
+++++++++++
+адреса́ция
+++++++++++
+noun, feminine, inanimate
+Very rarely used word (top 60,000)
+++++++++++
+А
+++++++++++
+None
+++++++++++
+Всё что каса́ется объектно-ориентированного программи́рования связано с ко́свенной адресацией. | Object-oriented programming is all about indirection.

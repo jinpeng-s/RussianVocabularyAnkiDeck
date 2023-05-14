@@ -1,8 +1,0 @@
-цв`е`т
-++++++++++
-1. [`noun, masculine`] color
-· Я увидел `цвет` в небе. (I saw a `color` in the sky.)
-· Я нарисовал рисунок с ярким `цветом`. (I drew a picture with bright `colors`.)
-2. [`verb, imperfective`] color
-· Стены явно нуждаются в `оцветании`. (The walls clearly need to be `colored`.)
-· Ты `оцветал` эту картину? (Did you `color` this picture?)

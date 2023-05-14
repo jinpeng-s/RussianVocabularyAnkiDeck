@@ -1,8 +1,0 @@
-кварт`и`ра
-++++++++++
-1. [`noun, feminine`] apartment
-· Он арендовал `квартиру` на две недели. (He rented an `apartment` for two weeks.)
-· Они живут в этой `квартире` уже три года. (They have been living in this `apartment` for three years.)
-2. [`verb`] rent
-· Он арендовал `квартиру` на две недели. (He `rented` an apartment for two weeks.)
-· Он платит аренду `квартиры`. (He is paying the `rent` of the apartment.)

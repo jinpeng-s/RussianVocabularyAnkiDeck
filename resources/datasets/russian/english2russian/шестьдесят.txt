@@ -1,5 +1,0 @@
-шестьдес`я`т
-++++++++++
-1. [`numeral`] sixty
-· У нас, на работе, `шестьдесят` человек. (We have `sixty` people at work.)
-· Я купил `шестьдесят` пакетов макарон. (I bought `sixty` packages of pasta.)

@@ -1,8 +1,0 @@
-сег`о`дня
-++++++++++
-1. [`adverb`] today
-· Сегодня мы `собираемся` навстречу. (We are `meeting` today.)
-· Мне надо `сделать` это сегодня. (I need to `do` this today.)
-2. [`noun, masculine`] today
-· Никто не знает, что произойдет `сегодня`. (Nobody knows what will happen `today`.)
-· Наша цель `сегодня` -- закончить работу до вечера. (Our goal `today` is to finish the work by evening.)

@@ -1,8 +1,0 @@
-бор`е`ц
-++++++++++
-1. [`noun, masculine`] fighter
-· В этом матче победит `борец` со званием чемпиона. (The fighter with the title of champion won the match.)
-· Он - `борец` Земли на олимпиаде. (He was a fighter for the Earth in the Olympiad.)
-2. [`verb`] fight
-· Он `борется` за свои права. (He is fighting for his rights.)
-· `Борись` за свою идею. (Fight for your idea.)

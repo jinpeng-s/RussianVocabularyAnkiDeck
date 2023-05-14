@@ -1,8 +1,0 @@
-побл`и`зости
-++++++++++
-1. [`adverb`] nearby
-· Наша школа находится `поблизости` от центра города. (Our school is `nearby` the city center.)
-· Для посещения мы Вам советуем выбрать место, чтобы было `поблизости` от трассы. (We recommend you to choose a spot to be `nearby` the highway to visit.)
-2. [`noun, feminine`] proximity
-· Вследствие отсутствия `поблизости` продуктов в магазинах, цены на них увеличиваются. (Due to the lack of `proximity` of products in stores, their prices are increasing.)
-· Маленькие города, которые находятся в `поблизости` друг друга, поддерживают дружеские отношения. (Small towns that are `proximate` to each other support friendly relationships.)

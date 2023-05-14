@@ -1,8 +1,0 @@
-излаг`а`ть
-++++++++++
-1. [`verb`] explain
-· Она `излагала` свою точку зрения на конференции. (She `explained` her point of view at the conference.)
-· Школьный учитель `излагал` урок по истории. (The school teacher `explained` the history lesson.)
-2. [`verb`] elaborate
-· Она `излагала` свою позицию подробнее. (She `elaborated` on her position in more detail.)
-· Я планировал дальше `излагать` мою идею. (I had planned to `elaborate` further on my idea.)

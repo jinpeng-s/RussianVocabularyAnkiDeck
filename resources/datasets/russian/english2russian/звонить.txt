@@ -1,8 +1,0 @@
-звон`и`ть
-++++++++++
-1. [`verb`] to call
-· Он согласился `звонить` мне после обеда. (He agreed to `call` me after lunch.)
-· Она просила его `звонить` ей перед поездкой. (She asked him to `call` her before the trip.)
-2. [`verb, reflexive`] to phone (oneself)
-· Я знала, что она `звонит` себе домой для повторной проверки. (I knew that she `phones` herself home for a recheck.)
-· Они всегда `звонят` себе системой для поддержки. (They always `phone` themselves in for support.)

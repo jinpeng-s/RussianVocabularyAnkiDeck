@@ -1,8 +1,0 @@
-подох`о`дный
-++++++++++
-1. [`adjective`] taxable
-· На `подоходный` доход налог взимается. (Tax is charged on a `taxable` income.)
-· Цены на `подоходные` товары могут быть выше, чем на другие. (Prices for `taxable` items can be higher than for others.)
-2. [`noun, masculine`] tax
-· Все работники обязаны уплачивать `подоходный` налог. (All employees are obliged to pay `tax`.)
-· Подоходный налог является важной частью уровня доходов. (The `tax` is an important component of income level.)

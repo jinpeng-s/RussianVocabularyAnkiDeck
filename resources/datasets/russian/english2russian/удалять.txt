@@ -1,5 +1,0 @@
-удал`я`ть
-++++++++++
-1. [`verb`] delete
-· Она настоятельно потребовала удалить это сообщение. (She insisted that this message should be `deleted`.)
-· Вы `удаляли` пользователей из списка. (You were `deleting` the users from the list.)

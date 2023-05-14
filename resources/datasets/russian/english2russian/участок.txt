@@ -1,8 +1,0 @@
-уч`а`сток
-++++++++++
-1. [`noun, masculine`] plot
-· У `участка`, где растится черноплодный яблонный сад, была подоходная дорога. (The `plot`, where a dark-fruit apple grove grew, had an access road.)
-· Участки хранят информацию о том, кто и когда делал проект. (Plots store information on who and when did the project.)
-2. [`verb`] plot
-· Моя мать `участилась` в проекте по выращиванию яблок. (My mother `plotted` in the project of growing apples.)
-· Я собрал `участки` в один целый проект. (I `plotted` the plots into a whole project.)

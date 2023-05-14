@@ -1,0 +1,22 @@
+порог
+++++++++++
+поро́г
+++++++++++
+noun, masculine, inanimate
+Somewhat often used word (top 2,000)
+++++++++++
+B2
+П
+++++++++++
+threshold
+doorstep
+++++++++++
+Э́то очень неблагоразу́мно пла́вать в поро́гах. | It is very imprudent to swim in the rapids.
+О́сень уже на поро́ге. | Autumn is just around the corner.
+У Тома ни́зкий болевой поро́г. | Tom has a low tolerance for pain.
+На поро́ге сиди́т его стару́ха, а пред нею разби́тое коры́то. | On the doorstep sat his old woman, with the broken wash-tub before her.
+У меня ни́зкий болевой поро́г. | I have a low threshold for pain.
+У Тома высо́кий болевой поро́г. | Tom has a high threshold for pain.
+Весна́ на поро́ге. | Spring is just around the corner.
+Вот Бог, а вот поро́г. | Rain or snow, out you go.
+Когда сигна́л на вхо́де превыша́ет определённый поро́г, выходно́й сигна́л мгнове́нно высвобожда́ется. | When the input exceeds a certain threshold, an output signal is instantaneously released.

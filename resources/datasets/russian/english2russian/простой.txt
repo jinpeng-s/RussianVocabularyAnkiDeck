@@ -1,8 +1,0 @@
-прост`о`й
-++++++++++
-1. [`adjective`] simple
-· Это `простой` способ для решения этой проблемы. (This is a `simple` way to solve this problem.)
-· Вопрос не так `простой`, как я думал. (The question is not as `simple` as I thought.)
-2. [`adverb`] simply
-· `Просто` подумай об этом. (`Simply` think about it.)
-· Можно `просто` закрыть дверь и далее поехать. (You can `simply` close the door and continue the journey.)

@@ -1,8 +1,0 @@
-проток`о`л
-++++++++++
-1. [`noun, masculine`] protocol
-· Государства подписали этот `протокол` о перемирии. (The countries signed this `protocol` on ceasefire.)
-· На собрании должен был быть подписан `протокол`. (A `protocol` had to be signed at the assembly.)
-2. [`verb, infinitive`] to protocol
-· Эта компания протоколировала свои договоренности. (This company `protocol`s its agreements.)
-· Вы должны протоколировать все свои дела. (You have to `protocol` all your matters.)

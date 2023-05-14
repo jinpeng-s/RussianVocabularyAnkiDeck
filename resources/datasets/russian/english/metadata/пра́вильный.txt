@@ -1,0 +1,25 @@
+правильный
+++++++++++
+пра́вильный
+++++++++++
+adjective
+adverb пра́вильно
+Somewhat often used word (top 3,000)
+++++++++++
+A2
+П
+++++++++++
+correctAlso: true
+regularAlso: proper, rectilinear
+levellingAlso: correcting, straightening
+++++++++++
+Я не зна́ю правильного отве́та. | I don't know what the correct answer is.
+Я ду́маю, что ты сде́лала правильный вы́бор. | I think you made the right choice.
+Скажи́ мне правильный отве́т. | Tell me the correct answer.
+Если твой отве́т правильный, э́то значит, что мой не правильный. | If your answer is correct, it follows that mine is wrong.
+Кото́рый отве́т правильный? | What is the correct answer?
+Каков правильный отве́т? | What's the correct answer?
+Мой отве́т правильный? | Is my answer correct?
+Э́то правильный отве́т? | Is that answer right?
+Если твой отве́т правильный, э́то значит, что мой не правильный. | If your answer is correct, it follows that mine is wrong.
+Все отве́ты правильные. | The answers are all right.

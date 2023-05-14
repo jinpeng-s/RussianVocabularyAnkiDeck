@@ -1,8 +1,0 @@
-охран`я`ть
-++++++++++
-1. [`verb, imperfective`] guard
-· Туристы охраняли `охранять` лес от пожара. (The tourists were `guarding` the forest from fire.)
-· Они приказали охранять `охранять` двери до конца ночи. (They ordered to `guard` the doors till the end of the night.)
-2. [`verb, perfective`] guard
-· Федеральные охранники `охранили` государственные достояния. (The federal guards `guarded` the state assets.)
-· Они могли за `охранить` передовое исследование от вируса. (They could `guard` the groundbreaking research from the virus.)

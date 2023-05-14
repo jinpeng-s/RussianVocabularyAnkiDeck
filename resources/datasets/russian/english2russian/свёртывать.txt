@@ -1,8 +1,0 @@
-свёртывать
-++++++++++
-1. [`verb`] to roll up
-· Она `свёртывала` полотенце и клала его в ящик. (She `rolled up` the towel and put it into the box.)
-· Он быстро `свёртывал` её волосы расчёской. (He quickly `rolled up` her hair with a comb.)
-2. [`verb`] to compress
-· Мы не можем позволить данным `свёртываться` до таких размеров. (We can't allow the data to `compress` to such sizes.)
-· Программа используется для `свертывания` файлов. (The program is used for `compressing` files.)

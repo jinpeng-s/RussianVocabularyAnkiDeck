@@ -1,8 +1,0 @@
-теп`е`рь
-++++++++++
-1. [`adverb`] now
-· Она `теперь` живёт за границей. (She `now` lives abroad.)
-· Вопрос был очень простой, так что `теперь` я знаю ответ. (The question was very simple, so `now` I know the answer.)
-2. [`conjunction`] now
-· Мы готовы идти в путь, так что `теперь` давай поспешим. (We are ready to go, so `now` let's hurry up.)
-· Он хорошо изучил данную тему, поэтому `теперь` мы можем приступать к экзамену. (He studied the topic well, so `now` we can start the exam.)

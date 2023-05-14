@@ -1,8 +1,0 @@
-генер`а`льный
-++++++++++
-1. [`adjective`] general
-· Торговая сеть находится под `генеральным` управлением. (The trade chain is under `general` management.)
-· `Генеральное` директорство состоит из девяти членов. (The `general` board consists of nine members.)
-2. [`noun, masculine`] general
-· `Генерал` приказал своим войскам отступить. (The `general` ordered his troops to retreat.)
-· В армии `генерал` находится на самом высоком посту. (In army, the `general` is on the highest post.)

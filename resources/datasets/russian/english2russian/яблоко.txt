@@ -1,8 +1,0 @@
-`я`блоко
-++++++++++
-1. [`noun, neuter`] apple
-· У меня на столе лежало большое `яблоко`. (There was a big `apple` on my table.)
-· На этом дереве висят маленькие `яблоки`. (On this tree are hanging small `apples`.)
-2. [`verb, infinitive`] apple
-· `Яблоко` было свежее и вкусное. (The `apple` was fresh and delicious.)
-· Она нарезала `яблоко` на несколько кусочков. (She chopped the `apple` into several pieces.)

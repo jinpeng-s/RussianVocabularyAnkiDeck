@@ -1,8 +1,0 @@
-пр`о`филь
-++++++++++
-1. [`noun, masculine`] profile
-· Он имеет полный `профиль` резюме. (He has a comprehensive `profile` resume.)
-· Она разместила свой `профиль` в социальной сети. (She posted her `profile` on a social network.)
-2. [`verb`] profile
-· Сотрудники полиции `профилировали` подозреваемых и проинтервьюировали их. (The police personnel `profiled` the suspects and interviewed them.)
-· Банк использует алгоритмы, чтобы `профилировать` клиентов. (The bank uses algorithms to `profile` customers.)

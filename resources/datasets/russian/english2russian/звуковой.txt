@@ -1,8 +1,0 @@
-звуков`о`й
-++++++++++
-1. [`adjective`] auditory
-· Тренажер делает работу на `звуковой` датчик. (The trainer is working with an `auditory` sensor.)
-· Дети изучают `звуковую` грамматику. (The kids are learning `auditory` grammar.)
-2. [`noun, masculine`] sound
-· Он прослушивал `звуковой` эффект. (He listened to a `sound` effect.)
-· В этом произведении есть `звуковая` дорожка. (This composition has a `sound` track. )

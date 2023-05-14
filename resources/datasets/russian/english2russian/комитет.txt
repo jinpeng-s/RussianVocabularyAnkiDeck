@@ -1,8 +1,0 @@
-комит`е`т
-++++++++++
-1. [`noun, masculine`] committee
-· В данном районе был создан `комитет`, предназначенный для разрешения конфликтов. (A `committee` was established in the district for settling conflicts.)
-· В большинстве школ присутствуютстуденческие `комитеты`. (There are student `committees` in most schools.)
-2. [`verb, transitive`] to submit
-· Он просит представителей партии `представить` документы `комитету`. (He asked the party's representatives to `submit` the documents to the `committee`.)
-· Данные были `представлены` `комитету` для проверки. (The data were `submitted` to the `committee` for review.)

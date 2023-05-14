@@ -1,8 +1,0 @@
-изол`и`ровать
-++++++++++
-1. [`verb`] isolate
-· Мы `изолировали` сельское хозяйство от внешних воздействий. (We `isolated` the farm from external influences.)
-· Он `изолировал` дом от посторонних глаз. (He `isolated` the house from prying eyes.)
-2. [`adjective`] isolated
-· Закадровое изолированное соединение. (A stepless isolated connection.)
-· Нам приходится жить в изолированной деревне. (We have to live in an isolated village.)

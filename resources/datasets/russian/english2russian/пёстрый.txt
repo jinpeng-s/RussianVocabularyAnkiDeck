@@ -1,8 +1,0 @@
-пёстрый
-++++++++++
-1. [`adjective`] gaudy, colorful
-· Он носил `пёструю` рубашку на партии. (He wore a `gaudy` shirt to the party.)
-· В руинах мы нашли `пёструю` мозаику. (In the ruins we found a `colorful` mosaic.)
-2. [`noun, masculine`] patchwork
-· Тематический парк сделан по виду из `пёстрых` полотен. (The thematic park is made up of `patchwork` canvases.)
-· Ромашка в виде  `пёстрого` квадрата великолепно вписывается во фрагментарный пейзаж. (The daisy in the form of a `patchwork` square wonderfully fits into the fragmented landscape.)

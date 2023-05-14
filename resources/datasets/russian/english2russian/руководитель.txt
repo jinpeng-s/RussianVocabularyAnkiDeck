@@ -1,8 +1,0 @@
-руковод`и`тель
-++++++++++
-1. [`noun`] leader
-· Он являлся `руководителем` команды. (He was a `leader` of the team.)
-· Они ищут надежного `руководителя`, который может принять ответственность. (They are looking for a reliable `leader` who can take responsibility.)
-2. [`verb`] lead
-· Он `возглавил` команду именно в то время когда они делали пересмотр. (He `led` the team exactly at the time when they were doing a revision.)
-· Он принял решение о том, что будет `возглавлять` проект. (He took the decision to `lead` the project.)

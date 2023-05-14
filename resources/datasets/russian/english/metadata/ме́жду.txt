@@ -1,0 +1,23 @@
+между
+++++++++++
+ме́жду
+++++++++++
+Daily used word (top 200)
+++++++++++
+A2
+М
+++++++++++
+betweenExample: Ме́жду по́чтой и магази́ном банк. - Between the post office and the store is a bank.Info: между + objects in instrumental case
+amongExample: Я замеча́л их ме́жду дере́вьев. - I noticed them among the trees.Info: ме́жду + genitive case
+inter-Info: In compounds
+++++++++++
+Дебаты — академическая игра́ между согла́сием и отрица́нием. | Debate is an academic game between the affirmative and the negative.
+Разли́чие между про́шлым, настоя́щим и бу́дущим есть всего лишь чрезвычайно усто́йчивая иллю́зия. | Difference between the past, present, and future is nothing but an extremely widespread illusion.
+Вы зна́ете ра́зницу между микроско́пом и телеско́пом? | Do you know the difference between a microscope and a telescope?
+Вы зна́ете ра́зницу между правильным и непра́вильным? | Do you know the difference between right and wrong?
+Теоретически нет никако́й ра́зницы между тео́рией и пра́ктикой, но на пра́ктике ра́зница име́ется. | In theory, there is no difference between theory and practice. But, in practice, there is.
+Причи́на пробле́мы - э́то отсу́тствие свя́зи между отде́лами. | The root of the problem is a lack of communication between departments.
+Еди́нственное разли́чие между плохи́м по́варом и отравителем - в ра́зности наме́рений. | The only difference between a bad cook and a poisoner is the intent.
+Нача́льник распредели́л зада́ния между свои́ми людьми́. | The boss allotted tasks to his men.
+Фу́нкции си́нус и ко́синус принима́ют значе́ния между -1 и 1 включительно. | The functions sine and cosine take values between -1 and 1 (-1 and 1 included).
+Ма́ленький руче́й стека́л между скал. | A small stream ran down among the rocks.

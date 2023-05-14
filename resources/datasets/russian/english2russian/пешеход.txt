@@ -1,8 +1,0 @@
-пешех`о`д
-++++++++++
-1. [`noun, masculine`] pedestrian
-· Это правило относится и к `пешеходам`. (This rule applies to `pedestrians` as well.)
-· Он жил в доме с большим `пешеходным` траффиком. (He lived in a house with heavy `pedestrian` traffic.)
-2. [`verb, infinitive`] to pedestrianize
-· Страна планирует `пешеходизировать` центральную часть города. (The country is planning to `pedestrianize` the city centre.)
-· Они решили `пешеходизировать` пространство вокруг станции метро. (They decided to `pedestrianize` the area around the metro station.)

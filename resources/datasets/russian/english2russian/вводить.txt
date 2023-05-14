@@ -1,8 +1,0 @@
-ввод`и`ть
-++++++++++
-1. [`verb`] enter
-· Тебе потребуется `ввести` пароль для входа в систему. (You will need to `enter` a password to log in to the system.)
-· Участники были просижены `ввести` свои личные данные в форму. (The participants were asked to `enter` their personal information into the form.)
-2. [`noun, masculine`] input
-· Для программы нужен правильный `ввод`. (The program needs the correct `input`.)
-· `Ввод` данных в базу происходит автоматически. (The `input` of data into the database is automated.)

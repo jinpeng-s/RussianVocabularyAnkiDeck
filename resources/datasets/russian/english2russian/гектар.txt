@@ -1,8 +1,0 @@
-гект`а`р
-++++++++++
-1. [`noun, masculine`] hectare
-· Они приобрели `гектар` земли для виноградника. (They purchased a `hectare` of land for the vineyard.)
-· В этом поле в `гектаре` 4 акра. (In this field there are 4 acres in a `hectare`.)
-2. [`verb`] to hectare
-· Все земли были `гектарированы` для точного расчета зерна. (All the lands were `hectared` for exact calculation of the grain.)
-· Участки арендаторов были `гектарированы`, чтобы они могли оплатить свои долги. (The tenant's plots were `hectared` so they could pay their debts.)

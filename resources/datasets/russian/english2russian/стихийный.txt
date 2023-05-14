@@ -1,8 +1,0 @@
-стих`и`йный
-++++++++++
-1. [`adjective`] natural
-· Некоторые дисастеры являются `стихийными` бедствиями. (Some disasters are `natural` calamities.)
-· Эти явления могут быть `стихийными` или антропогенными. (These phenomena can be `natural` or anthropogenic.)
-2. [Verb, `imperfective`, transitive] cause
-· Несколько осадков вызвали `стихийные` наводнения. (A few rainfalls `caused` floods.)
-· Ураган `стихийно` разрушил тысячи домов. (A hurricane `caused` the destruction of thousands of houses.)

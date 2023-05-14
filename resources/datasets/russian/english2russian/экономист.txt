@@ -1,8 +1,0 @@
-эконом`и`ст
-++++++++++
-1. [`noun, masculine`] economist
-· Он `экономист`, и он знает много об экономике.  (He is an `economist` and he knows a lot about economics.)
-· Выпускники разных средних школ могут стать `экономистами`. (Graduates of different high schools can become `economists`.)
-2. [`verb`] economize
-·Мы должны обеспечить себе хорошее будущее, так что приходится `экономить`.  (We have to secure ourselves a good future, so we have to `economize`.)
-· Он попытался `экономить` деньги, но проиграл.  (He tried to `economize` money, but failed.)

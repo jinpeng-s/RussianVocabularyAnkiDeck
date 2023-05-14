@@ -1,8 +1,0 @@
-ком`и`ссия
-++++++++++
-1. [`noun, feminine`] commission
-· Они будут платить только `комиссию` за услуги. (They will be paying nothing but the `commission` for the services.)
-· Правительство ввело `комиссию` для регулирования цен. (The government has introduced a `commission` for price regulation.)
-2. [`verb`] commission
-· На данной компании было поручено `комиссионировать` для связи с правительством. (This company was tasked to `commission` for communication with the government.)
-· Правительство `комиссионировало` компанию для проведения исследования. (The government `commissioned` a company for conducting the research.)

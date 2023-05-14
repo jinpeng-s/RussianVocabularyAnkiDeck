@@ -1,8 +1,0 @@
-объясн`е`ние
-++++++++++
-1. [`noun, neuter`] explanation
-· Объяснение целей проекта занимало несколько страниц. (The `explanation` of the project goals took several pages.)
-· Он объяснил причину своей отсрочки `объяснением`, что был болен. (He explained the reason of his postponement with the `explanation` that he was ill.)
-2. [`verb`] explain
-· Он нам должен `объяснить` это намерение. (He has to `explain` this intention to us.)
-· Мне потребовалось несколько минут, чтобы `объяснить` все детали. (It took me several minutes to `explain` all the details.)

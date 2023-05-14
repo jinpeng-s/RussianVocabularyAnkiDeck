@@ -1,8 +1,0 @@
-приним`а`ть
-++++++++++
-1. [`verb, infinitive`] accept
-· Они приняли все его `предложения`. (They `accepted` all his propositions.)
-· Он принял `приглашение` на эту важную встречу. (He `accepted` the invitation to this important meeting.)
-2. [`noun, masculine`] acceptance
-· Он получил `принятие` своей кандидатуры. (He got the `acceptance` of his candidacy.)
-· Он ждёт `принятия` его предложений от корпорации. (He is waiting the `acceptance` of his propositions from the corporation.)

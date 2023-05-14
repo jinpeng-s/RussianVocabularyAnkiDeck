@@ -1,8 +1,0 @@
-ар`е`нда
-++++++++++
-1. [`noun, feminine`] rent
-· У меня нет `аренды` на квартиру. (I don't have a `rent` for an apartment.)
-· Он `арендовал` автомобиль на два месяца. (He `rented` a car for two months.)
-2. [`verb`] rent
-· Она `арендует` квартиру в центре города. (She `rents` an apartment in the city center.)
-· Ты знаешь, где можно `арендовать` самолёт? (Do you know where you can `rent` a plane?)

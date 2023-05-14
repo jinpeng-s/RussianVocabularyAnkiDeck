@@ -1,8 +1,0 @@
-наним`а`ть
-++++++++++
-1. [`verb`] hire
-· Он намерен `нанимать` несколько рабочих. (He is intending to `hire` some workers.)
-· Она не хотела `нанимать` нового сотрудника. (She didn't want to `hire` a new employee.)
-2. [`verb, reflexive`] hire oneself out
-· Он подрабатывал, `нанимая`сь где угодно. (He did some odd jobs, `hiring` himself out wherever.)
-· Она `нанималась` на периодические работы. (She was `hiring` herself out for temporary jobs.)

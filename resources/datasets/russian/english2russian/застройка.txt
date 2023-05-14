@@ -1,8 +1,0 @@
-застр`о`йка
-++++++++++
-1. [`noun, feminine`] construction
-· Он должен был присутствовать при `застройке` сооружения. (He was supposed to attend the `construction` of the building.)
-· В настоящее время в городе производится `застройка` новых жилых кварталов. (At present, the city is undergoing `construction` of new residential areas.)
-2. [`verb`] construct
-· Мы `застроили` многие новые дома в течение последних лет. (We have `constructed` many new houses over the past few years.)
-· Они `застроили` здание за две недели. (They `constructed` the building in two weeks.)

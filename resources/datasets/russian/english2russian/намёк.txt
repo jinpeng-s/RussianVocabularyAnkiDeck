@@ -1,8 +1,0 @@
-намёк
-++++++++++
-1. [`noun, masculine`] hint, suggestion.
-· Он дал нам небольшой `намёк` о том, что он бы хотел. (He gave us a little `hint` about what he would like.)
-· Он дала мне `намёк` о том, что хочет подарок. (She gave me a `hint` that she wanted a present.)
-2. [`verb`] to hint, to suggest
-· Он немного `намёкнул` о своих планах. (He `hinted` a little bit about his plans.)
-· Я намёкнул ему на идею, но он не обратил на неё внимания. (I `hinted` him an idea but he paid no attention to it.)

@@ -1,8 +1,0 @@
-поздравл`я`ть
-++++++++++
-1. [`verb`] congratulate
-· Он `поздравил` меня с успехом. (He `congratulated` me on the success.)
-· Они `поздравляли` друг друга с Новым Годом. (They `congratulated` each other for the New Year.)
-2. [`noun, masculine`] congratulation
-· Мы получили `поздравления` от друзей. (We received `congratulation` from our friends.)
-· Они отправили ему карточку с `поздравлением`. (They sent him a card with the `congratulation`.)

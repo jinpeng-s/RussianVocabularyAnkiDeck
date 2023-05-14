@@ -1,8 +1,0 @@
-вр`е`мя
-++++++++++
-1. [`noun, neuter`] time
-· У нас не хватает `времени`, чтобы всё закончить. (We don't have enough `time` to finish everything.)
-· У нас осталось всего два часа `времени`. (We only have two hours of `time` left.)
-2. [`verb`] take time
-· Нам `время`, чтобы всё готовить. (We will `take time` to prepare everything.)
-· Эта работа `время` много. (This work will `take time`.)
