@@ -14,7 +14,6 @@ by chance
 accidental
 ++++++++++
 Э́то была́ случа́йная встре́ча. | It was an accidental meeting.
-Вы́берите не́сколько случа́йных предложе́ний (двух-трёх доста́точно), запиши́те их и отпра́вьте нам на team@tatoeba.org с заголо́вком "Audio for Tatoeba in ". | Pick a few random sentences (just 2 or 3), record them, and send us the samples at team@tatoeba.org, with the title "Audio for Tatoeba in <language_name>".
 Э́то случа́йное предложе́ние. | This is a random sentence.
 Тома спас случа́йный прохо́жий. | Tom was rescued by a passerby.
 Есть мне́ние, что таки́е случа́йности совсем не случа́йны. | There's an opinion that such coincidences are not coincident at all.
