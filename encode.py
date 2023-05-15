@@ -47,6 +47,7 @@ class English2RussianNoteTemplate(NoteTemplate):
                                   'Translation',
                                   'Examples',
                                   'Notes',
+                                  'Bare',
                                   '_Version'),
                  front_format='formats/russian/english2russian/front.html',
                  back_format='formats/russian/english2russian/back.html',
@@ -71,6 +72,7 @@ class English2RussianEncoder(Encoder):
         translation = translation_regex(slices[4])
         examples = examples_regex(slices[5])
         notes = ''
+        _bare = slices[0]
         _version = '1'
         return [word,
                 audio,
@@ -78,6 +80,7 @@ class English2RussianEncoder(Encoder):
                 translation,
                 examples,
                 notes,
+                _bare,
                 _version]
 
 
