@@ -54,5 +54,3 @@ if __name__ == '__main__':
 
     generator(indexes_file=args.index_file,
               num_threads=args.num_threads)
-
-    # python generate.py -t chinese -k keys/1 -s outputs -i resources/indexes/test.txt -n 5

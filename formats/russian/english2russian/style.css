@@ -6,3 +6,7 @@
     padding: 5pt;
     margin-bottom: 5pt;
 }
+
+.partial_list li:nth-child(n+6) {
+    display: none;
+}

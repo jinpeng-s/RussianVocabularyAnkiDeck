@@ -27,23 +27,17 @@ class Encoder(ABC):
         self.divider = divider
         self.logger = logger
 
-    def _get_media_list(self, indexes_file: str, mediaset_path: str) -> list:
+    def _get_media_list(self, indexes: list, mediaset_path: str) -> list:
         r"""Reads a list of indexes from a file, and returns a list of
             corresponding media file paths.
 
         Args:
-            indexes_file (str): A path to a file containing a list of indexes,
-                each on a new line.
+            indexes (list): A list of indexes.
             mediaset_path (str): A path to a directory containing media files.
 
         Returns:
             A list of media file paths.
         """
-        with open(indexes_file, 'r') as file:
-            indexes = [line.strip().split('\t')[0] for line in file]
-        self.logger.info(f'Reading {len(indexes)} words to be processed from '
-                         f'`{indexes_file}`.')
-
         media_list = list()
         for index in indexes:
             index_path = os.path.join(mediaset_path, f'{index}.mp3')
@@ -55,13 +49,12 @@ class Encoder(ABC):
 
         return media_list
 
-    def _get_metadata_list(self, indexes_file: str, metadataset_path: str) -> list:
+    def _get_metadata_list(self, indexes: list, metadataset_path: str) -> list:
         r"""Reads a list of indexes from a file, and returns a list of
             corresponding metadata slices.
 
         Args:
-            indexes_file (str): A path to a file containing a list of indexes,
-                each on a new line.
+            indexes (list): A list of indexes.
             metadataset_path (str): A path to a directory containing metadata
                 files.
 
@@ -69,11 +62,6 @@ class Encoder(ABC):
             A list of lists, where each inner list contains metadata slices
                 for a single index.
         """
-        with open(indexes_file, 'r') as file:
-            indexes = [line.strip().split('\t')[0] for line in file]
-        self.logger.info(f'Reading {len(indexes)} words to be processed from '
-                         f'`{indexes_file}`.')
-
         metadata_list = list()
         for index in indexes:
             index_path = os.path.join(metadataset_path, f'{index}.txt')
@@ -82,7 +70,6 @@ class Encoder(ABC):
                     metadata_slices = file.read().strip().split(self.divider)
                     metadata_slices = list(filter(None, metadata_slices))
                     metadata_slices = self._sort_slices(metadata_slices)
-                    # TODO 添加HTML regex
                     if len(metadata_slices) == len(self.template.fields):
                         metadata_list.append(metadata_slices)
                     else:
@@ -96,6 +83,14 @@ class Encoder(ABC):
                                   f'skipping...')
 
         return metadata_list
+
+    @staticmethod
+    def _get_indexes(indexes_file: str) -> list:
+        with open(indexes_file, 'r') as file:
+            indexes = [line.strip().split('\t')[0]
+                       for line in file]
+
+        return indexes
 
     @abstractmethod
     def _sort_slices(self, slices: list) -> list:
@@ -179,7 +174,8 @@ class Encoder(ABC):
     def __call__(self, deck_id: int, deck_name: str,
                  save_path: str, indexes_file: str,
                  metadataset_path: str, mediaset_path: str = None,
-                 check_only: bool = False) -> None:
+                 check_only: bool = False,
+                 *args, **kwargs) -> None:
         r"""Encodes a deck and saves it as an .apkg file.
 
         Args:
@@ -203,16 +199,17 @@ class Encoder(ABC):
                        dataset_list=[metadataset_path, mediaset_path],
                        suffix_list=['txt', 'mp3'])
         else:
-            metadata = self._get_metadata_list(indexes_file, metadataset_path)
-            media = self._get_media_list(indexes_file, mediaset_path)
+            indexes = self._get_indexes(indexes_file, *args, **kwargs)
+            self.logger.info(f'Reading {len(indexes)} words to be processed from '
+                             f'`{indexes_file}`.')
 
-            deck = genanki.Deck(deck_id=deck_id,
-                                name=deck_name)
+            metadata = self._get_metadata_list(indexes, metadataset_path)
+            media = self._get_media_list(indexes, mediaset_path)
+
+            deck = genanki.Deck(deck_id=deck_id, name=deck_name)
             self._encode_deck(deck, metadata)
 
-            package = genanki.Package(deck_or_decks=deck,
-                                      media_files=media)
-
+            package = genanki.Package(deck_or_decks=deck, media_files=media)
             package.write_to_file(os.path.join(save_path,
                                                f'{deck_id}_{deck_name}.apkg'))
 
