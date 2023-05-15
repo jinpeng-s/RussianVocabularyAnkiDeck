@@ -72,7 +72,9 @@ class English2RussianEncoder(Encoder):
         translation = translation_regex(slices[4])
         examples = examples_regex(slices[5])
         notes = ''
-        _bare = slices[0]
+        _bare = ', '.join([slices[0].lower(),
+                           slices[0].capitalize(),
+                           slices[0].upper()])
         _version = '1'
         return [word,
                 audio,
